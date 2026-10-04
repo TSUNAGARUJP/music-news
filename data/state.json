@@ -1,0 +1,26 @@
+{
+ "seen": {},
+ "feeds": {
+  "Magnetic Magazine": "https://www.magneticmag.com/feed/",
+  "Mixmag": "https://mixmag.net/rss.xml",
+  "DJ Mag": "https://djmag.com/rss.xml",
+  "Billboard": "https://www.billboard.com/feed/",
+  "Rolling Stone": "https://www.rollingstone.com/music/music-news/feed/",
+  "EDM.com": "https://edm.com/.rss/full/",
+  "Variety（Music）": "https://variety.com/v/music/feed/",
+  "NME": "https://www.nme.com/news/music/feed",
+  "Pitchfork": "https://pitchfork.com/feed/feed-news/rss",
+  "Consequence": "https://consequence.net/feed/",
+  "Dancing Astronaut": "https://dancingastronaut.com/feed/",
+  "Run The Trap": "https://runthetrap.com/feed/",
+  "Stereogum": "https://www.stereogum.com/feed/",
+  "XXL": "https://www.xxlmag.com/feed/",
+  "Uproxx Music": "https://uproxx.com/music/feed/",
+  "HipHopDX": "https://hiphopdx.com/rss/news.xml",
+  "Vibe": "https://www.vibe.com/feed/",
+  "HotNewHipHop": "https://www.hotnewhiphop.com/feed",
+  "AllHipHop": "https://allhiphop.com/feed/",
+  "Rap-Up": "https://www.youtube.com/feeds/videos.xml?channel_id=UChwgB3XD2h__UI3bjOk_4Fg",
+  "The Fader": "https://www.thefader.com/feed/"
+ }
+}
