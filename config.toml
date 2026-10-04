@@ -1,0 +1,225 @@
+# ==========================================================
+#  洋楽ネタ デイリーまとめ：設定ファイル
+#  GitHubの画面でこのファイルを開き、鉛筆マークから編集できます。
+#  「#」から始まる行はメモなので、動作には影響しません。
+# ==========================================================
+
+[general]
+site_title = "洋楽ネタ・デイリー"
+lookback_hours = 30            # 何時間前までの記事を集めるか
+max_articles = 400             # AIに渡す記事の上限
+top_n = 3                      # 毎日のトップの件数
+runners_up_per_genre = 2       # ジャンル別の次点の件数
+candidate_count = 18           # AIに選んでもらう候補の数
+min_candidates_per_genre = 4   # 各ジャンルの候補の最低数
+jpy_per_usd = 150              # 費用表示に使う為替レート
+site_url = ""                  # 通常は空欄でOK（自動で入ります）
+
+[models]
+cluster = "claude-haiku-4-5-20251001"   # 段階1：下ごしらえ（グループ化）
+select = "claude-opus-5-5"              # 段階2：選定と執筆（頭脳）
+select_effort = ""                      # 空欄＝標準。"high" にすると深く考える分、費用が増えます
+compare = "claude-sonnet-5-5"           # 試運転中の比較用。比較をやめるときは "" にする
+compare_effort = ""
+
+[selection]
+audience = """
+視聴者は、日本の洋楽ファン（10〜30代が中心）と、DJを学んでいるスクール生。
+発信者は洋楽インフルエンサー兼DJスクール運営者で、Instagramリールで海外の音楽ニュースを紹介している。
+"""
+criteria = """
+選定基準（上から順に重視）：
+- 日本の洋楽ファンにも名前が通じるアーティスト・DJか。知名度が低い場合は「これから来る」と言える根拠があるか
+- 複数の大手メディアが報じている、または関連動画の再生数が急に伸びているか
+- 新曲・新作・コラボ・サプライズ発表・フェスの出演発表など、30〜60秒で驚きや楽しさを伝えられるか
+- MVやライブ映像など、リールで見せられる素材があるか
+- DJやクラブカルチャーに関わる話題は、スクール生にも刺さるので加点する
+- 訃報・事件・裁判などは、重大なものだけ。取り上げる場合は茶化さず事実を伝える切り口にする
+"""
+
+[youtube]
+chart_regions = ["US", "GB"]   # 音楽人気チャートを見る地域
+max_searches = 15              # 1日の動画検索の回数（1回100ユニット。無料枠は1日10,000）
+search_days = 7                # 何日前までに公開された動画を探すか
+
+# Claude APIの料金（100万トークンあたりのドル：入力, 出力）。費用の目安の計算だけに使います。
+[prices]
+"claude-haiku-4-5-20251001" = [1.0, 5.0]
+"claude-sonnet-5-5" = [2.0, 10.0]
+"claude-opus-5-5" = [4.0, 20.0]
+"claude-fable-5-1" = [10.0, 50.0]
+
+# ==========================================================
+#  メディアの一覧
+#  追加するときは、[[sources]] から始まる4〜5行をコピーして書き換えます。
+#  feed が間違っていても、site から自動でRSSを探し、それでもだめなら
+#  Googleニュース経由で取得します。
+#  outlet：同じ媒体を別名で2回登録したときに、媒体数を二重に数えないための名前
+# ==========================================================
+
+# ---------- Dance ----------
+[[sources]]
+name = "Mixmag"
+genre = "Dance"
+site = "https://mixmag.net"
+feed = "https://mixmag.net/rss.xml"
+
+[[sources]]
+name = "DJ Mag"
+genre = "Dance"
+site = "https://djmag.com"
+feed = "https://djmag.com/rss.xml"
+
+[[sources]]
+name = "Resident Advisor"
+genre = "Dance"
+site = "https://ra.co/news"
+feed = ""
+google_news = "site:ra.co"
+
+[[sources]]
+name = "EDM.com"
+genre = "Dance"
+site = "https://edm.com"
+feed = "https://edm.com/.rss/full/"
+
+[[sources]]
+name = "Dancing Astronaut"
+genre = "Dance"
+site = "https://dancingastronaut.com"
+feed = "https://dancingastronaut.com/feed/"
+
+[[sources]]
+name = "Your EDM"
+genre = "Dance"
+site = "https://www.youredm.com"
+feed = "https://www.youredm.com/feed/"
+
+[[sources]]
+name = "Magnetic Magazine"
+genre = "Dance"
+site = "https://www.magneticmag.com"
+feed = "https://www.magneticmag.com/feed/"
+
+[[sources]]
+name = "Billboard Dance"
+outlet = "Billboard"
+genre = "Dance"
+site = "https://www.billboard.com/c/music/music-news/dance/"
+feed = "https://www.billboard.com/c/music/music-news/dance/feed/"
+google_news = "site:billboard.com dance OR electronic"
+
+[[sources]]
+name = "Run The Trap"
+genre = "Dance"
+site = "https://runthetrap.com"
+feed = "https://runthetrap.com/feed/"
+
+# ---------- POP ----------
+[[sources]]
+name = "Billboard"
+genre = "POP"
+site = "https://www.billboard.com"
+feed = "https://www.billboard.com/feed/"
+
+[[sources]]
+name = "Rolling Stone"
+genre = "POP"
+site = "https://www.rollingstone.com/music/"
+feed = "https://www.rollingstone.com/music/music-news/feed/"
+
+[[sources]]
+name = "Variety（Music）"
+outlet = "Variety"
+genre = "POP"
+site = "https://variety.com/v/music/"
+feed = "https://variety.com/v/music/feed/"
+google_news = "site:variety.com music"
+
+[[sources]]
+name = "NME"
+genre = "POP"
+site = "https://www.nme.com/news/music"
+feed = "https://www.nme.com/news/music/feed"
+
+[[sources]]
+name = "Pitchfork"
+genre = "POP"
+site = "https://pitchfork.com/news/"
+feed = "https://pitchfork.com/feed/feed-news/rss"
+
+[[sources]]
+name = "Stereogum"
+genre = "POP"
+site = "https://www.stereogum.com"
+feed = "https://www.stereogum.com/feed/"
+
+[[sources]]
+name = "Consequence"
+genre = "POP"
+site = "https://consequence.net"
+feed = "https://consequence.net/feed/"
+
+[[sources]]
+name = "The Fader"
+genre = "POP"
+site = "https://www.thefader.com"
+feed = "https://www.thefader.com/rss"
+
+[[sources]]
+name = "Uproxx Music"
+outlet = "Uproxx"
+genre = "POP"
+site = "https://uproxx.com/music/"
+feed = "https://uproxx.com/music/feed/"
+google_news = "site:uproxx.com music"
+
+# ---------- Hip-Hop ----------
+[[sources]]
+name = "Complex"
+genre = "Hip-Hop"
+site = "https://www.complex.com/music"
+feed = ""
+google_news = "site:complex.com music"
+
+[[sources]]
+name = "HipHopDX"
+genre = "Hip-Hop"
+site = "https://hiphopdx.com"
+feed = "https://hiphopdx.com/rss/news.xml"
+
+[[sources]]
+name = "XXL"
+genre = "Hip-Hop"
+site = "https://www.xxlmag.com"
+feed = "https://www.xxlmag.com/feed/"
+
+[[sources]]
+name = "HotNewHipHop"
+genre = "Hip-Hop"
+site = "https://www.hotnewhiphop.com"
+feed = ""
+
+[[sources]]
+name = "Rap-Up"
+genre = "Hip-Hop"
+site = "https://www.rap-up.com"
+feed = "https://www.rap-up.com/feed"
+
+[[sources]]
+name = "Vibe"
+genre = "Hip-Hop"
+site = "https://www.vibe.com"
+feed = "https://www.vibe.com/feed/"
+
+[[sources]]
+name = "Okayplayer"
+genre = "Hip-Hop"
+site = "https://www.okayplayer.com"
+feed = "https://www.okayplayer.com/feed"
+
+[[sources]]
+name = "AllHipHop"
+genre = "Hip-Hop"
+site = "https://allhiphop.com"
+feed = "https://allhiphop.com/feed/"
