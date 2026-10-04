@@ -1,0 +1,64 @@
+name: 洋楽ネタ デイリー
+
+on:
+  schedule:
+    - cron: "30 2 * * *"   # 毎日 11:30（日本時間）に起動
+  workflow_dispatch:        # 手動実行ボタン
+    inputs:
+      send_line:
+        description: "LINEに送る"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      SEND_LINE: ${{ github.event_name == 'schedule' && 'true' || inputs.send_line }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: 記事を集めてまとめを作る
+        run: python3 main.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
+
+      - name: 結果を保存
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "まとめ $(TZ=Asia/Tokyo date +%F)"
+          git push
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+
+      - name: サイトを公開
+        id: deployment
+        uses: actions/deploy-pages@v5
+
+      - name: LINEに送る
+        run: python3 main.py --send-line
+        env:
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
