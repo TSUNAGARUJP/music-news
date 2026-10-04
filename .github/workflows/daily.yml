@@ -30,6 +30,8 @@ jobs:
       SEND_LINE: ${{ github.event_name == 'schedule' && 'true' || inputs.send_line }}
     steps:
       - uses: actions/checkout@v7
+        with:
+          ref: main   # 再実行のときも最新の状態から始める
 
       - name: 記事を集めてまとめを作る
         run: python3 main.py
@@ -44,9 +46,15 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          [ -d data ] || exit 0
+          cp -r data /tmp/new-data
+          git fetch origin main
+          git reset --hard origin/main
+          mkdir -p data
+          cp -r /tmp/new-data/. data/
           git add data
           git diff --cached --quiet || git commit -m "まとめ $(TZ=Asia/Tokyo date +%F)"
-          git push
+          git push origin HEAD:main
 
       - uses: actions/upload-pages-artifact@v5
         with:
