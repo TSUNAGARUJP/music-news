@@ -1,0 +1,1381 @@
+{
+ "date": "2026-10-04",
+ "generated_at": "2026-10-04T10:42:26.866707+00:00",
+ "article_count": 162,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日はSNL周辺の話題が目立ち、Taylor Swiftのサプライズ出演や、Paul McCartneyが彼女の結婚式で演奏した経緯の告白など、Taylor関連が中心です。ロック勢ではDave GrohlとAC/DCの共演が4媒体で報じられました。",
+  "top": [
+   {
+    "id": "s1",
+    "title_ja": "Taylor SwiftがSNLにサプライズ出演！",
+    "genre": "POP",
+    "summary_ja": "Dakota Johnsonが司会を務めた『Saturday Night Live』のオープニングモノローグに、Taylor Swiftがサプライズで登場しました。Johnsonの「失恋セラピスト」役を演じ、Clevelandに触れてTravis Kelceへの愛を示したと報じられています。最後はJohnsonにPedialyteと警備員を付けて帰らせるというオチでした。",
+    "why_ja": "BillboardとVarietyが報じています。YouTube MusicのUSチャートでは「Taylor Swift - Cleveland! (Official Lyric Video)」が5位に入っています。",
+    "line_point": "Taylor SwiftがSNLにサプライズ登場。Dakota Johnsonの失恋セラピスト役でモノローグに乱入",
+    "reels": [
+     {
+      "hook": "SNLにまさかのTaylor本人登場！",
+      "angle": "出演前に予想されていた流れ→実際の登場シーン→セラピスト役のやりとり→Pedialyteのオチ、の順にテンポよく紹介"
+     },
+     {
+      "hook": "Taylorの「Cleveland」の意味、分かる？",
+      "angle": "Travis Kelceへの愛を示したとされるClevelandへの言及と、USチャート5位の「Cleveland!」リリックビデオを結びつけて解説"
+     }
+    ]
+   },
+   {
+    "id": "s7",
+    "title_ja": "Paul McCartney、Taylor Swiftの結婚式で演奏した理由を告白",
+    "genre": "POP",
+    "summary_ja": "Paul McCartneyが、Taylor SwiftとTravis Kelceの結婚式で演奏した経緯を語りました。Rolling Stoneによると、理由は「She asked me to do it（彼女に頼まれたから）」とのことです。同じ機会に、Jimmy Kimmel Liveで「Hey Jude」を一緒に歌わなかったLarry Davidを自分のコンサートから出禁にした話もしています。",
+    "why_ja": "BillboardとRolling Stoneが報じた、Beatlesのレジェンドと現代のポップスターという世代を超えた組み合わせの話題です。",
+    "line_point": "Paul McCartneyがTaylor Swiftの結婚式で演奏した理由を明かす。「彼女に頼まれたから」",
+    "reels": [
+     {
+      "hook": "結婚式の余興がPaul McCartney！？",
+      "angle": "結婚式で演奏した事実→本人の「頼まれたから」発言→Larry David出禁エピソードで笑いを取って締める"
+     },
+     {
+      "hook": "Beatles×Taylor、世代を超えた共演",
+      "angle": "Paulの経歴とTaylorの現在を並べて比較し、レジェンドが若い世代のスターに応えた意味を語る"
+     }
+    ]
+   },
+   {
+    "id": "s2",
+    "title_ja": "Dave GrohlがAC/DCと「Highway to Hell」共演",
+    "genre": "Other",
+    "summary_ja": "AC/DCが「Power Up」ツアーの最終公演（10月2日、ニュージャージーのMetLife Stadium）にFoo FightersのDave Grohlを呼び込み、「Highway to Hell」を一緒に演奏しました。Grohlは「I'm going to live my childhood dream again, tonight（今夜また子どもの頃の夢を叶える）」と語ったと報じられています。",
+    "why_ja": "Billboard、NME、Rolling Stone、Stereogumの4媒体が報じています。日本でも知名度の高いロックのレジェンド同士の共演で、ライブ映像も出回っています。",
+    "line_point": "AC/DCがツアー最終公演にDave Grohlを呼び込み「Highway to Hell」を共演。子どもの頃の夢が実現",
+    "rels": null,
+    "reels": [
+     {
+      "hook": "Foo FightersのDaveがAC/DCのステージに！",
+      "angle": "ツアー最終公演という特別感→Grohlの「子どもの頃の夢」発言→共演映像のサビ部分で盛り上げる"
+     },
+     {
+      "hook": "憧れのバンドと同じステージに立つ瞬間",
+      "angle": "ファンだった人が憧れと共演するというストーリーを軸に、DJ・音楽を学ぶスクール生への「夢は叶う」というメッセージで締める"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s39",
+     "title_ja": "The Warehouse Project、2027年は休止へ",
+     "note": "マンチェスターの名物クラブシリーズが20周年を経て2027年は休止すると発表。"
+    },
+    {
+     "id": "s36",
+     "title_ja": "Massive AttackのRobert Del Naja、再び逮捕",
+     "note": "労働党大会前の親パレスチナ抗議中に逮捕されたとMixmagが報道。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s13",
+     "title_ja": "TWICEのSana、多忙期は3日入浴できず",
+     "note": "Sanaが、最も忙しい時期はメンバーが3日間入浴できなかったと語った。"
+    },
+    {
+     "id": "s19",
+     "title_ja": "Guitarricadelafuente、ワールドツアー完走",
+     "note": "スペインのシンガーが「Spanish Leather World Tour」の最終公演を開催。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s23",
+     "title_ja": "Drake、「trick」呼ばわりに反論",
+     "note": "Drakeが気前の良さを「魂への投資のリターン」と表現して反論した。"
+    },
+    {
+     "id": "s15",
+     "title_ja": "Digital Nas、Kanye Westからの印税ゼロを主張",
+     "note": "Kanyeとのコラボで印税を受け取っていないと主張。その後、解決に向かっていると発言。"
+    }
+   ]
+  }
+ },
+ "compare": {
+  "model": "claude-sonnet-5-5",
+  "overview": "今日はSNLの話題が目立ち、Taylor Swiftのサプライズ出演とTurnstileの初登場が並んでいます。ロック界ではAC/DCの最終公演にDave Grohlが参加した話題が大きく、リール向きの映像素材が多い一日です。",
+  "top": [
+   {
+    "id": "s1",
+    "title_ja": "Taylor Swift、SNLにサプライズ出演 Dakota Johnsonの冒頭コントに登場",
+    "genre": "POP",
+    "summary_ja": "BillboardとVarietyによると、Taylor SwiftがSNLのDakota Johnsonによるオープニングモノローグにサプライズで登場した。Johnsonの恋愛の失敗談に絡み、Swiftが「失恋セラピスト」役を演じたと報じられている。コントの最後には、Johnsonに「Pedialyte」を持たせて警備付きで帰らせるオチがあり、Travis Kelceへの愛を示すCleveland言及もあった。",
+    "why_ja": "Billboard、Varietyの2媒体が報じており、事前に予想されていたカメオ出演が実現した形。YouTubeの音楽チャートでは、Taylor Swift「Cleveland!」のリリックビデオが米国5位に入っている。",
+    "line_point": "Taylor SwiftがSNLに失恋セラピスト役でサプライズ登場",
+    "reels": [
+     {
+      "hook": "テイラーがSNLに突然現れた！",
+      "angle": "モノローグの映像を見せ、「失恋セラピスト」役の笑いどころを日本語字幕で解説。最後のPedialyteのオチで締める。"
+     },
+     {
+      "hook": "Taylorの「Cleveland!」とセットで見る",
+      "angle": "SNLでのKelceへの言及を入れ、チャート入りしている「Cleveland!」のリリックビデオにつなげて新曲紹介にする。"
+     }
+    ]
+   },
+   {
+    "id": "s2",
+    "title_ja": "Dave Grohl、AC/DC最終公演でHighway to Hellに飛び入り",
+    "genre": "Other",
+    "summary_ja": "AC/DCがPower Upツアーの最終公演を10月2日にニュージャージーのMetLifeで行い、Foo FightersのDave Grohlがゲストで登場した。曲は「Highway to Hell」。NMEによると、Grohlは「I'm going to live my childhood dream again, tonight」と話したという。",
+    "why_ja": "Billboard、NME、Rolling Stone、Stereogumの4媒体が報じている。ツアー最終公演という節目での共演で、ファンに名前が通じる2組の組み合わせでもある。",
+    "line_point": "Dave GrohlがAC/DCツアー最終日にHighway to Hellで共演",
+    "reels": [
+     {
+      "hook": "Grohlが「子供の頃の夢」を叶えた夜",
+      "angle": "「I'm going to live my childhood dream again, tonight」の言葉を字幕で出し、共演映像につなぐ。感情重視の構成。"
+     },
+     {
+      "hook": "AC/DCのツアー最終日に何が起きた？",
+      "angle": "最終公演という背景を先に説明し、Highway to Hellでの登場シーンまで見せるニュース型の構成。"
+     }
+    ]
+   },
+   {
+    "id": "s0",
+    "title_ja": "Turnstile、SNLデビュー 初のハードコアバンドとして出演",
+    "genre": "Other",
+    "summary_ja": "Dakota Johnsonがホストを務めた回で、TurnstileがSNLに初登場した。番組のプロモでは、SNLで演奏する初のハードコアバンドだと紹介されていたという。Grammyを受賞したアルバム『Never Enough』から3曲を披露し、「Birds」やメドレーを演奏した。NMEによると、バンドは出演のためOklahoma Cityのツアー日程を動かしたとされる。",
+    "why_ja": "Billboard、NME、Rolling Stone、Stereogumの4媒体が報じている。同じ回にはTaylor Swiftのカメオもあり、注目が集まりやすい。",
+    "line_point": "Turnstileが初のハードコアバンドとしてSNLに初出演",
+    "reels": [
+     {
+      "hook": "SNLにハードコアバンドが初登場",
+      "angle": "「初のハードコアバンド」という点を入れ、ライブ映像を見せる。Grammy受賞作『Never Enough』の紹介につなげる。"
+     },
+     {
+      "hook": "このバンド、これから来るかも",
+      "angle": "Grammy受賞とSNL出演という流れを整理し、洋楽ファンに新しいバンドとして紹介する入門型の構成。"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s39",
+     "title_ja": "Warehouse Project、2027年は休止年に",
+     "note": "Manchesterのクラブシリーズが20周年のあと、2027年は短い休みを取る。"
+    },
+    {
+     "id": "s36",
+     "title_ja": "Massive AttackのRobert Del Naja、抗議活動で再び逮捕",
+     "note": "Mixmagによると、Liverpoolでの抗議デモ中に逮捕された。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s7",
+     "title_ja": "Paul McCartney、Taylor Swiftの結婚式で演奏した経緯を語る",
+     "note": "McCartneyが「彼女に頼まれた」と、結婚式で演奏した理由を明かした。"
+    },
+    {
+     "id": "s13",
+     "title_ja": "TWICEのSana、多忙時の過酷なスケジュールを語る",
+     "note": "最も忙しい時期には3日間入浴できなかったとSanaが語った。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s23",
+     "title_ja": "Drake、「tricking」のレッテルに反論",
+     "note": "Drakeが、気前の良さは「魂への投資のリターン」だと語った。"
+    },
+    {
+     "id": "s12",
+     "title_ja": "OutKastとWaffle Houseがコラボ",
+     "note": "OutKastとWaffle Houseのコラボが発売され、アトランタの歴史を着る企画だと語られている。"
+    }
+   ]
+  }
+ },
+ "candidates": [
+  {
+   "id": "s22",
+   "label": "Zach Bryan wears Free Palestine shirt at Gillette Stadium",
+   "artists": [
+    "Zach Bryan"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "Complex",
+    "Consequence",
+    "NME",
+    "Stereogum",
+    "Variety"
+   ],
+   "n_outlets": 5,
+   "latest": "2026-10-03T16:14:50+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Zach Bryan Wears “Free Palestine” Shirt During Show at Gillette Stadium",
+     "link": "https://consequence.net/2026/10/zach-bryan-free-palestine-shirt-gillette-stadium/",
+     "published": "2026-10-03T16:14:50+00:00",
+     "summary": "The fashion statement came weeks after Bob Kraft led a campaign to get Macklemore kicked off Ed Sheeran's tour. Zach Bryan Wears “Free Palestine” Shirt During Show at Gillette Stadium Alex Young"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Zach Bryan Wears ‘Free Palestine’ Shirt While Headlining Robert Kraft’s Gillette Stadium; Drummer Honors Slain Palestinian Girl",
+     "link": "https://variety.com/2026/music/news/zach-bryan-palestine-shirt-robert-kraft-gillette-stadium-1236898152/",
+     "published": "2026-10-03T16:07:04+00:00",
+     "summary": "Macklemore may have been barred from saying “Free Palestine!” at Robert Kraft’s Gillette Stadium — and indeed, from anywhere else on Ed Sheeran’s tour, as that headliner agreed with Kraft that the controversial rapper should be removed from"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Zach Bryan Appears to Troll Robert Kraft, Wears 'Free Palestine' Tee at Gillette Stadium Concert",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVNjYVlwamxsbmZ6bXl3Sy0tcXBMd1JfZkVLb244ckhqUkpZY1NQZnFRWEVnU25MZXhpY2tRYXpReXIxbk0wQmFXNlpiOGFkbE96V1E1a0tPbHU1RjhQdGtONnIyczVzY2FQMXd1X1dnSFh1b2RMcEpvNVBqWWw4M0VFYnE0cmJVZGs0ZnFENHhWWTg2dzhRRHlDdm4?oc=5",
+     "published": "2026-10-03T15:10:31+00:00",
+     "summary": "Zach Bryan Appears to Troll Robert Kraft, Wears 'Free Palestine' Tee at Gillette Stadium Concert Complex"
+    },
+    {
+     "outlet": "Stereogum",
+     "title": "Zach Bryan Wears “Free Palestine” Shirt At Robert Kraft’s Gillette Stadium",
+     "link": "https://stereogum.com/2513501/zach-bryan-wears-free-palestine-shirt-at-robert-krafts-gillette-stadium/news/",
+     "published": "2026-10-03T13:53:07+00:00",
+     "summary": "Last month, Macklemore was kicked off Ed Sheeran's tour after Robert Kraft, the owner of Massachusetts' Gillette Stadium, was unhappy with the rapper's pro-Palestine activism during his performances. Sheeran has subsequently faced lots of b"
+    },
+    {
+     "outlet": "NME",
+     "title": "Zach Bryan wears ‘Free Palestine’ shirt at Gillette Stadium following Robert Kraft-Macklemore row",
+     "link": "https://www.nme.com/news/music/zach-bryan-wears-free-palestine-shirt-at-gillette-stadium-following-robert-kraft-macklemore-row-3972037?utm_source=rss&utm_medium=rss&utm_campaign=zach-bryan-wears-free-palestine-shirt-at-gillette-stadium-following-robert-kraft-macklemore-row",
+     "published": "2026-10-03T07:50:53+00:00",
+     "summary": "Macklemore was recently barred from the same venue before being dropped from Ed Sheeran’s tour over his pro-Palestine statements The post Zach Bryan wears ‘Free Palestine’ shirt at Gillette Stadium following Robert Kraft-Macklemore row appe"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "IO8MFPmvFI4",
+    "title": "Mega Country Singer Zach Bryan Wears ‘Free Palestine’ Shirt At Billionaire Robert Kraft's Stadium",
+    "channel": "The Rational National",
+    "published": "2026-10-03T14:42:29Z",
+    "hours_since": 20,
+    "views": 215923,
+    "url": "https://www.youtube.com/watch?v=IO8MFPmvFI4",
+    "views_per_hour": 10796
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Turnstile makes SNL debut",
+   "artists": [
+    "Turnstile"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "Billboard",
+    "NME",
+    "Rolling Stone",
+    "Stereogum"
+   ],
+   "n_outlets": 4,
+   "latest": "2026-10-04T10:37:28+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Watch Turnstile make ‘Saturday Night Live’ debut with ‘Birds’ and ‘I Care/Dull’ medley",
+     "link": "https://www.nme.com/news/music/watch-turnstile-make-saturday-night-live-debut-with-birds-and-i-care-dull-medley-3972075?utm_source=rss&utm_medium=rss&utm_campaign=watch-turnstile-make-saturday-night-live-debut-with-birds-and-i-care-dull-medley",
+     "published": "2026-10-04T10:37:28+00:00",
+     "summary": "The Baltimore hardcore band took the chance to play three tracks from their Grammy-winning record ‘Never Enough’ The post Watch Turnstile make ‘Saturday Night Live’ debut with ‘Birds’ and ‘I Care/Dull’ medley appeared first on NME ."
+    },
+    {
+     "outlet": "Stereogum",
+     "title": "Turnstile Make SNL Debut, Taylor Swift Cameos",
+     "link": "https://stereogum.com/2513538/turnstile-make-snl-debut-taylor-swift-cameos/news/",
+     "published": "2026-10-04T10:22:22+00:00",
+     "summary": "Saturday Night Live went hardcore. Last night's episode was hosted by Dakota Johnson with musical guest Turnstile. As pointed out in the episode promos, Turnstile are the first hardcore band to play Saturday Night Live since the infamous Fe"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Turnstile Make Explosive ‘SNL’ Debut With ‘Birds’ and ‘Never Enough’ Medley",
+     "link": "https://www.billboard.com/culture/tv-film/turnstile-snl-debut-dakota-johnson-1236353747/",
+     "published": "2026-10-04T08:07:13+00:00",
+     "summary": "The Grammy-winning Baltimore band moved an Oklahoma City tour date to make their first appearance on the show."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "‘SNL’: Watch Turnstile Perform ‘Birds,’ Medley from Album ‘Never Enough’",
+     "link": "https://www.rollingstone.com/music/music-news/snl-watch-turnstile-perform-birds-medley-album-never-enough-1235636456/",
+     "published": "2026-10-04T06:56:01+00:00",
+     "summary": "Hardcore Baltimore band debuts on SNL with three songs from their Grammy-winning album"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Turnstile",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ad1pCdTFReXhnV3Q1WVBKMWFqSkZYNUd6TVBpS3huaXZSWlk4NVlrQzU4Wlh1NmVVdmxFTHFocm9USTU0SVlkcnhZRThTVG90VXZzWjBR?oc=5",
+     "published": "2026-10-04T00:34:15+00:00",
+     "summary": "Turnstile Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Dakota Johnson & Turnstile on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+     "link": "https://www.billboard.com/culture/product-recommendations/snl-2026-dakota-johnson-turnstile-watch-live-online-free-1236352925/",
+     "published": "2026-10-04T00:30:00+00:00",
+     "summary": "Livestream the Fifty Shades of Grey actress host and Baltimore hardcore punk band perform on Saturday, Oct. 3 — watch live online for free."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "0gVoTjGYXsQ",
+    "title": "SNL Season 52 Episode 2: Dakota Johnson & Turnstile Take Over Studio 8H",
+    "channel": "NTT News",
+    "published": "2026-10-03T14:18:25Z",
+    "hours_since": 20,
+    "views": 72,
+    "url": "https://www.youtube.com/watch?v=0gVoTjGYXsQ",
+    "views_per_hour": 4
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Dave Grohl joins AC/DC for Highway to Hell",
+   "artists": [
+    "AC/DC",
+    "Dave Grohl"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "Billboard",
+    "NME",
+    "Rolling Stone",
+    "Stereogum"
+   ],
+   "n_outlets": 4,
+   "latest": "2026-10-04T09:31:58+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Watch Dave Grohl join AC/DC for ‘Highway To Hell’ at final ‘Power Up’ tour show",
+     "link": "https://www.nme.com/news/music/watch-dave-grohl-join-ac-dc-highway-to-hell-power-up-3972071?utm_source=rss&utm_medium=rss&utm_campaign=watch-dave-grohl-join-ac-dc-highway-to-hell-power-up",
+     "published": "2026-10-04T09:31:58+00:00",
+     "summary": "\"I’m going to live my childhood dream again, tonight\" The post Watch Dave Grohl join AC/DC for ‘Highway To Hell’ at final ‘Power Up’ tour show appeared first on NME ."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "AC/DC Brings Out Foo Fighters’ Dave Grohl for ‘Highway to Hell’ at MetLife Show",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV3g4ZVVSWEV4YWtJVm1LZHNXcTRpV2g3N2JsTjdXel92UENyNldVZ3A4cGIzaEpKbm5McUN0TC1RSHNBTXhJWUdaTnVWZlZGTkxXT1M0WVNLOWRPOGlQN1p1ME0tUVhJanFiR0pnaWk5aU13aG4xYV9pYjA2QmxVSnpFT0lrN1c4OFFUOXZTQWsxVVJYQUNoRE5EN0M?oc=5",
+     "published": "2026-10-04T09:17:17+00:00",
+     "summary": "AC/DC Brings Out Foo Fighters’ Dave Grohl for ‘Highway to Hell’ at MetLife Show Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "AC/DC Brings Out Foo Fighters’ Dave Grohl for ‘Highway to Hell’ at MetLife Show",
+     "link": "https://www.billboard.com/music/rock/acdc-dave-grohl-highway-to-hell-metlife-stadium-1236353873/",
+     "published": "2026-10-03T20:08:34+00:00",
+     "summary": "The iconic rockers played the final concert of their Power Up Tour on Oct. 2."
+    },
+    {
+     "outlet": "Stereogum",
+     "title": "Dave Grohl Joins AC/DC For “Highway To Hell” In New Jersey",
+     "link": "https://stereogum.com/2513505/dave-grohl-joins-ac-dc-for-highway-to-hell-in-new-jersey/news/",
+     "published": "2026-10-03T14:36:46+00:00",
+     "summary": "On Friday (Oct. 2) in New Jersey, Foo Fighters filled in for the Pretty Reckless for a second time on AC/DC's Power Up tour. When the Australian rock legends played their hit \"Highway To Hell,\" they brought out Dave Grohl for help. The post"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "See AC/DC Bring Out Dave Grohl for ‘Highway to Hell’ at Power Up Tour’s Final Show",
+     "link": "https://www.rollingstone.com/music/music-news/ac-dc-out-dave-grohl-highway-to-hell-power-up-tour-finale-1235636450/",
+     "published": "2026-10-03T13:41:17+00:00",
+     "summary": "Foo Fighters served as openers at New Jersey's MetLife Stadium, the last show on AC/DC's itinerary for the foreseeable future, and maybe longer"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "EUyb_ziEdrY",
+    "title": "Dave Grohl performs “Highway to Hell” with AC/DC in New Jersey 10/2/26.⚡️",
+    "channel": "PR Media",
+    "published": "2026-10-03T05:43:14Z",
+    "hours_since": 29,
+    "views": 3262,
+    "url": "https://www.youtube.com/watch?v=EUyb_ziEdrY",
+    "views_per_hour": 112
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s25",
+   "label": "The Strokes homecoming show in NYC with Bernie Sanders introduction",
+   "artists": [
+    "The Strokes",
+    "Beach House",
+    "TV on the Radio"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "outlets": [
+    "Consequence",
+    "NME",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "latest": "2026-10-03T18:15:49+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "See AOC, Bernie Sanders Introduce the Strokes at Queens Concert",
+     "link": "https://www.rollingstone.com/music/music-news/aoc-bernie-sanders-introduce-the-strokes-queens-concert-1235636485/",
+     "published": "2026-10-03T18:15:49+00:00",
+     "summary": "Vermont senator praises band for \"standing up for economic justice, fighting racism, and understanding that healthcare is a human right\""
+    },
+    {
+     "outlet": "Consequence",
+     "title": "The Strokes’ Homecoming Concert in NYC with Beach House, TV on the Radio, and Fcukers Was Indie Music Heaven: Recap + Videos",
+     "link": "https://consequence.net/2026/10/the-strokes-nyc-beach-house-tv-on-the-radio-recap/",
+     "published": "2026-10-03T17:41:58+00:00",
+     "summary": "With a special introduction from AOC and Bernie Sanders, the show brought together multiple eras of indie rock. The Strokes’ Homecoming Concert in NYC with Beach House, TV on the Radio, and Fcukers Was Indie Music Heaven: Recap + Videos Pao"
+    },
+    {
+     "outlet": "NME",
+     "title": "Watch Bernie Sanders and AOC introduce The Strokes at huge NYC homecoming show",
+     "link": "https://www.nme.com/news/music/watch-bernie-sanders-aoc-introduce-the-strokes-nyc-3972046?utm_source=rss&utm_medium=rss&utm_campaign=watch-bernie-sanders-aoc-introduce-the-strokes-nyc",
+     "published": "2026-10-03T09:35:48+00:00",
+     "summary": "Sanders praised the band for “standing up for economic justice, fighting racism, understanding that healthcare is a human right” The post Watch Bernie Sanders and AOC introduce The Strokes at huge NYC homecoming show appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Taylor Swift cameos on SNL",
+   "artists": [
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-04T10:18:45+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Taylor Swift Makes Surprise ‘SNL’ Cameo in Dakota Johnson’s Monologue",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUFaVWQ0Q3BuQ05SVjhBVU13aXpOQTc2T1ZHZUpTYjVVeGI4Y1daR3dOaUNUaGt6bV9sTjUyVm9OZUMySnNLNlpWbXU2aGVQTWFCc3JNamxwZVpBWlg0UHJZUHZVeHVXZWhzdEFxX1V4eV81cTNObGFZSFkzdHR5VUJ0U2dzRW04anVXci11ZE0tMnplRDgxWC1haw?oc=5",
+     "published": "2026-10-04T10:18:45+00:00",
+     "summary": "Taylor Swift Makes Surprise ‘SNL’ Cameo in Dakota Johnson’s Monologue Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Taylor Swift Makes Surprise ‘SNL’ Cameo in Dakota Johnson’s Monologue",
+     "link": "https://www.billboard.com/culture/tv-film/taylor-swift-dakota-johnson-snl-monologue-1236353893/",
+     "published": "2026-10-04T04:24:47+00:00",
+     "summary": "The bit ended with Swift noting she sends Johnson home with \"a Pedialyte\" and a security escort."
+    },
+    {
+     "outlet": "Variety",
+     "title": "Taylor Swift Crashes Dakota Johnson’s ‘SNL’ Monologue as Her Breakup Therapist, Shows Travis Kelce Love with Cleveland Shoutout",
+     "link": "https://variety.com/2026/music/news/taylor-swift-snl-cameo-dakota-johnson-saturday-night-live-1236898411/",
+     "published": "2026-10-04T03:49:52+00:00",
+     "summary": "Predictions that Taylor Swift would make a cameo on “Saturday Night Live” with host Dakota Johnson came to fruition when the duo appeared together in the opening monologue. After Johnson joked about her failed relationships, she said “I hav"
+    }
+   ],
+   "chart": [
+    {
+     "id": "V-uIp-WuD60",
+     "title": "Patient Zero",
+     "channel": "Taylor Swift - Topic",
+     "published": "2026-09-25T04:02:10Z",
+     "hours_since": 223,
+     "views": 7117205,
+     "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "jfVVXYTZykw",
+     "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
+     "channel": "Taylor Swift",
+     "published": "2026-09-26T00:01:38Z",
+     "hours_since": 203,
+     "views": 4681748,
+     "url": "https://www.youtube.com/watch?v=jfVVXYTZykw",
+     "region": "US",
+     "rank": 5
+    }
+   ],
+   "video": {
+    "id": "V-uIp-WuD60",
+    "title": "Patient Zero",
+    "channel": "Taylor Swift - Topic",
+    "published": "2026-09-25T04:02:10Z",
+    "hours_since": 223,
+    "views": 7117205,
+    "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Paul McCartney performed at Taylor Swift's wedding",
+   "artists": [
+    "Paul McCartney",
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-04T10:18:45+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "How Paul McCartney Wound Up Performing at Taylor Swift’s Wedding",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2NxMnJlVmxLVkVOUFZHcjRaTUI0aWw3MmVfeVFxMGt4NVMwS3ZCQTJMVk9HZ1M2NnY4emxjdE1TdWQ2b1pDS3Y1WWpWaWdvN0lFT1JaOHVNelI3aDVRbmZxOWlUT1g1dkJoVlM5cTVqVk9Yd2xBN3FzZHdwSUpNclVkWEhIMzNxd2FxTkJUS05HV25zWDhCYUxSdG9fX0xmM0E?oc=5",
+     "published": "2026-10-04T10:18:45+00:00",
+     "summary": "How Paul McCartney Wound Up Performing at Taylor Swift’s Wedding Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "How Paul McCartney Wound Up Performing at Taylor Swift’s Wedding",
+     "link": "https://www.billboard.com/music/pop/paul-mccartney-taylor-swift-wedding-song-performance-1236353877/",
+     "published": "2026-10-03T23:55:36+00:00",
+     "summary": "The music legend shared his perspective from Swift and Travis Kelce's summer event at Madison Square Garden."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Paul McCartney Reveals Why He Performed at Taylor Swift’s Wedding: ‘She Asked Me to Do It’",
+     "link": "https://www.rollingstone.com/music/music-news/paul-mccartney-taylor-swift-wedding-larry-david-kimmel-1235636499/",
+     "published": "2026-10-03T19:35:48+00:00",
+     "summary": "Beatles legend also talks about banning Larry David from his concerts after he refused to sing along to \"Hey Jude\" on Jimmy Kimmel Live"
+    }
+   ],
+   "chart": [
+    {
+     "id": "V-uIp-WuD60",
+     "title": "Patient Zero",
+     "channel": "Taylor Swift - Topic",
+     "published": "2026-09-25T04:02:10Z",
+     "hours_since": 223,
+     "views": 7117205,
+     "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "jfVVXYTZykw",
+     "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
+     "channel": "Taylor Swift",
+     "published": "2026-09-26T00:01:38Z",
+     "hours_since": 203,
+     "views": 4681748,
+     "url": "https://www.youtube.com/watch?v=jfVVXYTZykw",
+     "region": "US",
+     "rank": 5
+    }
+   ],
+   "video": {
+    "id": "V-uIp-WuD60",
+    "title": "Patient Zero",
+    "channel": "Taylor Swift - Topic",
+    "published": "2026-09-25T04:02:10Z",
+    "hours_since": 223,
+    "views": 7117205,
+    "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "Digital Nas claims zero royalties from Kanye West",
+   "artists": [
+    "Digital Nas",
+    "Kanye West"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-03T22:04:43+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Digital Nas Alleges He Wasn’t Paid At All For Kanye West Collaborations",
+     "link": "https://www.hotnewhiphop.com/1011943-digital-nas-wasnt-paid-kanye-west-collaborations",
+     "published": "2026-10-03T22:04:43+00:00",
+     "summary": "Digital Nas shared he was retiring from the industry due to his YZY for Kanye West collabs, but he has since said it's getting resolved. The post Digital Nas Alleges He Wasn’t Paid At All For Kanye West Collaborations appeared first on HotN"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Digital Nas Claims He's Received '0 Royalties' From Kanye West: 'My Career Is Done'",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenRvYl9LMzg5Y2lQc2EtTV9YYk9tZzRoVFR5WEdoX3BaTW5lcE1IOWdhb0hpbGpKdDlLem9LaE90X2I2T2NQYmc5d3ZLdXJMcGdPQU9NeXBlZWZSWWUwU054YTlUZGlSczB6ZnJydzVmQlZVOFdpTnAxYmdycFRKMGNORU1EZUFyZTRRRUJuRDZwWjVKbG9FTURQcGRDN0VQ?oc=5",
+     "published": "2026-10-03T20:50:00+00:00",
+     "summary": "Digital Nas Claims He's Received '0 Royalties' From Kanye West: 'My Career Is Done' Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Drake pushes back on tricking label",
+   "artists": [
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "outlets": [
+    "AllHipHop",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-03T16:02:42+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Drake Denies Being A Professional Trick With Eloquent Explanation",
+     "link": "https://allhiphop.com/news/drake-denies-being-a-professional-trick-with-eloquent-explanation/",
+     "published": "2026-10-03T16:02:42+00:00",
+     "summary": "Drake's pushing back on the \"trick\" label, saying generosity offers a return on investment in your soul through the joy it brings others."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Drake Pushes Back On 'Tricking' Label, Calls Generosity a 'Return on Investment in Your Soul'",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVnBkVG9aTm95RXVUUkJXQThGSmJhb3hwRk56dXFmMWVVV19iSkdjQ3Z2Z2haQXViTW1UU0x1WDdScHgzZU1odGRyV2hJTTNSaTBQdG1VWnNwaGxTV1JKT1ZwS3NFTDE1WFQ5WEVCZlUwMHctUEE4WWtWZmI1WWNfMl9lRzVJMVpKd1ZlNEo1Y2MzZ0M4ODV3aDJycjF4Y0ZrVDExbmJTWl9qNE1taWkxN1JIVQ?oc=5",
+     "published": "2026-10-03T14:36:20+00:00",
+     "summary": "Drake Pushes Back On 'Tricking' Label, Calls Generosity a 'Return on Investment in Your Soul' Complex"
+    }
+   ],
+   "chart": [
+    {
+     "id": "eJFi2TK5174",
+     "title": "Solar Eclipse",
+     "channel": "Drake - Topic",
+     "published": "2026-10-01T10:00:26Z",
+     "hours_since": 73,
+     "views": 985547,
+     "url": "https://www.youtube.com/watch?v=eJFi2TK5174",
+     "region": "US",
+     "rank": 6
+    },
+    {
+     "id": "6gRbAU4Puek",
+     "title": "Quebec",
+     "channel": "Drake - Topic",
+     "published": "2026-10-01T10:00:20Z",
+     "hours_since": 73,
+     "views": 686812,
+     "url": "https://www.youtube.com/watch?v=6gRbAU4Puek",
+     "region": "US",
+     "rank": 7
+    }
+   ],
+   "video": {
+    "id": "eJFi2TK5174",
+    "title": "Solar Eclipse",
+    "channel": "Drake - Topic",
+    "published": "2026-10-01T10:00:26Z",
+    "hours_since": 73,
+    "views": 985547,
+    "url": "https://www.youtube.com/watch?v=eJFi2TK5174",
+    "region": "US",
+    "rank": 6
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Mathematics, Method Man, AZ release God Body",
+   "artists": [
+    "Mathematics",
+    "Method Man",
+    "AZ"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T09:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "God Body – Song by Mathematics, Method Man, & AZ",
+     "link": "https://www.hotnewhiphop.com/1011827-god-body-mathematics-method-man-az",
+     "published": "2026-10-04T09:00:00+00:00",
+     "summary": "Wu-Tang Clan's Mathematics has just dropped off his latest single \"God Body,\" which comes with verses from Method Man and AZ. The post God Body – Song by Mathematics, Method Man, & AZ appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [
+    {
+     "id": "Mts930Jx-3M",
+     "title": "Luis Gabriel & @Haziran - Inimă fără noroc ❤️‍🩹 Official Video",
+     "channel": "Luis Gabriel",
+     "published": "2026-09-25T10:25:01Z",
+     "hours_since": 216,
+     "views": 3524141,
+     "url": "https://www.youtube.com/watch?v=Mts930Jx-3M",
+     "region": "GB",
+     "rank": 6
+    }
+   ],
+   "video": {
+    "id": "Mts930Jx-3M",
+    "title": "Luis Gabriel & @Haziran - Inimă fără noroc ❤️‍🩹 Official Video",
+    "channel": "Luis Gabriel",
+    "published": "2026-09-25T10:25:01Z",
+    "hours_since": 216,
+    "views": 3524141,
+    "url": "https://www.youtube.com/watch?v=Mts930Jx-3M",
+    "region": "GB",
+    "rank": 6
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "xaviersobased releases Off Tha Meter",
+   "artists": [
+    "xaviersobased"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T08:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Off Tha Meter – Song by xaviersobased",
+     "link": "https://www.hotnewhiphop.com/1011818-off-tha-meter-xaviersobased",
+     "published": "2026-10-04T08:00:00+00:00",
+     "summary": "xaviersobased has come through with his latest track, \"Off Tha Meter,\" which contains sparse flows over wild production. The post Off Tha Meter – Song by xaviersobased appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Lucki bloodied after alleged Playboi Carti beef at ComplexCon",
+   "artists": [
+    "Lucki",
+    "Playboi Carti"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T02:51:05+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Lucki Was Bloodied After Alleged Playboi Carti Beef Goes Left At ComplexCon",
+     "link": "https://allhiphop.com/news/lucki-was-bloodied-after-alleged-playboi-carti-beef-goes-left-at-complexcon/",
+     "published": "2026-10-04T02:51:05+00:00",
+     "summary": "Lucki emerged hurt following turmoil tied to Playboi Carti associates at ComplexCon."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "yArNuaeCvvo",
+    "title": "Lucki Reportedly Injured After Alleged Playboi Carti Beef at ComplexCon",
+    "channel": "The Builder's Lens",
+    "published": "2026-10-04T07:27:38Z",
+    "hours_since": 3,
+    "views": 652,
+    "url": "https://www.youtube.com/watch?v=yArNuaeCvvo",
+    "views_per_hour": 217
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "Lil Durk co-defendant seeks to wipe out stalking convictions",
+   "artists": [
+    "Lil Durk"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T02:29:14+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Lil Durk Co-Defendant Asks Federal Judge To Wipe Out His Stalking Convictions",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVURTSkJYUkt6TzRCdnBHUEItR3dZbTduV0N6ZFZTd1FxUEYwcEM0QjdXVkp6Z21kR3pjVk9yUE9EV0FRMm1BMHVzTEd5UzNOb3NjMDF3QjloU05WWFBlX2s5aWo3dWRFLWtKX29KWXVITS1mZVdfRHlvQkdLVFB5cXpwdmxRYzlEWnc?oc=5",
+     "published": "2026-10-04T02:29:14+00:00",
+     "summary": "Lil Durk Co-Defendant Asks Federal Judge To Wipe Out His Stalking Convictions Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s50",
+   "label": "Dave Grohl Dedicates “My Hero” to “New Friend Jack” at Power to the People",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Consequence"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T02:03:03+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Dave Grohl Dedicates “My Hero” to “New Friend Jack” at Power to the People",
+     "link": "https://consequence.net/2026/10/dave-grohl-jack-smith-my-hero/",
+     "published": "2026-10-04T02:03:03+00:00",
+     "summary": "Dave Grohl also paid tribute to his late mother during Foo Fighters' set. Dave Grohl Dedicates “My Hero” to “New Friend Jack” at Power to the People Alex Young"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "OutKast collaborates with Waffle House",
+   "artists": [
+    "OutKast"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "collab",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T01:26:24+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "OutKast’s Waffle House Collabo Is “Bigger Than Merch” Says Hip-Hop Historian NuFace",
+     "link": "https://allhiphop.com/news/outkasts-waffle-house-collabo-is-bigger-than-merch-says-hip-hop-historian-nuface/",
+     "published": "2026-10-04T01:26:24+00:00",
+     "summary": "Hip-Hop historian NuFace tells AllHipHop why OutKast’s Waffle House collaboration represents wearable Atlanta history and a legacy that reaches beyond records."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "RjXps6gIKEM",
+    "title": "Waffle House-OutKast collab out now",
+    "channel": "11Alive",
+    "published": "2026-10-02T20:49:48Z",
+    "hours_since": 38,
+    "views": 2656,
+    "url": "https://www.youtube.com/watch?v=RjXps6gIKEM",
+    "views_per_hour": 70
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "TWICE's Sana discusses extreme touring schedule",
+   "artists": [
+    "TWICE"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T01:01:37+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "TWICE's Sana Says the Group Went Three Days Without Bathing at Their Busiest",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUWt0Zkp0UnI4ZEJ0QU9uRTZtTDVqbW1lMDVwQS1lM19ONm9TTzJrV09MSklHT0h6bmlWZFBqbWFnUUgzTDRadzFxTU5rZHA2bDIxTGY0QnhlaG5mVmJJWGdNR0VTMkZIQlMwV0pHaEdmZlpDb1BaYi1SVTVVckhHcUd2WmVMOGhkYnJIb0ZB?oc=5",
+     "published": "2026-10-04T01:01:37+00:00",
+     "summary": "TWICE's Sana Says the Group Went Three Days Without Bathing at Their Busiest Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Young Buck attempted G-Unit reunion",
+   "artists": [
+    "Young Buck"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T00:35:49+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Young Buck Says He Attempted to Reunite G-Unit: ‘It Just Didn't Go the Way It's Planned’",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUElBd0hheGpwUVFRRW1mSjRDZkY3WFhfcS1aa0pGZmNTUzVxeVVQcmFnSC10aGZhWnQzTE04LVdVWjNNdUxJdHFPN1d0LXhvbnM4aUNjX254R3R3OEwtX3dxRVc4NWtwS3d6YkMzTWlFU2hsS0NLX3gxdGFSNVJ0dXVTV3FSRUpWaFNXeW9JZ1hMLVk?oc=5",
+     "published": "2026-10-04T00:35:49+00:00",
+     "summary": "Young Buck Says He Attempted to Reunite G-Unit: ‘It Just Didn't Go the Way It's Planned’ Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Tory Lanez tour debate on Joe Budden Podcast",
+   "artists": [
+    "Tory Lanez"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-03T21:10:27+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "“Joe Budden Podcast” Gets Into Tense Argument Over Tory Lanez’s Tour",
+     "link": "https://www.hotnewhiphop.com/1011939-joe-budden-podcast-tory-lanez-tour",
+     "published": "2026-10-03T21:10:27+00:00",
+     "summary": "\"The Joe Budden Podcast\" debated Tory Lanez's recent \"live\" tour in the wake of his conviction for shooting Megan Thee Stallion years ago. The post “Joe Budden Podcast” Gets Into Tense Argument Over Tory Lanez’s Tour appeared first on HotNe"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "nLRZHPMXoWM",
+    "title": "Joe Budden Podcast SPLIT on Support for Tory Lanez Prison Tour ",
+    "channel": "Marc Lamont Hill Network",
+    "published": "2026-10-03T15:00:39Z",
+    "hours_since": 20,
+    "views": 55082,
+    "url": "https://www.youtube.com/watch?v=nLRZHPMXoWM",
+    "views_per_hour": 2754
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Guitarricadelafuerte closes Spanish Leather World Tour",
+   "artists": [
+    "Guitarricadelafuerte"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "outlets": [
+    "Consequence"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-03T20:54:19+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Guitarricadelafuente Puts the Oscar Buzz Aside to Remind Us He’s One Hell of a Pop Star at His Tour Finale: Review",
+     "link": "https://consequence.net/2026/10/guitarricadelafuente-spanish-leather-tour-finale-review/",
+     "published": "2026-10-03T20:54:19+00:00",
+     "summary": "The Spanish singer brought spectacle, politics, and stripped-down intimacy to the final night of his “Spanish Leather World Tour.\" Guitarricadelafuente Puts the Oscar Buzz Aside to Remind Us He’s One Hell of a Pop Star at His Tour Finale: R"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s36",
+   "label": "Massive Attack's Robert Del Naja arrested for Palestine Action",
+   "artists": [
+    "Massive Attack"
+   ],
+   "genre": "Dance",
+   "kind": "legal",
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "Massive Attack’s Robert Del Naja arrested again for supporting Palestine Action",
+     "link": "https://mixmag.net/read/massive-attack-robert-del-naja-arrested-again-supporting-palestine-action-news",
+     "published": null,
+     "summary": "The musician was arrested during a pro-Palestine protest outside the Labour Party's annual conference in Liverpool over the weekend Continue reading..."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "TE7PoufA5l0",
+    "title": "Detienen a líder de Massive Attack por apoyo a Palestina",
+    "channel": "AJ+ Español",
+    "published": "2026-09-28T17:38:45Z",
+    "hours_since": 137,
+    "views": 51080,
+    "url": "https://www.youtube.com/watch?v=TE7PoufA5l0",
+    "views_per_hour": 373
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s37",
+   "label": "Boxout Fest founder DJ Buxley dies aged 34",
+   "artists": [
+    "DJ Buxley"
+   ],
+   "genre": "Dance",
+   "kind": "death",
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "Boxout Fest founder DJ Buxley has died aged 34",
+     "link": "https://mixmag.net/read/boxout-fest-founder-dj-buxley-died-aged-34-news",
+     "published": null,
+     "summary": "The artist is remembered as a “charitable” and “humble” person who made a significant impact on the Birmingham music scene Continue reading..."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s38",
+   "label": "Vector Lovers IDM artist dies",
+   "artists": [
+    "Vector Lovers"
+   ],
+   "genre": "Dance",
+   "kind": "death",
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "Celebrated IDM and electro artist Vector Lovers has died",
+     "link": "https://mixmag.net/read/celebrated-idm-electro-artist-vector-lovers-died-news",
+     "published": null,
+     "summary": "His affiliate label Soma Records remember Vector Lovers as a “very talented producer” Continue reading..."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s39",
+   "label": "Warehouse Project taking fallow year in 2027",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "business",
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "The Warehouse Project is taking a fallow year in 2027",
+     "link": "https://mixmag.net/read/manchester-warehouse-project-taking-fallow-year-break-2027-news",
+     "published": null,
+     "summary": "The Manchester club series will take a “short breather” after celebrating its 20th anniversary Continue reading..."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 40
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched": 100,
+   "kept": 29
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Dancing Astronaut",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://dancingastronaut.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched": 2,
+   "kept": 0
+  },
+  {
+   "name": "Magnetic Magazine",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.magneticmag.com/feed/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched": 100,
+   "kept": 10
+  },
+  {
+   "name": "Run The Trap",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://runthetrap.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 0
+  },
+  {
+   "name": "Stereogum",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.stereogum.com/feed/",
+   "fetched": 40,
+   "kept": 5
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 14
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 0
+  },
+  {
+   "name": "Uproxx Music",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://uproxx.com/music/feed/",
+   "fetched": 50,
+   "kept": 0
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched": 100,
+   "kept": 13
+  },
+  {
+   "name": "HipHopDX",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://hiphopdx.com/rss/news.xml",
+   "fetched": 16,
+   "kept": 0
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 0
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Rap-Up",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChwgB3XD2h__UI3bjOk_4Fg",
+   "fetched": 15,
+   "kept": 2
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Okayplayer",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aokayplayer.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched": 7,
+   "kept": 1
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  }
+ ],
+ "cost": {
+  "usd": 0.2045,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 10834,
+    "output_tokens": 3467
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 9609,
+    "output_tokens": 3748
+   },
+   {
+    "model": "claude-sonnet-5-5",
+    "input_tokens": 9609,
+    "output_tokens": 4368
+   }
+  ]
+ }
+}
