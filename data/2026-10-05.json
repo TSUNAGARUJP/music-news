@@ -1,0 +1,883 @@
+{
+ "date": "2026-10-05",
+ "generated_at": "2026-10-05T02:45:58.252968+00:00",
+ "article_count": 47,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日はPOPの大型ニュースが中心で、Taylor Swiftのチャート返り咲きやShakira×Dua Lipaの共演など、見せやすい話題が揃った。Dance関連の候補はなく、Hip-Hopはコラボ作の情報やイベントでのトラブルなど、詳細が不確かな話題が多い。",
+  "top": [
+   {
+    "id": "s1",
+    "title_ja": "『The Life of a Showgirl』が全米1位に返り咲き",
+    "genre": "POP",
+    "summary_ja": "Taylor Swiftのアルバム『The Life of a Showgirl』が、拡張版「Encore」エディションのリリースを受けてBillboard 200で1位に返り咲いた。1位は1月以来で、通算13週目の首位と報じられている。同週にはTinasheとKenny ChesneyもTOP10に初登場した。",
+    "why_ja": "BillboardとVarietyの2媒体が報じている。YouTube Musicの米国チャートでは「Cleveland!」のリリックビデオが7位に入っている。",
+    "line_point": "Taylor Swift『The Life of a Showgirl』がEncore版で全米1位に返り咲き、通算13週目",
+    "reels": [
+     {
+      "hook": "1月ぶりにまた全米1位！",
+      "angle": "Billboard 200の推移を図解し、拡張版Encoreで返り咲いた流れと通算13週目の首位の重みを30秒で解説"
+     },
+     {
+      "hook": "再発盤で1位に戻れるって知ってた？",
+      "angle": "拡張版のリリースがチャートを押し上げた事例として紹介。同週TOP10入りのTinasheとKenny Chesneyにも触れる"
+     }
+    ]
+   },
+   {
+    "id": "s3",
+    "title_ja": "Ed Sheeran公演の前座に元The FrayのIsaac Slade",
+    "genre": "POP",
+    "summary_ja": "Ed SheeranのLoop Tourアトランタ公演（10月3日、Mercedes-Benz Stadium）で、The Frayの元ボーカルIsaac Sladeがオープニングを務めた。Rolling Stoneは、Macklemoreが外れ、サポートアクトが降板した後の起用だったと報じている。",
+    "why_ja": "BillboardとRolling Stoneの2大メディアが、前座交代の経緯も含めて報じている。",
+    "line_point": "Ed Sheeranアトランタ公演、前座交代を経て元The FrayのIsaac Sladeが登場",
+    "reels": [
+     {
+      "hook": "Ed Sheeranの前座に、まさかの人",
+      "angle": "Isaac Sladeが元The Frayのボーカルであることを紹介し、スタジアム公演の前座に起用されたサプライズ感を伝える"
+     },
+     {
+      "hook": "前座が次々降板、その後どうなった？",
+      "angle": "Macklemoreが外れ、サポートアクトが降板したと報じられた経緯を時系列で整理する。理由は断定せず、報じられた事実だけを伝える"
+     }
+    ]
+   },
+   {
+    "id": "s0",
+    "title_ja": "Shakiraのマドリード公演、Amazon Music配信で記録",
+    "genre": "POP",
+    "summary_ja": "Shakiraのマドリード公演が、Amazon Musicのライブ配信で記録を樹立したとBillboardが報じた。この公演にはDua Lipaがサプライズゲストとして登場し、同プラットフォームでライブ配信した女性アーティストとして節目となる記録とされている。このレジデンシー公演には、Laura PausiniやAlejandro Sanzらもゲスト出演している。",
+    "why_ja": "Billboardが配信記録として報じている。日本でも名前が通じるDua Lipaのサプライズ出演があり、リールで目を引きやすい組み合わせ。",
+    "line_point": "Shakiraマドリード公演がAmazon Music配信で記録、Dua Lipaがサプライズ出演",
+    "reels": [
+     {
+      "hook": "Shakira×Dua Lipa、まさかの共演",
+      "angle": "Dua Lipaがサプライズで登場した場面を軸に、この公演がAmazon Musicの配信記録を達成したことを紹介する"
+     },
+     {
+      "hook": "このステージ、ゲストが豪華すぎる",
+      "angle": "マドリードのレジデンシーに登場したDua Lipa、Laura Pausini、Alejandro Sanzらのゲストをリスト形式で紹介する"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [],
+   "POP": [],
+   "Hip-Hop": [
+    {
+     "id": "s10",
+     "title_ja": "Playboi Carti×Young Thugのコラボ作が出現？",
+     "note": "CartiとYoung Thugのコラボアルバムとされる作品が出現したと報じられている"
+    },
+    {
+     "id": "s9",
+     "title_ja": "LUCKI、ComplexConでの乱闘で首を負傷",
+     "note": "LUCKIがComplexConでの乱闘で首を負傷し、回復中と報じられている"
+    }
+   ]
+  }
+ },
+ "compare": {
+  "model": "claude-sonnet-5-5",
+  "overview": "今日はPOP系が強く、Taylor Swiftのチャート首位返り咲き、ShakiraのMadrid公演にDua Lipaがサプライズ登場、Ed Sheeranのツアー裏話の3件をtopにした。Hip-Hopは未確認情報を含む話題が多く、runners_upにとどめた。Danceの候補は今日はなし。",
+  "top": [
+   {
+    "id": "s1",
+    "title_ja": "Taylor Swift、Encore版で新作が全米アルバム1位に返り咲き",
+    "genre": "POP",
+    "summary_ja": "Taylor Swiftの「The Life of a Showgirl」が、Billboard 200で1月以来となる1位に戻った。拡張版「Encore」の発売が後押しし、通算13週目の首位だとBillboardが報じている。同じ週にTinashe and Kenny Chesneyがトップ10デビューした。",
+    "why_ja": "BillboardとVarietyの2媒体が報じている。YouTube Musicの米国チャートでも「Taylor Swift - Cleveland! (Official Lyric Video)」が7位に入っている。",
+    "line_point": "Taylor Swift新作がEncore版で1月ぶりに全米1位へ返り咲き",
+    "reels": [
+     {
+      "hook": "Taylor、1月ぶりに1位奪還！",
+      "angle": "Billboard 200の動きを図で見せ、Encore版が後押ししたと解説。Cleveland!のリリックビデオを挟む。"
+     },
+     {
+      "hook": "Taylor、通算13週目の1位に",
+      "angle": "「13週目」の数字を大きく出し、Tinashe・Kenny Chesneyのトップ10デビューも添えて今週のチャートを30秒で紹介。"
+     }
+    ]
+   },
+   {
+    "id": "s0",
+    "title_ja": "Shakira、Madrid公演にDua Lipaがサプライズ登場 配信記録も",
+    "genre": "POP",
+    "summary_ja": "ShakiraのMadrid公演にDua Lipaがサプライズゲストとして登場した。このライブはAmazon Musicで配信され、女性アーティストのライブ配信として記録を打ち立てたとBillboardが報じている。レジデンシー公演にはLaura PausiniやAlejandro Sanzらもゲストで出演している。",
+    "why_ja": "報じたのはBillboardの1媒体だが、Dua Lipaのサプライズ登場に配信記録が重なり、ゲスト一覧が随時更新されるほどの規模になっている。",
+    "line_point": "ShakiraのMadrid公演にDua Lipaがサプライズ登場、配信記録も",
+    "reels": [
+     {
+      "hook": "Dua Lipaがまさかのサプライズ登場",
+      "angle": "使える映像があればDua Lipa登場の場面を見せ、Amazon Musicの配信記録のニュースで締める。"
+     },
+     {
+      "hook": "Shakiraのステージ、ゲストが豪華すぎ",
+      "angle": "Laura Pausini、Alejandro Sanz、Dua Lipaなどゲストをテロップで順に紹介し、レジデンシーの規模感を伝える。"
+     }
+    ]
+   },
+   {
+    "id": "s3",
+    "title_ja": "Ed Sheeran、Atlanta公演のオープニングにIsaac Slade起用",
+    "genre": "POP",
+    "summary_ja": "Ed SheeranのLoop Tour、Atlanta公演（Mercedes-Benz Stadium、Oct. 3）のオープニングに、The Frayの元シンガーIsaac Sladeが起用された。Macklemoreが外れ、ほかのサポートアクトも降りたと報じられている。",
+    "why_ja": "BillboardとRolling Stoneの2媒体が報じている。サポートアクトが相次いで降りたと伝えられ、ツアーの舞台裏として注目されている。",
+    "line_point": "Ed SheeranのAtlanta公演、前座は元The FrayのIsaac Sladeに",
+    "reels": [
+     {
+      "hook": "Ed Sheeranの前座、まさかの人選",
+      "angle": "Macklemoreが外れ、Isaac Sladeに決まるまでの流れを時系列で整理。事情は報道ベースと断りを入れる。"
+     },
+     {
+      "hook": "The Frayのあの声が前座に登場",
+      "angle": "The Frayの代表曲とIsaac Sladeを簡単に紹介し、Ed SheeranのLoop Tourとのつながりを伝える。"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [],
+   "POP": [],
+   "Hip-Hop": [
+    {
+     "id": "s10",
+     "title_ja": "Playboi CartiとYoung Thugのコラボ作が突如登場と報道",
+     "note": "Playboi CartiとYoung Thugのコラボ作が出たと報じられるが、詳細は未確認。"
+    },
+    {
+     "id": "s9",
+     "title_ja": "LUCKIがComplexConの乱闘で負傷と報道",
+     "note": "LUCKIがComplexConで首に負傷、Carti陣営の関与は噂の段階。"
+    }
+   ]
+  }
+ },
+ "candidates": [
+  {
+   "id": "s9",
+   "label": "LUCKI injured in ComplexCon brawl with alleged Playboi Carti camp",
+   "artists": [
+    "LUCKI",
+    "Playboi Carti"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "health",
+   "outlets": [
+    "AllHipHop",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-04T20:57:47+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Complex Issues Statement On LUCKI’s Bloody ComplexCon Fight",
+     "link": "https://www.hotnewhiphop.com/1012023-complex-statement-lucki-complexcon",
+     "published": "2026-10-04T20:57:47+00:00",
+     "summary": "Complex did not name LUCKI in their statement and did not speak on rumors and allegations claiming the fight was with Playboi Carti's camp. The post Complex Issues Statement On LUCKI’s Bloody ComplexCon Fight appeared first on HotNewHipHop "
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "LUCKI Is Recovering From Neck Wound After ComplexCon Brawl",
+     "link": "https://www.hotnewhiphop.com/1012012-lucki-recovering-neck-wound-complexcon-brawl",
+     "published": "2026-10-04T19:50:43+00:00",
+     "summary": "LUCKI suffered a neck wound at ComplexCon that left him bleeding, and folks continue to allege Playboi Carti's Opium was involved. The post LUCKI Is Recovering From Neck Wound After ComplexCon Brawl appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Lucki Recovering After Violent ComplexCon Attack As Details Emerge",
+     "link": "https://allhiphop.com/news/lucki-recovering-after-violent-complexcon-attack-as-details-emerge/",
+     "published": "2026-10-04T17:01:10+00:00",
+     "summary": "Sources near Lucki say the Hip-Hop star is okay following violence at ComplexCon's anniversary event in Los Angeles."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "fg81CeuJ4u0",
+    "title": "Lucki BLOODIED After ComplexCon Brawl — What Happened?",
+    "channel": " C News",
+    "published": "2026-10-04T09:15:52Z",
+    "hours_since": 17,
+    "views": 9,
+    "url": "https://www.youtube.com/watch?v=fg81CeuJ4u0",
+    "views_per_hour": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Taylor Swift's Encore edition returns album to No. 1",
+   "artists": [
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "chart",
+   "outlets": [
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-04T21:17:51+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Taylor Swift’s ‘Encore’ Edition Boosts ‘The Life of a Showgirl’ Back to No. 1 for First Time Since January, Adding a 13th Week on Top",
+     "link": "https://variety.com/2026/music/news/taylor-swift-showgirl-encore-album-chart-number-one-1236898681/",
+     "published": "2026-10-04T21:17:51+00:00",
+     "summary": "Taylor Swift’s “The Life of a Showgirl” returned to the No. 1 spot on the Billboard 200 album chart after last vacating that position in January, thanks to the release of an expanded edition titled “The Life of a Showgirl: The Encore” with "
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Taylor Swift’s ‘The Life of a Showgirl’ Returns to No. 1 After ‘Encore’ Reissue",
+     "link": "https://www.billboard.com/music/chart-beat/taylor-swift-life-of-a-showgirl-no-1-encore-1236353941/",
+     "published": "2026-10-04T21:00:07+00:00",
+     "summary": "Plus, Tinashe and Kenny Chesney debut in the top 10."
+    }
+   ],
+   "chart": [
+    {
+     "id": "V-uIp-WuD60",
+     "title": "Patient Zero",
+     "channel": "Taylor Swift - Topic",
+     "published": "2026-09-25T04:02:10Z",
+     "hours_since": 239,
+     "views": 7314318,
+     "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
+     "region": "US",
+     "rank": 2
+    },
+    {
+     "id": "jfVVXYTZykw",
+     "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
+     "channel": "Taylor Swift",
+     "published": "2026-09-26T00:01:38Z",
+     "hours_since": 219,
+     "views": 4765251,
+     "url": "https://www.youtube.com/watch?v=jfVVXYTZykw",
+     "region": "US",
+     "rank": 7
+    }
+   ],
+   "video": {
+    "id": "V-uIp-WuD60",
+    "title": "Patient Zero",
+    "channel": "Taylor Swift - Topic",
+    "published": "2026-09-25T04:02:10Z",
+    "hours_since": 239,
+    "views": 7314318,
+    "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
+    "region": "US",
+    "rank": 2
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Ed Sheeran enlists Isaac Slade for Atlanta tour date",
+   "artists": [
+    "Ed Sheeran",
+    "Isaac Slade"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "outlets": [
+    "Billboard",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-04T18:37:30+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Ed Sheeran Enlists the Fray’s Former Singer Isaac Slade to Open Atlanta Show",
+     "link": "https://www.rollingstone.com/music/music-news/ed-sheeran-the-fray-singer-isaac-slade-open-atlanta-show-1235636635/",
+     "published": "2026-10-04T18:37:30+00:00",
+     "summary": "\"We will find a way through this together,\" singer says as special guest for latest Loop Tour concert"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Ed Sheeran Taps Former Fray Singer Isaac Slade as Atlanta Opener After Macklemore Dropped, Support Acts Quit",
+     "link": "https://www.billboard.com/music/music-news/ed-sheeran-isaac-slade-fray-atlanta-opener-macklemore-1236353911/",
+     "published": "2026-10-04T16:53:01+00:00",
+     "summary": "Sheeran's Loop Tour visited Mercedes-Benz Stadium on Oct. 3."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Shakira Madrid concert sets Amazon Music livestream record",
+   "artists": [
+    "Shakira",
+    "Dua Lipa"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-05T00:42:16+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Shakira’s Madrid Concert Sets an Amazon Music Livestreaming Record",
+     "link": "https://www.billboard.com/music/latin/shakira-madrid-concert-livestream-amazon-music-record-1236353979/",
+     "published": "2026-10-05T00:42:16+00:00",
+     "summary": "Shakira's show, featuring surprise guest Dua Lipa, marked a milestone for female artists who've livestreamed performances on the platform."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "All the Guests at Shakira’s Madrid Residency (Updating)",
+     "link": "https://www.billboard.com/lists/shakiras-madrid-residency-guests-list/",
+     "published": "2026-10-04T23:27:34+00:00",
+     "summary": "Laura Pausini, Alejandro Sanz, Dua Lipa and more: These are the artists who have joined the Colombian superstar onstage at Shakira Stadium."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Jooselord launches 33-artist festival honoring late son",
+   "artists": [
+    "Jooselord"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "festival",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T23:02:10+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Jooselord Turns Grief Into Purpose After Son Dies Of Brain Cancer",
+     "link": "https://allhiphop.com/news/jooselord-turns-grief-into-purpose-after-son-dies-of-brain-cancer/",
+     "published": "2026-10-04T23:02:10+00:00",
+     "summary": "Jooselord channels his grief into a free 33-artist festival across Durham to support families battling childhood illness and honor his late son Onyx."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "Too $hort apologizes for plans to attend Diddy party",
+   "artists": [
+    "Too $hort"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T22:05:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Too $hort Apologizes After Backlash Over Plans To Attend Diddy Party",
+     "link": "https://allhiphop.com/news/too-hort-apologizes-after-backlash-over-plans-to-attend-diddy-party/",
+     "published": "2026-10-04T22:05:00+00:00",
+     "summary": "Too $hort apologizes for his Diddy party remarks, saying he learned more about the abuse claims and regrets hurting survivors."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Playboi Carti and Young Thug surprise collab album emerges",
+   "artists": [
+    "Playboi Carti",
+    "Young Thug"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T21:51:38+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Playboi Carti & Young Thug Just Dropped A Collab Album… Sort Of",
+     "link": "https://www.hotnewhiphop.com/1012028-playboi-carti-young-thug-collab-album",
+     "published": "2026-10-04T21:51:38+00:00",
+     "summary": "Playboi Carti and Young Thug have collaborated in the past, but fans were still surprised when this alleged collab album emerged. The post Playboi Carti & Young Thug Just Dropped A Collab Album… Sort Of appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "Anthony Anderson to host Soul Train Awards 2026",
+   "artists": [
+    "Anthony Anderson"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "award",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T21:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Anthony Anderson To Return To Chicago To Host Soul Train Awards 2026",
+     "link": "https://allhiphop.com/news/anthony-anderson-to-return-to-chicago-to-host-soul-train-awards-2026/",
+     "published": "2026-10-04T21:30:00+00:00",
+     "summary": "Anthony Anderson Returns To Chicago As Soul Train Awards 2026 Embrace Don Cornelius’ Lasting Cultural Heritage."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "_ISXmJq7FVs",
+    "title": "Anthony Anderson hosting this year soul train awards and Diddy has been put in solitary confinement",
+    "channel": "Patty Jackson",
+    "published": "2026-10-01T21:38:46Z",
+    "hours_since": 77,
+    "views": 10625,
+    "url": "https://www.youtube.com/watch?v=_ISXmJq7FVs",
+    "views_per_hour": 138
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "Chance the Rapper considering changing name to The Rapper",
+   "artists": [
+    "Chance the Rapper"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "Consequence"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-04T19:01:11+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Chance the Rapper Is Considering Changing His Name to Just “The Rapper”",
+     "link": "https://consequence.net/2026/10/chance-the-rapper-name-change-the-rapper/",
+     "published": "2026-10-04T19:01:11+00:00",
+     "summary": "After years of hearing that he should drop The Rapper, Chance says he may do the opposite and lose the first half of his name instead. Chance the Rapper Is Considering Changing His Name to Just “The Rapper” Alex Krinsky"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "3pZmXqIyPlQ",
+    "title": "Chance the Rapper Reveals the Surprising Stage Name Change He's Considering",
+    "channel": "Celeb Current",
+    "published": "2026-10-03T17:27:18Z",
+    "hours_since": 33,
+    "views": 4,
+    "url": "https://www.youtube.com/watch?v=3pZmXqIyPlQ",
+    "views_per_hour": 0
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Sass Jordan, Canadian Idol judge, dies at 65",
+   "artists": [
+    "Sass Jordan"
+   ],
+   "genre": "Other",
+   "kind": "death",
+   "outlets": [
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-04T20:24:59+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Sass Jordan, Rock Singer and ‘Canadian Idol’ Judge, Dies at 65",
+     "link": "https://www.billboard.com/music/music-news/sass-jordan-death-canadian-rock-singer-dies-obituary-1236353927/",
+     "published": "2026-10-04T20:24:59+00:00",
+     "summary": "The rock and blues singer won a Juno Award in 1989 and went on to serve as a judge on Canadian Idol for all six seasons."
+    },
+    {
+     "outlet": "Variety",
+     "title": "Sass Jordan, Singer and Longtime ‘Canadian Idol’ Judge, Dies at 65",
+     "link": "https://variety.com/2026/music/people-news/sass-jordan-dead-canadian-idol-singer-1236898644/",
+     "published": "2026-10-04T17:37:12+00:00",
+     "summary": "Sass Jordan, the singer, songwriter and longtime “Canadian Idol” judge, died on Oct. 2. She was 65. Her family confirmed her death, noting that she “died peacefully” and was “surrounded by those who loved her most.” They remembered her as “"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s2",
+   "label": "Zach Bryan breaks Gillette Stadium attendance record",
+   "artists": [
+    "Zach Bryan"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "outlets": [
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-04T18:28:37+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Zach Bryan Breaks Gillette Stadium Attendance Record While Wearing ‘Free Palestine’ Shirt Again",
+     "link": "https://www.billboard.com/music/music-news/zach-bryan-gillette-attendance-record-free-palestine-shirt-1236353916/",
+     "published": "2026-10-04T18:28:37+00:00",
+     "summary": "The country star set the record at the Foxborough, Mass., venue on Oct. 4, after performing there the night before."
+    },
+    {
+     "outlet": "Variety",
+     "title": "Zach Bryan Breaks Attendance Record at Robert Kraft’s Gillette Stadium While Wearing ‘Free Palestine’ Shirt for Second Night in a Row",
+     "link": "https://variety.com/2026/music/news/zach-bryan-breaks-record-kraft-free-palestine-1236898609/",
+     "published": "2026-10-04T16:09:22+00:00",
+     "summary": "Zach Bryan broke the attendance record at Robert Kraft’s Gillette Stadium on Saturday night, performing for 73,538 fans — the largest crowd for any event in the venue’s history — while wearing a “Free Palestine” shirt for the second night i"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s5",
+   "label": "Bruce Springsteen covers Neil Young at Power to the People fest",
+   "artists": [
+    "Bruce Springsteen",
+    "Neil Young",
+    "Dave Grohl"
+   ],
+   "genre": "Other",
+   "kind": "festival",
+   "outlets": [
+    "Rolling Stone",
+    "Stereogum"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-04T17:49:00+00:00",
+   "articles": [
+    {
+     "outlet": "Stereogum",
+     "title": "Power To The People: Bruce Springsteen Covers Protest Songs, Dave Grohl Shouts Out Jack Smith, Tom Morello Reveals He “Certainly Did Not” Vote For Kamala Harris",
+     "link": "https://stereogum.com/2513535/power-to-the-people-bruce-springsteen-covers-protest-songs-dave-grohl-shouts-out-jack-smith-tom-morello-reveals-he-certainly-did-not-vote-for-kamala-harris/news/",
+     "published": "2026-10-04T17:49:00+00:00",
+     "summary": "Tom Morello's Power To The People took place at Merriweather Post Pavilion in Columbia, MD, on Saturday (October 3). Proceeds from the one-day event benefit VoteRiders and HeadCount, and it was livestreamed on MS NOW's YouTube channel. But "
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "See Bruce Springsteen Cover Neil Young With Dave Grohl at Power to the People Fest",
+     "link": "https://www.rollingstone.com/music/music-news/bruce-springsteen-neil-young-dave-grohl-power-to-the-people-1235636624/",
+     "published": "2026-10-04T15:36:43+00:00",
+     "summary": "Dave Matthews and Tom Morello also join in for \"Rockin' in the Free World\" at Maryland festival"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s8",
+   "label": "Turnstile makes SNL debut ending 45-year hardcore drought",
+   "artists": [
+    "Turnstile",
+    "Taylor Swift"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "Consequence",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-04T15:09:33+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Turnstile and Taylor Swift Shared the SNL Stage Last Night",
+     "link": "https://pitchfork.com/story/turnstile-and-taylor-swift-both-dropped-by-snl-last-night/",
+     "published": "2026-10-04T15:09:33+00:00",
+     "summary": "The Baltimore hardcore band were last night’s musical guest, and Swift made a surprise appearance during host Dakota Johnson’s monologue"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Turnstile’s SNL Debut Ends a 45 Year Drought of Hardcore on the Show",
+     "link": "https://consequence.net/2026/10/turnstile-snl-performance/",
+     "published": "2026-10-04T13:39:14+00:00",
+     "summary": "The Baltimore band performed \"BIRDS\" and \"I CARE\"/\"DULL\" as Taylor Swift looked on. Turnstile’s SNL Debut Ends a 45 Year Drought of Hardcore on the Show Travis Bland"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 0
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Dancing Astronaut",
+   "genre": "Dance",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "Magnetic Magazine",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.magneticmag.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "Run The Trap",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://runthetrap.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 1
+  },
+  {
+   "name": "Stereogum",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.stereogum.com/feed/",
+   "fetched": 40,
+   "kept": 1
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 5
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 0
+  },
+  {
+   "name": "Uproxx Music",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://uproxx.com/music/feed/",
+   "fetched": 50,
+   "kept": 0
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "HipHopDX",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://hiphopdx.com/rss/news.xml",
+   "fetched": 16,
+   "kept": 0
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 0
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Rap-Up",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChwgB3XD2h__UI3bjOk_4Fg",
+   "fetched": 15,
+   "kept": 2
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Okayplayer",
+   "genre": "Hip-Hop",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  }
+ ],
+ "cost": {
+  "usd": 0.1807,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 3747,
+    "output_tokens": 1173
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 4533,
+    "output_tokens": 4756
+   },
+   {
+    "model": "claude-sonnet-5-5",
+    "input_tokens": 4533,
+    "output_tokens": 4877
+   }
+  ]
+ }
+}
