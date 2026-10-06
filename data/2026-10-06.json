@@ -1,0 +1,1588 @@
+{
+ "date": "2026-10-06",
+ "generated_at": "2026-10-06T02:45:44.449205+00:00",
+ "article_count": 220,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "Taylor SwiftのEncore関連曲がHot 100上位を占め、Primavera Sound 2027のラインナップ発表も多くの媒体が報じた。Hip-HopではComplexConでの乱闘やDrakeのグラミー不応募など、作品以外のニュースも目立つ。",
+  "top": [
+   {
+    "id": "s15",
+    "title_ja": "Taylor Swift「Patient Zero」がHot 100初登場1位",
+    "genre": "POP",
+    "summary_ja": "Taylor Swiftの「Patient Zero」がBillboard Hot 100で初登場1位を獲得した。『The Life of a Showgirl: The Encore』の新曲で、Taylorにとって16曲目の全米1位と報じられている。Ella Langleyの「Choosin' Texas」を1位から押し出し、トップ5のうち4枠をEncore収録曲が占めた。",
+    "why_ja": "Billboard、Rolling Stone、Varietyの3媒体が報道。「Patient Zero」の動画は7,598,696回再生で、YouTube MusicチャートではGB 4位に入っている。",
+    "line_point": "Taylor「Patient Zero」がHot 100初登場1位。通算16曲目、トップ5の4枠をEncore曲が占める",
+    "reels": [
+     {
+      "hook": "トップ5のうち4曲がTaylor!?",
+      "angle": "Hot 100のトップ5をカウントダウン形式で表示し、4枠がEncore曲だと明かす。最後に16曲目の全米1位であることを強調する"
+     },
+     {
+      "hook": "Taylorの全米1位、これで16曲目",
+      "angle": "1位獲得曲数をテロップで積み上げて見せる。アルバム1位返り咲きの続報として、Encoreの影響をシングルチャート目線で解説する"
+     }
+    ]
+   },
+   {
+    "id": "s29",
+    "title_ja": "Primavera Sound 2027ラインナップ発表、25周年",
+    "genre": "Other",
+    "summary_ja": "Primavera Sound Barcelona 2027のラインナップが発表され、Turnstile、Doechii、Phoebe Bridgers、Fontaines D.C.、Robynらが名を連ねた。25周年の開催で、Massive Attack、FKA twigs、Caroline Polachekらもヘッドライナーとして報じられている。ただし、主要アーティストとして挙げる顔ぶれは媒体によって異なる。",
+    "why_ja": "Billboard、NME、Pitchfork、Rolling Stoneなど6媒体が報道。出演するFontaines D.C.の「Tongue」MVはYouTube MusicチャートGB 10位、679,818回再生。",
+    "line_point": "Primavera Sound 2027発表！Doechii、Phoebe Bridgers、Massive Attackらが25周年を飾る",
+    "reels": [
+     {
+      "hook": "25周年のPrimavera、豪華すぎる",
+      "angle": "ポスター風に出演者を1組ずつ表示し、日本でも知名度の高いDoechiiやPhoebe Bridgersを中心に紹介する。チケット詳細は公式サイトの確認を促す"
+     },
+     {
+      "hook": "このフェス、DJ目線でも熱い",
+      "angle": "Massive Attack、Robyn、FKA twigsなどの出演者をピックアップし、スクール生向けに予習プレイリスト風に紹介する"
+     }
+    ]
+   },
+   {
+    "id": "s14",
+    "title_ja": "Drake、2027年グラミーに3作品とも応募せずと報道",
+    "genre": "Hip-Hop",
+    "summary_ja": "Drakeが3枚のアルバムをいずれも2027年のグラミー賞に応募しないと報じられている。HotNewHipHopは『ICEMAN』も応募しなかったと伝えた。Drakeが賞レースへの応募を見送るのは初めてではないとされる。",
+    "why_ja": "Rolling StoneとHotNewHipHopが報道。関連動画「Solar Eclipse」は1,584,270回再生で、YouTube MusicチャートUS 2位（「Quebec」も5位）に入っている。",
+    "line_point": "Drakeが新作3枚とも2027年グラミーに応募せずと報道。『ICEMAN』も対象外に",
+    "reels": [
+     {
+      "hook": "Drake、グラミーをまたスルー？",
+      "angle": "報道の見出しを画面に出し、3作品を出しながら応募しない点を強調する。過去にも見送った経緯に触れ、賛否をコメント欄で募る"
+     },
+     {
+      "hook": "賞より数字？Drakeの今",
+      "angle": "YouTube MusicチャートUS 2位「Solar Eclipse」と5位「Quebec」の順位を表示し、賞レースと人気の対比で構成する"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s10",
+     "title_ja": "Slayyyter、新作『Wor$t Man in America』発表",
+     "note": "前作の「兄弟作」となる9曲入りアルバムを発表。6媒体が報道。"
+    },
+    {
+     "id": "s76",
+     "title_ja": "ACL 2026レポ、Skrillexと泥んこダンス",
+     "note": "EDM.comが、SkrillexやLordeが出演したACL 2026の様子をレポートした。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s8",
+     "title_ja": "Tinashe『Popstar』が自身最大のBillboard 200初登場",
+     "note": "自身最大のBillboard 200初登場を記録し、Xで喜びを投稿した。"
+    },
+    {
+     "id": "s23",
+     "title_ja": "Carly Rae Jepsen、『Day and Night』B-Sides発表",
+     "note": "2枚組アルバム関連の新たな8曲を金曜にリリースすると報じられている。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s17",
+     "title_ja": "ComplexConで乱闘、Luckiが負傷と報道",
+     "note": "ComplexCon外の乱闘でLuckiが首を負傷し、4人が負傷。LAPDが捜査中と報道。"
+    },
+    {
+     "id": "s12",
+     "title_ja": "Jay-Zの投資会社、Fenty Beauty株50%取得へ交渉",
+     "note": "MarcyPenがLVMH保有のFenty Beauty株の取得を交渉中と報じられている。"
+    }
+   ]
+  }
+ },
+ "compare": {
+  "model": "claude-sonnet-5-5",
+  "overview": "今日はTaylor SwiftのHot 100首位、Primavera Sound 2027のラインナップ発表、Slayyyterの新作発表が中心。Hip-HopはComplexCon周辺の騒動が多く報じられている。",
+  "top": [
+   {
+    "id": "s29",
+    "title_ja": "Primavera Sound 2027のラインナップ発表、Turnstile・Doechiiら",
+    "genre": "Other",
+    "summary_ja": "Primavera Sound Barcelona 2027のラインナップが発表された。Turnstile、Doechii、Phoebe Bridgers、Fontaines D.C.、Robynらが名を連ねると報じられている。25周年の開催で、見出しによって挙げられるヘッドライナーが異なる。",
+    "why_ja": "Billboard、NME、Pitchfork、Rolling Stone、Stereogum、The Faderの6媒体が報じた。Fontaines D.C.の「Tongue」のMVは131時間で約68万回再生され、UKのYouTube Musicチャートで10位。",
+    "line_point": "Primavera Sound 2027の出演者発表。Doechii、Robyn、Turnstileら6媒体が報道",
+    "reels": [
+     {
+      "hook": "2027年のフェス、もう発表された",
+      "angle": "ラインナップ画像を1組ずつ見せ、25周年開催という点を添える。Doechii、Robyn、Turnstileは名前を大きなテロップで強調する。"
+     },
+     {
+      "hook": "このバンド、今UKで来てる",
+      "angle": "Fontaines D.C.「Tongue」のMVを流し、約68万回再生とUKチャート10位を紹介。そのまま出演発表につなげる。"
+     }
+    ]
+   },
+   {
+    "id": "s10",
+    "title_ja": "Slayyyter、新作『Wor$t Man in America』を発表",
+    "genre": "Dance",
+    "summary_ja": "Slayyyterが9曲入りの新作『Wor$t Man in America』を発表した。前作『WOR$T GIRL IN AMERICA』のリリースから1年足らずで、“兄弟盤”と位置づけられている。前作の世界観を反転させる、ミラー構成の曲が並ぶと報じられている。",
+    "why_ja": "Billboard、Consequence、Pitchfork、Rolling Stone、Stereogum、Varietyの6媒体が報じた。前作は彼女のブレイク作とされ、その続編として注目されている。",
+    "line_point": "Slayyyterが9曲の新作を発表。前作の“兄弟盤”で6媒体が報道",
+    "reels": [
+     {
+      "hook": "Slayyyter、続編アルバムが来る",
+      "angle": "9曲の新作と前作のミラー構成を、曲名の対比で見せる。「brand new chanel$」「crank 2」を例に挙げる。"
+     },
+     {
+      "hook": "1年足らずで新作はペース速い",
+      "angle": "前作から1年足らずで新作という点を軸に、6媒体が報じたことを紹介。曲名リストをテロップで見せる。"
+     }
+    ]
+   },
+   {
+    "id": "s15",
+    "title_ja": "Taylor Swift「Patient Zero」がHot 100で初登場1位",
+    "genre": "POP",
+    "summary_ja": "Taylor Swiftの「Patient Zero」が、Billboard Hot 100で初登場1位になった。『The Life of a Showgirl: The Encore』の収録曲で、通算16曲目の1位。Ella Langleyの「Choosin' Texas」が首位から外れ、上位5曲のうち4曲がEncore収録曲だと報じられている。",
+    "why_ja": "Billboard、Rolling Stone、Varietyの3媒体が報じた。「Patient Zero」の動画は263時間で約760万回再生され、UKのYouTube Musicチャートで4位。",
+    "line_point": "Taylor Swift「Patient Zero」がHot 100初登場1位。通算16曲目",
+    "reels": [
+     {
+      "hook": "Taylor、また全米1位を取った",
+      "angle": "Hot 100上位5曲中4曲がEncore収録曲という報道を、順位表のグラフィックで見せる。Ella Langleyの首位交代にも触れる。"
+     },
+     {
+      "hook": "通算16曲目の1位、知ってた？",
+      "angle": "「Patient Zero」の動画を流しながら、通算16曲目のNo.1を数字で紹介する。約760万回再生という数字も補足する。"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s19",
+     "title_ja": "InsomniacがMiamiのClub Space等に和解後も関与",
+     "note": "InsomniacがMiamiのClub SpaceとFactory Townに関与を続けると報道"
+    },
+    {
+     "id": "s76",
+     "title_ja": "ACL 2026のSkrillexやLordeと泥のダンスパーティー",
+     "note": "ACL 2026のSkrillexやLordeのステージと、泥の中のダンスパーティー"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s23",
+     "title_ja": "Carly Rae Jepsen、Day and NightのB面8曲を配信",
+     "note": "Carly Rae JepsenがDay and Nightの未収録8曲を今週金曜に配信"
+    },
+    {
+     "id": "s8",
+     "title_ja": "Tinashe『Popstar』が自己最高のBillboard 200デビュー",
+     "note": "Tinashe『Popstar』が自己最高のBillboard 200初登場と報道"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s17",
+     "title_ja": "ComplexCon後にLuckiが負傷、LAPDが捜査",
+     "note": "ComplexCon周辺の乱闘でLuckiが負傷、LAPDが捜査と報じられている"
+    },
+    {
+     "id": "s14",
+     "title_ja": "Drake、2027年Grammyに3作とも提出せずと報道",
+     "note": "Drakeが3作のアルバムを2027年Grammyに提出しないと報じられている"
+    }
+   ]
+  }
+ },
+ "candidates": [
+  {
+   "id": "s29",
+   "label": "Primavera Sound Barcelona 2027 lineup announced",
+   "artists": [
+    "Turnstile",
+    "Doechii",
+    "Phoebe Bridgers",
+    "Fontaines D.C.",
+    "Robyn"
+   ],
+   "genre": "Other",
+   "kind": "festival",
+   "outlets": [
+    "Billboard",
+    "NME",
+    "Pitchfork",
+    "Rolling Stone",
+    "Stereogum",
+    "The Fader"
+   ],
+   "n_outlets": 6,
+   "latest": "2026-10-05T19:22:58+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "2027 Primavera Sound Barcelona Lineup Features Turnstile, Doechii & More",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQlRiMHV6QTU3eUppWVNPX2NPUlJSeVhwNDBFbW9QRW92cHZiOUdhSVcxSWdib0prRVliQ2FraW5YOGdoVWZtN0hMRVdmNTZDUVUtTmNuSFBmRTl1dUlUeEFUa1RhZlVqR3p2azJIS1lINWJpNldFSklCeWp6YnJjSWZHOUtwSFI2VkJQb2VSQWRCeDJTNk82aUlZcktGVXp1NndVc2NQSWF6TUc3UV9IUDlIXzQ?oc=5",
+     "published": "2026-10-05T19:22:58+00:00",
+     "summary": "2027 Primavera Sound Barcelona Lineup Features Turnstile, Doechii & More Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Turnstile, Doechii, Phoebe Bridgers, Fontaines D.C., Robyn, Adéla & More Top 2027 Primavera Sound Barcelona Lineup",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcC1adElQMnFxM2U4WVltclZUQk1pZ0xYeEcwbndSMEVCNHlPNkFsOUVXSmhqVkNmQXY0YkY1c21TQ1lnSDNndk1QSjNibzlLU2RzZU5ZZldXaVR3MkR3cHIycVl6NkZPRDVaOV9zQXhmQURpSjAxamJPRW9iZjZQa3RZQ1RKTElSdlBhUlZmU2FTaFM1WWNsMHdGUW5BcEVQV2x3QW1tVDgwdEhtZ2J4Vkhybw?oc=5",
+     "published": "2026-10-05T18:11:15+00:00",
+     "summary": "Turnstile, Doechii, Phoebe Bridgers, Fontaines D.C., Robyn, Adéla & More Top 2027 Primavera Sound Barcelona Lineup Billboard"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Doechii, Phoebe Bridgers, Hayley Williams Lead Primavera Sound Barcelona Lineup",
+     "link": "https://www.rollingstone.com/music/music-news/doechii-phoebe-bridgers-primavera-sound-barcelona-2027-1235636852/",
+     "published": "2026-10-05T17:31:28+00:00",
+     "summary": "Fontaines D.C., FKA twigs, Turnstile, Massive Attack, and Robyn are among those headlining at the fest’s 25th anniversary"
+    },
+    {
+     "outlet": "Stereogum",
+     "title": "Primavera Sound 2027 Lineup Has Phoebe Bridgers, Fontaines D.C., Doechii, More",
+     "link": "https://stereogum.com/2513570/primavera-sound-2027-lineup-has-phoebe-bridgers-fontaines-d-c-doechii-more/news/",
+     "published": "2026-10-05T13:37:01+00:00",
+     "summary": "Barcelona's Primavera Sound Festival , generally known as the most consistent large-scale music festival on the planet, has unveiled the lineup for its 2027 edition. Next year's festival goes down June 3-5 at Parc del Fòrum, and the top thr"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "Primavera 2027: Lineup, ticket details, and what you need to know",
+     "link": "https://www.thefader.com/2026/10/05/primavera-sound-barcelona-2027-lineup-ticket-details-doechii-caroline-polachek-phoebe-bridgers",
+     "published": "2026-10-05T12:02:14-04:00",
+     "summary": "It’s another stacked year."
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Phoebe Bridgers, Massive Attack, Caroline Polachek to Headline Primavera 2027",
+     "link": "https://pitchfork.com/story/phoebe-bridgers-massive-attack-caroline-polachek-to-headline-primavera-2027/",
+     "published": "2026-10-05T10:37:40+00:00",
+     "summary": "Pavement, Robyn, Turnstile, Skrillex, Doechii, Fontaines D.C., FKA twigs, and Hayley Williams are also among the acts"
+    },
+    {
+     "outlet": "NME",
+     "title": "Primavera Sound 2027: Fontaines D.C., Phoebe Bridgers and Doechii lead first names on stacked line-up",
+     "link": "https://www.nme.com/news/music/primavera-sound-2027-lineup-doechii-phoebe-bridgers-fontaines-dc-lead-first-names-3972153?utm_source=rss&utm_medium=rss&utm_campaign=primavera-sound-2027-lineup-doechii-phoebe-bridgers-fontaines-dc-lead-first-names",
+     "published": "2026-10-05T10:30:37+00:00",
+     "summary": "Other huge names so far include Massive Attack, Turnstile, Robyn, FKA Twigs and Hayley Williams The post Primavera Sound 2027: Fontaines D.C., Phoebe Bridgers and Doechii lead first names on stacked line-up appeared first on NME ."
+    }
+   ],
+   "chart": [
+    {
+     "id": "5OsIwKHppho",
+     "title": "Fontaines D.C. - Tongue (Official Video)",
+     "channel": "Fontaines DC",
+     "published": "2026-09-30T16:00:06Z",
+     "hours_since": 131,
+     "views": 679818,
+     "url": "https://www.youtube.com/watch?v=5OsIwKHppho",
+     "region": "GB",
+     "rank": 10
+    }
+   ],
+   "video": {
+    "id": "5OsIwKHppho",
+    "title": "Fontaines D.C. - Tongue (Official Video)",
+    "channel": "Fontaines DC",
+    "published": "2026-09-30T16:00:06Z",
+    "hours_since": 131,
+    "views": 679818,
+    "url": "https://www.youtube.com/watch?v=5OsIwKHppho",
+    "region": "GB",
+    "rank": 10
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Slayyyter announces Wor$t Man in America brother album",
+   "artists": [
+    "Slayyyter"
+   ],
+   "genre": "Dance",
+   "kind": "announcement",
+   "outlets": [
+    "Billboard",
+    "Consequence",
+    "Pitchfork",
+    "Rolling Stone",
+    "Stereogum",
+    "Variety"
+   ],
+   "n_outlets": 6,
+   "latest": "2026-10-06T00:07:44+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "More ‘WOR$T’ Is on the Way: Slayyyter’s ‘WOR$T MAN IN AMERICA’ Album Is Coming",
+     "link": "https://www.billboard.com/music/pop/slayyyter-worst-man-in-america-album-announced-1236354667/",
+     "published": "2026-10-06T00:07:44+00:00",
+     "summary": "The nine-track project arrives less than a year after her breakout third album, WOR$T GIRL IN AMERICA ."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Slayyyter Is Ready to Give ‘Wor$t Girl in America’ the ‘Brother’ Album it Deserves",
+     "link": "https://www.rollingstone.com/music/music-news/slayyyter-worst-man-in-america-album-release-date-1235637079/",
+     "published": "2026-10-05T20:10:07+00:00",
+     "summary": "Wor$t Man in America will feature nine new songs, all of which connect thematically or sonically to the tracks on the musician's breakout 2026 LP"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Slayyyter Announces New Album wor$t man in america",
+     "link": "https://consequence.net/2026/10/slayyyter-worst-man-in-america-new-album/",
+     "published": "2026-10-05T19:49:38+00:00",
+     "summary": "The new project flips the world of WOR$T GIRL IN AMERICA through a series of mirrored songs, including “brand new chanel$” and “crank 2.” Slayyyter Announces New Album wor$t man in america Alex Krinsky"
+    },
+    {
+     "outlet": "Stereogum",
+     "title": "Slayyyter Announces New Album Wor$t Man In America",
+     "link": "https://stereogum.com/2513658/slayyyter-announces-new-album-wort-man-in-america/music/",
+     "published": "2026-10-05T19:29:33+00:00",
+     "summary": "In March, Slayyyter unleashed WOR$T GIRL IN AMERICA , which topped our list of the best albums of the year so far . Now, the sleazy star is announcing its brother album, Wor$t Man In America , out in December. The post Slayyyter Announces N"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Slayyyter to Release ‘Brother Album’ to ‘Wor$t Girl in America’: ‘Wor$t Man in America’",
+     "link": "https://variety.com/2026/music/news/slayyyter-to-release-worst-man-in-america-brother-album-1236899364/",
+     "published": "2026-10-05T19:00:37+00:00",
+     "summary": "Slayyyter has announced that “Wor$t Man in America,” the “brother” album to “Wor$t Girl in America,” is slated for release on December 4 via RECORDS/Columbia Records. “Wor$t Man in America” is being touted not as a new album, but rather a “"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Slayyyter Announces Wor$t Man in America",
+     "link": "https://pitchfork.com/story/slayyyter-reveals-worst-man-in-america-album/",
+     "published": "2026-10-05T18:38:32+00:00",
+     "summary": "The companion to her 2026 standout Wor$t Girl in America"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "NiPnbTwWvg0",
+    "title": "Slayyyter Announces NEW ALBUM Wor$t Man In America",
+    "channel": "ACRYLIC SOUND",
+    "published": "2026-10-05T22:45:40Z",
+    "hours_since": 4,
+    "views": 455,
+    "url": "https://www.youtube.com/watch?v=NiPnbTwWvg0",
+    "views_per_hour": 114
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Lucki injured after stabbing at ComplexCon",
+   "artists": [
+    "Lucki",
+    "Playboi Carti"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "health",
+   "outlets": [
+    "AllHipHop",
+    "HotNewHipHop",
+    "Stereogum",
+    "The Fader",
+    "XXL"
+   ],
+   "n_outlets": 5,
+   "latest": "2026-10-05T23:08:22+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Lucki Says $100K In His Car, Fears LAPD Will Have “Fun” While Showing Off Bandaged Face",
+     "link": "https://allhiphop.com/news/lucki-says-100k-in-his-car-fears-lapd-will-have-fun-while-showing-off-bandaged-face/",
+     "published": "2026-10-05T23:08:22+00:00",
+     "summary": "Lucki shows his taped-up wound and asks police to return his car, while the ComplexCon attack leaves four hurt and a probe underway."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Lucki Shows Neck Injury, Asks LAPD To Return Car After ComplexCon Chaos",
+     "link": "https://www.hotnewhiphop.com/1012122-lucki-complexcon-injury-lapd-car",
+     "published": "2026-10-05T22:28:47+00:00",
+     "summary": "After a violent altercation outside ComplexCon, Lucki showed his neck bandages and said he wants his car and belongings back from LAPD. The post Lucki Shows Neck Injury, Asks LAPD To Return Car After ComplexCon Chaos appeared first on HotNe"
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Wack 100 Defends Playboi Carti After LUCKI Altercation",
+     "link": "https://www.hotnewhiphop.com/1012104-wack-100-playboi-carti-complexcon",
+     "published": "2026-10-05T18:57:48+00:00",
+     "summary": "Wack 100 chimes in on the recent ComplexCon altercation. The post Wack 100 Defends Playboi Carti After LUCKI Altercation appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Playboi Carti and Lucki’s Entourages Get Into Bloody Brawl",
+     "link": "https://www.xxlmag.com/playboi-carti-lucki-entourages-bloody-brawl-complexcon/",
+     "published": "2026-10-05T16:40:28+00:00",
+     "summary": "Lucki appears to suffer knife wound. Continue reading…"
+    },
+    {
+     "outlet": "Stereogum",
+     "title": "Lucki Slashed In ComplexCon Brawl As Playboi Carti Looked On, LAPD Investigating Attempted Murder",
+     "link": "https://stereogum.com/2513578/lucki-slashed-in-complexcon-brawl-as-playboi-carti-looked-on-lapd-investigating-attempted-murder/news/",
+     "published": "2026-10-05T14:06:31+00:00",
+     "summary": "On Saturday, the Chicago cult rap star Lucki reportedly got hurt in a brawl outside the Los Angeles version of ComplexCon. TMZ reports that 30-year-old Lucki, whose government name is Lucki Camel Jr., was posing for photos with fans outside"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "Lucki injured after alleged stabbing at ComplexCon",
+     "link": "https://www.thefader.com/2026/10/05/lucki-injured-after-alleged-stabbing-at-complexcon",
+     "published": "2026-10-05T12:38:43-04:00",
+     "summary": "LAPD confirmed a knife assault injuring four but did not name specific victims; witnesses on the ground claim Playboi Carti’s entourage was involved."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "yaUAr7AtsYA",
+    "title": "Did Lucki Get Stabbed? What We Know So Far #shorts #viral #fyp #lucki",
+    "channel": "FamoraX",
+    "published": "2026-10-04T14:19:58Z",
+    "hours_since": 36,
+    "views": 15198,
+    "url": "https://www.youtube.com/watch?v=yaUAr7AtsYA",
+    "views_per_hour": 422
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Hayley Williams responds to DHS criticism over ICE comments",
+   "artists": [
+    "Hayley Williams"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "Billboard",
+    "NME",
+    "Rolling Stone",
+    "Stereogum"
+   ],
+   "n_outlets": 4,
+   "latest": "2026-10-06T01:32:52+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Hayley Williams Has a Blunt Message for DHS After ‘F–k ICE’ Concert Remark: ‘And May I Suggest…’",
+     "link": "https://www.billboard.com/music/music-news/hayley-williams-dhs-response-ice-concert-1236354758/",
+     "published": "2026-10-06T01:32:52+00:00",
+     "summary": "The Paramore frontwoman responded after the Department of Homeland Security weighed in on her recent onstage comments."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Hayley Williams Responds to DHS’ Suggestion to Thank Officers After ICE Comments: ‘Nazi Bitches’",
+     "link": "https://www.rollingstone.com/music/music-news/hayley-williams-dhs-ice-comments-onstage-1235637280/",
+     "published": "2026-10-05T23:27:44+00:00",
+     "summary": "During a recent show in California, the singer yelled \"Fuck ICE\" and \"Free Palestine\""
+    },
+    {
+     "outlet": "Stereogum",
+     "title": "Hayley Williams Responds To DHS Criticism Over “Fuck ICE” Comments",
+     "link": "https://stereogum.com/2513665/hayley-williams-responds-to-dhs-criticism-over-fuck-ice-comments/news/",
+     "published": "2026-10-05T20:30:18+00:00",
+     "summary": "Hayley Williams has a habit of riling up the Republicans, like when she told Morgan Wallen to find her \" at Whole Foods, bitch .\" She caught heat from the Department of Homeland Security after proclaiming \"Fuck ICE\" and \"Free Palestine\" at "
+    },
+    {
+     "outlet": "NME",
+     "title": "US government hits back at Hayley Williams after “Fuck ICE” comments on stage",
+     "link": "https://www.nme.com/news/music/us-government-hits-back-at-hayley-williams-after-fuck-ice-comments-on-stage-3972237?utm_source=rss&utm_medium=rss&utm_campaign=us-government-hits-back-at-hayley-williams-after-fuck-ice-comments-on-stage",
+     "published": "2026-10-05T15:56:08+00:00",
+     "summary": "“We suggest Ms. Williams to thank them for their service, not belittle their sacrifice” The post US government hits back at Hayley Williams after “Fuck ICE” comments on stage appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "L7 reunite with former bassist on Loma Linda",
+   "artists": [
+    "L7"
+   ],
+   "genre": "Other",
+   "kind": "collab",
+   "outlets": [
+    "Consequence",
+    "Pitchfork",
+    "Rolling Stone",
+    "Stereogum"
+   ],
+   "n_outlets": 4,
+   "latest": "2026-10-05T18:47:30+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "L7 Unveil ‘Loma Linda’ Single Originally Recorded With Bassist Janis Tanaka in 2003",
+     "link": "https://www.rollingstone.com/music/music-news/l7-new-song-single-loma-linda-1235636955/",
+     "published": "2026-10-05T18:47:30+00:00",
+     "summary": "The band reteam with bassist and give track away for free following the death of Jennifer Finch"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "L7 Reunite With Former Bassist on New Song “Loma Linda”",
+     "link": "https://pitchfork.com/story/l7-reunite-with-former-bassist-on-new-song-loma-linda/",
+     "published": "2026-10-05T17:44:45+00:00",
+     "summary": "Janis Tanaka will replace the late Jennifer Finch on the feminist grunge icons’ imminent Last Hurrah Tour"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "L7 Release New Song “Loma Linda” Ahead of Final World Tour",
+     "link": "https://consequence.net/2026/10/l7-loma-linda-final-world-tour/",
+     "published": "2026-10-05T16:09:34+00:00",
+     "summary": "Janis Tanaka is stepping in for the late Jennifer Finch on the upcoming tour. L7 Release New Song “Loma Linda” Ahead of Final World Tour Alex Krinsky"
+    },
+    {
+     "outlet": "Stereogum",
+     "title": "L7 – “Loma Linda”",
+     "link": "https://stereogum.com/2513619/l7-loma-linda/music/",
+     "published": "2026-10-05T16:03:58+00:00",
+     "summary": "Jennifer Finch, longtime bassist of the great veteran grunge-punk band L7, passed away in July at the age of 59, just a few days after she revealed her brain cancer diagnosis . Just a couple of months before Finch's death, L7 announced plan"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Chris Brown involved in dispute with Diamond over daughter",
+   "artists": [
+    "Chris Brown"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "outlets": [
+    "AllHipHop",
+    "HotNewHipHop",
+    "XXL"
+   ],
+   "n_outlets": 3,
+   "latest": "2026-10-06T00:47:53+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Chris Brown Drama Continues As Diamond Posts Alleged Texts With Nia",
+     "link": "https://www.hotnewhiphop.com/1012137-chris-brown-diamond-receipts-texts",
+     "published": "2026-10-06T00:47:53+00:00",
+     "summary": "The screenshots include an alleged NYFW invitation for Brown to see Lovely and messages Diamond says came from Nia Guzman. The post Chris Brown Drama Continues As Diamond Posts Alleged Texts With Nia appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Chris Brown’s Other Baby Mamas Defend Him Amid Diamond Brown Dispute",
+     "link": "https://www.hotnewhiphop.com/1012134-chris-brown-diamond-baby-mamas-defend",
+     "published": "2026-10-06T00:28:57+00:00",
+     "summary": "Three women who share children with the singer defended his parenting as his spat with Diamond continues. The post Chris Brown’s Other Baby Mamas Defend Him Amid Diamond Brown Dispute appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Chris Brown Addresses “Bitter” Baby Mama In Fiery Reply To Death Threat Claims",
+     "link": "https://allhiphop.com/news/chris-brown-addresses-bitter-baby-mama-in-fiery-reply-to-death-threat-claims/",
+     "published": "2026-10-05T21:00:08+00:00",
+     "summary": "Chris Brown challenges Diamond Brown's allegations as the former couple disputes access to Lovely and the cost of raising her."
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Chris Brown’s Eye-Watering Monthly Earnings Revealed In Custody Battle",
+     "link": "https://allhiphop.com/news/chris-browns-eye-watering-monthly-earnings-revealed-in-custody-battle/",
+     "published": "2026-10-05T20:02:47+00:00",
+     "summary": "Chris Brown's monthly earnings between $5.5 and $7.3 million are now front and center in his custody battle with Diamond over their daughter."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Chris Brown Claims Daughter Lovely's Mother Is Lying to Court",
+     "link": "https://www.xxlmag.com/chris-brown-daughter-lovely-mother-lying-threats/",
+     "published": "2026-10-05T20:01:29+00:00",
+     "summary": "The pair are in an ongoing child support battle. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "-X09QKgPEPk",
+    "title": "\"I Pay $10K/Month\" Why Chris Brown DENIES Diamond Brown's Child Support Claims 🚫 #shorts",
+    "channel": "soseriuzradio",
+    "published": "2026-10-05T18:11:20Z",
+    "hours_since": 9,
+    "views": 18374,
+    "url": "https://www.youtube.com/watch?v=-X09QKgPEPk",
+    "views_per_hour": 2042
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Offset argues with Paris casino staff over seating",
+   "artists": [
+    "Offset"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 3,
+   "latest": "2026-10-06T00:24:41+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Offset Argues With Casino Staff in Paris: ‘You Need to Treat Me Like How I’m Betting’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/offset-argues-paris-casino-staff-video-1236354670/",
+     "published": "2026-10-06T00:24:41+00:00",
+     "summary": "The Atlanta rapper was upset with staff for allowing random people to play in spots that he reserved for himself."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Offset Reveals Casino Confrontation Was A Skit",
+     "link": "https://www.hotnewhiphop.com/1012125-offset-paris-casino-skit",
+     "published": "2026-10-05T23:12:02+00:00",
+     "summary": "A confrontation over high-stakes bets looked real enough to make news, but the rapper says viewers were watching a planned stunt. The post Offset Reveals Casino Confrontation Was A Skit appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Offset Gets Heated Toward Paris Casino Staff During Blackjack Session",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMDRURFRudkJkUE5ENUJ6SV9NWFItNk9RM3ByQ1piVTlJb2tWRHY3TkVETEg1NmdDblliMEUwT0dsOG9aVjhWODExN1RmRGpBZ2dhNXpsS3JKX0JmVlp5Y2ZaTFpwczhYOHZodHFzS1JDbWtTNGxXNDVpeDFDUDluXzhRZndudm9Dd2lNYVY2UlJaSXNCTllMMU0zY21rcWNJZjhPOGRwelMxM0VLcTd2ZzJnN0loOV9wMlBWSk1zXzNNYXNvc2JrU29JUER0dFJaOTJpU2lrd3dvcDE0RU5yaUh0a2Ixb3hO?oc=5",
+     "published": "2026-10-05T22:06:02+00:00",
+     "summary": "Offset Gets Heated Toward Paris Casino Staff During Blackjack Session Complex"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "alY55yvGRCk",
+    "title": "Rapper Offset Crashes Out At Paris Casino! ",
+    "channel": "RYEDEL ",
+    "published": "2026-10-05T20:51:14Z",
+    "hours_since": 6,
+    "views": 126,
+    "url": "https://www.youtube.com/watch?v=alY55yvGRCk",
+    "views_per_hour": 21
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "Taylor Swift's Patient Zero debuts at No. 1",
+   "artists": [
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "chart",
+   "outlets": [
+    "Billboard",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "latest": "2026-10-05T23:11:41+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Taylor Swift’s ‘Patient Zero’ Debuts at No. 1 on Billboard Hot 100",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWS1GVi10RG01YlNVS1JUSHFwZ0otRE5QOFlkOGFBanlrZkZUakpmaTlrb2pRYVNZNmxOcnZYQVZJTEtfcFp1b1pwQTNjQlNOS29OWTRNVG9Ob20wVDl0NEttX0Y2QUlQYzhQQzlaUXlBVk5sTmsyWWF3azc4Y1VuRjFhM1k0cU5UVTI4?oc=5",
+     "published": "2026-10-05T23:11:41+00:00",
+     "summary": "Taylor Swift’s ‘Patient Zero’ Debuts at No. 1 on Billboard Hot 100 Billboard"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Taylor Swift Nabs Yet Another Number One Song With ‘Patient Zero’",
+     "link": "https://www.rollingstone.com/music/music-news/taylor-swift-patient-zero-number-one-hot-100-1235635574/",
+     "published": "2026-10-05T17:46:21+00:00",
+     "summary": "The new The Life of a Showgirl:The Encore tracks marks the superstar’s 16th song to top the Billboard Hot 100"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Taylor Swift’s ‘Patient Zero’ Bumps ‘Choosin’ Texas’ Out of No. 1 on Hot 100; ‘Encore’ Tracks Fill Four Out of Five Top Slots",
+     "link": "https://variety.com/2026/music/news/taylor-swift-patient-zero-number-one-hot-100-chart-single-1236899253/",
+     "published": "2026-10-05T17:34:58+00:00",
+     "summary": "At least for one week, America finally chose differently when it came to the nation’s most consumed song. Ella Langley’s “Choosin’ Texas” took a breather from its record-breaking run atop the Billboard Hot 100 to make room for Taylor Swift’"
+    }
+   ],
+   "chart": [
+    {
+     "id": "V-uIp-WuD60",
+     "title": "Patient Zero",
+     "channel": "Taylor Swift - Topic",
+     "published": "2026-09-25T04:02:10Z",
+     "hours_since": 263,
+     "views": 7598696,
+     "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
+     "region": "GB",
+     "rank": 4
+    },
+    {
+     "id": "jfVVXYTZykw",
+     "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
+     "channel": "Taylor Swift",
+     "published": "2026-09-26T00:01:38Z",
+     "hours_since": 243,
+     "views": 4867116,
+     "url": "https://www.youtube.com/watch?v=jfVVXYTZykw",
+     "region": "US",
+     "rank": 8
+    }
+   ],
+   "video": {
+    "id": "V-uIp-WuD60",
+    "title": "Patient Zero",
+    "channel": "Taylor Swift - Topic",
+    "published": "2026-09-25T04:02:10Z",
+    "hours_since": 263,
+    "views": 7598696,
+    "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
+    "region": "GB",
+    "rank": 4
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "Taylor Swift gets good news after The Life of a Showgirl reissue",
+   "artists": [
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "chart",
+   "outlets": [
+    "Billboard",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-05T18:17:56+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Taylor Swift Gets Good News After 'The Life of a Showgirl: The Encore' Reissue",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalhqblpJWGNYcHYyUWE1Mk45TkxoVFBZaFFyUW1PRVlJclU4dnRxcXZHd25QZE8wdEYwRjZBX3AzaVRLM0VNYVFVb3BCM19WdEJnVERFUmxuS0VvMm9qZkttZl90aEdqUzZoZ25pQlg4OFlLbGxxWjN1dkw3SEZFUk9n?oc=5",
+     "published": "2026-10-05T18:17:56+00:00",
+     "summary": "Taylor Swift Gets Good News After 'The Life of a Showgirl: The Encore' Reissue Complex"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "‘The Life of a Showgirl’ de Taylor Swift regresa al No. 1 del Billboard 200 tras lanzamiento de ‘Encore’",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWczYUh4ZVlmZzRSRUVnNkFiYzBXT2QwLXBTUUNwUF96eEpaTjVDZHR5RGR0RThnRHB3ZGxCd3FlS1JVajhIcVlsVG56dWFKSmhRZHRab3RVdW5qLVg5c18wUzNJY0FzNkxvNWhFRTlDa0VPMXZ4NzFlenBFaF9Oc1JMdzNid1ZacUZZaWs3WnVBam9mNFZSTnpjQ1B2QlpndGNPeFhGS1lxNE1feUE1Qlh3?oc=5",
+     "published": "2026-10-05T01:39:25+00:00",
+     "summary": "‘The Life of a Showgirl’ de Taylor Swift regresa al No. 1 del Billboard 200 tras lanzamiento de ‘Encore’ Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Taylor Swift’s ‘The Life of a Showgirl’ Returns to No. 1 for ‘Encore’",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNENfcFlibF9yaUlYM3BvR285Sm9vcWRNdTI0Rm1yYnpzaURVaTVwaDlGLXdYYnpKc1JKQjBSRHVLOWY5SGN4SEtZLWhfVjVDZEY5Z1JKaERoc1ZSVE1EU2lQaW91Z0RXN2RwSXQzbmFJeHFhZzFnakZCWW1neFRaWUx0R2lDWmpLbjJyc2NodnRTY0ZrWlFJRkl2NGVHbFk?oc=5",
+     "published": "2026-10-04T21:01:48+00:00",
+     "summary": "Taylor Swift’s ‘The Life of a Showgirl’ Returns to No. 1 for ‘Encore’ Billboard"
+    }
+   ],
+   "chart": [
+    {
+     "id": "V-uIp-WuD60",
+     "title": "Patient Zero",
+     "channel": "Taylor Swift - Topic",
+     "published": "2026-09-25T04:02:10Z",
+     "hours_since": 263,
+     "views": 7598696,
+     "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
+     "region": "GB",
+     "rank": 4
+    },
+    {
+     "id": "jfVVXYTZykw",
+     "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
+     "channel": "Taylor Swift",
+     "published": "2026-09-26T00:01:38Z",
+     "hours_since": 243,
+     "views": 4867116,
+     "url": "https://www.youtube.com/watch?v=jfVVXYTZykw",
+     "region": "US",
+     "rank": 8
+    }
+   ],
+   "video": {
+    "id": "V-uIp-WuD60",
+    "title": "Patient Zero",
+    "channel": "Taylor Swift - Topic",
+    "published": "2026-09-25T04:02:10Z",
+    "hours_since": 263,
+    "views": 7598696,
+    "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
+    "region": "GB",
+    "rank": 4
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Olivia Rodrigo speaks out on Cornell sexual assault case",
+   "artists": [
+    "Olivia Rodrigo"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Consequence",
+    "Stereogum"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-06T02:12:29+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Olivia Rodrigo Speaks on Cornell Sexual Assault Case: “I Stand with Jane Doe”",
+     "link": "https://consequence.net/2026/10/olivia-rodrigo-condemns-cornell/",
+     "published": "2026-10-06T02:12:29+00:00",
+     "summary": "The pop singer joins a growing chorus of musicians speaking up about the case. Olivia Rodrigo Speaks on Cornell Sexual Assault Case: “I Stand with Jane Doe” Travis Bland"
+    },
+    {
+     "outlet": "Stereogum",
+     "title": "Olivia Rodrigo Slams Cornell And “Every Institution Who Protects Rapists”",
+     "link": "https://stereogum.com/2513674/olivia-rodrigo-slams-cornell-and-every-institution-who-protects-rapists/news/",
+     "published": "2026-10-05T21:07:41+00:00",
+     "summary": "In August, Olivia Rodrigo raised $20 million for women's rights with her inaugural Daisy Chain Fields festival. Now, the pop star is the latest musician to condemn Cornell amid the rape lawsuit that involves seven Cornell fraternity brother"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "5KohB7mx4Rs",
+    "title": "Olivia Rodrigo condemns Cornell University over alleged sexual assault case",
+    "channel": "Page Six",
+    "published": "2026-10-05T14:45:28Z",
+    "hours_since": 12,
+    "views": 1444,
+    "url": "https://www.youtube.com/watch?v=5KohB7mx4Rs",
+    "views_per_hour": 120
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Too $hort apologizes for Diddy comments",
+   "artists": [
+    "Too $hort"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "Billboard",
+    "Vibe"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-06T00:12:55+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Too $hort Apologizes for ‘Insensitive’ Diddy Comments: ‘I Do Not Support Abuse or Abusers’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/too-short-apologizes-diddy-comments-welcome-home-party-1236354669/",
+     "published": "2026-10-06T00:12:55+00:00",
+     "summary": "The Bay Area rapper had told TMZ that he would go to Diddy's \"welcome home\" party after prison."
+    },
+    {
+     "outlet": "Vibe",
+     "title": "Too $hort Addresses Backlash Over Diddy Homecoming Party Comment",
+     "link": "https://www.vibe.com/news/entertainment/too-short-backlash-diddy-party-plans-prison-release-1235197677/",
+     "published": "2026-10-05T17:15:03+00:00",
+     "summary": "\"I really didn’t know the full extent of the case,\" $hort said of the allegations against Combs"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "BFbNjxw_2bU",
+    "title": "Too $hort Clears Up Diddy Party Comments - He Apologizes To Women",
+    "channel": "AllHipHopTV",
+    "published": "2026-10-05T02:00:21Z",
+    "hours_since": 25,
+    "views": 1950,
+    "url": "https://www.youtube.com/watch?v=BFbNjxw_2bU",
+    "views_per_hour": 78
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Jay-Z's firm nears deal for stake in Rihanna's Fenty Beauty",
+   "artists": [
+    "Jay-Z",
+    "Rihanna"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "business",
+   "outlets": [
+    "HotNewHipHop",
+    "XXL"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-05T23:44:40+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Jay-Z’s Investment Firm Nears Deal For 50 Percent Stake In Rihanna’s Fenty Beauty",
+     "link": "https://www.hotnewhiphop.com/1012131-jay-z-rihanna-fenty-beauty-marcypen",
+     "published": "2026-10-05T23:44:40+00:00",
+     "summary": "LVMH’s stake could soon change hands, with MarcyPen reportedly negotiating to become Rihanna’s new partner in the cosmetics company. The post Jay-Z’s Investment Firm Nears Deal For 50 Percent Stake In Rihanna’s Fenty Beauty appeared first o"
+    },
+    {
+     "outlet": "XXL",
+     "title": "Jay-Z's Firm Nears Huge Move With Rihanna's Fenty Beauty - Report",
+     "link": "https://www.xxlmag.com/jay-z-50-percent-stake-rihanna-fenty-beauty/",
+     "published": "2026-10-05T18:14:56+00:00",
+     "summary": "Hov is making big moves. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "Eminem's Infinite 1996 pressing heads to auction",
+   "artists": [
+    "Eminem"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "HotNewHipHop",
+    "XXL"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-05T23:21:59+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Eminem’s Rare “Infinite” Pressing From 1996 Heads To Auction",
+     "link": "https://www.hotnewhiphop.com/1012128-eminem-auction-infinite-vinyl",
+     "published": "2026-10-05T23:21:59+00:00",
+     "summary": "Collectors can bid on early records and tapes spanning the M&M era, \"Infinite,\" and the run-up to \"The Slim Shady LP.\" The post Eminem’s Rare “Infinite” Pressing From 1996 Heads To Auction appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Eminem’s The Slim Shady LP Promo Tape Up for Auction",
+     "link": "https://www.xxlmag.com/eminem-rare-records-tapes-auction/",
+     "published": "2026-10-05T16:56:05+00:00",
+     "summary": "There's also an original 1996 pressing of Em's debut album Infinite . Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Drake declines to submit albums to 2027 Grammys",
+   "artists": [
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "HotNewHipHop",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-05T22:16:56+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Drake Won’t Submit Any of His Three Albums to the 2027 Grammys: Report",
+     "link": "https://www.rollingstone.com/music/music-news/drake-grammys-not-submitting-iceman-habibti-maid-of-honour-1235637235/",
+     "published": "2026-10-05T22:16:56+00:00",
+     "summary": "It isn’t the first time the rapper has declined to submit for awards consideration"
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Drake Lives His “Make Them Know” Raps And Refuses To Submit “ICEMAN” For A Grammy",
+     "link": "https://www.hotnewhiphop.com/1012117-drake-make-them-know-grammys",
+     "published": "2026-10-05T19:59:29+00:00",
+     "summary": "Drake could have been up for a Grammy this year, especially given his three new albums, but the artist has stuck to his guns. The post Drake Lives His “Make Them Know” Raps And Refuses To Submit “ICEMAN” For A Grammy appeared first on HotNe"
+    }
+   ],
+   "chart": [
+    {
+     "id": "eJFi2TK5174",
+     "title": "Solar Eclipse",
+     "channel": "Drake - Topic",
+     "published": "2026-10-01T10:00:26Z",
+     "hours_since": 113,
+     "views": 1584270,
+     "url": "https://www.youtube.com/watch?v=eJFi2TK5174",
+     "region": "US",
+     "rank": 2
+    },
+    {
+     "id": "6gRbAU4Puek",
+     "title": "Quebec",
+     "channel": "Drake - Topic",
+     "published": "2026-10-01T10:00:20Z",
+     "hours_since": 113,
+     "views": 1053386,
+     "url": "https://www.youtube.com/watch?v=6gRbAU4Puek",
+     "region": "US",
+     "rank": 5
+    }
+   ],
+   "video": {
+    "id": "eJFi2TK5174",
+    "title": "Solar Eclipse",
+    "channel": "Drake - Topic",
+    "published": "2026-10-01T10:00:26Z",
+    "hours_since": 113,
+    "views": 1584270,
+    "url": "https://www.youtube.com/watch?v=eJFi2TK5174",
+    "region": "US",
+    "rank": 2
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Carly Rae Jepsen releases Day and Night B-Sides",
+   "artists": [
+    "Carly Rae Jepsen"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-05T18:35:12+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Carly Rae Jepsen Unveils Day and Night B-Sides",
+     "link": "https://pitchfork.com/story/carly-rae-jepsen-unveils-day-and-night-b-sides/",
+     "published": "2026-10-05T18:35:12+00:00",
+     "summary": "The pop singer continues her love of extended releases this Friday"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Carly Rae Jepsen Is Dropping Eight More Songs From Her Double Album",
+     "link": "https://www.rollingstone.com/music/music-news/carly-rae-jepsen-day-and-night-b-sides-1235636872/",
+     "published": "2026-10-05T17:35:56+00:00",
+     "summary": "Arriving this Friday, the Day and Night B sides include “Yes,” “Wedding Season,” and “Muscle Memory”"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "Tinashe celebrates biggest Billboard 200 debut with Popstar",
+   "artists": [
+    "Tinashe"
+   ],
+   "genre": "POP",
+   "kind": "chart",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-06T00:22:30+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Tinashe Is ‘Cryinggggg’ Over Her Biggest Billboard 200 Album Debut Yet With ‘Popstar’: ‘This Is CRAZY’",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDVNZFg4R3laZloxWTFTUXlyclV5TTFNRDZvNXRKNVZoSUhHdUdtbnpSVG1WN1JqcnV4aFlZc0pQdFQydHFHMjJ5eW52LUF0VHRuWG1iR1lRWFducDI4WE9mWnNoQXBIcmpfQktoa1hJbVptZHFGY1didjgzUVp3bUgyb2pCd3ZJVUFSWTJ2XzJ5QTdidE81bmJpWURHUQ?oc=5",
+     "published": "2026-10-06T00:22:30+00:00",
+     "summary": "Tinashe Is ‘Cryinggggg’ Over Her Biggest Billboard 200 Album Debut Yet With ‘Popstar’: ‘This Is CRAZY’ Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Tinashe Is ‘Cryinggggg’ Over Her Biggest Billboard 200 Album Debut Yet With ‘Popstar’: ‘This Is CRAZY’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/tinashe-reacts-popstar-billboard-200-debut-1236354693/",
+     "published": "2026-10-06T00:18:18+00:00",
+     "summary": "\"I'm so unbelievably grateful,\" the R&B singer wrote on X, followed by a flood of crying emojis."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "Shakira adds show to Madrid residency",
+   "artists": [
+    "Shakira"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-05T23:03:03+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "One More ‘Last Dance’: Shakira Adds Show to Her Madrid Residency",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU1IzQ25rWEhEdUdQdy1BakpfMmNGMmczX1JqMVFWdmlpeURIUjlEWl9jTU9PMGNDZWRDZVc2UjRYeWl5LWtrMjFQdlVRb0pIQzBCQ3JRdG5QU3NfaDVRVXBRczNLR3IySjkzeUx6YzJRRC1TeE5taFJ3Y3pGWTRYNVBUSjFVYzJKUzlfb3gxeGhsUVE?oc=5",
+     "published": "2026-10-05T23:03:03+00:00",
+     "summary": "One More ‘Last Dance’: Shakira Adds Show to Her Madrid Residency Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Shakira’s Madrid Concert Sets an Amazon Music Livestreaming Record",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFRBTXRUN1B4eUJOVW5JZ05GTlNfZ3V2V1h2dVhqc3VXX29mRFdlVWl1Wl84NGVEaEF0cXdtb2RNc1VEVjY5TG9hdUtJdXhoczVDSk1EaS1RcUsyTFVKQWNoYjZGQjNfYmdzeVNudm5EWmpjNXI5LVdZQUZJSC03aUhlc3hydVRzVEo2UXY5amxBVXd5TVpRdjVSQklqdThtcFAySEt3?oc=5",
+     "published": "2026-10-05T00:42:53+00:00",
+     "summary": "Shakira’s Madrid Concert Sets an Amazon Music Livestreaming Record Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "Ye and Playboi Carti perform at ComplexCon",
+   "artists": [
+    "Ye",
+    "Playboi Carti"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-05T16:59:43+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Ye Joins Playboi Carti at ComplexCon 2026 to Perform \"Can't Tell Me Nothing,\" More",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMnJ2SE5ncTFiWnlMU3VZb1c1M2dXeldROFRLekpTMkpUY1RkNE1uaExFYjg1dkxxb3JuS1FsWWtZZzRTdGhRZjktaHRNSU44ZGtBME9VZnd3MHR3YzdZei1mTnRZS0JnbjFBSWNuWDZfWU5LZllOekJLT3FlZWt2aEtkeFVPZlI2UndVekdsOFNNSzFjRWFIdlh0V3dpYnlJTlMtcA?oc=5",
+     "published": "2026-10-05T16:59:43+00:00",
+     "summary": "Ye Joins Playboi Carti at ComplexCon 2026 to Perform \"Can't Tell Me Nothing,\" More Complex"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Kanye West and Bianca Censori Join Playboi Carti at ComplexCon 2026 in Los Angeles",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2VIdFpQM2gtUFppTkxQYTk5ZU9oVVNzVFplSUktYXdEc0g4NTFaZElnVWhXcHFOYVN2cEp1Zmd2TWpVNnNzd0FCUGVXSVZDZU1mQlppS29nR1BXRHJBQmVfeWdNODREMUVsNUlQZVJaVmhsdFZDRWIzVXNoT0pwR2VIWW9mRDN1Wm90SzZYb1Rtb3VfMHc?oc=5",
+     "published": "2026-10-04T23:30:33+00:00",
+     "summary": "Kanye West and Bianca Censori Join Playboi Carti at ComplexCon 2026 in Los Angeles Complex"
+    }
+   ],
+   "chart": [
+    {
+     "id": "uwfa-gyubSg",
+     "title": "KATSEYE - Hootie Frutti (Live from Saturday Night Live)",
+     "channel": "KATSEYEVEVO",
+     "published": "2026-09-27T06:57:47Z",
+     "hours_since": 212,
+     "views": 9281194,
+     "url": "https://www.youtube.com/watch?v=uwfa-gyubSg",
+     "region": "US",
+     "rank": 15
+    }
+   ],
+   "video": {
+    "id": "uwfa-gyubSg",
+    "title": "KATSEYE - Hootie Frutti (Live from Saturday Night Live)",
+    "channel": "KATSEYEVEVO",
+    "published": "2026-09-27T06:57:47Z",
+    "hours_since": 212,
+    "views": 9281194,
+    "url": "https://www.youtube.com/watch?v=uwfa-gyubSg",
+    "region": "US",
+    "rank": 15
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "COSTA makes Deadbeats debut with single Dimension",
+   "artists": [
+    "COSTA"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "outlets": [
+    "Magnetic Magazine"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-05T22:46:21+00:00",
+   "articles": [
+    {
+     "outlet": "Magnetic Magazine",
+     "title": "COSTA Makes His Deadbeats Debut With Wonky New Single ‘Dimension’",
+     "link": "https://magneticmag.com/2026/10/costa-deadbeats-dimension/",
+     "published": "2026-10-05T22:46:21+00:00",
+     "summary": "COSTA has officially made his debut on Zeds Dead’s Deadbeats imprint with “Dimension,” a tightly constructed bass record that brings the producer’s evolving sound from festival stages to streaming platforms. The New York-born artist builds "
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Insomniac remains involved with Miami venues after settlement",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "business",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-05T18:56:47+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Insomniac to Stay Involved With Miami’s Club Space & Factory Town Venues After Legal Settlement",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX25OUzlvamhBVDZ3YXNwSGZWb1FNX3RUQnpBS3J0XzdkNHBwaTNuakdEVy14ZU1SeVpneTNMbVA0SVozY1FPdjhJZXZNWThCeEIxWFMwLTAyZ3NENjloTXlELVlmMUVuaG5iOU1xM3QyaVdSMTlzRTg1eWZvWW55ZjNQUnVJclFOSjAtRzU1aw?oc=5",
+     "published": "2026-10-05T18:56:47+00:00",
+     "summary": "Insomniac to Stay Involved With Miami’s Club Space & Factory Town Venues After Legal Settlement Billboard"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s76",
+   "label": "Inside ACL 2026, a Slippery Weekend of Skrillex, Lorde and Mud Pit Dance Parties",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "other",
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "latest": "2026-10-05T18:39:38+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Inside ACL 2026, a Slippery Weekend of Skrillex, Lorde and Mud Pit Dance Parties",
+     "link": "https://edm.com/events/acl-2026-festival-review/",
+     "published": "2026-10-05T18:39:38+00:00",
+     "summary": "The festival outfits arrived pristine and left looking like they had been dragged behind a pickup truck through a Hill Country cow pasture. The post Inside ACL 2026, a Slippery Weekend of Skrillex, Lorde and Mud Pit Dance Parties appeared f"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "Brian May says Queen done touring, wary of Avatar show",
+   "artists": [
+    "Queen"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "Consequence",
+    "Stereogum"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-05T19:10:20+00:00",
+   "articles": [
+    {
+     "outlet": "Stereogum",
+     "title": "Brian May Says Queen Won’t Tour Again, Wary Of Avatar Show Because Of AI",
+     "link": "https://stereogum.com/2513647/brian-may-says-queen-wont-tour-again-wary-of-avatar-show-because-of-ai/news/",
+     "published": "2026-10-05T19:10:20+00:00",
+     "summary": "Last year, Queen discussed new music and a potential Sphere residency. The legendary band unearthed the previously unreleased Christmas song \" Not For Sale (Polar Bear) \" for the holidays, and now Roger Taylor released a new solo album call"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Brian May Says Queen Are Done Touring",
+     "link": "https://consequence.net/2026/10/brian-may-queen-done-touring/",
+     "published": "2026-10-05T18:27:23+00:00",
+     "summary": "The guitarist says 50 years on the road may be enough, but Queen could still pursue a stationary, Sphere-style production. Brian May Says Queen Are Done Touring Alex Krinsky"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s59",
+   "label": "Bowie80 to celebrate David Bowie's 80th birthday",
+   "artists": [
+    "David Bowie"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "NME",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "latest": "2026-10-05T13:22:01+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "‘Bowie80’ to Celebrate David Bowie’s 80th Birthday With Events, Exhibits, Releases and More Throughout 2027",
+     "link": "https://variety.com/2026/music/news/bowie80-david-bowie-80th-birthday-events-1236898767/",
+     "published": "2026-10-05T13:22:01+00:00",
+     "summary": "The late, legendary musician David Bowie will have his 80th birthday celebrated with a series of events, exhibits, releases, collaborations and experiences beginning in November and spanning 2027, his estate announced on Monday. Details wil"
+    },
+    {
+     "outlet": "NME",
+     "title": "‘Bowie80’ to celebrate late icon’s milestone birthday in 2027 – with special events, releases, collaborations and more",
+     "link": "https://www.nme.com/news/music/bowie80-to-celebrate-late-icons-milestone-birthday-in-2027-with-special-events-releases-collaborations-and-more-3972189?utm_source=rss&utm_medium=rss&utm_campaign=bowie80-to-celebrate-late-icons-milestone-birthday-in-2027-with-special-events-releases-collaborations-and-more",
+     "published": "2026-10-05T13:00:11+00:00",
+     "summary": "Events will be taking place at the Rock & Roll Hall of Fame in Cleveland, London’s V&A, and more The post ‘Bowie80’ to celebrate late icon’s milestone birthday in 2027 – with special events, releases, collaborations and more appeared first "
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 3
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 3
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched": 100,
+   "kept": 27
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Dancing Astronaut",
+   "genre": "Dance",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched": 2,
+   "kept": 2
+  },
+  {
+   "name": "Magnetic Magazine",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.magneticmag.com/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched": 71,
+   "kept": 34
+  },
+  {
+   "name": "Run The Trap",
+   "genre": "Dance",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://runthetrap.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 7
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 29,
+   "kept": 5
+  },
+  {
+   "name": "Stereogum",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.stereogum.com/feed/",
+   "fetched": 40,
+   "kept": 19
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 4
+  },
+  {
+   "name": "Uproxx Music",
+   "genre": "POP",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://uproxx.com/music/feed/",
+   "fetched": 50,
+   "kept": 0
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "fetched": 100,
+   "kept": 32
+  },
+  {
+   "name": "HipHopDX",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://hiphopdx.com/rss/news.xml",
+   "fetched": 16,
+   "kept": 0
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 7
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Rap-Up",
+   "genre": "Hip-Hop",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "Okayplayer",
+   "genre": "Hip-Hop",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  }
+ ],
+ "cost": {
+  "usd": 0.2829,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 14243,
+    "output_tokens": 5285
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 11226,
+    "output_tokens": 5689
+   },
+   {
+    "model": "claude-sonnet-5-5",
+    "input_tokens": 11226,
+    "output_tokens": 6107
+   }
+  ]
+ }
+}
