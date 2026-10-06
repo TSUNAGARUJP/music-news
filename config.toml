@@ -7,10 +7,11 @@
 [general]
 site_title = "洋楽ネタ・デイリー"
 lookback_hours = 30            # 何時間前までの記事を集めるか
-max_articles = 400             # AIに渡す記事の上限
+max_articles = 700             # AIに渡す記事の上限
 top_n = 3                      # 毎日のトップの件数
 runners_up_per_genre = 2       # ジャンル別の次点の件数
-candidate_count = 18           # AIに選んでもらう候補の数
+runners_up_other = 3           # 「Other（いつでも使えるネタ）」の件数（サイトのみに掲載）
+candidate_count = 20           # AIに選んでもらう候補の数
 min_candidates_per_genre = 4   # 各ジャンルの候補の最低数
 jpy_per_usd = 150              # 費用表示に使う為替レート
 site_url = ""                  # 通常は空欄でOK（自動で入ります）
@@ -29,16 +30,18 @@ audience = """
 """
 criteria = """
 選定基準（上から順に重視）：
-- 日本の洋楽ファンにも名前が通じるアーティスト・DJか。知名度が低い場合は「これから来る」と言える根拠があるか
-- 複数の大手メディアが報じている、または関連動画の再生数が急に伸びているか
-- 新曲・新作・コラボ・サプライズ発表・フェスの出演発表など、30〜60秒で驚きや楽しさを伝えられるか
+- 日本で名前が通じるアーティスト・DJか。日本の媒体が報じている、日本のYouTube音楽チャートに入っている、来日経験がある、などを手がかりにする
+- 日本と関わりのある話題か：来日公演・日本のフェス出演、日本人アーティストとのコラボ、アニメ・ドラマ・CM・ゲームのタイアップ、日本のTikTokやSNSで流行った曲
+- CNN・BBCなど一般メディアも報じる、音楽ファン以外にも届く大きな話題か
+- 新曲・新作・コラボ・サプライズ発表など、30〜60秒で驚きや楽しさを伝えられるか
 - MVやライブ映像など、リールで見せられる素材があるか
 - DJやクラブカルチャーに関わる話題は、スクール生にも刺さるので加点する
+- 海外でしか知られていない話題は、「これから日本でも来る」と言える根拠があるときだけ選ぶ
 - 訃報・事件・裁判などは、重大なものだけ。取り上げる場合は茶化さず事実を伝える切り口にする
 """
 
 [youtube]
-chart_regions = ["US", "GB"]   # 音楽人気チャートを見る地域
+chart_regions = ["JP", "US", "GB"]   # 音楽人気チャートを見る地域（JP＝日本）
 max_searches = 15              # 1日の動画検索の回数（1回100ユニット。無料枠は1日10,000）
 search_days = 7                # 何日前までに公開された動画を探すか
 
@@ -55,6 +58,8 @@ search_days = 7                # 何日前までに公開された動画を探�
 #  feed が間違っていても、site から自動でRSSを探し、それでもだめなら
 #  Googleニュース経由で取得します。
 #  outlet：同じ媒体を別名で2回登録したときに、媒体数を二重に数えないための名前
+#  group ：海外音楽（省略時）／日本／一般／来日。日本と一般は、選定で重視されます
+#  region：日本語の媒体は "JP"（Googleニュースを日本版で検索します）
 # ==========================================================
 
 # ---------- Dance ----------
@@ -84,22 +89,10 @@ site = "https://edm.com"
 feed = "https://edm.com/.rss/full/"
 
 [[sources]]
-name = "Dancing Astronaut"
-genre = "Dance"
-site = "https://dancingastronaut.com"
-feed = "https://dancingastronaut.com/feed/"
-
-[[sources]]
 name = "Your EDM"
 genre = "Dance"
 site = "https://www.youredm.com"
 feed = "https://www.youredm.com/feed/"
-
-[[sources]]
-name = "Magnetic Magazine"
-genre = "Dance"
-site = "https://www.magneticmag.com"
-feed = "https://www.magneticmag.com/feed/"
 
 [[sources]]
 name = "Billboard Dance"
@@ -108,12 +101,6 @@ genre = "Dance"
 site = "https://www.billboard.com/c/music/music-news/dance/"
 feed = "https://www.billboard.com/c/music/music-news/dance/feed/"
 google_news = "site:billboard.com dance OR electronic"
-
-[[sources]]
-name = "Run The Trap"
-genre = "Dance"
-site = "https://runthetrap.com"
-feed = "https://runthetrap.com/feed/"
 
 # ---------- POP ----------
 [[sources]]
@@ -149,12 +136,6 @@ site = "https://pitchfork.com/news/"
 feed = "https://pitchfork.com/feed/feed-news/rss"
 
 [[sources]]
-name = "Stereogum"
-genre = "POP"
-site = "https://www.stereogum.com"
-feed = "https://www.stereogum.com/feed/"
-
-[[sources]]
 name = "Consequence"
 genre = "POP"
 site = "https://consequence.net"
@@ -165,14 +146,6 @@ name = "The Fader"
 genre = "POP"
 site = "https://www.thefader.com"
 feed = "https://www.thefader.com/rss"
-
-[[sources]]
-name = "Uproxx Music"
-outlet = "Uproxx"
-genre = "POP"
-site = "https://uproxx.com/music/"
-feed = "https://uproxx.com/music/feed/"
-google_news = "site:uproxx.com music"
 
 # ---------- Hip-Hop ----------
 [[sources]]
@@ -201,25 +174,153 @@ site = "https://www.hotnewhiphop.com"
 feed = ""
 
 [[sources]]
-name = "Rap-Up"
-genre = "Hip-Hop"
-site = "https://www.rap-up.com"
-feed = "https://www.rap-up.com/feed"
-
-[[sources]]
 name = "Vibe"
 genre = "Hip-Hop"
 site = "https://www.vibe.com"
 feed = "https://www.vibe.com/feed/"
 
 [[sources]]
-name = "Okayplayer"
-genre = "Hip-Hop"
-site = "https://www.okayplayer.com"
-feed = "https://www.okayplayer.com/feed"
-
-[[sources]]
 name = "AllHipHop"
 genre = "Hip-Hop"
 site = "https://allhiphop.com"
 feed = "https://allhiphop.com/feed/"
+
+# ---------- 日本の媒体（日本ウケの目印として重視） ----------
+[[sources]]
+name = "NME Japan"
+genre = "POP"
+group = "日本"
+region = "JP"
+site = "https://nme-jp.com"
+feed = "https://nme-jp.com/feed/"
+
+[[sources]]
+name = "Billboard JAPAN"
+genre = "POP"
+group = "日本"
+region = "JP"
+site = "https://www.billboard-japan.com"
+feed = ""
+
+[[sources]]
+name = "MTV JAPAN"
+genre = "POP"
+group = "日本"
+region = "JP"
+site = "https://www.mtvjapan.com"
+feed = ""
+
+[[sources]]
+name = "uDiscoverMusic Japan"
+genre = "POP"
+group = "日本"
+region = "JP"
+site = "https://www.udiscovermusic.jp"
+feed = "https://www.udiscovermusic.jp/feed"
+
+# ---------- 一般メディアのエンタメ欄（音楽ファン以外にも届く話題の目印） ----------
+[[sources]]
+name = "CNN"
+genre = "General"
+group = "一般"
+site = "https://edition.cnn.com/entertainment"
+feed = "http://rss.cnn.com/rss/edition_entertainment.rss"
+google_news = "site:cnn.com music"
+
+[[sources]]
+name = "BBC"
+genre = "General"
+group = "一般"
+site = "https://www.bbc.com/news/entertainment_and_arts"
+feed = "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
+
+[[sources]]
+name = "The Guardian"
+genre = "General"
+group = "一般"
+site = "https://www.theguardian.com/music"
+feed = "https://www.theguardian.com/music/rss"
+
+[[sources]]
+name = "AP通信"
+genre = "General"
+group = "一般"
+site = "https://apnews.com/entertainment"
+feed = ""
+google_news = "site:apnews.com music"
+
+# ---------- 来日情報 ----------
+# 招聘会社のサイトにRSSがあればそれを読み、なければ社名で日本のニュースを検索します。
+# さらに「来日公演」などのキーワードでも検索して、取りこぼしを減らします。
+# 招聘会社のX・Instagramは外部から読み取れないため、それを報じたニュース記事で拾います。
+[[sources]]
+name = "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）"
+genre = "General"
+group = "来日"
+region = "JP"
+site = "https://livenationhip.co.jp"
+feed = ""
+google_news = '来日 ライブネーション OR "Live Nation" OR "H.I.P."'
+
+[[sources]]
+name = "クリエイティブマン"
+genre = "General"
+group = "来日"
+region = "JP"
+site = "https://www.creativeman.co.jp"
+feed = ""
+google_news = '来日 クリエイティブマン OR "SUMMER SONIC" OR サマソニ'
+
+[[sources]]
+name = "SMASH"
+genre = "General"
+group = "来日"
+region = "JP"
+site = "https://smash-jpn.com"
+feed = ""
+google_news = '来日 スマッシュ OR "FUJI ROCK" OR フジロック'
+
+[[sources]]
+name = "ウドー音楽事務所"
+genre = "General"
+group = "来日"
+region = "JP"
+site = "https://udo.jp"
+feed = ""
+google_news = "来日 ウドー"
+
+[[sources]]
+name = "キョードー東京"
+genre = "General"
+group = "来日"
+region = "JP"
+site = "https://www.kyodotokyo.com"
+feed = ""
+google_news = "来日 キョードー東京"
+
+[[sources]]
+name = "検索：来日公演"
+genre = "General"
+group = "来日"
+region = "JP"
+site = ""
+feed = ""
+google_news = "来日公演 決定"
+
+[[sources]]
+name = "検索：初来日"
+genre = "General"
+group = "来日"
+region = "JP"
+site = ""
+feed = ""
+google_news = "初来日"
+
+[[sources]]
+name = "検索：DJの来日"
+genre = "Dance"
+group = "来日"
+region = "JP"
+site = ""
+feed = ""
+google_news = "来日 DJ"

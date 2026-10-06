@@ -65,31 +65,61 @@ def recent_picks(today: str, days: int = 7) -> list[str]:
         labels = {c["id"]: c["label"] for c in day.get("candidates", [])}
         for t in day.get("picks", {}).get("top", []):
             out.append(f"{t.get('title_ja', '')}（{labels.get(t.get('id'), '')}）")
+        for t in day.get("picks", {}).get("japan_tours", []):
+            out.append(f"来日：{t.get('title_ja', '')}")
+        for t in day.get("picks", {}).get("runners_up", {}).get("Other", []):
+            out.append(f"雑学ネタ：{t.get('title_ja', '')}")
     return out
 
 
 # ---------- 話題のまとめと候補選び ----------
+
+def _uniq_outlets(names) -> list[str]:
+    """「MTV JAPAN」と「MTV Japan」のような表記ゆれを1媒体として数える。"""
+    seen: dict[str, str] = {}
+    for n in names:
+        seen.setdefault(n.lower().replace(" ", ""), n)
+    return sorted(seen.values())
+
 
 def build_stories(articles: list[dict], clusters: list[dict]) -> list[dict]:
     stories = []
     for n, cl in enumerate(clusters):
         arts = sorted((articles[i] for i in cl["article_ids"]),
                       key=lambda a: a["published"] or "", reverse=True)
-        outlets = sorted({a["outlet"] for a in arts})
+        outlets = _uniq_outlets(a["outlet"] for a in arts)
+        jp = _uniq_outlets(a["outlet"] for a in arts if a.get("region") == "JP")
+        mainstream = _uniq_outlets(a["outlet"] for a in arts if a.get("group") == "一般")
         stories.append({
             "id": f"s{n}", "label": cl["label"], "artists": cl["artists"], "genre": cl["genre"],
             "kind": cl["kind"], "outlets": outlets, "n_outlets": len(outlets),
+            "jp_outlets": jp, "mainstream_outlets": mainstream,
+            "visit_source": any(a.get("group") == "来日" for a in arts),
+            # 日本の媒体・一般メディアの報道は2倍に数えて、日本ウケ・一般ウケを優先する
+            "score": len(outlets) + len(jp) + len(mainstream),
             "latest": arts[0]["published"] or "",
             "articles": [{"outlet": a["outlet"], "title": a["title"], "link": a["link"],
                           "published": a["published"], "summary": a["summary"][:240]} for a in arts[:10]],
         })
-    stories.sort(key=lambda s: (s["n_outlets"], len(s["articles"]), s["latest"]), reverse=True)
+    stories.sort(key=lambda s: (s["score"], s["n_outlets"], len(s["articles"]), s["latest"]), reverse=True)
     return stories
+
+
+def pick_evergreen(stories: list[dict]) -> list[dict]:
+    """いつでも使えるネタの候補（雑学・裏話・歴史など）。"""
+    return [s for s in stories if s["kind"] == "evergreen"][:15]
+
+
+def pick_tours(stories: list[dict]) -> list[dict]:
+    """来日情報の候補（AIが来日と判定したもの＋来日系の情報源から来た公演・フェスの話題）。"""
+    return [s for s in stories if s["kind"] == "japan_tour"
+            or (s["visit_source"] and s["kind"] in ("tour", "festival", "announcement"))][:15]
 
 
 def pick_candidates(stories: list[dict], cfg: dict) -> list[dict]:
     g = cfg["general"]
-    pool = [s for s in stories if s["genre"] in GENRES or s["n_outlets"] >= 3]
+    # 雑学などの「いつでも使えるネタ」は、今日のニュースとは別枠で選ぶ
+    pool = [s for s in stories if s["kind"] != "evergreen" and (s["genre"] in GENRES or s["n_outlets"] >= 3)]
     chosen = pool[: g["candidate_count"]]
     ids = {s["id"] for s in chosen}
     for genre in GENRES:  # 次点を選べるよう、各ジャンル最低限の候補を確保する
@@ -153,24 +183,30 @@ def make_today(cfg: dict, state: dict, today: str) -> dict:
     log(f"  話題：{len(stories)}件（複数媒体が報じたもの {sum(1 for s in stories if s['n_outlets'] > 1)}件）")
 
     candidates = pick_candidates(stories, cfg)
+    cand_ids = {c["id"] for c in candidates}
+    tours = pick_tours(stories)  # 来日情報はトップの候補と重なっていても、すべてAIに渡す
+    extra_tours = [t for t in tours if t["id"] not in cand_ids]
+    evergreen = pick_evergreen(stories)
+    extra_tours += [e for e in evergreen if e["id"] not in {t["id"] for t in extra_tours}]
+    log(f"  候補：{len(candidates)}件、来日情報の候補：{len(tours)}件、いつでも使えるネタの候補：{len(evergreen)}件")
     enrich_with_youtube(candidates, cfg)
     recent = recent_picks(today)
 
     log(f"段階2：選定と執筆（{models['select']}）")
-    picks = ai.select_picks(candidates, cfg, recent, models["select"], models.get("select_effort", ""), costs)
+    picks = ai.select_picks(candidates, tours, evergreen, cfg, recent, models["select"], models.get("select_effort", ""), costs)
 
     compare = None
     if models.get("compare"):
         log(f"比較用：{models['compare']} でも選定")
         try:
-            compare = ai.select_picks(candidates, cfg, recent, models["compare"],
+            compare = ai.select_picks(candidates, tours, evergreen, cfg, recent, models["compare"],
                                       models.get("compare_effort", ""), costs)
         except Exception as e:  # noqa: BLE001
             log(f"  比較用の選定は失敗しました（本番には影響なし）: {e}")
 
-    cand_ids = {c["id"] for c in candidates}
-    others = [s for s in stories if s["id"] not in cand_ids and s["n_outlets"] >= 2][:40]
-    for s in candidates:
+    shown = cand_ids | {t["id"] for t in tours}
+    others = [s for s in stories if s["id"] not in shown and s["n_outlets"] >= 2][:40]
+    for s in candidates + extra_tours:
         s["shortlisted"] = True
     for s in others:
         s["shortlisted"] = False
@@ -186,7 +222,7 @@ def make_today(cfg: dict, state: dict, today: str) -> dict:
         "article_count": len(articles),
         "picks": picks,
         "compare": compare,
-        "candidates": candidates + others,
+        "candidates": candidates + extra_tours + others,
         "health": health,
         "cost": {"usd": usd, "jpy_per_usd": g.get("jpy_per_usd", 150), "detail": costs},
     }

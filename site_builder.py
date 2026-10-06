@@ -5,10 +5,11 @@ from datetime import date, datetime
 from html import escape
 from pathlib import Path
 
+from notify import coverage_text
 from util import JST, fmt_views
 
 WEEKDAYS = "月火水木金土日"
-GENRE_CLASS = {"Dance": "g-dance", "POP": "g-pop", "Hip-Hop": "g-hiphop"}
+GENRE_CLASS = {"Dance": "g-dance", "POP": "g-pop", "Hip-Hop": "g-hiphop", "来日": "g-visit"}
 
 FONTS = ("https://fonts.googleapis.com/css2?family=Dela+Gothic+One"
          "&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap")
@@ -32,6 +33,7 @@ CSS = r"""
   }
 }
 *{box-sizing:border-box}
+[hidden]{display:none !important}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--paper);color:var(--ink);font:400 16px/1.8 var(--sans);
   padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
@@ -49,6 +51,7 @@ a:hover{text-decoration-thickness:2px}
 .g-pop{--g:var(--pink);--on-g:var(--on-pink);--g2:var(--blue)}
 .g-hiphop{--g:var(--yellow);--on-g:var(--on-yellow);--g2:var(--pink)}
 .g-other{--g:var(--other);--on-g:var(--on-other);--g2:var(--blue)}
+.g-visit{--g:var(--ink);--on-g:var(--paper);--g2:var(--pink)}
 
 .chip{display:inline-block;background:var(--g);color:var(--on-g);font-size:12px;font-weight:700;
   line-height:1;padding:5px 8px 4px;border-radius:3px;white-space:nowrap}
@@ -183,11 +186,13 @@ def _sources_html(c: dict) -> str:
 
 def _pick_html(n: int, t: dict, c: dict) -> str:
     genre = t.get("genre") or c.get("genre", "Other")
-    meta = [f'<span class="chip">{escape(genre)}</span>', f'<span>{c.get("n_outlets", 1)}媒体が報道</span>']
+    meta = [f'<span class="chip">{escape(genre)}</span>', f'<span>{escape(coverage_text(c))}</span>']
     vt = _video_text(c.get("video"))
     if vt:
         meta.append(f"<span>{escape(vt)}</span>")
-    for ch in c.get("chart", [])[:1]:
+    hits = c.get("chart", [])
+    jp_hits = [h for h in hits if h.get("region") == "JP"]
+    for ch in (jp_hits or hits)[:1]:
         meta.append(f"<span>YouTube音楽チャート {escape(ch['region'])} {ch['rank']}位</span>")
     reels = "".join(
         f'<li><p class="hook">「{escape(r.get("hook", ""))}」</p><p class="angle">{escape(r.get("angle", ""))}</p></li>'
@@ -204,7 +209,9 @@ def _pick_html(n: int, t: dict, c: dict) -> str:
 
 def _runners_html(runners: dict, stories: dict) -> str:
     groups = []
-    for g in ("Dance", "POP", "Hip-Hop"):
+    for g in ("Dance", "POP", "Hip-Hop", "Other"):
+        if g == "Other" and "Other" not in runners:
+            continue  # 機能追加前の日のまとめ
         items = runners.get(g, [])
         if items:
             lis = []
@@ -220,8 +227,25 @@ def _runners_html(runners: dict, stories: dict) -> str:
             body = f"<ul>{''.join(lis)}</ul>"
         else:
             body = '<p class="empty">今日は該当なし</p>'
-        groups.append(f'<div class="runner-group {_gclass(g)}"><span class="chip">{g}</span>{body}</div>')
+        label = "Other（いつでも使えるネタ）" if g == "Other" else g
+        groups.append(f'<div class="runner-group {_gclass(g)}"><span class="chip">{label}</span>{body}</div>')
     return '<h2 class="section">ジャンル別の次点</h2>' + "".join(groups)
+
+
+def _tours_html(tours: list[dict], stories: dict) -> str:
+    if not tours:
+        return ""
+    lis = []
+    for t in tours:
+        c = stories.get(t["id"], {})
+        first = (c.get("articles") or [{}])[0]
+        link = (f' <a href="{escape(first["link"])}" rel="noopener" target="_blank">{escape(first.get("outlet", ""))}</a>'
+                if first.get("link") else "")
+        note = escape(t.get("note", ""))
+        lis.append(f'<li><span class="runner-title">{escape(t["title_ja"])}</span>'
+                   f'<span class="runner-note">{note}{link}</span></li>')
+    return (f'<h2 class="section">来日情報</h2><div class="runner-group g-visit">'
+            f'<span class="chip">{len(tours)}件</span><ul>{"".join(lis)}</ul></div>')
 
 
 def _compare_html(cmp: dict, stories: dict) -> str:
@@ -233,6 +257,9 @@ def _compare_html(cmp: dict, stories: dict) -> str:
     runners = [f'{g}：{escape(r["title_ja"])}' for g, rs in cmp.get("runners_up", {}).items() for r in rs]
     if runners:
         items.append(f'<p class="angle">次点　{"／".join(runners)}</p>')
+    if cmp.get("japan_tours"):
+        items.append(f'<p class="angle">来日情報　{len(cmp["japan_tours"])}件：'
+                     f'{"／".join(escape(t["title_ja"]) for t in cmp["japan_tours"])}</p>')
     return (f'<details><summary>比較：{escape(model_name(cmp["model"]))} の選定</summary>'
             f'<p class="angle">{escape(cmp.get("overview", ""))}</p>{"".join(items)}</details>')
 
@@ -256,7 +283,9 @@ def _health_html(health: list[dict]) -> str:
     lis = []
     for h in health:
         state = "取得" if h["status"] == "ok" else '<span class="ng">取得できず</span>'
-        lis.append(f'<li>{escape(h["name"])}：{state}（{escape(h["method"])}、新着{h["kept"]}件）</li>')
+        grp = h.get("group", "海外音楽")
+        tag = f"［{escape(grp)}］" if grp != "海外音楽" else ""
+        lis.append(f'<li>{tag}{escape(h["name"])}：{state}（{escape(h["method"])}、新着{h["kept"]}件）</li>')
     return (f'<details><summary>記事の取得状況（{ok}/{len(health)}媒体）</summary>'
             f'<ul class="health">{"".join(lis)}</ul></details>')
 
@@ -285,6 +314,7 @@ def _day_body(day: dict, root: str, prev_d: str | None, next_d: str | None) -> s
 <h1 class="masthead">今日の洋楽ネタ</h1>
 <p class="overview">{escape(picks.get('overview', ''))}</p>
 {tops}
+{_tours_html(picks.get('japan_tours', []), stories)}
 {_runners_html(picks['runners_up'], stories)}
 {extra}
 {_health_html(day.get('health', []))}
@@ -301,6 +331,9 @@ def _archive_body(days: list[dict]) -> str:
             g = t.get("genre") or stories.get(t["id"], {}).get("genre", "Other")
             lis.append(f'<li data-genre="{escape(g)}"><span class="{_gclass(g)}"><span class="chip">{escape(g)}</span></span>'
                        f'<span>{escape(t["title_ja"])}</span></li>')
+        for t in day["picks"].get("japan_tours", []):
+            lis.append(f'<li data-genre="来日"><span class="g-visit"><span class="chip">来日</span></span>'
+                       f'<span>{escape(t["title_ja"])}</span></li>')
         for g, rs in day["picks"]["runners_up"].items():
             for r in rs:
                 lis.append(f'<li data-genre="{escape(g)}"><span class="{_gclass(g)}"><span class="chip">{escape(g)}</span></span>'
@@ -309,7 +342,7 @@ def _archive_body(days: list[dict]) -> str:
                       f'<ul>{"".join(lis)}</ul></section>')
     buttons = "".join(
         f'<button type="button" data-genre="{g}" aria-pressed="{"true" if g == "all" else "false"}">{label}</button>'
-        for g, label in (("all", "すべて"), ("Dance", "Dance"), ("POP", "POP"), ("Hip-Hop", "Hip-Hop")))
+        for g, label in (("all", "すべて"), ("Dance", "Dance"), ("POP", "POP"), ("Hip-Hop", "Hip-Hop"), ("来日", "来日"), ("Other", "Other")))
     return f"""<div class="topbar"><span>{len(days)}日分</span><nav><a href="index.html">最新</a></nav></div>
 <h1 class="masthead">過去のまとめ</h1>
 <div class="filters" role="group" aria-label="ジャンルで絞り込む">{buttons}</div>

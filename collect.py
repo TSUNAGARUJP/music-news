@@ -59,6 +59,7 @@ def _parse_xml(raw: bytes) -> list[dict]:
             "date": _child_text(el, ("pubdate", "published", "updated", "date", "issued")),
             "summary": strip_html(_child_text(el, ("description", "summary"))
                                   or _child_text(el, ("encoded", "content")), 400),
+            "publisher": strip_html(_child_text(el, ("source",))),
         })
     return out
 
@@ -91,6 +92,7 @@ def _parse_regex(raw: bytes) -> list[dict]:
                                or _rx("updated", body) or _rx("dc:date", body)),
             "summary": strip_html(_rx("description", body) or _rx("summary", body)
                                   or _rx("content:encoded", body), 400),
+            "publisher": strip_html(_rx("source", body)),
         })
     return out
 
@@ -134,16 +136,26 @@ def discover_feed_urls(site: str) -> list[str]:
     return uniq[:8]
 
 
-def google_news_url(query: str) -> str:
+def google_news_url(query: str, region: str = "") -> str:
     q = urllib.parse.quote(f"{query} when:2d")
+    if region == "JP":
+        return f"https://news.google.com/rss/search?q={q}&hl=ja&gl=JP&ceid=JP:ja"
     return f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
 
 
+STALE_DAYS = 7
+
+
 def _try(url: str) -> list[dict]:
+    """RSSを読む。7日以上更新されていないRSSは「止まっている」とみなして使わない。"""
     try:
-        return parse_feed(http_get(url, timeout=20))
+        items = parse_feed(http_get(url, timeout=20))
     except Exception:  # noqa: BLE001
         return []
+    dated = [d for d in (parse_date(i["date"]) for i in items) if d]
+    if dated and max(dated) < now_utc() - timedelta(days=STALE_DAYS):
+        return []
+    return items
 
 
 def fetch_source(src: dict, feed_cache: dict) -> tuple[list[dict], dict]:
@@ -175,12 +187,18 @@ def fetch_source(src: dict, feed_cache: dict) -> tuple[list[dict], dict]:
 
     query = src.get("google_news") or (f"site:{domain_of(src['site'])}" if src.get("site") else "")
     if query:
-        url = google_news_url(query)
+        url = google_news_url(query, src.get("region", ""))
         items = _try(url)
         if items:
             for it in items:  # Googleニュースの見出しは末尾に「 - 媒体名」が付くので外す
-                it["title"] = re.sub(r"\s+-\s+[^-]{2,60}$", "", it["title"])
-            return items, {"status": "ok", "method": "Googleニュース経由", "url": url}
+                m = re.search(r"\s+-\s+([^-]{2,60})$", it["title"])
+                if m:
+                    it["publisher"] = it.get("publisher") or m.group(1).strip()
+                    it["title"] = it["title"][: m.start()]
+            # キーワード検索のときは、記事ごとの実際の媒体名で数える
+            keyword = not query.strip().lower().startswith("site:")
+            return items, {"status": "ok", "method": "Googleニュース検索" if keyword else "Googleニュース経由",
+                           "url": url, "keyword": keyword}
 
     return [], {"status": "failed", "method": "取得できず", "url": ""}
 
@@ -201,6 +219,7 @@ def collect_all(sources: list[dict], lookback_hours: int, seen_before_today: set
     articles: list[dict] = []
     health: list[dict] = []
     urls_now: set[str] = set()
+    titles_now: set[tuple[str, str]] = set()
     for src, items, status in results:
         kept = 0
         for it in items[:MAX_ITEMS_PER_SOURCE]:
@@ -210,11 +229,20 @@ def collect_all(sources: list[dict], lookback_hours: int, seen_before_today: set
             d = parse_date(it["date"])
             if d is not None and d < cutoff:
                 continue
+            outlet = src.get("outlet") or src["name"]
+            if status.get("keyword") and it.get("publisher"):
+                outlet = it["publisher"]
+            title_key = (outlet.lower(), it["title"].strip().lower())
+            if title_key in titles_now:
+                continue
             urls_now.add(url)
+            titles_now.add(title_key)
             kept += 1
             articles.append({
                 "source": src["name"],
-                "outlet": src.get("outlet") or src["name"],
+                "outlet": outlet,
+                "region": src.get("region", ""),
+                "group": src.get("group", "海外音楽"),
                 "genre_hint": src.get("genre", ""),
                 "title": it["title"],
                 "link": it["link"],
@@ -222,7 +250,8 @@ def collect_all(sources: list[dict], lookback_hours: int, seen_before_today: set
                 "published": d.isoformat() if d else None,
                 "summary": it["summary"],
             })
-        health.append({"name": src["name"], "genre": src.get("genre", ""), **status,
+        health.append({"name": src["name"], "genre": src.get("genre", ""),
+                       "group": src.get("group", "海外音楽"), **status,
                        "fetched": len(items), "kept": kept})
         mark = "OK " if status["status"] == "ok" else "NG "
         log(f"  {mark}{src['name']}: {kept}件（{status['method']}）")

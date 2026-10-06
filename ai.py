@@ -126,17 +126,21 @@ CLUSTER_RULES = """Group the articles below into stories.
 
 Rules:
 - A story is ONE underlying event (e.g. "Artist X announces album Y"). Different events about the same artist are different stories.
+- Headlines come in English and Japanese. Japanese outlets often write artist names in katakana (e.g. テイラー・スウィフト = Taylor Swift). Put English and Japanese articles about the same event in the same story.
 - Put every article that is about music into exactly one story. Single-article stories are fine.
-- Exclude articles that are not news about music: film/TV/gaming, shopping deals, quizzes, generic listicles or retrospectives (e.g. "best albums of 2004"), horoscopes. List their ids in "excluded".
+- Exclude articles that are not about music: film/TV/gaming, shopping deals, quizzes, horoscopes. List their ids in "excluded".
+- Keep evergreen music pieces (trivia, history, behind-the-scenes stories, anniversaries, explainers, rankings and retrospectives, production or DJ tips) and mark them kind "evergreen".
+- Also exclude articles only about Japanese domestic artists (J-pop, Japanese rap, anime songs, idols) unless an overseas artist is involved (collab, shared festival lineup, etc.).
 - genre: "Dance" (house, techno, EDM, DJs, electronic, bass), "Hip-Hop" (rap, and R&B that sits close to rap), "POP" (pop, mainstream R&B, K-pop, Latin pop), "Other" (rock, metal, indie rock, country, jazz, classical, etc.). Decide by the main artist's genre.
-- kind: one of release, announcement, tour, festival, chart, award, collab, beef, legal, health, death, business, interview, other.
+- kind: one of japan_tour, evergreen, release, announcement, tour, festival, chart, award, collab, beef, legal, health, death, business, interview, other.
+  Use japan_tour when an overseas artist or DJ announces concerts, club shows or festival appearances in Japan (来日公演, 来日決定, 初来日, ticket sales for Japan shows).
 - label: a short, specific English description of the event (max 12 words).
-- artists: the main artist or DJ names, as written in the headlines.
+- artists: the main artist or DJ names in their original (usually English) spelling.
 
 Reply with JSON only, no other text:
 {"stories":[{"label":"...","artists":["..."],"genre":"POP","kind":"release","ids":[3,17]}],"excluded":[5,9]}
 
-Articles (id, outlet, genre the outlet usually covers, headline — summary):
+Articles (id, outlet, genre the outlet usually covers, JP = Japanese outlet, headline — summary):
 """
 
 
@@ -144,9 +148,10 @@ def cluster_articles(articles: list[dict], model: str, costs: list) -> list[dict
     lines = []
     for i, a in enumerate(articles):
         summary = a["summary"][:160]
-        lines.append(f"[{i}] ({a['outlet']} | {a['genre_hint']}) {a['title']} — {summary}")
+        jp = " | JP" if a.get("region") == "JP" else ""
+        lines.append(f"[{i}] ({a['outlet']} | {a['genre_hint']}{jp}) {a['title']} — {summary}")
     data = ask_json(model, CLUSTER_SYSTEM, CLUSTER_RULES + "\n".join(lines),
-                    max_tokens=16000, effort="", costs=costs)
+                    max_tokens=32000, effort="", costs=costs)
 
     used: set[int] = set()
     excluded = {i for i in data.get("excluded", []) if isinstance(i, int)}
@@ -184,11 +189,19 @@ SELECT_TEMPLATE = """# 視聴者と選定基準
 
 {criteria}
 
+# 判断材料の読み方
+- coverage.japan：日本の媒体が報じている＝日本の編集部が「日本の読者に届く」と判断した話題。日本ウケの強い目印として重視する。
+- coverage.mainstream：CNN・BBCなど一般メディアが報じている＝音楽ファン以外にも届く大きな話題。マニアックになりすぎないよう重視する。
+- youtube_music_chart の JP：日本のYouTube音楽チャートに入っている＝日本でいま聴かれている。
+- 海外の音楽メディアだけが報じている話題は、日本で知名度があるか、これから来る根拠があるかを慎重に見る。
+
 # 選び方
-- 「top」：ジャンルを問わず、今日いちばんリールにする価値がある話題を{top_n}件。重要度（報じた媒体の数、関連動画の再生数と伸び）と、リールでの伸びやすさの両方で判断する。
+- 「top」：ジャンルを問わず、今日いちばんリールにする価値がある話題を{top_n}件。重要度（報じた媒体の数、関連動画の再生数と伸び）と、日本の視聴者にとっての伸びやすさの両方で判断する。
 - 「runners_up」：topに入らなかったものから、Dance・POP・Hip-Hopそれぞれ最大{runners}件。該当がなければ空でよい。
 - 過去7日に取り上げた話題（下に記載）は、大きな続報がない限り選ばない。
 - genre が "Other" の話題は、よほど大きなニュースのときだけtopに入れてよい（runners_upには入れない）。
+- 「runners_up」の「Other」：下の「いつでも使えるネタの候補」から最大{others}件。雑学・豆知識・裏話・歴史・記念日など、ニュース性は低くても、いつでもリールにできるもの。日本の視聴者が「へえ」となるものを優先する。
+- 「japan_tours」：下の「来日情報の候補」から、海外アーティスト・DJの来日（公演・フェス出演・クラブ出演の決定、チケット発売など）を漏れなくすべて書く（最大12件）。同じ公演の話題は1件にまとめる。過去7日の来日情報と同じものは、新しい情報（追加公演、チケット発売開始など）があるときだけ書く。来日情報の候補がtopに入ってもよい。
 
 # 各項目の書き方
 - title_ja：何が起きたかが一目で分かる見出し。40字以内。
@@ -196,24 +209,34 @@ SELECT_TEMPLATE = """# 視聴者と選定基準
 - why_ja：なぜ話題か。根拠（媒体数、再生数、チャート順位など）を1つ以上含めて1〜2文。
 - line_point：LINE通知用の要点。60字以内。
 - reels：リール案を2つ。hook＝冒頭3秒で言うひとこと（30字以内）、angle＝構成や見せ方（80字以内）。2案は切り口を変える。
-- runners_upの note：何が起きたか1文（50字以内）。
+- runners_upの note：何が起きたか1文（50字以内）。Otherでは、何がネタになるか（どんな雑学・裏話か）を1文で。
+- japan_toursの title_ja：「アーティスト名、◯月に来日公演決定」のように40字以内。note：日程・会場・主催・チケット情報など、分かることを60字以内で（分からなければ空欄）。
 - overview：今日の全体の傾向を1〜2文。
 
 # 返答の形（JSONのみ）
-{{"overview":"...","top":[{{"id":"s3","title_ja":"...","genre":"Hip-Hop","summary_ja":"...","why_ja":"...","line_point":"...","reels":[{{"hook":"...","angle":"..."}},{{"hook":"...","angle":"..."}}]}}],"runners_up":{{"Dance":[{{"id":"s8","title_ja":"...","note":"..."}}],"POP":[],"Hip-Hop":[]}}}}
+{{"overview":"...","top":[{{"id":"s3","title_ja":"...","genre":"Hip-Hop","summary_ja":"...","why_ja":"...","line_point":"...","reels":[{{"hook":"...","angle":"..."}},{{"hook":"...","angle":"..."}}]}}],"runners_up":{{"Dance":[{{"id":"s8","title_ja":"...","note":"..."}}],"POP":[],"Hip-Hop":[],"Other":[]}},"japan_tours":[{{"id":"s12","title_ja":"...","note":"..."}}]}}
 
 # 過去7日に取り上げた話題
 {recent}
 
 # 今日の候補（idは返答でもそのまま使う）
 {candidates}
+
+# 来日情報の候補
+{tours}
+
+# いつでも使えるネタの候補
+{evergreen}
 """
 
 
 def _candidate_brief(c: dict) -> dict:
     brief = {
         "id": c["id"], "label": c["label"], "artists": c["artists"], "genre": c["genre"],
-        "kind": c["kind"], "outlets_count": c["n_outlets"], "outlets": c["outlets"],
+        "kind": c["kind"], "outlets_count": c["n_outlets"],
+        "coverage": {"overseas_music": [o for o in c["outlets"] if o not in c.get("jp_outlets", [])
+                                        and o not in c.get("mainstream_outlets", [])],
+                     "japan": c.get("jp_outlets", []), "mainstream": c.get("mainstream_outlets", [])},
         "headlines": [a["title"] for a in c["articles"][:6]],
         "summaries": [a["summary"][:220] for a in c["articles"][:3] if a["summary"]],
     }
@@ -225,28 +248,43 @@ def _candidate_brief(c: dict) -> dict:
     return brief
 
 
-def select_picks(candidates: list[dict], cfg: dict, recent: list[str], model: str,
-                 effort: str, costs: list) -> dict:
+def select_picks(candidates: list[dict], tours: list[dict], evergreen: list[dict], cfg: dict,
+                 recent: list[str], model: str, effort: str, costs: list) -> dict:
     sel = cfg["selection"]
     prompt = SELECT_TEMPLATE.format(
         audience=sel["audience"].strip(),
         criteria=sel["criteria"].strip(),
         top_n=cfg["general"]["top_n"],
         runners=cfg["general"]["runners_up_per_genre"],
+        others=cfg["general"].get("runners_up_other", 3),
         recent="\n".join(f"- {t}" for t in recent) or "（なし）",
         candidates=json.dumps([_candidate_brief(c) for c in candidates], ensure_ascii=False, indent=1),
+        tours=json.dumps([_candidate_brief(c) for c in tours], ensure_ascii=False, indent=1) if tours else "（なし）",
+        evergreen=json.dumps([_candidate_brief(c) for c in evergreen], ensure_ascii=False, indent=1) if evergreen else "（なし）",
     )
     data = ask_json(model, SELECT_SYSTEM, prompt, max_tokens=24000, effort=effort, costs=costs)
 
-    valid = {c["id"] for c in candidates}
+    valid = {c["id"] for c in candidates} | {c["id"] for c in tours} | {c["id"] for c in evergreen}
     top = [t for t in data.get("top", []) if t.get("id") in valid][: cfg["general"]["top_n"]]
     used = {t["id"] for t in top}
     runners = {}
-    for g in GENRES:
+    for g in GENRES + ("Other",):
+        limit = cfg["general"].get("runners_up_other", 3) if g == "Other" else cfg["general"]["runners_up_per_genre"]
         items = [r for r in (data.get("runners_up", {}) or {}).get(g, []) or []
-                 if r.get("id") in valid and r["id"] not in used]
-        runners[g] = items[: cfg["general"]["runners_up_per_genre"]]
+                 if r.get("id") in valid and r["id"] not in used and r.get("title_ja")]
+        runners[g] = items[:limit]
         used.update(r["id"] for r in runners[g])
+    tour_ids = {c["id"] for c in tours}
+    japan_tours, seen = [], set()
+    for t in data.get("japan_tours", []) or []:
+        if t.get("id") in valid and t["id"] not in seen and t.get("title_ja"):
+            seen.add(t["id"])
+            japan_tours.append(t)
+    japan_tours = japan_tours[:12]
+    in_tours = {t["id"] for t in japan_tours}
+    for g in runners:  # 来日情報に載せた話題は、次点には重ねて載せない
+        runners[g] = [r for r in runners[g] if r["id"] not in in_tours]
     if not top:
         raise ClaudeError("AIがトップの話題を選べませんでした")
-    return {"model": model, "overview": str(data.get("overview", "")), "top": top, "runners_up": runners}
+    return {"model": model, "overview": str(data.get("overview", "")), "top": top, "runners_up": runners,
+            "japan_tours": japan_tours, "tour_candidates": len(tour_ids)}

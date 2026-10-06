@@ -23,6 +23,17 @@ def push_text(text: str) -> None:
     log("  LINEに送信しました")
 
 
+def coverage_text(c: dict) -> str:
+    """「12媒体が報道（日本2・一般1）」のような表記。"""
+    text = f"{c.get('n_outlets', 1)}媒体が報道"
+    extra = []
+    if c.get("jp_outlets"):
+        extra.append(f"日本{len(c['jp_outlets'])}")
+    if c.get("mainstream_outlets"):
+        extra.append(f"一般{len(c['mainstream_outlets'])}")
+    return text + (f"（{'・'.join(extra)}）" if extra else "")
+
+
 def build_digest(day: dict, page_url: str) -> str:
     d = date.fromisoformat(day["date"])
     pick = day["picks"]
@@ -30,7 +41,7 @@ def build_digest(day: dict, page_url: str) -> str:
     lines = [f"■ 今日の洋楽ネタ（{d.month}/{d.day} {WEEKDAYS[d.weekday()]}）", ""]
     for n, t in enumerate(pick["top"], start=1):
         c = stories.get(t["id"], {})
-        meta = [t.get("genre") or c.get("genre", ""), f"{c.get('n_outlets', 1)}媒体が報道"]
+        meta = [t.get("genre") or c.get("genre", ""), coverage_text(c)]
         v = c.get("video")
         if v and v.get("views"):
             meta.append(f"関連動画 {fmt_views(v['views'])}")
@@ -40,8 +51,17 @@ def build_digest(day: dict, page_url: str) -> str:
         if t.get("reels"):
             lines.append(f"リール案：{t['reels'][0].get('hook', '')}")
         lines.append("")
+    tours = pick.get("japan_tours", [])
+    if tours:
+        lines.append("― 来日情報 ―")
+        lines.extend(f"・{t['title_ja']}" for t in tours[:8])
+        if len(tours) > 8:
+            lines.append(f"ほか{len(tours) - 8}件（サイトに掲載）")
+        lines.append("")
     runner_lines = []
     for g, items in pick["runners_up"].items():
+        if g == "Other":  # いつでも使えるネタはサイトだけに載せる
+            continue
         for r in items:
             runner_lines.append(f"{g}：{r['title_ja']}")
     if runner_lines:

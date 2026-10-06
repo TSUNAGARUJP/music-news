@@ -58,12 +58,12 @@ def _matches(artists: list[str], video: dict) -> bool:
 
 
 def chart_hits(artists: list[str], chart: list[dict]) -> list[dict]:
-    hits = [v for v in chart if _matches(artists, v)]
+    """チャートに入っている関連動画（地域ごとに最上位の1本）。"""
     best: dict[str, dict] = {}
-    for v in hits:
-        if v["id"] not in best or v["rank"] < best[v["id"]]["rank"]:
-            best[v["id"]] = v
-    return sorted(best.values(), key=lambda v: v["rank"])[:2]
+    for v in chart:
+        if _matches(artists, v) and (v["region"] not in best or v["rank"] < best[v["region"]]["rank"]):
+            best[v["region"]] = v
+    return sorted(best.values(), key=lambda v: v["rank"])
 
 
 def related_video(key: str, query: str, artists: list[str], days: int = 7) -> dict | None:
