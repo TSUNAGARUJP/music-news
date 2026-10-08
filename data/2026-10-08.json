@@ -1,0 +1,2066 @@
+{
+ "date": "2026-10-08",
+ "generated_at": "2026-10-08T02:40:53.627594+00:00",
+ "article_count": 296,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日は、Aerosmithの約3年ぶりのライブ復帰や、R&B歌手Freddie Jacksonの訃報など、レジェンド級アーティストの話題が目立ちました。来日情報では、Kota the Friendの初来日やFreya Skyeの初来日公演など、初来日の発表が複数ありました。",
+  "top": [
+   {
+    "id": "s0",
+    "title_ja": "Aerosmith、約3年ぶりライブ復帰　豪華ゲストとLAで2公演",
+    "genre": "Other",
+    "summary_ja": "ツアーからの引退を発表していたAerosmithが、Los AngelesのHollywood Bowlで2公演を行うと発表しました。公演名は「California, Dream On: Aerosmith & Friends」です。Slash、Sammy Hagar、Heart、Run-DMC、Billy Idolらがゲスト出演すると報じられています。",
+    "why_ja": "Rolling Stone、Variety、Consequenceと日本のｄメニューニュースの計4媒体が報じた、レジェンドの引退撤回とも言える大きなニュースです。ロックとヒップホップの両方からゲストが集まる点も話題性があります。",
+    "line_point": "引退したAerosmithがHollywood Bowlで2公演の復帰ライブ。Slash、Run-DMCら豪華ゲストも",
+    "reels": [
+     {
+      "hook": "引退したはずのAerosmithが帰ってくる！",
+      "angle": "引退発表から復帰までの流れを時系列で紹介。最後に公演名「California, Dream On」を出して締める"
+     },
+     {
+      "hook": "このゲスト、豪華すぎない？",
+      "angle": "Slash、Heart、Run-DMCなどのゲストを写真で次々に見せ、ロックからヒップホップまでの幅広さを強調する"
+     }
+    ]
+   },
+   {
+    "id": "s64",
+    "title_ja": "Kota the Friend、11月に初来日ツアー決定　大阪・東京で開催",
+    "genre": "Hip-Hop",
+    "summary_ja": "Kota the Friendの初来日ツアーが決まりました。11月に大阪の『TASOGARE IN THE PARK』に出演し、東京・代官山UNITで単独公演を行います。",
+    "why_ja": "Yahoo!ニュースとぴあ関西版WEBの2媒体が報じた初来日のニュースです。日本のファンが生で見られる初めての機会になります。",
+    "line_point": "Kota the Friendが初来日。11月に大阪TASOGARE IN THE PARK出演と代官山UNITで単独公演",
+    "reels": [
+     {
+      "hook": "Kota the Friend、ついに初来日！",
+      "angle": "代表曲を流しながら、日程・会場（大阪のフェス、代官山UNIT）をテロップで紹介する告知型"
+     },
+     {
+      "hook": "代官山UNITで見られるのは今だけかも",
+      "angle": "会場の規模感に触れつつ、フェスと単独公演の2パターンの楽しみ方を比べて紹介する"
+     }
+    ]
+   },
+   {
+    "id": "s23",
+    "title_ja": "R&B歌手Freddie Jacksonが死去、70歳と報道",
+    "genre": "Other",
+    "summary_ja": "「You Are My Lady」などの80年代のヒットで知られる、グラミー賞ノミネート歴のあるR&B歌手Freddie Jacksonが亡くなったと報じられています。年齢はAP通信が70歳、NME Japanは享年69歳と伝えています。R&Bチャート1位を10曲持ち、「Rock Me Tonight (For Old Times Sake)」でポップチャートにも進出しました。",
+    "why_ja": "AP通信、The Guardian、NME Japanの3媒体が報じています。関連するYouTube動画は公開31時間で約4.8万回再生されています。",
+    "line_point": "「You Are My Lady」で知られるR&B歌手Freddie Jacksonが死去。70歳と報道",
+    "reels": [
+     {
+      "hook": "80年代R&Bを代表する声が旅立ちました",
+      "angle": "茶化さず事実を伝える追悼型。代表曲2曲とR&Bチャート1位10曲の実績を静かに紹介する"
+     },
+     {
+      "hook": "このスロウジャム、聴いたことある？",
+      "angle": "「You Are My Lady」の一節を紹介し、ロマンティックなR&Bの魅力と功績を敬意を込めて振り返る"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [],
+   "POP": [
+    {
+     "id": "s108",
+     "title_ja": "VXON、初の日本語曲「KNT (君の特別)」リリース決定",
+     "note": "フィリピンのP-POPグループが初の日本語曲を発表。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s18",
+     "title_ja": "Pharrell、Chad Hugoとの著作権訴訟の却下を求める",
+     "note": "Neptunesの2人の訴訟で、Pharrell側が却下を申し立てた。"
+    },
+    {
+     "id": "s36",
+     "title_ja": "Trippie Redd宅で殺人未遂容疑者が逮捕と報道",
+     "note": "9月の発砲事件に関連し、自宅で容疑者が逮捕された。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s84",
+     "title_ja": "Freddie在籍時の最後のツアーから40年『クイーン：ブダペスト』",
+     "note": "4K版のレビューと、記者が目撃した舞台裏の話がネタになる。"
+    },
+    {
+     "id": "s74",
+     "title_ja": "Oasisドキュメンタリー、兄弟和解を描かない理由",
+     "note": "制作陣が、NoelとLiamの和解を映さなかった理由を語った裏話。"
+    },
+    {
+     "id": "s82",
+     "title_ja": "André 3000の誕生日、Outkastの歴史を振り返る",
+     "note": "誕生日にちなみ、Outkastのビデオとフジロック来日を振り返るネタ。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s64",
+    "title_ja": "Kota the Friend、11月に初来日ツアー決定",
+    "note": "大阪『TASOGARE IN THE PARK』出演、東京・代官山UNITで単独公演"
+   },
+   {
+    "id": "s62",
+    "title_ja": "Freya Skye、2027年2月に初来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s63",
+    "title_ja": "Chris Dave, MonoNeon, Justus West、11月に来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s100",
+    "title_ja": "Goldmund、Suso Saiz、＜Urban Echoes＞で来日",
+    "note": "東京・大阪・岡山で開催"
+   },
+   {
+    "id": "s4",
+    "title_ja": "NYのゴスペルシンガーたち、初来日コンサート",
+    "note": "大阪で1日限りの公演（オレンジゴスペル）"
+   }
+  ],
+  "tour_candidates": 9
+ },
+ "compare": {
+  "model": "claude-sonnet-5-5",
+  "overview": "今日はAerosmithが約3年ぶりにライブ復帰するニュースが最大の話題。日本関連では、Kota the Friendの初来日ツアーが決まった。R&BシンガーFreddie Jacksonの訃報は、一般メディアも報じている。",
+  "top": [
+   {
+    "id": "s0",
+    "title_ja": "Aerosmith、約3年ぶりにライブ復帰。豪華ゲスト迎え2公演",
+    "genre": "Other",
+    "summary_ja": "Aerosmithが、ロサンゼルスのHollywood Bowlで2夜のライブ「California, Dream On: Aerosmith & Friends」を開催すると発表した。ツアー引退の発表から約2年を経ての復帰となる。Slash、Run-D.M.C.、Billy Idol、Eric Church、Sammy Hagar、Jerry Cantrell、Heart、The Black Crowesなどがゲストとして参加すると報じられている。",
+    "why_ja": "Rolling Stone、Variety、Consequenceの海外3媒体に加え、日本のｄメニューニュースも報じている。計4媒体が伝え、ゲストの顔ぶれの大きさも注目点。",
+    "line_point": "Aerosmithが約3年ぶりにライブ復帰。Slash、Run-D.M.C.らがゲストで2公演",
+    "reels": [
+     {
+      "hook": "エアロスミスが約3年ぶり復活！",
+      "angle": "Hollywood Bowl2夜公演の発表を紹介。Slash、Run-D.M.C.などのゲスト名をテロップで一気に見せる。"
+     },
+     {
+      "hook": "引退宣言から2年、まさかの復帰",
+      "angle": "ツアー引退発表から復帰発表までを時系列で解説。ゲスト一覧を最後にまとめて見せる。"
+     }
+    ]
+   },
+   {
+    "id": "s23",
+    "title_ja": "R&BシンガーのFreddie Jackson、70歳で死去と報道",
+    "genre": "Other",
+    "summary_ja": "「You Are My Lady」などの80年代ヒットで知られるR&BシンガーのFreddie Jacksonが亡くなったと報じられた。AP通信とThe Guardianは享年70歳、NME Japanは享年69歳と伝えている。Grammy-nominatedのシンガーで、R&Bチャート1位を10曲獲得し、「Rock Me Tonight (For Old Times Sake)」などでポップチャートにも進出した。",
+    "why_ja": "AP通信とThe Guardianの一般メディア2社に、日本のNME Japanも報じている。関連YouTube動画は公開31時間で約4.9万回再生されている。",
+    "line_point": "Freddie Jacksonが死去。「You Are My Lady」で知られるR&B歌手",
+    "reels": [
+     {
+      "hook": "R&B界の名シンガーが旅立った",
+      "angle": "追悼として静かに構成する。代表曲「You Are My Lady」「Rock Me Tonight」を挙げ、報じられた事実だけを伝える。"
+     },
+     {
+      "hook": "R&Bチャート1位が10曲の歌声",
+      "angle": "R&Bチャート1位10曲という実績を軸に功績を振り返る。年齢は報道で69歳と70歳に分かれる点を注記する。"
+     }
+    ]
+   },
+   {
+    "id": "s64",
+    "title_ja": "Kota the Friend、11月に初来日ツアー決定",
+    "genre": "Hip-Hop",
+    "summary_ja": "Kota the Friendの初来日ツアーが決まった。11月に大阪の『TASOGARE IN THE PARK』に出演し、東京・代官山UNITで単独公演を行うと報じられている。",
+    "why_ja": "Yahoo!ニュースとぴあ関西版WEBの日本の2媒体が報じており、初来日という点でも日本のヒップホップファンの関心を集めそう。",
+    "line_point": "Kota the Friendが11月に初来日。大阪と東京・代官山UNIT",
+    "reels": [
+     {
+      "hook": "Kota the Friendがついに初来日！",
+      "angle": "大阪のイベント出演と東京単独公演の2か所を紹介。Kota the Friendの過去のMVや映像を重ねて雰囲気を伝える。"
+     },
+     {
+      "hook": "11月、代官山UNITで初ライブ",
+      "angle": "会場と日程をカード形式で整理。大阪出演と東京単独公演の違いも一言で見せる。"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s102",
+     "title_ja": "ジョージ・カックル×ピーター・バラカンのトーク＆サイン会",
+     "note": "ジョージ・カックルとピーター・バラカンの書籍刊行記念トーク＆サイン会が決定。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s107",
+     "title_ja": "Ado×KUROMIのコラボ曲MVが公開",
+     "note": "Adoが新曲「DND feat. KUROMI」のMVを公開した。"
+    },
+    {
+     "id": "s108",
+     "title_ja": "P-POPのVXON、初の日本語曲をリリース決定",
+     "note": "フィリピンのVXONが初の日本語曲「KNT (君の特別)」をリリースする。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s18",
+     "title_ja": "Pharrell、Chad Hugoの著作権訴訟の棄却を要求",
+     "note": "PharrellがChad Hugoの著作権訴訟の棄却を求めていると報じられた。"
+    },
+    {
+     "id": "s2",
+     "title_ja": "Victoria Monét、Nasが最初に才能を認めてくれたと回想",
+     "note": "Victoria Monétが、Nasのスタジオセッションがキャリアの転機だったと語った。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s84",
+     "title_ja": "Freddie在籍時最後のツアーから40周年、『Queen: Budapest』",
+     "note": "4K版『クイーン：ブダペスト』のレビューと取材ドキュメントが公開されている。"
+    },
+    {
+     "id": "s74",
+     "title_ja": "Oasisのドキュメンタリー、Noel and Liamの和解を描かない理由",
+     "note": "制作陣が、作品で兄弟の和解の経緯を見せなかった理由を語った。"
+    },
+    {
+     "id": "s82",
+     "title_ja": "André 3000の誕生日にOutkastのPVを振り返る",
+     "note": "André 3000の誕生日に合わせ、Outkastのミュージックビデオを集めた記事が出ている。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s64",
+    "title_ja": "Kota the Friend、11月に初来日ツアー決定",
+    "note": "11月、大阪『TASOGARE IN THE PARK』と東京・代官山UNITで単独公演。"
+   },
+   {
+    "id": "s62",
+    "title_ja": "Freya Skye、2027年2月に初来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s63",
+    "title_ja": "Chris Dave、MonoNeon、Justus West、11月に来日",
+    "note": ""
+   },
+   {
+    "id": "s100",
+    "title_ja": "Goldmund、Suso Saiz、Urban Echoesで来日",
+    "note": "東京・大阪・岡山で開催。"
+   },
+   {
+    "id": "s4",
+    "title_ja": "NYのトップ・ゴスペルシンガーたち、大阪で初来日公演",
+    "note": "大阪で1日限りのコンサート。"
+   }
+  ],
+  "tour_candidates": 9
+ },
+ "candidates": [
+  {
+   "id": "s61",
+   "label": "Beabadoobee announces initial Japan solo concert",
+   "artists": [
+    "Beabadoobee"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース",
+    "https://djplumadventuretimes.com/",
+    "ガジェット通信 GetNews",
+    "씨네플레이"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース",
+    "https://djplumadventuretimes.com/",
+    "ガジェット通信 GetNews",
+    "씨네플레이"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 10,
+   "latest": "2026-10-07T12:34:27+00:00",
+   "articles": [
+    {
+     "outlet": "https://djplumadventuretimes.com/",
+     "title": "ビーバドゥービー、2027年4月に初単独来日公演決定！",
+     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX0kxSThOeEstcWdGVmJLQTV6Mlk2cDQ4dEdpdDdoWW9IbHVsazg5UkZCQ1RveW03UEtfSmJ4bUh6d19CRTZFbXIyYlp4V0JVZ2liNkFLZFZSOWFZbjBXcTBKc2xxQ1d1RzVJT0xjUkNzNlYwZnN4bWFLeHlkVk9PcHZmb0J6aFdFQWdvQTNfQzMzQnFQU3piWU1LSUxSZ3ZMNy1RekpvMl8yQzJCeTVkM1lqOEprN0F6aWE4VFZzSjRpMVNxM3oxY2k0WXBudU90ZFl0UVVZOUlPaHlBX1VkVHNlSEswZVpkR1E5RlhyY1lSQXJoR1g3alZyT3NsX29WUVdlOQ?oc=5",
+     "published": "2026-10-07T12:34:27+00:00",
+     "summary": "ビーバドゥービー、2027年4月に初単独来日公演決定！ https://djplumadventuretimes.com/"
+    },
+    {
+     "outlet": "씨네플레이",
+     "title": "テイラー・スウィフトのコンサートでオープニングゲストを務めたビーバドゥービー、デビュー7年目で初来日…来年3月23日にソウルでアリーナツアー",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIODZETE5XR19sQzEwTnRqZmFoR254MUNTS1VhalNvNFliNlN3Yko4SzhBNnRHamxFU2hIN2JNLXhTVmptVW1IQjhaUGtpanpUR3Y4WERDVzNVbG8?oc=5",
+     "published": "2026-10-07T07:24:25+00:00",
+     "summary": "テイラー・スウィフトのコンサートでオープニングゲストを務めたビーバドゥービー、デビュー7年目で初来日…来年3月23日にソウルでアリーナツアー 씨네플레이"
+    },
+    {
+     "outlet": "ガジェット通信 GetNews",
+     "title": "ビーバドゥービー、初の単独来日公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uaC1sRlBjVXBSWTVDWVQ0aHg3cklsMDBua01DcUpXT3ZkNjA4Ykg3V2QxN1JmQy1XNWRPdEw0d0RNcDd2S3JkQ244aw?oc=5",
+     "published": "2026-10-07T06:05:00+00:00",
+     "summary": "ビーバドゥービー、初の単独来日公演が決定 ガジェット通信 GetNews"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "ビーバドゥービー、初の単独来日公演が決定 (Billboard JAPAN)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQm9pU1BDdFhIZU5VMklTMVBQdEhPN2hpZlFKX3ZBNHd3aVVKRTUxcVVCSlg2RnJ1VEkwMDBSa24yenY4Ym10V2JaMDliZXlnR2VFaXBJWlVQblJibGtwWWhNVHl3bXNGdmxxMWhXWWpjMEt6UmtuQmQwdDVNME5MQllIZW53dEVTbUNqMW5B?oc=5",
+     "published": "2026-10-07T02:20:06+00:00",
+     "summary": "ビーバドゥービー、初の単独来日公演が決定 (Billboard JAPAN) Yahoo!ニュース"
+    },
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ビーバドゥービー、初の単独来日公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxemNZQTFKY25sQVZrLUZFTXNCUFZZZFkwSkhmRFRzd2J3LTdtaXk3b3hPYkZvM0xxNVBUVlhqbzlIc012Uk8wb2JZakJmcXRyWDlpNGc4Rkc2UklaYjdGdGt3?oc=5",
+     "published": "2026-10-07T02:00:00+00:00",
+     "summary": "ビーバドゥービー、初の単独来日公演が決定 Billboard JAPAN"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Freddie Jackson, R&B legend, dies at 70",
+   "artists": [
+    "Freddie Jackson"
+   ],
+   "genre": "Other",
+   "kind": "death",
+   "outlets": [
+    "AP通信",
+    "NME Japan",
+    "The Guardian"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [
+    "AP通信",
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "score": 6,
+   "latest": "2026-10-07T20:16:00+00:00",
+   "articles": [
+    {
+     "outlet": "AP通信",
+     "title": "Grammy-nominated R&B singer Freddie Jackson, known for '80s hits like 'You Are My Lady,' dies at 70",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTNGZXZyTWxPUUZjWl85MUlvMXJVQ21wRjFRcTEzOWVla3NwbzVTbDI3ajZNN0tzcDFIWWpreFpwa0p6UXJ0SnVGb3haYktTcG9FeWRPY25lOVMwaGx1WlZmSVdjS0VxWF9JOHV4NDA3YVRHUi1mYjdibWdDVi1oX2JEZEVJTEFsMlFZcFp3?oc=5",
+     "published": "2026-10-07T20:16:00+00:00",
+     "summary": "Grammy-nominated R&B singer Freddie Jackson, known for '80s hits like 'You Are My Lady,' dies at 70 AP News"
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Freddie Jackson, romantic US singer with 10 R&B chart-toppers, dies aged 70",
+     "link": "https://www.theguardian.com/music/2026/oct/07/freddie-jackson-romantic-us-singer-with-10-r-and-b-chart-toppers-dies-aged-70",
+     "published": "2026-10-07T11:14:56+00:00",
+     "summary": "Celebrated for his earnest, dextrous voice, Jackson crossed into the pop charts with the hits Rock Me Tonight (For Old Times Sake) and You Are My Lady Freddie Jackson, the US singer whose smooth and romantic take on R&B found a huge audienc"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "フレディ・ジャクソンが逝去。享年69歳",
+     "link": "https://nme-jp.com/news/173091/",
+     "published": "2026-10-07T10:00:27+00:00",
+     "summary": "R＆Bシンガーのフレディ・ジャクソンが亡くなった。享年69歳だった。"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "l2HPBAELegA",
+    "title": "Freddie Jackson Dies at 70, Just Days After His Birthday",
+    "channel": "FameHistory",
+    "published": "2026-10-06T19:26:31Z",
+    "hours_since": 31,
+    "views": 48546,
+    "url": "https://www.youtube.com/watch?v=l2HPBAELegA",
+    "views_per_hour": 1566
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Aerosmith announces comeback concerts with star-studded guest lineup",
+   "artists": [
+    "Aerosmith"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "outlets": [
+    "Consequence",
+    "Rolling Stone",
+    "Variety",
+    "ｄメニューニュース"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "ｄメニューニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 5,
+   "latest": "2026-10-08T01:35:00+00:00",
+   "articles": [
+    {
+     "outlet": "ｄメニューニュース",
+     "title": "エアロスミス、約3年ぶりにライブ復帰 スラッシュ、RUN DMCら豪華ゲスト迎え2公演開催へ",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYzZpazljSFRkNjJSZUZOZndnV2Z4OS0zVDVpRERtUUVQOW40ZE5kVlhiam9TekxQNzhqYm1fUFB3QTBCVUJvcExFVDg1eDJLdlMxT1pxQldtYXNUM2JnSE83QjJmamlCWW9SN0tzS2w0cjJkblBBTEFZN3lWUzU2eNIBhgFBVV95cUxOdzZJeVViQk9DY29wRkJsSEZySUJEQm1FcFRNaUpNSm1sM2tmczNOXzNkZW45UGtCempmd0pScHBZWk9yNy1Ic002VlNSRVBncUJQblppdEVwUGtfdmFmeDR4MnpEeEdTam1JUGxBQmpmdGsyU2VPa1hyX1FESGZfck1TZEkwdw?oc=5",
+     "published": "2026-10-08T01:35:00+00:00",
+     "summary": "エアロスミス、約3年ぶりにライブ復帰 スラッシュ、RUN DMCら豪華ゲスト迎え2公演開催へ ｄメニューニュース"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Aerosmith Announce Comeback Shows with Loads of “Friends”",
+     "link": "https://consequence.net/2026/10/aerosmith-comeback-shows-with-friends/",
+     "published": "2026-10-07T19:44:10+00:00",
+     "summary": "Slash, Sammy Hagar, Jerry Cantrell, Heart, The Black Crowes, Run-DMC and more will join the legendary rock act. Aerosmith Announce Comeback Shows with Loads of “Friends” Spencer Kaufman"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Aerosmith Returns With Two Concerts at the Hollywood Bowl — Two Years After Announcing Retirement From Touring",
+     "link": "https://variety.com/2026/music/news/aerosmith-returns-two-shows-hollywood-bowl-retirement-1236904642/",
+     "published": "2026-10-07T19:30:38+00:00",
+     "summary": "Aerosmith is coming out of retirement for two nights at Los Angeles’ Hollywood Bowl with “California, Dream On: Aerosmith & Friends,” featuring guest appearances from Run-D.M.C., Billy Idol, Eric Church, Slash and many more. The rock group "
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Aerosmith Announce Two L.A. Comeback Concerts With All-Star Guests",
+     "link": "https://www.rollingstone.com/music/music-news/aerosmith-comeback-concerts-1235637458/",
+     "published": "2026-10-07T19:13:36+00:00",
+     "summary": "Run-DMC, the Black Crowes, Heart, Billy Idol, Eric Church, Slash, Duff McKagan, Sammy Hagar, Tom Morello, and many others join band on October 29 and November 1"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s64",
+   "label": "Kota the Friend announces Japan debut tour in November",
+   "artists": [
+    "Kota the Friend"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "japan_tour",
+   "outlets": [
+    "Yahoo!ニュース",
+    "ぴあ関西版WEB"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Yahoo!ニュース",
+    "ぴあ関西版WEB"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 4,
+   "latest": "2026-10-07T02:41:46+00:00",
+   "articles": [
+    {
+     "outlet": "ぴあ関西版WEB",
+     "title": "Kota the Friend、初来日ツアーが決定。 11月に大阪『TASOGARE IN THE PARK』 ＆東京・代官山UNITにて単独公演を開催！",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FMTNfUmdCMHFQd3h4X3BYSmgzb0Zva1RhT0gzLTRheDFoYkdBMGE2bDJ3QUtyYk1Cc1pCbWZmaGV1VmdTNFlSS0Y3YVY5RFo3WFVhQ3lOZUpTM0lGc3RBNnc1VUdtd2k5WDFJbFM1VmtkZw?oc=5",
+     "published": "2026-10-07T02:41:46+00:00",
+     "summary": "Kota the Friend、初来日ツアーが決定。 11月に大阪『TASOGARE IN THE PARK』 ＆東京・代官山UNITにて単独公演を開催！ ぴあ関西版WEB"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "Kota the Friend、初来日ツアーが決定。11月に大阪『TASOGARE IN THE PARK』＆東京・代官山UNITにて単独公演を開催！",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOElwbDg1VE5GTGFUSk9sRW5wcUdvVTJXSkxQUUl4XzJjRFB2c0p1Y0VXY3RRZWQ1ZTNYMW1EU3FCQW53OHlUeGwyRFk0Y2V5dmE3QjJUbjJnZVJXU1BIaGNuY0owbmF1TWs1anh3dHJJRHczLUNiU09MRGgyNTBhYWVOM2lvYU5sQ0tpVzJB?oc=5",
+     "published": "2026-10-07T02:38:14+00:00",
+     "summary": "Kota the Friend、初来日ツアーが決定。11月に大阪『TASOGARE IN THE PARK』＆東京・代官山UNITにて単独公演を開催！ Yahoo!ニュース"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s36",
+   "label": "Trippie Redd's home raided, attempted murder suspect arrested",
+   "artists": [
+    "Trippie Redd"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "AllHipHop",
+    "HotNewHipHop",
+    "XXL"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 3,
+   "latest": "2026-10-07T23:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Police Bust Attempted Murder Suspect At Trippie Redd’s Lavish Mansion",
+     "link": "https://allhiphop.com/news/police-bust-attempted-murder-suspect-at-trippie-redds-lavish-mansion/",
+     "published": "2026-10-07T23:02:00+00:00",
+     "summary": "Trippie Redd's $8 million mansion becomes the site of a major arrest when police capture a wanted attempted murder suspect."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Trippie Redd’s Home Raided, Police Arrest Attempted Murder Suspect",
+     "link": "https://www.hotnewhiphop.com/1012313-trippie-redd-affiliate-balloutdadon-attempted-murder-arrest",
+     "published": "2026-10-07T16:44:14+00:00",
+     "summary": "Police arrested Braveone Jones at Trippie Redd's Florida home on Tuesday in connection to a September shooting. The post Trippie Redd’s Home Raided, Police Arrest Attempted Murder Suspect appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "XXL",
+     "title": "BalloutDaDon Arrested for Attempted Murder at Trippie Redd's Home",
+     "link": "https://www.xxlmag.com/trippie-redd-search-warrant-balloutdadon-arrested/",
+     "published": "2026-10-07T15:41:05+00:00",
+     "summary": "A Trippie Redd affiliate booked at the rapper's home. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "PFYaaiIlJNw",
+    "title": "Warrant served at rapper Trippie Redd’s home in connection with South Florida shooting",
+    "channel": "WPLG Local 10",
+    "published": "2026-10-07T16:16:03Z",
+    "hours_since": 10,
+    "views": 49543,
+    "url": "https://www.youtube.com/watch?v=PFYaaiIlJNw",
+    "views_per_hour": 4954
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Victoria Monét recalls Nas's early support in her career",
+   "artists": [
+    "Victoria Monét",
+    "Nas"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "outlets": [
+    "AllHipHop",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-08T02:01:32+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Victoria Monét Explains How Nas Kick-Started Her Career",
+     "link": "https://allhiphop.com/news/victoria-monet-explains-how-nas-kick-started-her-career/",
+     "published": "2026-10-08T02:01:32+00:00",
+     "summary": "Before the Grammy wins, a studio session with Nas gave Victoria Monét a chance to show her voice belonged in the spotlight."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Victoria Monét Recalls Impact of Nas Being First to Recognize Her Potential as an Artist",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFhLLUxxYWYyY1pUV3NTX0hrSDc4Q2pkR1N0V2hLYnFVVE5NU0Vmbkg0bG1yWFRZcENWVjNXamwwVFI0NEJLZElqUEdfWGNwZ1JGaFRvcEhhZS0xMWpZMFhWdnF4aDBtQWpNaFBIYjQ3N2F5Q3hmSTFjdFdRV2dnaS1WUllSX2c4anpPOEctZGhhaEpXX0RzcTZOdw?oc=5",
+     "published": "2026-10-07T18:54:32+00:00",
+     "summary": "Victoria Monét Recalls Impact of Nas Being First to Recognize Her Potential as an Artist Complex"
+    }
+   ],
+   "chart": [
+    {
+     "id": "d2-dpM0crY0",
+     "title": "SIENNA SPIRO - Great Expectation (Live from the 2026 VMAs)",
+     "channel": "SiennaSpiroVEVO",
+     "published": "2026-09-30T23:30:25Z",
+     "hours_since": 171,
+     "views": 1618431,
+     "url": "https://www.youtube.com/watch?v=d2-dpM0crY0",
+     "region": "GB",
+     "rank": 8
+    }
+   ],
+   "video": {
+    "id": "d2-dpM0crY0",
+    "title": "SIENNA SPIRO - Great Expectation (Live from the 2026 VMAs)",
+    "channel": "SiennaSpiroVEVO",
+    "published": "2026-09-30T23:30:25Z",
+    "hours_since": 171,
+    "views": 1618431,
+    "url": "https://www.youtube.com/watch?v=d2-dpM0crY0",
+    "region": "GB",
+    "rank": 8
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Pharrell wants Chad Hugo copyright lawsuit dismissed",
+   "artists": [
+    "Pharrell",
+    "Chad Hugo"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "AllHipHop",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T21:36:32+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Pharrell Wants ‘Vague and Ambiguous’ Chad Hugo Copyright Lawsuit Tossed",
+     "link": "https://www.rollingstone.com/music/music-news/pharrell-wants-chad-hugo-copyright-lawsuit-dismissed-1235639252/",
+     "published": "2026-10-07T21:36:32+00:00",
+     "summary": "“As incomprehensible as it is, it appears that Hugo has no idea which compositions or sound recordings he supposedly authored,\" Pharrell's new dismissal motion says"
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "EXCLUSIVE: Chad Hugo Has “No Idea” Which Songs He Wrote, Pharrell Claims As Neptunes Lawsuit Gets Bitter",
+     "link": "https://allhiphop.com/news/chad-hugo-no-idea-which-songs-he-wrote-pharrell-claims/",
+     "published": "2026-10-07T19:00:00+00:00",
+     "summary": "Chad Hugo seeks missing earnings as Pharrell asks a judge to reject claims that leave their disputed songs unnamed."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s32",
+   "label": "Drake and Keshia Chanté shut down paternity rumors",
+   "artists": [
+    "Drake",
+    "Keshia Chanté"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "HotNewHipHop",
+    "XXL"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T19:42:14+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Keshia Chanté Breaks Her Silence On Rumor That Drake Is The Father Of Her Child",
+     "link": "https://www.hotnewhiphop.com/1012349-keshia-chante-breaks-her-silence-on-rumor-that-drake-is-the-father-of-her-child",
+     "published": "2026-10-07T19:42:14+00:00",
+     "summary": "Keshia Chanté's pregnancy has been met with rumors that Drake is the father, and now, she is speaking out on CP24. The post Keshia Chanté Breaks Her Silence On Rumor That Drake Is The Father Of Her Child appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Drake, Keshia Chanté Shut Down Rumors He Fathered Her Unborn Baby",
+     "link": "https://www.xxlmag.com/drake-keshia-chante-shut-down-rumors-father-unborn-child/",
+     "published": "2026-10-07T18:47:50+00:00",
+     "summary": "Drake says he's not the daddy. Continue reading…"
+    }
+   ],
+   "chart": [
+    {
+     "id": "eJFi2TK5174",
+     "title": "Solar Eclipse",
+     "channel": "Drake - Topic",
+     "published": "2026-10-01T10:00:26Z",
+     "hours_since": 161,
+     "views": 2236118,
+     "url": "https://www.youtube.com/watch?v=eJFi2TK5174",
+     "region": "US",
+     "rank": 5
+    },
+    {
+     "id": "eJFi2TK5174",
+     "title": "Solar Eclipse",
+     "channel": "Drake - Topic",
+     "published": "2026-10-01T10:00:26Z",
+     "hours_since": 161,
+     "views": 2236118,
+     "url": "https://www.youtube.com/watch?v=eJFi2TK5174",
+     "region": "GB",
+     "rank": 21
+    }
+   ],
+   "video": {
+    "id": "eJFi2TK5174",
+    "title": "Solar Eclipse",
+    "channel": "Drake - Topic",
+    "published": "2026-10-01T10:00:26Z",
+    "hours_since": 161,
+    "views": 2236118,
+    "url": "https://www.youtube.com/watch?v=eJFi2TK5174",
+    "region": "US",
+    "rank": 5
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "Azealia Banks reflects on move to Tel Aviv",
+   "artists": [
+    "Azealia Banks"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "outlets": [
+    "Vibe",
+    "XXL"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T18:30:45+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "Azealia Banks Reflects on American and Israeli Culture Amid Move To Tel Aviv",
+     "link": "https://www.vibe.com/news/entertainment/azealia-banks-reveals-new-home-israel-tel-aviv-1235197951/",
+     "published": "2026-10-07T18:30:45+00:00",
+     "summary": "“People aren't withholding stems and holding grudges about social issues, and it’s freeing,\" the Harlem rapper said"
+    },
+    {
+     "outlet": "XXL",
+     "title": "Azealia Banks Moves to Tel Aviv",
+     "link": "https://www.xxlmag.com/azealia-banks-moves-israel/",
+     "published": "2026-10-07T15:51:36+00:00",
+     "summary": "From 212 to 03. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s103",
+   "label": "Hey! Say! JUMPのニューアルバム『Juliet』、小林壱誓（緑黄色社会）提供楽曲「IMPACT」収録",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-08T09:10:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "Hey! Say! JUMPのニューアルバム『Juliet』、小林壱誓（緑黄色社会）提供楽曲「IMPACT」収録",
+     "link": "https://www.billboard-japan.com/d_news/detail/166284",
+     "published": "2026-10-08T09:10:00+09:00",
+     "summary": "Hey! Say! JUMPが2026年11月11日にリリースするニューアルバム『Juliet』に、小林壱誓（緑黄色…"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Back number releases stadium concert live Blu-ray and DVD",
+   "artists": [
+    "back number"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T23:10:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "back number、5大スタジアムツアーより日産スタジアム公演をパッケージ化",
+     "link": "https://www.billboard-japan.com/d_news/detail/166282",
+     "published": "2026-10-07T23:10:00+09:00",
+     "summary": "back numberが、2026年12月23日にLIVE Blu-ray＆DVD『back number “Gra…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "SEKAI NO OWARI performs new song 'Supermarket' on TV",
+   "artists": [
+    "SEKAI NO OWARI"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T23:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "SEKAI NO OWARI、新曲「Supermarket」TV初披露パフォーマンス映像を公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/166283",
+     "published": "2026-10-07T23:00:00+09:00",
+     "summary": "SEKAI NO OWARIが、日本テレビ『1億2000万人のありがとう！歌の感謝祭』で披露した「Supermark…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s104",
+   "label": "【先ヨミ速報】Snow Man『AMENITY』フラゲ日集計でハーフミリオン突破",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T22:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "【先ヨミ速報】Snow Man『AMENITY』フラゲ日集計でハーフミリオン突破",
+     "link": "https://www.billboard-japan.com/d_news/detail/166251",
+     "published": "2026-10-07T22:00:00+09:00",
+     "summary": "SoundScan JapanによるCDアルバム売上レポートから2026年10月5日～10月6日の集計が明らかとなり…"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s105",
+   "label": "WATWING、ポップでドリーミーな「Get So Jealous」MVで“嫉妬”を描く",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T21:20:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "WATWING、ポップでドリーミーな「Get So Jealous」MVで“嫉妬”を描く",
+     "link": "https://www.billboard-japan.com/d_news/detail/166278",
+     "published": "2026-10-07T21:20:00+09:00",
+     "summary": "WATWINGが、新曲「Get So Jealous」を配信リリースし、ミュージックビデオを公開した。 新曲「Get…"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s106",
+   "label": "aiko、ニューアルバム『最後に熱い日々を狂わしき想いで』トレーラー映像を公開",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T21:15:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "aiko、ニューアルバム『最後に熱い日々を狂わしき想いで』トレーラー映像を公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/166279",
+     "published": "2026-10-07T21:15:00+09:00",
+     "summary": "aikoが、ニューアルバム『最後に熱い日々を狂わしき想いで』のトレーラー映像を公開した。 トレーラー映像では、TVア…"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s107",
+   "label": "Ado×KUROMIのイラスト＆グラフィックデザインで魅せる、コラボ曲「DND feat. KUROMI」MV公開",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T20:25:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "Ado×KUROMIのイラスト＆グラフィックデザインで魅せる、コラボ曲「DND feat. KUROMI」MV公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/166274",
+     "published": "2026-10-07T20:25:00+09:00",
+     "summary": "Adoが、新曲「DND feat. KUROMI」のミュージックビデオを公開した。 2026年9月25日に配信リリー…"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s108",
+   "label": "P-POPグループ＝VXON、切なくポップな初の日本語曲「KNT (君の特別) Kimi no Tokubetsu」リリース決定＜10/7修正＞",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T20:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "P-POPグループ＝VXON、切なくポップな初の日本語曲「KNT (君の特別) Kimi no Tokubetsu」リリース決定＜10/7修正＞",
+     "link": "https://www.billboard-japan.com/d_news/detail/165838",
+     "published": "2026-10-07T20:00:00+09:00",
+     "summary": "フィリピンのP-POPシーンを牽引する5人組ボーイズ・グループVXON（ヴィジョン）が、グループ初となる日本語楽曲「…"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s109",
+   "label": "ASIAN KUNG-FU GENERATION、AL『ファンクラブ』リマスター音源配信リリース決定",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T19:40:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ASIAN KUNG-FU GENERATION、AL『ファンクラブ』リマスター音源配信リリース決定",
+     "link": "https://www.billboard-japan.com/d_news/detail/166272",
+     "published": "2026-10-07T19:40:00+09:00",
+     "summary": "ASIAN KUNG-FU GENERATIONが、3rdアルバム『ファンクラブ』のリマスター音源『ファンクラブ (…"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s110",
+   "label": "WENDY、新曲「Forevermore」配信リリース＆東京の街を舞台に描くMV公開",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T18:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "WENDY、新曲「Forevermore」配信リリース＆東京の街を舞台に描くMV公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/166264",
+     "published": "2026-10-07T18:00:00+09:00",
+     "summary": "WENDYが、本日10月7日に新曲「Forevermore」を配信リリースし、ミュージックビデオを公開した。 9…"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s111",
+   "label": "Mrs. GREEN APPLE「Carrying Happiness」ストリーミング累計1億回突破【ビルボード】",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T18:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "Mrs. GREEN APPLE「Carrying Happiness」ストリーミング累計1億回突破【ビルボード】",
+     "link": "https://www.billboard-japan.com/d_news/detail/166266",
+     "published": "2026-10-07T18:00:00+09:00",
+     "summary": "Mrs. GREEN APPLE「Carrying Happiness」が、Billboard JAPANチャートの…"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s99",
+   "label": "Groove-Method Live 2026 still announcing unreleased details",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "festival",
+   "outlets": [
+    "radiko news"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "radiko news"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-07T05:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "radiko news",
+     "title": "＜休日課長＞「まだ発表していないこともある！」いよいよ開催が来月に迫った“Groove-Method LIVE 2026”は、プレイガイドで2次先行受付中！",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoZ1daU3NQNzV4ZFRnZGM2LTB3aTMyQlcxMnFkZWhrVl9qSUE3VVlVeEEtY3BmWTRUMHhwaWFxME9CSllmM21KTE5ydlowa0NsMmxPWnVOb0dBa1lEU1h2WGptblTSAWRBVV95cUxQaGdXWlNzUDc1eGRUZ2RjNi0wd2kzMkJXMTJxZGVoa1ZfaklBN1VZVXhBLWNwZlk0VDB4cGlhcTBPQkpZZjNtSkxOcnZaMGtDbDJsT1p1Tm9HQWtZRFNYdlhqbW5U?oc=5",
+     "published": "2026-10-07T05:30:00+00:00",
+     "summary": "＜休日課長＞「まだ発表していないこともある！」いよいよ開催が来月に迫った“Groove-Method LIVE 2026”は、プレイガイドで2次先行受付中！ radiko news"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s100",
+   "label": "Urban Echoes festival features Goldmund and Suso Saiz",
+   "artists": [
+    "Goldmund",
+    "Suso Saiz"
+   ],
+   "genre": "Dance",
+   "kind": "festival",
+   "outlets": [
+    "Qetic"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Qetic"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-07T05:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Qetic",
+     "title": "＜Urban Echoes＞にGoldmund、Suso Saizが出演｜東京・大阪・岡山で開催",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjNWRYd0c5XzhEbXhTTzNiYnV5cThDc3lqWWl5SGcxa1RGUktzMFBLTGpEeFp1R1JtYXV5SDI3d1ZsTXJub0tDMDN6cHRxLWpBX1RWVlM5OUdoTTVHWUNUV01WVlVuWjBhRWpsZ2I4V0o?oc=5",
+     "published": "2026-10-07T05:00:00+00:00",
+     "summary": "＜Urban Echoes＞にGoldmund、Suso Saizが出演｜東京・大阪・岡山で開催 Qetic"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s102",
+   "label": "George Cuckle and Peter Barakan book discussion event",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "other",
+   "outlets": [
+    "ニコニコニュース"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "ニコニコニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-07T04:21:42+00:00",
+   "articles": [
+    {
+     "outlet": "ニコニコニュース",
+     "title": "【ジョージ・カックル×ピーター・バラカン】書籍刊行記念トーク&サイン会が開催決定！",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JNmRaMmFUZkh4UG4yLUQxN3pMc3dXektyME5zLUYyRkhQTFNZWjBIUVpSZzNaMW5VWGVnbmV0bmowdTVwOUZacnlpdEdrNDczZ096SVVrUjhVMHA5ZWF1MnV6MmZnbXlBWmFISDF5dw?oc=5",
+     "published": "2026-10-07T04:21:42+00:00",
+     "summary": "【ジョージ・カックル×ピーター・バラカン】書籍刊行記念トーク&サイン会が開催決定！ ニコニコニュース"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "David Guetta crowned world's number one DJ for sixth time",
+   "artists": [
+    "David Guetta"
+   ],
+   "genre": "Dance",
+   "kind": "award",
+   "outlets": [
+    "Your EDM"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 1,
+   "latest": "2026-10-07T18:48:05+00:00",
+   "articles": [
+    {
+     "outlet": "Your EDM",
+     "title": "David Guetta Crowned World’s No. 1 DJ for Record Sixth Time",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcDFDVVVWeXpKOXRsVE9XR0pIWDAwZThPUnNQZ3dfMmhDWF9qQ3Y4ZWNzQXdiZ3BwWTg0LTN6cE1nY3NBX3BROXBucE15Sk9sQjJKczlHa1pYdGVyT2d3eVRuTk5ib2Z5TVVkZWgwRnVDNlpjQWJ5V1lTSHBNZGM3VnJ6NVh0aUZ4MGhfa2JEeXNTa0pwNDRUNw?oc=5",
+     "published": "2026-10-07T18:48:05+00:00",
+     "summary": "David Guetta Crowned World’s No. 1 DJ for Record Sixth Time Your EDM"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "U_FIXO308WM",
+    "title": "David Guetta Named the World’s #1 DJ for a Record 6th Time 🏆🔥",
+    "channel": "Theary",
+    "published": "2026-10-07T05:44:51Z",
+    "hours_since": 21,
+    "views": 512,
+    "url": "https://www.youtube.com/watch?v=U_FIXO308WM",
+    "views_per_hour": 24
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Gospel singers from New York perform Japan debut concert",
+   "artists": [],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "YouTube"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "YouTube"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-07T23:17:33+00:00",
+   "articles": [
+    {
+     "outlet": "YouTube",
+     "title": "ニューヨークのトップ・ゴスペルシンガーたちが初来日！１日限りのコンサート in 大阪９【オレンジゴスペル】",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jTEZuLWk5bEtCZ0Rfd2V1TS1mVmhWaURhUUptdHVsb1lIX0JnXzRjd3EtVlJjQmt5UUphNE1MT1d2d3p2VkMtSDV3bWVsRWg1aWdQOUZNNjVpemli?oc=5",
+     "published": "2026-10-07T23:17:33+00:00",
+     "summary": "ニューヨークのトップ・ゴスペルシンガーたちが初来日！１日限りのコンサート in 大阪９【オレンジゴスペル】 YouTube"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s101",
+   "label": "Spotify Japan 10th anniversary live with STUTS and artists",
+   "artists": [
+    "STUTS"
+   ],
+   "genre": "POP",
+   "kind": "festival",
+   "outlets": [
+    "ニコニコニュース"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "ニコニコニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-07T04:51:35+00:00",
+   "articles": [
+    {
+     "outlet": "ニコニコニュース",
+     "title": "Spotify、日本上陸10周年ライブ開催 STUTS、マカロニえんぴつ、M!LKの出演決定",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OVE5hNXB3RGRmUTZPaWd5bkhnbzJOYjNwV1FiWkxqNmZjdmtJWll4Q25fMXV3QkVULXk1UF9mcl9kek9KbDlxNUFGRXZPOGc3Q25NSFdNb040a1UxNVIxYVNOd24zZlF1alZxZllxaXZhY3ZtMGhybEdCRQ?oc=5",
+     "published": "2026-10-07T04:51:35+00:00",
+     "summary": "Spotify、日本上陸10周年ライブ開催 STUTS、マカロニえんぴつ、M!LKの出演決定 ニコニコニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s62",
+   "label": "Freya Skye announces February 2027 Japan debut concert",
+   "artists": [
+    "Freya Skye"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-07T03:57:20+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "Freya Skye、2027年2月に初来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBFS2FWSHpBSnlIUTEwTF90NUYzWGczeTdZYlpIMGRoUmtYNHBtSnNmN1EzZlJRcTFiekVGV2RzVUc1NVJFQWlN?oc=5",
+     "published": "2026-10-07T03:57:20+00:00",
+     "summary": "Freya Skye、2027年2月に初来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s63",
+   "label": "Chris Dave, MonoNeon, Justus West announce November Japan tour",
+   "artists": [
+    "Chris Dave",
+    "MonoNeon",
+    "Justus West"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-07T02:57:16+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "Chris Dave, MonoNeon, Justus West、11月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5LWHpvNW5rNFBWb05DWGRkUHpuYlJUbU9ZaWRZZmRIdGtVb3ZwTDZ4NFVMOElsYnkzZE5ZR3A3SjFiMjR1MjdZ?oc=5",
+     "published": "2026-10-07T02:57:16+00:00",
+     "summary": "Chris Dave, MonoNeon, Justus West、11月に来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s98",
+   "label": "Las Vegas training mariachi educators for future generations",
+   "artists": [],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "AP通信"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "AP通信"
+   ],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T09:34:00+00:00",
+   "articles": [
+    {
+     "outlet": "AP通信",
+     "title": "With violins, trumpets and the guitarrón, Las Vegas is training the mariachi educators of tomorrow",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnR3Y1hRNjdQeU1jWmN4TDZtZFNTM1dKdmVkSUlIVGNTUW9xQkhlRTA1anY1TThtVm5EWXhvVzdMNWluNkRtOS1KaVFENjlyOUlnaXZrcjNWQ1pmbVVTN2dVdWhLajU2cGd3Z1pKUXEzSzFWM3NIb3lpajRsN3BMcUkwRG1oVXZpQm9rVlk0R3Q0WlM3ckNDeER2NGQ2aXZYcjlF?oc=5",
+     "published": "2026-10-07T09:34:00+00:00",
+     "summary": "With violins, trumpets and the guitarrón, Las Vegas is training the mariachi educators of tomorrow AP News"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s84",
+   "label": "Queen Budapest live album celebrates 40 years since Freddie",
+   "artists": [
+    "Queen"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "rockinon.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "rockinon.com"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-07T09:13:04+00:00",
+   "articles": [
+    {
+     "outlet": "rockinon.com",
+     "title": "フレディ・マーキュリー在籍時、最後のツアーから40周年――4K版『クイーン：ブダペスト』徹底レビュー＆記者が目撃した舞台裏ドキュメント",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVZ0RtZWN4V1ZRaFh3LXR1QXRWUmVWSXpSdmQ0WnRza1I2Z3FaUjVuY0w5bTZ6dzhFOUU5TENNMjNYNzN4dVRFeGRUT01pZ1Q1OE9R?oc=5",
+     "published": "2026-10-07T09:13:04+00:00",
+     "summary": "フレディ・マーキュリー在籍時、最後のツアーから40周年――4K版『クイーン：ブダペスト』徹底レビュー＆記者が目撃した舞台裏ドキュメント rockinon.com"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s96",
+   "label": "George Harrison rare photographs exhibition explores artist",
+   "artists": [
+    "George Harrison"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "CNN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "CNN"
+   ],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T08:03:55+00:00",
+   "articles": [
+    {
+     "outlet": "CNN",
+     "title": "Behind the Lens: George Harrison’s rare photographs reveal the man beyond the music",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ0NGM2FRaXNLSnFSTjVTaXVoemI2RzBjMjlhVjhRQXhfRHozOFFNWXBIcWl6SkFWYUdVQnRPR2NYTTMtaGczLXV6dlhLbE41ODVLbzdVcHozSl9FdEJFNF9wa09aeks0UllxckhyclpoMHYyWUVaR3p1RXFNUE9rVV84Nkw4RzViNENpdHdGRFRQeENrR0M0bEJUTlZERWZPTWZlT05RNVlhalJLdHdrWkZYNWtCakxRTVhGQ0xCY3pFLXR0MWxIOWctc3dDdGk3azktSjBaSG12cHc?oc=5",
+     "published": "2026-10-07T08:03:55+00:00",
+     "summary": "Behind the Lens: George Harrison’s rare photographs reveal the man beyond the music CNN"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s82",
+   "label": "André 3000 celebrates birthday with Outkast history",
+   "artists": [
+    "Outkast"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "outlets": [
+    "rockinon.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "rockinon.com"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-07T03:40:04+00:00",
+   "articles": [
+    {
+     "outlet": "rockinon.com",
+     "title": "本日はアウトキャストのアンドレ・3000の誕生日！ フジ来日も祝してＰＶを集めて みました",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUYndJaUFIMkRjeTJtcks2M09KZWlNMXR4THFJSGRNX09SX3RLXzJSOENDNkRnbjVMNTVuTlRxZWtkbDY5WG5EQUd4ZnF6VlZCN2pB?oc=5",
+     "published": "2026-10-07T03:40:04+00:00",
+     "summary": "本日はアウトキャストのアンドレ・3000の誕生日！ フジ来日も祝してＰＶを集めて みました rockinon.com"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s76",
+   "label": "'24 Hour Party People' cast reunites for premiere anniversary",
+   "artists": [],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 1,
+   "latest": "2026-10-07T09:45:40+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "’24 Hour Party People’ cast reunite for premiere anniversary screening in Manchester",
+     "link": "https://www.nme.com/news/film/24-hour-party-people-cast-reunite-anniversary-screening-manchester-3972471?utm_source=rss&utm_medium=rss&utm_campaign=24-hour-party-people-cast-reunite-anniversary-screening-manchester",
+     "published": "2026-10-07T09:45:40+00:00",
+     "summary": "Steve Coogan praised event organiser Oli Wilson as “one of the authentic voices” of the city The post ’24 Hour Party People’ cast reunite for premiere anniversary screening in Manchester appeared first on NME ."
+    },
+    {
+     "outlet": "NME",
+     "title": "Michael Winterbottom talks “chaos” of ‘24 Hour Party People’: “It was a celebration of the music and Manchester”",
+     "link": "https://www.nme.com/news/music/michael-winterbottom-interview-24-hour-party-people-manchester-steeve-coogan-rerelease-3972226?utm_source=rss&utm_medium=rss&utm_campaign=michael-winterbottom-interview-24-hour-party-people-manchester-steeve-coogan-rerelease",
+     "published": "2026-10-07T08:00:50+00:00",
+     "summary": "Ahead of the classic film returning to cinemas for its 24th anniversary, the director spoke to NME about immortalising the \"attitude and spirit of Factory Records\", why Steve Coogan was the perfect choice to play Tony Wilson, the \"fun\" came"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s74",
+   "label": "Oasis documentary explains why Noel and Liam reunion not shown",
+   "artists": [
+    "Oasis"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 1,
+   "latest": "2026-10-07T08:31:39+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "‘Oasis: Don’t Look Back In Anger’ filmmakers explain why doc doesn’t show how Noel and Liam Gallagher made up",
+     "link": "https://www.nme.com/news/music/oasis-dont-look-back-in-anger-filmmakers-explain-why-doc-doesnt-show-how-noel-and-liam-gallagher-made-up-3972321?utm_source=rss&utm_medium=rss&utm_campaign=oasis-dont-look-back-in-anger-filmmakers-explain-why-doc-doesnt-show-how-noel-and-liam-gallagher-made-up",
+     "published": "2026-10-07T08:31:39+00:00",
+     "summary": "Writer/creator Steven Knight and directors Dylan Southern and Will Lovelace spoke about the film at a special preview event at Abbey Road Studios on Monday (October 5) The post ‘Oasis: Don’t Look Back In Anger’ filmmakers explain why doc do"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s90",
+   "label": "Best tracks of 2026 so far compilation",
+   "artists": [],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "The Best Tracks Of The Year 2026 So Far",
+     "link": "https://mixmag.net/feature/best-dance-electronic-club-tracks-2026",
+     "published": null,
+     "summary": "Mixmag's guide to the best tracks of the year 2026 Continue reading..."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s91",
+   "label": "Only Fire shares wild dancey mix for Mixmag",
+   "artists": [
+    "Only Fire"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "The Mix 126: Only Fire",
+     "link": "https://mixmag.net/feature/the-mix-126-only-fire-dj-interview-hoe-weekend",
+     "published": null,
+     "summary": "Only Fire shares a \"wild, fun and dancey\" mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s39",
+   "label": "Enter Shikari releases surprise new single 'Higher Ground'",
+   "artists": [
+    "Enter Shikari"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "outlets": [
+    "NME",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 3,
+   "latest": "2026-10-07T10:30:56+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "エンター・シカリ、2027年末の活動休止発表後としては初の新曲“Higher Ground”を公開",
+     "link": "https://nme-jp.com/news/173094/",
+     "published": "2026-10-07T10:30:56+00:00",
+     "summary": "エンター・シカリは2027年末の活動休止発表後としては初となるニュー・シングル“Higher Ground”をサプライズでリリースしている。"
+    },
+    {
+     "outlet": "NME",
+     "title": "Listen to Enter Shikari’s hopeful surprise new single ‘Higher Ground’",
+     "link": "https://www.nme.com/news/music/listen-to-enter-shikaris-hopeful-surprise-new-single-higher-ground-3972401?utm_source=rss&utm_medium=rss&utm_campaign=listen-to-enter-shikaris-hopeful-surprise-new-single-higher-ground",
+     "published": "2026-10-07T08:36:57+00:00",
+     "summary": "Frontman Rou Reynolds said it was “about just how pivotal taking the broad perspective is” The post Listen to Enter Shikari’s hopeful surprise new single ‘Higher Ground’ appeared first on NME ."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s34",
+   "label": "Brandi Carlile performs 'Ted Lasso' theme in Season 4 finale",
+   "artists": [
+    "Brandi Carlile"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T18:16:46+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "‘Ted Lasso’ Closes Out Season 4 With Special Brandi Carlile Theme Song",
+     "link": "https://www.rollingstone.com/music/music-news/brandi-carlile-ted-lasso-theme-song-1235638871/",
+     "published": "2026-10-07T18:16:46+00:00",
+     "summary": "“I just bawled, absolutely bawled,” Ted Lasso star Brendan Hunt said about hearing the singer-songwriter’s rendition of the theme originally performed by Marcus Mumford"
+    },
+    {
+     "outlet": "Variety",
+     "title": "‘Ted Lasso’ Theme Song Switch: Why Brandi Carlile Took Over for Marcus Mumford in Season 4 Finale — and Is It a Permanent Change?",
+     "link": "https://variety.com/2026/tv/news/ted-lasso-theme-song-brandi-carlile-marcus-mumford-finale-1236904456/",
+     "published": "2026-10-07T17:04:39+00:00",
+     "summary": "SPOILER ALERT: This article contains spoilers for the Season 4 finale of “Ted Lasso,” now streaming on Apple TV. “Ted Lasso” viewers most definitely noticed a big change at the start of the show’s Season 4 finale, “The Departing Lass.” The "
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s40",
+   "label": "Turnstile's Brendan Yates ejects security guard during show",
+   "artists": [
+    "Turnstile"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "Billboard",
+    "NME"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-07T11:33:30+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "blink-182",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KQ3BsSE1YUHBIMWFRdk9LZGlSLVR3R2Y2dFJBQ19Ec0E1ZE1FdzdOZnJLNklLYmhwd2owN2dHOVZyTHBDRjJicHVvNFhMbVhlOEZzMlRB?oc=5",
+     "published": "2026-10-07T11:33:30+00:00",
+     "summary": "blink-182 Billboard"
+    },
+    {
+     "outlet": "NME",
+     "title": "Turnstile’s Brendan Yates ejects security guard from show for allegedly “swinging” at fan: “We won’t play if he’s still here”",
+     "link": "https://www.nme.com/news/music/turnstiles-brendan-yates-ejects-security-guard-for-swinging-at-fan-3972459?utm_source=rss&utm_medium=rss&utm_campaign=turnstiles-brendan-yates-ejects-security-guard-for-swinging-at-fan",
+     "published": "2026-10-07T10:16:08+00:00",
+     "summary": "“To the security that’s doing a great job — thank you. There are some that didn’t get the assignment” The post Turnstile’s Brendan Yates ejects security guard from show for allegedly “swinging” at fan: “We won’t play if he’s still here” app"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 5
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 1
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 18
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 4,
+   "kept": 2
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 12
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 29,
+   "kept": 8
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 13
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 4
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 20
+  },
+  {
+   "name": "HipHopDX",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 7
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 29
+  },
+  {
+   "name": "MTV JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 1
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 49,
+   "kept": 15
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 21,
+   "kept": 9
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 5
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 24
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 4,
+   "kept": 1
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 2
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 29,
+   "kept": 15
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 2
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 46,
+   "kept": 10
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 38,
+   "kept": 16
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 4,
+   "kept": 2
+  }
+ ],
+ "cost": {
+  "usd": 0.338,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 23687,
+    "output_tokens": 7144
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 17654,
+    "output_tokens": 4858
+   },
+   {
+    "model": "claude-sonnet-5-5",
+    "input_tokens": 17654,
+    "output_tokens": 7555
+   }
+  ]
+ }
+}
