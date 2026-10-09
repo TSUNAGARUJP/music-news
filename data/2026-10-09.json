@@ -1,0 +1,2208 @@
+{
+ "date": "2026-10-09",
+ "generated_at": "2026-10-09T02:41:55.867633+00:00",
+ "article_count": 300,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日は『GTA VI』のラジオ局にBad BunnyやLana Del Reyらがホストとして参加する話題が、海外の音楽メディア6媒体で報じられました。日本関連では、Lil Babyらが『FORCE Festival 2026』に向けて日本へメッセージを送るなど、来日情報が12件と多い日です。",
+  "top": [
+   {
+    "id": "s24",
+    "title_ja": "『GTA VI』のラジオDJにBad BunnyとLana Del Rey",
+    "genre": "POP",
+    "summary_ja": "ゲーム『Grand Theft Auto VI』のゲーム内ラジオ局のホストに、Bad Bunny、Lana Del Rey、Robyn、Burna Boyらが起用されると報じられた。SlayerのKerry KingとTom Araya、Morgan Wallen、Trick DaddyとTrinaもホストに名を連ねる。Lana Del Reyは夫と一緒に登場すると伝えられている。",
+    "why_ja": "Complex、Pitchfork、Rolling Stoneなど、海外の音楽メディア6媒体が一斉に報じた。人気ゲームシリーズとのタイアップで、音楽ファン以外にも届きやすい。",
+    "line_point": "『GTA VI』のラジオ局ホストにBad Bunny、Lana Del Rey、Robynらが参加すると報道",
+    "reels": [
+     {
+      "hook": "GTA6のラジオ、メンツが豪華すぎる",
+      "angle": "ホスト陣を顔写真で次々に紹介。ポップ、ラテン、メタル、ヒップホップと、ジャンルの幅広さで驚かせる構成"
+     },
+     {
+      "hook": "ゲームのラジオDJ、誰がやる？",
+      "angle": "「誰がどの局を担当しそうか」を予想するクイズ形式に。ゲーム好きと洋楽ファンの両方を巻き込む"
+     }
+    ]
+   },
+   {
+    "id": "s4",
+    "title_ja": "Polo G、Lil Baby、DJ Dramaが日本へメッセージ",
+    "genre": "Hip-Hop",
+    "summary_ja": "『FORCE Festival 2026』に向けて、Polo G、Lil Baby、DJ Dramaの3人が日本へ向けた動画メッセージ3本を公開したとHIPHOPCsが報じた。3人はこのフェスに出演予定と伝えられている。",
+    "why_ja": "日本のフェスに関わる話題。Lil Babyの「Coast 2 Coast」は米YouTube音楽チャート11位で、公開35時間で637,529回再生されている。",
+    "line_point": "Polo G、Lil Baby、DJ Dramaが『FORCE Festival 2026』に向けて日本へ動画メッセージ",
+    "reels": [
+     {
+      "hook": "Lil Babyから日本にメッセージ！",
+      "angle": "動画メッセージの紹介（使用許可を確認）から入り、3人の代表曲を短く流して「フェスで聴きたい曲」を紹介"
+     },
+     {
+      "hook": "DJ目線で見るFORCE Festival",
+      "angle": "出演者の中にDJ Dramaがいる点に注目。スクール生向けに、フェスでDJのどこを見るとよいかを提案する"
+     }
+    ]
+   },
+   {
+    "id": "s40",
+    "title_ja": "Will SmithとDJ Jazzy Jeffの下積み時代がドラマ化",
+    "genre": "Hip-Hop",
+    "summary_ja": "Will SmithとDJ Jazzy Jeffが西フィラデルフィアから世に出るまでの初期キャリアを描く脚本ドラマ『215』が制作されると報じられた。Will SmithのWestbrook Studiosが手がける。Mixmagは映画とTVシリーズの両方が作られると伝えている。",
+    "why_ja": "HotNewHipHop、XXL、Mixmagの3媒体が報道。日本でも名前が通じるWill Smithと、DJの相棒との物語で、DJスクール生にも刺さる。",
+    "line_point": "Will SmithとDJ Jazzy Jeffの西フィラデルフィア時代を描くドラマ『215』の制作が報道",
+    "reels": [
+     {
+      "hook": "Will Smithの相棒はDJだった",
+      "angle": "DJ Jazzy Jeffとのコンビ時代に焦点を当て、「俳優として有名になる前の物語がドラマになる」という意外性で引きつける"
+     },
+     {
+      "hook": "DJとMCのコンビ、映像化へ",
+      "angle": "スクール生向けに、DJとMCの相棒関係の魅力を語る。自分たちのコンビ結成にもつなげる構成"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s42",
+     "title_ja": "Beatport、成長に向けた投資を獲得",
+     "note": "電子音楽コミュニティ向けのサービスを広げるための投資とBillboardが報道"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s22",
+     "title_ja": "KATSEYEのSophia、2027年1月にグループ活動へ復帰",
+     "note": "休養中のSophiaが2027年1月第1週から復帰と発表。秋の北米公演は欠席"
+    },
+    {
+     "id": "s21",
+     "title_ja": "Taylor Swift、アカデミー博物館のガラで歌唱へ",
+     "note": "10月17日に開催。『Toy Story 5』の曲がアカデミー賞歌曲賞の対象と報道"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s53",
+     "title_ja": "Beastie BoysのMike D、新MVを公開",
+     "note": "「Secrets Pt. I & II」のミュージック・ビデオが公開された"
+    },
+    {
+     "id": "s28",
+     "title_ja": "Mike Tyson、Diddyの恩赦を求める手紙をTrumpに届けたと告白",
+     "note": "Diddyの直筆の嘆願書を届けたが、却下されたと報じられている"
+    }
+   ],
+   "Other": []
+  },
+  "japan_tours": [
+   {
+    "id": "s61",
+    "title_ja": "Erik Grönwall来日公演、前座にZilqyと大山まき",
+    "note": "11/4（水）東京、11/5（木）に公演。ウドー音楽事務所も告知"
+   },
+   {
+    "id": "s4",
+    "title_ja": "Polo G、Lil Baby、DJ Dramaが『FORCE Festival 2026』に出演",
+    "note": "出演予定と報道。3人から日本に向けた動画メッセージが公開された"
+   },
+   {
+    "id": "s1",
+    "title_ja": "QWER、10月13日の福岡公演で当日券を販売",
+    "note": "会場はUNITEDLAB。スタンディング￥14,000（税込・1ドリンク付き）、当日10〜20時にWEBのみで販売"
+   },
+   {
+    "id": "s2",
+    "title_ja": "Sleep Theory、初来日公演決定",
+    "note": "全米トップ10入りしたアルバム『Afterglow』を携えての来日。クリエイティブマンが発表"
+   },
+   {
+    "id": "s54",
+    "title_ja": "Terry Lian＆Rachel Tucker、再来日決定",
+    "note": "『ニューイヤー・ミュージカル・コンサート 2027』に出演"
+   },
+   {
+    "id": "s55",
+    "title_ja": "Gia Margaret、12月に来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s57",
+    "title_ja": "Broken Social Scene、2027年3月に来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s60",
+    "title_ja": "Little Feat、“The Last Farewell Tour”で来日",
+    "note": "Billboard Live presentsとして開催"
+   },
+   {
+    "id": "s58",
+    "title_ja": "Dave Matthews、2027年1月に来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s63",
+    "title_ja": "Errorsmith、来日公演「Midnight Error」開催",
+    "note": ""
+   },
+   {
+    "id": "s64",
+    "title_ja": "Lorna Shore、ジャパン・ツアーが開幕",
+    "note": "サポートはDeviloof。東京初日には桂佑（vo.）とのサプライズ共演も"
+   },
+   {
+    "id": "s59",
+    "title_ja": "Fcukers、12月に来日公演決定",
+    "note": ""
+   }
+  ],
+  "tour_candidates": 14
+ },
+ "compare": {
+  "model": "claude-sonnet-5-5",
+  "overview": "今日はGTA VIのラジオDJにBad BunnyやLana Del Reyが参加するニュースと、FORCE Festival 2026 Japanに出演予定のPolo G、Lil Baby、DJ Dramaの話題が目立つ。Taylor Swiftのガラ出演決定も加わり、ゲーム、ヒップホップ、ポップの3方向でリールにしやすい。来日情報は12件を掲載。",
+  "top": [
+   {
+    "id": "s24",
+    "title_ja": "GTA VIのラジオ局にBad BunnyやLana Del Reyが参加",
+    "genre": "POP",
+    "summary_ja": "Grand Theft Auto VIの劇中ラジオ局のホストに、Bad Bunny、Lana Del Rey、Robyn、Burna Boyらが名を連ねると報じられている。Trick DaddyとTrina、Slayerの Kerry KingとTom Araya、Morgan Wallenらも参加するとされる。",
+    "why_ja": "Complex、Pitchfork、Rolling Stoneなど海外音楽メディア6媒体が一斉に報じている。ゲームファンにも音楽ファンにも届く話題。",
+    "line_point": "GTA VIのラジオDJにBad BunnyとLana Del Reyらが参加と報道",
+    "reels": [
+     {
+      "hook": "GTA VIのラジオDJが豪華すぎる",
+      "angle": "Bad Bunny、Lana Del Rey、Robyn、Burna Boyを名前テロップで順に紹介。ゲーム映像に重ねる。"
+     },
+     {
+      "hook": "ゲームが新しい音楽の入口になる",
+      "angle": "ラジオ局の選曲を新曲のプロモの場として見る切り口。DJ目線で、ラジオ局が音楽に与える影響を語る。"
+     }
+    ]
+   },
+   {
+    "id": "s4",
+    "title_ja": "Polo G、Lil Baby、DJ DramaがFORCE Festival 2026に",
+    "genre": "Hip-Hop",
+    "summary_ja": "日本のHIPHOPCsが、FORCE Festival 2026に向けてPolo G、Lil Baby、DJ Dramaが日本へ送った3本の動画メッセージを紹介した。3人は同フェスに出演予定と伝えられている。日程や会場は今回の情報からは不明。",
+    "why_ja": "日本の媒体が報じた来日フェス関連の話題。Lil Babyの「Coast 2 Coast」は公開から35時間で637,529回再生され、YouTube音楽チャートのUSで11位に入っている。",
+    "line_point": "Polo G、Lil Baby、DJ Dramaが日本のフェスに向け動画メッセージ",
+    "reels": [
+     {
+      "hook": "Lil BabyがFORCE Festivalに来る",
+      "angle": "3人の動画メッセージのコメントを日本語字幕で紹介。Lil Babyの最新曲のMVを挟んで盛り上げる。"
+     },
+     {
+      "hook": "DJ Dramaが来日、DJ好きは必見",
+      "angle": "Gangsta Grillzのミックステープ文化とDJ Dramaの役割をDJスクール目線で解説。フェス参加の見どころにつなげる。"
+     }
+    ]
+   },
+   {
+    "id": "s21",
+    "title_ja": "Taylor Swift、Academy Museum Galaでパフォーマンス",
+    "genre": "POP",
+    "summary_ja": "Taylor Swiftが10月17日にロサンゼルスで開かれるAcademy Museum Galaでパフォーマンスすると報じられている。ガラは映画博物館の資金集めのイベント。Toy Story 5の楽曲「I Knew It, I Knew You」がアカデミー賞の主題歌賞の対象になっていることにも触れられている。",
+    "why_ja": "Rolling StoneとVarietyが報じている。「Patient Zero」のMVは16,435,388回再生で、YouTube音楽チャートのUSで1位、GBで2位に入っている。",
+    "line_point": "Taylor Swiftが10/17のAcademy Museum Galaで歌う予定と報道",
+    "reels": [
+     {
+      "hook": "Taylor Swiftがオスカー前に登場",
+      "angle": "ガラ出演の発表を伝え、「I Knew It, I Knew You」が主題歌賞の対象になった経緯を図解する。"
+     },
+     {
+      "hook": "Patient Zeroが全米1位のいま",
+      "angle": "MVの映像とチャート順位を並べ、Taylorの最近の動きを30秒で振り返る。出演の詳細は未発表と注記する。"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s42",
+     "title_ja": "Beatport、成長投資を確保",
+     "note": "電子音楽配信のBeatportが成長投資を確保したとBillboardが報じた。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s22",
+     "title_ja": "KATSEYEのSophia、2027年1月にグループ復帰",
+     "note": "メンタルヘルスのため休止中のSophiaが2027年1月から活動再開と報じられた。"
+    },
+    {
+     "id": "s52",
+     "title_ja": "Olivia Rodrigo、White Stripesのジャケットのドレスを入手",
+     "note": "Meg Whiteが『Elephant』のジャケットで着たドレスを入手したとNME Japanが報じた。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s40",
+     "title_ja": "Will SmithとDJ Jazzy Jeffの初期を描くTVシリーズ",
+     "note": "二人のフィラデルフィア時代を描くドラマ「215」が制作されると報じられた。"
+    },
+    {
+     "id": "s53",
+     "title_ja": "Mike D、「Secrets Pt. I & II」のMV公開",
+     "note": "Beastie BoysのMike Dが「Secrets Pt. I & II」のMVを公開した。"
+    }
+   ],
+   "Other": []
+  },
+  "japan_tours": [
+   {
+    "id": "s61",
+    "title_ja": "Erik Grönwall、11月に初のソロ来日公演",
+    "note": "11/4東京・11/5公演。Zilqyと大山まきがオープニング・アクト。ウドー音楽事務所。"
+   },
+   {
+    "id": "s1",
+    "title_ja": "QWER、福岡公演の当日券を販売",
+    "note": "10/13 UNITEDLAB公演。スタンディング14,000円（税込・1Drink）。当日10〜20時にWEB販売。"
+   },
+   {
+    "id": "s2",
+    "title_ja": "Sleep Theory、初来日公演が決定",
+    "note": "アルバム『Afterglow』を携えての来日。日程・会場は詳細ページで確認。クリエイティブマン。"
+   },
+   {
+    "id": "s54",
+    "title_ja": "Terry LianとRachel Tucker、再び来日決定",
+    "note": "『ニューイヤー・ミュージカル・コンサート 2027』に出演。日程・会場は不明。"
+   },
+   {
+    "id": "s4",
+    "title_ja": "Polo G、Lil Baby、DJ DramaがFORCE Festivalに出演",
+    "note": "FORCE Festival 2026 Japanに出演予定。3人の動画メッセージが公開された。"
+   },
+   {
+    "id": "s55",
+    "title_ja": "Gia Margaret、12月に来日公演決定",
+    "note": "12月に来日公演を行う。詳しい日程・会場は今回の情報では不明。"
+   },
+   {
+    "id": "s57",
+    "title_ja": "Broken Social Scene、2027年3月に来日公演決定",
+    "note": "2027年3月に来日公演。詳細は今回の情報では不明。"
+   },
+   {
+    "id": "s60",
+    "title_ja": "Little Feat、Last Farewell Tourで来日",
+    "note": "Billboard Live presents「The Last Farewell Tour」。日程・会場は不明。"
+   },
+   {
+    "id": "s58",
+    "title_ja": "Dave Matthews、2027年1月に来日公演決定",
+    "note": "2027年1月に来日公演。詳細は今回の情報では不明。"
+   },
+   {
+    "id": "s63",
+    "title_ja": "Errorsmith、来日公演「Midnight Error」開催",
+    "note": "AVYSS magazineが報じた。日程・会場は今回の情報では不明。"
+   },
+   {
+    "id": "s59",
+    "title_ja": "Fcukers、12月に来日公演決定",
+    "note": "12月に来日公演。詳細は今回の情報では不明。"
+   },
+   {
+    "id": "s62",
+    "title_ja": "Yo-Yo Ma、来日記念の日本独自ベスト盤を発表",
+    "note": "日本独自ベスト『メロディーズ』を来日を記念して発表。公演日程は不明。"
+   }
+  ],
+  "tour_candidates": 14
+ },
+ "candidates": [
+  {
+   "id": "s61",
+   "label": "Erik Grönwall announces first Japan solo tour with opening acts",
+   "artists": [
+    "Erik Grönwall"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "BURRN! ONLINE",
+    "CDJournal.com",
+    "NME Japan",
+    "Yahoo!ニュース",
+    "ウドー音楽事務所",
+    "激ロック"
+   ],
+   "n_outlets": 6,
+   "jp_outlets": [
+    "BURRN! ONLINE",
+    "CDJournal.com",
+    "NME Japan",
+    "Yahoo!ニュース",
+    "ウドー音楽事務所",
+    "激ロック"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 12,
+   "latest": "2026-10-08T04:27:22+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "エリック・グロンウォール来日公演のオープニング・アクトとしてZilqyと大山まきが出演 (CDJournal)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMHpJdnp1S2hVaTZ4dW9XVnZhOTNvRzlKLTJtc2pZQWk5Yjg5T3VPS2l2QjVQcmNFQnRhRlpCR2ZEQVpOQWNKSEIyQ3BUdUpZU2lTYXNsY2FOUVdJMXFyS2xqY0JlUE5FY2I3Q1Q5UzJyZHVpeVM3LWlZYmpQNkVyQTREQlowTDIxdHduT25R?oc=5",
+     "published": "2026-10-08T04:27:22+00:00",
+     "summary": "エリック・グロンウォール来日公演のオープニング・アクトとしてZilqyと大山まきが出演 (CDJournal) Yahoo!ニュース"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "エリック・グロンウォール来日公演のオープニング・アクトとしてZilqyと大山まきが出演（CDJournal）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUWsxSEx1b0c0T1NFLWs4ZDlVQmFnLUVvMXByeU1vbFdWM0VtOHlvRS0xTzV3dW9EV2h1Q2dFWXhwVzdoS1FVSUJVcnE2MDZWNWRrOGE5VGx6a0Vpd3poQ1d3ZmUzZzZ6Tl84eHRMT3hwQVhXN1oydkEzLS0tWE0?oc=5",
+     "published": "2026-10-08T04:27:22+00:00",
+     "summary": "エリック・グロンウォール来日公演のオープニング・アクトとしてZilqyと大山まきが出演（CDJournal） Yahoo!ニュース"
+    },
+    {
+     "outlet": "BURRN! ONLINE",
+     "title": "エリック・グロンウォール来日公演［11/4（水）東京・11/5（木）］にオープニング・アクトとしてZilqy、大山まきの出演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hSmQ0NHpmRGREYXJRWHZiNDZUQURwYnZtNmlXRGtVTTFkd2RLcm50aDlEWHVXV1o2UVdfWmRIdm5ELUs5ZGZoUkR4d01oY3pIWmZyRjN3?oc=5",
+     "published": "2026-10-08T03:41:14+00:00",
+     "summary": "エリック・グロンウォール来日公演［11/4（水）東京・11/5（木）］にオープニング・アクトとしてZilqy、大山まきの出演が決定 BURRN! ONLINE"
+    },
+    {
+     "outlet": "CDJournal.com",
+     "title": "エリック・グロンウォール来日公演のオープニング・アクトとしてZilqyと大山まきが出演",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yMUxzVUlYLTkzXzlqSFVoenk2UlY3RjdMUVg3Zm9LNmZTeE1YODlfY2RpUjFqRWxWa1RiVm96VWpOWE9SOVplWFBNSklnM2RNZ2VxQzR0WlY0S0pvNzg2Qi1zb1dBdw?oc=5",
+     "published": "2026-10-08T03:32:00+00:00",
+     "summary": "エリック・グロンウォール来日公演のオープニング・アクトとしてZilqyと大山まきが出演 CDJournal.com"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "エリック・グロンウォール、11月の来日公演に出演するオープニング・アクトが決定",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4xbGlnd2h6aHVySWg4U1VBSWNoU09GWXN4Z1k2eGZGMDdVbE5lOEhzUE1sSDNBVEg5b0ZWc1VySVFhSHNCYnc?oc=5",
+     "published": "2026-10-08T03:06:52+00:00",
+     "summary": "エリック・グロンウォール、11月の来日公演に出演するオープニング・アクトが決定 NME Japan"
+    },
+    {
+     "outlet": "ウドー音楽事務所",
+     "title": "【ERIK GRÖNWALL】来日公演のオープニング・アクトが決定！",
+     "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE85TGNKWFY0ZkdNS1BmNlJUeVhJVmNIM3hRZUdXeXZxU0dqN0JGSkowRmRqQTc4bU44VmdkZVp1cW8?oc=5",
+     "published": "2026-10-08T03:02:53+00:00",
+     "summary": "【ERIK GRÖNWALL】来日公演のオープニング・アクトが決定！ ウドー音楽事務所"
+    },
+    {
+     "outlet": "激ロック",
+     "title": "Erik Grönwall（ex-SKID ROW）、初の単独来日ツアーOA決定！東京公演にZilqy、大阪公演に大山まき出演！",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZcENDSC0wYmU2NmxJN01wR05tZTZVaEtaVFFQZHNhZk9oaFBHNWxscXBfWjhiZUwtT3I5TVBybnlsclQtd0tYc2lKNkhGc21IQTdFOXRlaURNZFdTY3Y5aHlTMWI?oc=5",
+     "published": "2026-10-08T03:00:00+00:00",
+     "summary": "Erik Grönwall（ex-SKID ROW）、初の単独来日ツアーOA決定！東京公演にZilqy、大阪公演に大山まき出演！ 激ロック"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "Grand Theft Auto VI features Bad Bunny, Lana Del Rey as radio hosts",
+   "artists": [
+    "Bad Bunny",
+    "Lana Del Rey",
+    "Robyn",
+    "Burna Boy"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Complex",
+    "Consequence",
+    "Pitchfork",
+    "Rolling Stone",
+    "The Fader",
+    "Vibe"
+   ],
+   "n_outlets": 6,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 6,
+   "latest": "2026-10-08T17:18:00+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Grand Theft Auto VI Radio Stations to Feature Bad Bunny, Robyn, and Lana Del Rey Alongside Her Husband",
+     "link": "https://consequence.net/2026/10/gta-6-radio-stations-hosts-details/",
+     "published": "2026-10-08T17:18:00+00:00",
+     "summary": "Slayer's Kerry King and Tom Araya, Burna Boy, Trick Daddy, and Morgan Wallen are among the other hosts. Grand Theft Auto VI Radio Stations to Feature Bad Bunny, Robyn, and Lana Del Rey Alongside Her Husband Eddie Fu"
+    },
+    {
+     "outlet": "Vibe",
+     "title": "Trick Daddy and Trina to Host Dirty South Classics Radio Station in ‘Grand Theft Auto VI’",
+     "link": "https://www.vibe.com/music/music-news/trick-daddy-trina-revealed-gta6-radio-hosts-1235198178/",
+     "published": "2026-10-08T16:21:12+00:00",
+     "summary": "\"For Trick and me to bring our voices, our chemistry, and our radio energy into Grand Theft Auto is special,\" says Trina"
+    },
+    {
+     "outlet": "Complex",
+     "title": "‘Grand Theft Auto VI’ Radio Stations Feature Bad Bunny, Burna Boy, Lana Del Rey, and More",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3RNbXNqajV2bG44UmZ1bVNTX1p0UlEtWnJadmViQ251U3h0a2paa2F0TExlYmVCY0x0bFdrUjRQcEsweTVwZV9HVnFjVGRQa1FnUDUySkUxbnBBUXc2S3E0N1Y5bVBUT3pXVUJpRzlIMEc1d0p1UTNvUHljR1I2clppZGcxemNTX0pkVUtrTWs1T2UyYUxmYVRR?oc=5",
+     "published": "2026-10-08T16:20:47+00:00",
+     "summary": "‘Grand Theft Auto VI’ Radio Stations Feature Bad Bunny, Burna Boy, Lana Del Rey, and More Complex"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "Grand Theft Auto VI’s radio station hosts include Bad Bunny, Lana Del Rey, and more",
+     "link": "https://www.thefader.com/2026/10/08/grand-theft-auto-iv-radio-station-hosts",
+     "published": "2026-10-08T15:37:07-04:00",
+     "summary": "The music that will soundtrack many joyrides to come."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Bad Bunny, Lana Del Rey to Light Up the Leonida Airwaves as ‘GTA VI’ Radio Hosts",
+     "link": "https://www.rollingstone.com/music/music-news/bad-bunny-lana-del-rey-gta-6-radio-stations-1235639652/",
+     "published": "2026-10-08T14:29:06+00:00",
+     "summary": "Morgan Wallen and Del Rey’s husband will join her on Back Country Radio, while Burna Boy, Robyn, and members of Slayer will helm their own stations"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "GTA VI Radio Stations to Be Hosted by Lana Del Rey, Bad Bunny, Robyn",
+     "link": "https://pitchfork.com/story/gta-vi-radio-station-hosts-bad-bunny-rainao-lana-del-rey-robyn/",
+     "published": "2026-10-08T14:05:05+00:00",
+     "summary": "Also: RaiNao along with Lana Del Rey's husband"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "yWcWaVUcgec",
+    "title": "GTA 6 Radio Leaves the Car! 🎧 Bad Bunny & Lana Del Rey | #Shorts",
+    "channel": "MichPlay",
+    "published": "2026-10-08T15:29:56Z",
+    "hours_since": 11,
+    "views": 32,
+    "url": "https://www.youtube.com/watch?v=yWcWaVUcgec",
+    "views_per_hour": 3
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "Turnstile announces free Washington Monument benefit concert",
+   "artists": [
+    "Turnstile"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "outlets": [
+    "NME",
+    "Pitchfork",
+    "Rolling Stone",
+    "The Fader",
+    "Variety"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 5,
+   "latest": "2026-10-08T15:47:20+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Turnstile announce huge free show at Washington Monument to raise money for Palestine, Sudan, and Lebanon",
+     "link": "https://www.nme.com/news/music/turnstile-announce-huge-free-show-at-washington-monument-to-raise-money-for-palestine-sudan-and-lebanon-3972691?utm_source=rss&utm_medium=rss&utm_campaign=turnstile-announce-huge-free-show-at-washington-monument-to-raise-money-for-palestine-sudan-and-lebanon",
+     "published": "2026-10-08T15:47:20+00:00",
+     "summary": "The show will be in collaboration with Human Concern International, and will mark the final show of their ongoing North American tour The post Turnstile announce huge free show at Washington Monument to raise money for Palestine, Sudan, and"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "Turnstile to play benefit concert for Palestine, Sudan, and Lebanon",
+     "link": "https://www.thefader.com/2026/10/08/turnstile-washington-monument-concert-palestine-sudan-lebanon",
+     "published": "2026-10-08T15:42:36-04:00",
+     "summary": "The rock band will play at the Washington Monument on October 24."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Turnstile Announce Free Washington Monument Show for Charity",
+     "link": "https://www.rollingstone.com/music/music-news/turnstile-show-washington-monument-palestine-sudan-lebanon-1235639583/",
+     "published": "2026-10-08T14:36:50+00:00",
+     "summary": "The rock band will host the show with Human Concern International"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Turnstile to Play Free Show at Washington Monument in Support of Humanitarian Efforts in Palestine, Sudan and Lebanon",
+     "link": "https://variety.com/2026/music/news/turnstile-free-show-washington-monument-1236905594/",
+     "published": "2026-10-08T14:27:08+00:00",
+     "summary": "Baltimore rockers Turnstile will play a free show at the Washington Monument on Saturday October 24, hosted with Human Concern International, the band announced Thursday. The concert will raise funds to benefit their humanitarian efforts in"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Turnstile Announce Free Show to Raise Funds for Palestine, Sudan, and Lebanon",
+     "link": "https://pitchfork.com/story/turnstile-announce-free-show-to-raise-funds-for-palestine-sudan-and-lebanon/",
+     "published": "2026-10-08T14:12:17+00:00",
+     "summary": "The Washington D.C. concert takes place on October 24 in collaboration with Human Concern International"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "BEjx9aNMZcY",
+    "title": "Turnstile’s FREE Washington monument show benefits Palestine, Sudan, Lebanon",
+    "channel": "Common Revolt",
+    "published": "2026-10-08T23:59:42Z",
+    "hours_since": 3,
+    "views": 645,
+    "url": "https://www.youtube.com/watch?v=BEjx9aNMZcY",
+    "views_per_hour": 215
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "Katseye's Sophia returns to group in January 2027",
+   "artists": [
+    "Katseye"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Complex",
+    "Rolling Stone",
+    "The Fader",
+    "Variety"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 4,
+   "latest": "2026-10-08T17:44:58+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Katseye’s Sophia Laforteza to Return to Group in January",
+     "link": "https://www.rollingstone.com/music/music-news/katseye-sophia-laforteza-return-group-2027-1235639811/",
+     "published": "2026-10-08T17:44:58+00:00",
+     "summary": "However, singer will miss North American leg of Katseye’s Wildworld Tour this fall as she continues to focus on her mental health"
+    },
+    {
+     "outlet": "Complex",
+     "title": "KATSEYE’s Sophia Is Rejoining the Group Early Next Year After Mental Health Hiatus",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXg5RVQyU3BmZ3dVa3R3ckZ1M3NkamwxMFJmTzhNbzRyQ0ZCSEgySUV5Wi1QSFlZQlBjWW9OdktRV2ZaUm5jVTZVR2lNRGh6WmUwam42Z2htMndNbXd3QVJJZWZUaUNUVV9yRE52eVhxbDN0dTU2SUwtY1pRaFlrbmFIdUxjZEk3WWtEX28xQQ?oc=5",
+     "published": "2026-10-08T16:28:30+00:00",
+     "summary": "KATSEYE’s Sophia Is Rejoining the Group Early Next Year After Mental Health Hiatus Complex"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Katseye’s Sophia to Resume Group Activities in January 2027: ‘I Can’t Wait to Share the Stage With My Sisters Again’",
+     "link": "https://variety.com/2026/music/news/katseye-sophia-to-resume-group-activities-in-january-2027-1236905705/",
+     "published": "2026-10-08T16:16:12+00:00",
+     "summary": "Katseye member Sophia Laforteza will resume activities with the group starting the first week of January 2027, according to a notice posted to their social media accounts. “Sophia has been prioritizing her health and well-being with our ful"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "KATSEYE’s Sophia will resume group activities in January 2027",
+     "link": "https://www.thefader.com/2026/10/08/katseye-sophia-return-january-2027",
+     "published": "2026-10-08T12:51:42-04:00",
+     "summary": "The update from Hybe X Geffen comes two months after Sophia Laforteza said she would take a hiatus from the pop group due to her mental health."
+    }
+   ],
+   "chart": [
+    {
+     "id": "uwfa-gyubSg",
+     "title": "KATSEYE - Hootie Frutti (Live from Saturday Night Live)",
+     "channel": "KATSEYEVEVO",
+     "published": "2026-09-27T06:57:47Z",
+     "hours_since": 284,
+     "views": 9827115,
+     "url": "https://www.youtube.com/watch?v=uwfa-gyubSg",
+     "region": "US",
+     "rank": 29
+    }
+   ],
+   "video": {
+    "id": "uwfa-gyubSg",
+    "title": "KATSEYE - Hootie Frutti (Live from Saturday Night Live)",
+    "channel": "KATSEYEVEVO",
+    "published": "2026-09-27T06:57:47Z",
+    "hours_since": 284,
+    "views": 9827115,
+    "url": "https://www.youtube.com/watch?v=uwfa-gyubSg",
+    "region": "US",
+    "rank": 29
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "Mike Tyson delivered Diddy's pardon request letter to Trump",
+   "artists": [
+    "Diddy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "AllHipHop",
+    "Billboard",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 3,
+   "latest": "2026-10-09T02:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Mike Tyson Reveals Diddy Told Him To Deliver Letter To President Trump & He Did It",
+     "link": "https://allhiphop.com/news/mike-tyson-reveals-diddy-told-him-to-deliver-letter-to-president-trump-he-did-it/",
+     "published": "2026-10-09T02:02:00+00:00",
+     "summary": "Mike Tyson confirms he delivered Diddy's handwritten pardon request to President Trump, but the plea was rejected."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Mike Tyson Says Diddy Asked Him To Deliver A Letter To Trump",
+     "link": "https://www.hotnewhiphop.com/1012464-mike-tyson-diddy-trump",
+     "published": "2026-10-08T22:19:15+00:00",
+     "summary": "Combs’ clemency push reportedly included help from Mike Tyson, who says he personally passed a letter along to the president. The post Mike Tyson Says Diddy Asked Him To Deliver A Letter To Trump appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Mike Tyson Sent a Letter to Donald Trump on Diddy’s Behalf: ‘I Did What He Told Me to Do’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/mike-tyson-diddy-letter-donald-trump-1236357554/",
+     "published": "2026-10-08T22:11:01+00:00",
+     "summary": "Sean \"Diddy\" Combs continues to seek a pardon from President Trump."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s40",
+   "label": "Will Smith and DJ Jazzy Jeff early career becoming TV series",
+   "artists": [
+    "Will Smith",
+    "DJ Jazzy Jeff"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "HotNewHipHop",
+    "Mixmag",
+    "XXL"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 3,
+   "latest": "2026-10-08T23:35:32+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Will Smith & DJ Jazzy Jeff’s Early Philly Years Are Coming To TV",
+     "link": "https://www.hotnewhiphop.com/1012479-will-smith-dj-jazzy-jeff-fresh-prince-215-series",
+     "published": "2026-10-08T23:35:32+00:00",
+     "summary": "A new scripted series will revisit Will Smith and DJ Jazzy Jeff’s rise from West Philadelphia before sitcom fame took over. The post Will Smith & DJ Jazzy Jeff’s Early Philly Years Are Coming To TV appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Will Smith and DJ Jazzy Jeff’s Comeup Story Is Becoming a TV Show",
+     "link": "https://www.xxlmag.com/will-smith-dj-jazzy-jeff-tv-show-215/",
+     "published": "2026-10-08T20:02:42+00:00",
+     "summary": "From West Philly to the world. Continue reading…"
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "DJ Jazzy Jeff and Will Smith’s early career to be subject of new film and TV series",
+     "link": "https://mixmag.net/read/dj-jazzy-jeff-will-smith-early-career-subject-new-film-tv-series-news",
+     "published": null,
+     "summary": "The scripted series, named 215, comes from Will Smith’s Westbrook Studios Continue reading..."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s27",
+   "label": "Audrey Hobert releases Phoebe music video",
+   "artists": [
+    "Audrey Hobert"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "Pitchfork",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 3,
+   "latest": "2026-10-08T17:31:06+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Audrey Hobert Embarks on a Soul-Searching Journey in New ‘Phoebe’ Video",
+     "link": "https://www.rollingstone.com/music/music-news/audrey-hobert-phoebe-video-1235638189/",
+     "published": "2026-10-08T17:31:06+00:00",
+     "summary": "The pop artist will open for Charli XCX next year"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Watch Audrey Hobert Talk to a Redwood Tree in New “Phoebe” Video",
+     "link": "https://pitchfork.com/story/audrey-hobert-phoebe-video/",
+     "published": "2026-10-08T17:15:07+00:00",
+     "summary": "The Friends-inspired Who’s the Clown? track gets its own visual"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Audrey Hobert on Charting Her Pop Career and Ignoring the Noise: ‘Whether It’s Positive or Negative, It’s Not True’",
+     "link": "https://variety.com/2026/music/news/audrey-hobert-social-media-gracie-abrams-grammys-1236903543/",
+     "published": "2026-10-08T17:15:00+00:00",
+     "summary": "Audrey Hobert is standing on a chair, wearing Groucho glasses and an enormous trench coat and faux-strumming a banjo. She looks 10 feet tall. She moves across the stage as if dancing alone in her bedroom, and she sings every song in her cat"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "Karol G praises Drake's Spanish on 'Ahí' collab",
+   "artists": [
+    "Karol G",
+    "Drake"
+   ],
+   "genre": "POP",
+   "kind": "collab",
+   "outlets": [
+    "Billboard",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-09T01:30:22+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Karol G elogia ‘buenísimo’ español Drake en ‘Ahí’: ‘Él es increíble’",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1VuM3dzcGhxRWFQdmxpb29Ia2JHWXFYRDBkaFNzaFUyVkdoQW9pREI1TW1NM20yYm1zdEZ3WmFIM1hUYUx2U0cxUEEwNy1sZlNGcXdCZmpySWZNTlVfZGlDTUhmYmFrOWY1Rmx6cjRHOVlYdDkxM3RaYXFZM3RoTzFaMkIxTmdHeGl6MlQwWHptY0tpN2YyTQ?oc=5",
+     "published": "2026-10-09T01:30:22+00:00",
+     "summary": "Karol G elogia ‘buenísimo’ español Drake en ‘Ahí’: ‘Él es increíble’ Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Karol G Says Drake’s Spanish Was ‘So Good’ on ‘Ahí’ Collab: ‘It Was So Much Fun, He’s Amazing’",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeTRnUjY2Y0ltcGxNeHJ2dmpRRmgzNXBvUWdSSXFnN1RLaXZQaFpQd3dEZ0JvVFBJdXk5cDZ6cjdLdDFMcm1kQ3BUV05NX3RPRFJjRExQbzQwT3FFMmJicENWbS1QS21iY2c1MDItaUlnNlZUN2N2Ni0zZEVKcDMxTg?oc=5",
+     "published": "2026-10-08T21:34:40+00:00",
+     "summary": "Karol G Says Drake’s Spanish Was ‘So Good’ on ‘Ahí’ Collab: ‘It Was So Much Fun, He’s Amazing’ Billboard"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Karol G Praises Drake for Being 'So Good' at Singing in Spanish",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOW1VM1pJY0JUamI2aEliUk45WTkzUC1XdTR3WGJxM0ZJUWkxWU9RNnpsaDBMMzczZTFvcDJhRVYzTEZXaFhNcHF6aWg5RVRfR1ZLTlJIVnl6eHNza1ZJZFJaUExBWkFjamNnVUFod2NmSW5XRDRXVElNdThuYTRva2g2SUtlNllKaVhn?oc=5",
+     "published": "2026-10-08T19:03:36+00:00",
+     "summary": "Karol G Praises Drake for Being 'So Good' at Singing in Spanish Complex"
+    }
+   ],
+   "chart": [
+    {
+     "id": "eJFi2TK5174",
+     "title": "Solar Eclipse",
+     "channel": "Drake - Topic",
+     "published": "2026-10-01T10:00:26Z",
+     "hours_since": 185,
+     "views": 2464427,
+     "url": "https://www.youtube.com/watch?v=eJFi2TK5174",
+     "region": "US",
+     "rank": 5
+    },
+    {
+     "id": "vBk30V8AukM",
+     "title": "Drake, Don Toliver - Solar Eclipse",
+     "channel": "DrakeVEVO",
+     "published": "2026-10-06T15:08:34Z",
+     "hours_since": 60,
+     "views": 1942669,
+     "url": "https://www.youtube.com/watch?v=vBk30V8AukM",
+     "region": "GB",
+     "rank": 15
+    }
+   ],
+   "video": {
+    "id": "eJFi2TK5174",
+    "title": "Solar Eclipse",
+    "channel": "Drake - Topic",
+    "published": "2026-10-01T10:00:26Z",
+    "hours_since": 185,
+    "views": 2464427,
+    "url": "https://www.youtube.com/watch?v=eJFi2TK5174",
+    "region": "US",
+    "rank": 5
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Offset faces $200K default judgment in casino lawsuit",
+   "artists": [
+    "Offset"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "AllHipHop",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-08T23:24:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Offset Faces Potential $200K Default Judgment Amid Casino Lawsuit",
+     "link": "https://www.hotnewhiphop.com/1012446-offset-potential-judgement-casino-lawsuit-debt-hip-hop-news",
+     "published": "2026-10-08T23:24:00+00:00",
+     "summary": "The casino alleges that Offset signed a marker tied to his personal checking account, which later bounced. The post Offset Faces Potential $200K Default Judgment Amid Casino Lawsuit appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Offset Faces Default In $200K Casino Battle As Paris Blackjack Video Surfaces",
+     "link": "https://allhiphop.com/news/offset-faces-default-in-200k-casino-battle-as-paris-blackjack-video-surfaces/",
+     "published": "2026-10-08T17:00:00+00:00",
+     "summary": "Offset risks a $200,000 judgment in a Detroit gambling lawsuit as footage of his heated Paris blackjack encounter circulates."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "4_gML5nKd7M",
+    "title": "Offset Ducks a $200K Casino Lawsuit While Flexing Blackjack Wins in Paris",
+    "channel": "HipHopDemocrat",
+    "published": "2026-10-08T18:10:29Z",
+    "hours_since": 8,
+    "views": 137,
+    "url": "https://www.youtube.com/watch?v=4_gML5nKd7M",
+    "views_per_hour": 17
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s31",
+   "label": "Quavo, Offset may testify in Takeoff wrongful death lawsuit",
+   "artists": [
+    "Quavo",
+    "Offset",
+    "Takeoff"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "AllHipHop",
+    "XXL"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-08T20:01:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Quavo & Offset May Enter Court Fight Over Takeoff’s Wrongful Death Money",
+     "link": "https://allhiphop.com/news/quavo-offset-may-enter-court-fight-over-takeoffs-wrongful-death-money/",
+     "published": "2026-10-08T20:01:00+00:00",
+     "summary": "Takeoff's parents clash over a private payout as Quavo and Offset emerge as possible witnesses in the fight for the funds."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Quavo, Offset May Be Asked to Testify in Takeoff's Mom's Lawsuit",
+     "link": "https://www.xxlmag.com/quavo-offset-may-testify-takeoff-mother-wrongful-death-settlement/",
+     "published": "2026-10-08T14:54:48+00:00",
+     "summary": "Quavo and Offset may serve as witnesses in Takeoff's mother's court battle. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "lrwBEr4SCFI",
+    "title": "TAKEOFF’S MOM MAY CALL QUAVO & OFFSET TO TESTIFY IN FAMILY LEGAL BATTLE #shorts #iNews",
+    "channel": "(:inews",
+    "published": "2026-10-08T17:34:37Z",
+    "hours_since": 9,
+    "views": 1152,
+    "url": "https://www.youtube.com/watch?v=lrwBEr4SCFI",
+    "views_per_hour": 128
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Taylor Swift to perform at Academy Museum Gala",
+   "artists": [
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-08T18:34:27+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Taylor Swift to Perform at Academy Museum’s Annual Gala",
+     "link": "https://www.rollingstone.com/music/music-news/taylor-swift-perform-academy-museum-2027-gala-1235639847/",
+     "published": "2026-10-08T18:34:27+00:00",
+     "summary": "The stop comes ahead of the start of Oscar voting season, with Swift's Toy Story 5 hit \"I Knew It, I Knew You\" eligible for Best Original Song"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Taylor Swift to Perform at Academy Museum Gala",
+     "link": "https://variety.com/2026/film/columns/taylor-swift-perform-academy-museum-gala-1236905184/",
+     "published": "2026-10-08T17:00:00+00:00",
+     "summary": "Taylor Swift is set to perform at the upcoming Academy Museum Gala. The evening, taking place on Oct. 17, serves as a fundraiser for and takes place at the Academy Museum of Motion Pictures in Los Angeles. While details are still under wrap"
+    }
+   ],
+   "chart": [
+    {
+     "id": "mw3kSNIxjqo",
+     "title": "Taylor Swift - Patient Zero (Official Music Video)",
+     "channel": "Taylor Swift",
+     "published": "2026-09-29T22:00:19Z",
+     "hours_since": 221,
+     "views": 16435388,
+     "url": "https://www.youtube.com/watch?v=mw3kSNIxjqo",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "mw3kSNIxjqo",
+     "title": "Taylor Swift - Patient Zero (Official Music Video)",
+     "channel": "Taylor Swift",
+     "published": "2026-09-29T22:00:19Z",
+     "hours_since": 221,
+     "views": 16435388,
+     "url": "https://www.youtube.com/watch?v=mw3kSNIxjqo",
+     "region": "GB",
+     "rank": 2
+    }
+   ],
+   "video": {
+    "id": "mw3kSNIxjqo",
+    "title": "Taylor Swift - Patient Zero (Official Music Video)",
+    "channel": "Taylor Swift",
+    "published": "2026-09-29T22:00:19Z",
+    "hours_since": 221,
+    "views": 16435388,
+    "url": "https://www.youtube.com/watch?v=mw3kSNIxjqo",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "ATEEZ releases 15th mini album GOLDEN HOUR: Part.6",
+   "artists": [
+    "ATEEZ"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-09T10:10:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ATEEZ、15th ミニアルバム『GOLDEN HOUR : Part.6』のプロモーションマップを公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/166331",
+     "published": "2026-10-09T10:10:00+09:00",
+     "summary": "ATEEZが、15th ミニアルバム『GOLDEN HOUR : Part.6』のプロモーションマップを10月9日に…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "QWER announces Japan tour dates and ticket sales",
+   "artists": [
+    "QWER"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "クリエイティブマン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-09T02:15:26+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "QWER 福岡の当日券お知らせ",
+     "link": "https://www.creativeman.co.jp/2026/10/09/108356/",
+     "published": "2026-10-09T02:15:26+00:00",
+     "summary": "2026/10/13(火) UNITEDLAB 公演の当日券を以下のように販売いたします。 通常スタンディング ￥14,000-(税込/1Drink) プレイガイド販売：公演当日10:00～20:00 ※WEB販売のみ、 […] The post QWER 福岡の当日券お知らせ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Polo G, Lil Baby, DJ Drama to perform at FORCE Festival 2026 Japan",
+   "artists": [
+    "Polo G",
+    "Lil Baby",
+    "DJ Drama"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "japan_tour",
+   "outlets": [
+    "HIPHOPCs"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "HIPHOPCs"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-09T00:34:32+00:00",
+   "articles": [
+    {
+     "outlet": "HIPHOPCs",
+     "title": "Polo G、Lil Baby、DJ Dramaから日本へ──FORCE Festival 2026、3本の動画メッセージ",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2loNmliMndLalNud0tFSDdxT2R6UHpEMDVKNGhqVzJtUy0yeWJ3RzVsRnJoS0NRLVFnZ3Yza25FazZJVHI1QnhuVFhSbDEzMVQyWkp0QzllWFZVV3VvRUN3b3Q3QjJCdnpBbHhudkt1NHI4VFVSeDEtLS12NFhTT1M0YlpPUmpWdGxuZmlyS204bU0?oc=5",
+     "published": "2026-10-09T00:34:32+00:00",
+     "summary": "Polo G、Lil Baby、DJ Dramaから日本へ──FORCE Festival 2026、3本の動画メッセージ HIPHOPCs"
+    }
+   ],
+   "chart": [
+    {
+     "id": "Zb3H_W6z9Ak",
+     "title": "Lil Baby, Bally Baby, Fatt Smaxk - Coast 2 Coast",
+     "channel": "LilBabyVEVO",
+     "published": "2026-10-07T16:00:27Z",
+     "hours_since": 35,
+     "views": 637529,
+     "url": "https://www.youtube.com/watch?v=Zb3H_W6z9Ak",
+     "region": "US",
+     "rank": 11
+    }
+   ],
+   "video": {
+    "id": "Zb3H_W6z9Ak",
+    "title": "Lil Baby, Bally Baby, Fatt Smaxk - Coast 2 Coast",
+    "channel": "LilBabyVEVO",
+    "published": "2026-10-07T16:00:27Z",
+    "hours_since": 35,
+    "views": 637529,
+    "url": "https://www.youtube.com/watch?v=Zb3H_W6z9Ak",
+    "region": "US",
+    "rank": 11
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s47",
+   "label": "One Republic releases Oh My My 10th anniversary edition",
+   "artists": [
+    "OneRepublic"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-08T14:13:51+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "ワンリパブリック、『Oh My My』10周年記念版をリリース。ドキュメンタリーも公開",
+     "link": "https://www.udiscovermusic.jp/new-releases/onerepublic-oh-my-my-10th-anniversary-deluxe-edition",
+     "published": "2026-10-08T14:13:51+00:00",
+     "summary": "ワンリパブリックが『Oh My My』10周年記念デラックス・エディションをリリース。初配信のボーナス音源と17分のドキュメンタリーを公開した。 The post ワンリパブリック、『Oh My My』10周年記念版をリリース。ドキュメンタリーも公開 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s52",
+   "label": "Olivia Rodrigo acquires Meg White's dress from White Stripes album cover",
+   "artists": [
+    "Olivia Rodrigo"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "NME Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-08T11:00:16+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "オリヴィア・ロドリゴ、『エレファント』のジャケットでメグ・ホワイトが着ていたドレスを入手",
+     "link": "https://nme-jp.com/news/173144/",
+     "published": "2026-10-08T11:00:16+00:00",
+     "summary": "オリヴィア・ロドリゴはザ・ホワイト・ストライプスの『エレファント』のアルバム・ジャケットでメグ・ホワイトが着ていたドレスを入手していたことが明らかになっている。"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "isHIJ4lAsxw",
+    "title": "Olivia Rodrigo's $25,600 Dress Had One Problem: The Weather",
+    "channel": "Screenmargin",
+    "published": "2026-10-08T14:01:43Z",
+    "hours_since": 13,
+    "views": 599,
+    "url": "https://www.youtube.com/watch?v=isHIJ4lAsxw",
+    "views_per_hour": 46
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s55",
+   "label": "Gia Margaret announces Japan tour in December",
+   "artists": [
+    "Gia Margaret"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "NME Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-08T09:30:34+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "ジア・マーガレット、12月に来日公演が決定",
+     "link": "https://nme-jp.com/news/173136/",
+     "published": "2026-10-08T09:30:34+00:00",
+     "summary": "ジア・マーガレットは12月に来日公演を行うことが決定している。"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s53",
+   "label": "Mike D releases Secrets Pt. I & II music video",
+   "artists": [
+    "Mike D"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "outlets": [
+    "NME Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-08T08:00:18+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "ビースティ・ボーイズのマイク・D、“Secrets Pt. I ＆ II”のミュージック・ビデオが公開",
+     "link": "https://nme-jp.com/news/173129/",
+     "published": "2026-10-08T08:00:18+00:00",
+     "summary": "ビースティ・ボーイズのマイク・Dは“Secrets Pt. I ＆ II”のミュージック・ビデオが公開されている。"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s56",
+   "label": "Jon Cleary announces Japan tour for February 2027",
+   "artists": [
+    "Jon Cleary"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-08T06:53:26+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "JON CLEARY、2027年2月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5CZHhqdFBaN0xrVm5pc2F2TTRwczlUa1o5SmVXaUM2RW9FU3pzS0lDQ213Z3d6MFNvWk1RUXlwRFhFT1RDT21r?oc=5",
+     "published": "2026-10-08T06:53:26+00:00",
+     "summary": "JON CLEARY、2027年2月に来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s63",
+   "label": "Errorsmith announces Japan tour Midnight Error",
+   "artists": [
+    "Errorsmith"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "outlets": [
+    "AVYSS magazine"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "AVYSS magazine"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-08T04:43:04+00:00",
+   "articles": [
+    {
+     "outlet": "AVYSS magazine",
+     "title": "真夜中の実験室｜Errorsmith来日公演「Midnight Error」開催",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nZnBERW0teHg0eE15czVIM0xQOXprZTg5bjJ3MEktelZLRUc5MWJIM0lqb1NkdGsyRHlVbmZBSHVtMHRnWnRhUFhGZ3RDREVMbTh2MmFCRQ?oc=5",
+     "published": "2026-10-08T04:43:04+00:00",
+     "summary": "真夜中の実験室｜Errorsmith来日公演「Midnight Error」開催 AVYSS magazine"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s42",
+   "label": "Beatport secures growth investment for electronic music platform",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "business",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 1,
+   "latest": "2026-10-08T23:03:50+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Beatport Secures Growth Investment to ‘Expand the Ways We Serve the Global Electronic Music Community’",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPclZCaWpYYWx3MTdLRWFCR01pc1VTWlBYcUU0cjVzb2ZzcWlMdzhYRFk2b3kwWUVWOGpNanpLSVh6QVlpVE12RFJXNnhyeWZ5a3Y5TlRBUFFhZmY2dkJ1TEh6VjVkTDFmdEZIMmU2Vl9mQ2pXQ1kteWFhVlhTY2JTVmphWQ?oc=5",
+     "published": "2026-10-08T23:03:50+00:00",
+     "summary": "Beatport Secures Growth Investment to ‘Expand the Ways We Serve the Global Electronic Music Community’ Billboard"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Charlotte de Witte tops DJ Mag's Top 100 DJs 2026",
+   "artists": [
+    "Charlotte de Witte"
+   ],
+   "genre": "Dance",
+   "kind": "award",
+   "outlets": [
+    "Your EDM"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 1,
+   "latest": "2026-10-08T18:49:57+00:00",
+   "articles": [
+    {
+     "outlet": "Your EDM",
+     "title": "Charlotte de Witte Makes History as Highest-Ranked Woman in DJ Mag’s Top 100 DJs 2026",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOczJDSkFlbjZmY0pzMkY2Yno2TXo0Znh0cnk4cGt5NDJNd1BWN3lGdUtsY2c4cUxDZXlyd1h3UGwxa1ZiMmVicTllSVRvVG5yWU9jU0lvWWxmYnBIb0NJcndxS2JjLXh4TGwwX1dPeWpHWWlJREl1b3V2eXVhdnowMHg5em94azhERlpJaktBSjMyNlZqMXFCT2x3V1ZmRmpOczhyQk1oa3NRbVpFNE8yOU51N2hITEFLUzdqMDNlaTVtT2kt?oc=5",
+     "published": "2026-10-08T18:49:57+00:00",
+     "summary": "Charlotte de Witte Makes History as Highest-Ranked Woman in DJ Mag’s Top 100 DJs 2026 Your EDM"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Sleep Theory announces first Japan tour",
+   "artists": [
+    "Sleep Theory"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "クリエイティブマン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-09T02:00:06+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "SLEEP THEORY 新規公演決定！",
+     "link": "https://www.creativeman.co.jp/2026/10/09/108323/",
+     "published": "2026-10-09T02:00:06+00:00",
+     "summary": "USロック界の新星スリープ・セオリー 全米アルバムチャートでトップ10入りを果たしたアルバム 『Afterglow』を引っ提げての初来日公演が決定！ シーンを席巻する最新型のヘヴィネスを体感せよ！ 公演詳細はこちら The post SLEEP THEORY 新規公演決定！ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s54",
+   "label": "Terry Lian and Rachel Tucker to perform at New Year Musical Concert 2027",
+   "artists": [
+    "Terry Lian",
+    "Rachel Tucker"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "ｄメニューニュース"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "ｄメニューニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-09T01:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "ｄメニューニュース",
+     "title": "『ニューイヤー・ミュージカル・コンサート 2027』テリー・リアン＆レイチェル・タッカーが再び来日決定（SPICE）",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mVjZVazZhZzNnOXZMc1A5bTYyaEVMaEwyWGNIakZjV29kWVc2NWxmZWZNQVB1RUJDT2h6M1Q4Rm5ZZTNkS0FlY0FGb3hVSW9BaTBuYnllLU5yOENweEl0T0RnbThHdlBBQm45enQtVVF5VW9hUkQyRGJDdW4?oc=5",
+     "published": "2026-10-09T01:30:00+00:00",
+     "summary": "『ニューイヤー・ミュージカル・コンサート 2027』テリー・リアン＆レイチェル・タッカーが再び来日決定（SPICE） ｄメニューニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s57",
+   "label": "Broken Social Scene announces Japan tour for March 2027",
+   "artists": [
+    "Broken Social Scene"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-08T06:04:16+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "BROKEN SOCIAL SCENE、2027年3月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9obEk2VTFnRW96bUVFUk9GTmJyWWFHM0FlTTBjZzI1NFB1OEZUemdYZTdrRS03R2oycURFS28zdUVvalk3cTA4?oc=5",
+     "published": "2026-10-08T06:04:16+00:00",
+     "summary": "BROKEN SOCIAL SCENE、2027年3月に来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s60",
+   "label": "Little Feat announces Last Farewell Tour Japan shows",
+   "artists": [
+    "Little Feat"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "InterFM"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "InterFM"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-08T05:39:10+00:00",
+   "articles": [
+    {
+     "outlet": "InterFM",
+     "title": "Billboard Live presents Little Feat “The Last Farewell Tour”",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tdkVES255X2FxOHR0MURjNkRPY2NuQzhiTi1ScUJUVXhmeE1PM1NjZWVpYlhpUWZ2Rk5BVW5VdHlLWFZ5QzRQaUFwZ3NpRWc3MEhHTU9pUm8zN2F3Xzdn?oc=5",
+     "published": "2026-10-08T05:39:10+00:00",
+     "summary": "Billboard Live presents Little Feat “The Last Farewell Tour” InterFM"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s58",
+   "label": "Dave Matthews announces Japan tour for January 2027",
+   "artists": [
+    "Dave Matthews"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-08T05:04:12+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "DAVE MATTHEWS、2027年1月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE15NTdwZTRNRm5NTHloZmYtdHBpUGFkRVlrYmVIaFM5aVZPNXBzS0xlN1pYR2VxM1o1UFY5WVRtWFEta29RMFNV?oc=5",
+     "published": "2026-10-08T05:04:12+00:00",
+     "summary": "DAVE MATTHEWS、2027年1月に来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s64",
+   "label": "Lorna Shore performs Japan tour with Deviloof support",
+   "artists": [
+    "Lorna Shore",
+    "Deviloof"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "クリエイティブマン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-08T04:17:42+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "LORNA SHORE ジャパン・ツアー！東京初日公演の写真が到着！",
+     "link": "https://www.creativeman.co.jp/2026/10/08/108302/",
+     "published": "2026-10-08T04:17:42+00:00",
+     "summary": "LORNA SHORE ジャパン・ツアーが激烈な演奏と共に幕開け！初日の東京公演の模様が到着です！今回ツアーのサポートを務めるDEVILOOFの桂佑(vo.)を迎えての貴重なサプライズ共演も！ ツアーは本日10/8(木） […] The post LORNA SHORE ジャパン・ツアー！東京初日公演の写真が到着！ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s59",
+   "label": "Fcukers announce Japan tour in December",
+   "artists": [
+    "Fcukers"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-08T04:03:58+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "Fcukers、12月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CMDFmS2owQ1FMWllxcVNiWEc3M0RYMGdydTdkX0p3QU92RGI0TTdTMmFQemNuaEZueTlYc2xVa3psUmlTMVlJ?oc=5",
+     "published": "2026-10-08T04:03:58+00:00",
+     "summary": "Fcukers、12月に来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s62",
+   "label": "Yo-Yo Ma releases Japan-exclusive best album Melodies",
+   "artists": [
+    "Yo-Yo Ma"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "CDJournal.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "CDJournal.com"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "score": 2,
+   "latest": "2026-10-08T03:10:00+00:00",
+   "articles": [
+    {
+     "outlet": "CDJournal.com",
+     "title": "ヨーヨー・マ、来日を記念した日本独自ベスト・アルバム『メロディーズ』を発表",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zdUNmVzZjTDRLLXYzTXduMmlNdVlYY1JlOW1lVHV1Z1hMSHItQTN1QkFfeWhiN0s3b0wzR2s5dnE2S2ZOMGltZXZ2NzB6ai1BVEZWYXduRkpnUy1GLVI0RQ?oc=5",
+     "published": "2026-10-08T03:10:00+00:00",
+     "summary": "ヨーヨー・マ、来日を記念した日本独自ベスト・アルバム『メロディーズ』を発表 CDJournal.com"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s65",
+   "label": "Instagram apologizes for over-recommending Creed's Higher",
+   "artists": [
+    "Creed"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "CNN",
+    "Consequence"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "CNN"
+   ],
+   "visit_source": false,
+   "score": 3,
+   "latest": "2026-10-09T02:10:06+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Instagram Apologizes for Repeatedly Suggesting Creed’s “Higher” to Users",
+     "link": "https://consequence.net/2026/10/instagram-creed-recommendation-glitch/",
+     "published": "2026-10-09T02:10:06+00:00",
+     "summary": "Instagram says its algorithm has been recommending the song more often than intended, and engineers are working to fix the issue. Instagram Apologizes for Repeatedly Suggesting Creed’s “Higher” to Users Karan Singh"
+    },
+    {
+     "outlet": "CNN",
+     "title": "Instagram is sorry it gave users too much Creed",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1hPNE9LMEo5bjBDeWEwOUZ6R1FXUUVqMlk2dGpJaFlCck51OFgtQTFKVzZuaXRxa2dDTldjWWc2RjRuTTUwX1pTX0hJd1FTNUUyOHd0enR5M1l5c0RJWmoySjZjNDdpYlYwNTFneC1MMlBaZHRmLVo2My1rSm82dE9sNVJWWEE?oc=5",
+     "published": "2026-10-08T19:20:36+00:00",
+     "summary": "Instagram is sorry it gave users too much Creed CNN"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s39",
+   "label": "Tom DeLonge moved by Padres fans singing All The Small Things",
+   "artists": [
+    "Blink-182"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "NME",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 3,
+   "latest": "2026-10-08T12:26:35+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Watch Tom DeLonge get emotional as baseball stadium full of Padres fans sing Blink-182’s ‘All The Small Things’",
+     "link": "https://www.nme.com/news/music/watch-tom-delonge-get-emotional-as-baseball-stadium-full-of-padres-fans-sing-blink-182s-all-the-small-things-3972629?utm_source=rss&utm_medium=rss&utm_campaign=watch-tom-delonge-get-emotional-as-baseball-stadium-full-of-padres-fans-sing-blink-182s-all-the-small-things",
+     "published": "2026-10-08T12:26:35+00:00",
+     "summary": "The pop-punk icon has been a lifelong fan of the team, and gifted a guitar to one of the catchers in 2024 The post Watch Tom DeLonge get emotional as baseball stadium full of Padres fans sing Blink-182’s ‘All The Small Things’ appeared firs"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ブリンク182のトム・デロング、パドレス戦で観客が“All the Small Things”を歌う光景に感極まることに",
+     "link": "https://nme-jp.com/news/173152/",
+     "published": "2026-10-08T11:30:13+00:00",
+     "summary": "ブリンク182のトム・デロングは現地時間10月6日に行われたサンディエゴ・パドレス対ミルウォーキー・ブルワーズ戦を訪れて、観客が“All the Small Things”を歌う光景に感極まることとなっている。"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s10",
+   "label": "Loretta Lynn's Van Lear Rose returns to streaming",
+   "artists": [
+    "Loretta Lynn"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "outlets": [
+    "Consequence",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-08T21:04:34+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Loretta Lynn’s Jack White-Produced Album Van Lear Rose Is Finally Returning to Streaming",
+     "link": "https://consequence.net/2026/10/loretta-lynn-jack-white-produced-album-van-lear-rose-is-finally-returning-to-streaming/",
+     "published": "2026-10-08T21:04:34+00:00",
+     "summary": "After being mysteriously pulled from streaming services in 2021, the Grammy-winning album is finally returning in both digital and physical formats. Loretta Lynn’s Jack White-Produced Album Van Lear Rose Is Finally Returning to Streaming Jo"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Loretta Lynn’s Van Lear Rose Is Returning to Streaming",
+     "link": "https://pitchfork.com/story/loretta-lynns-van-lear-rose-is-returning-to-streaming/",
+     "published": "2026-10-08T17:21:59+00:00",
+     "summary": "Third Man will reissue Lynn’s 2004 comeback album, which was mysteriously pulled from DSPs in 2021"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s26",
+   "label": "David Byrne creates song from Elon Musk documentary quotes",
+   "artists": [
+    "David Byrne"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-08T16:53:33+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "David Byrne and Daniel Pemberton Made a Song Using Weird Elon Musk Quotes",
+     "link": "https://pitchfork.com/story/david-byrne-and-daniel-pemberton-made-a-song-using-weird-elon-musk-quotes/",
+     "published": "2026-10-08T16:53:33+00:00",
+     "summary": "“Let Me Sell You a Dream” appears in Musk, a new documentary about the tech mogul directed by Alex Gibney"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "David Byrne Turns Elon Musk’s Own Words Into New Song ‘Let Me Sell You a Dream’",
+     "link": "https://www.rollingstone.com/music/music-news/david-byrne-elon-musk-words-song-let-me-sell-you-a-dream-1235639650/",
+     "published": "2026-10-08T14:17:47+00:00",
+     "summary": "“All his own words. No editorializing. Straight from the man’s mouth to mine,” singer says of contribution to scathing Musk documentary"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s25",
+   "label": "U2 wrote song about Rosalía for new album Carnaval De Luz",
+   "artists": [
+    "U2",
+    "Rosalía"
+   ],
+   "genre": "Other",
+   "kind": "collab",
+   "outlets": [
+    "NME",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "score": 2,
+   "latest": "2026-10-08T15:34:15+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "U2 Wrote a Song About Rosalía. How Does She Feel About That?",
+     "link": "https://www.rollingstone.com/music/music-news/rosalia-interview-u2-song-jimmy-fallon-1235639699/",
+     "published": "2026-10-08T15:34:15+00:00",
+     "summary": "The superstar joined Jimmy Fallon on The Tonight Show and shared her thoughts on U2’s upcoming song “The Mirror Maker (Rosalía)”"
+    },
+    {
+     "outlet": "NME",
+     "title": "Rosalía shares that Bono reached out for Spanish advice on U2 song about her: “Feel free to invent your own language”",
+     "link": "https://www.nme.com/news/music/rosalia-bono-spanish-advice-u2-song-about-her-invent-own-language-3972665?utm_source=rss&utm_medium=rss&utm_campaign=rosalia-bono-spanish-advice-u2-song-about-her-invent-own-language",
+     "published": "2026-10-08T14:44:59+00:00",
+     "summary": "The band have written ‘The Mirror Maker (Rosalía)’ about her for their new album ‘Carnaval De Luz’ The post Rosalía shares that Bono reached out for Spanish advice on U2 song about her: “Feel free to invent your own language” appeared first"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 3
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 1
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 18
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 6,
+   "kept": 2
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 88,
+   "kept": 19
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 7
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 29,
+   "kept": 8
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 7
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 16
+  },
+  {
+   "name": "HipHopDX",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 4
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 30
+  },
+  {
+   "name": "MTV JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 2
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 50,
+   "kept": 13
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 21,
+   "kept": 15
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 3
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 25
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 2,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 2,
+   "kept": 0
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 31,
+   "kept": 18
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 49,
+   "kept": 14
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 25,
+   "kept": 11
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 8,
+   "kept": 4
+  }
+ ],
+ "cost": {
+  "usd": 0.3501,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 23690,
+    "output_tokens": 6548
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 17832,
+    "output_tokens": 6899
+   },
+   {
+    "model": "claude-sonnet-5-5",
+    "input_tokens": 17832,
+    "output_tokens": 4870
+   }
+  ]
+ }
+}
