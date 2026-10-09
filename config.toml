@@ -20,22 +20,22 @@ site_url = ""                  # 通常は空欄でOK（自動で入ります）
 cluster = "claude-haiku-4-5-20251001"   # 段階1：下ごしらえ（グループ化）
 select = "claude-opus-5-5"              # 段階2：選定と執筆（頭脳）
 select_effort = ""                      # 空欄＝標準。"high" にすると深く考える分、費用が増えます
-compare = "claude-sonnet-5-5"           # 試運転中の比較用。比較をやめるときは "" にする
+compare = ""                            # 比較用（試運転で終了）。再開するときは "claude-sonnet-5-5" にする
 compare_effort = ""
 
 [selection]
 audience = """
-視聴者は、日本の洋楽ファン（10〜30代が中心）と、DJを学んでいるスクール生。
-発信者は洋楽インフルエンサー兼DJスクール運営者で、Instagramリールで海外の音楽ニュースを紹介している。
+視聴者は、日本の洋楽ファン（10〜30代が中心）。
+発信者は洋楽インフルエンサーで、Instagramリールで海外の音楽ニュースを紹介している。
 """
 criteria = """
 選定基準（上から順に重視）：
-- 日本で名前が通じるアーティスト・DJか。日本の媒体が報じている、日本のYouTube音楽チャートに入っている、来日経験がある、などを手がかりにする
-- 日本と関わりのある話題か：来日公演・日本のフェス出演、日本人アーティストとのコラボ、アニメ・ドラマ・CM・ゲームのタイアップ、日本のTikTokやSNSで流行った曲
+- 日本で名前が通じるアーティストか。日本のYouTube音楽チャートに入っている、来日経験がある、日本の媒体も報じている、などを手がかりにする（日本の媒体の報道は補助的な目印）
+- 日本と関わりのある話題か：日本人アーティストとのコラボ、アニメ・ドラマ・CM・ゲームのタイアップ、日本のTikTokやSNSで流行った曲（来日情報は別枠で扱う）
 - CNN・BBCなど一般メディアも報じる、音楽ファン以外にも届く大きな話題か
 - 新曲・新作・コラボ・サプライズ発表など、30〜60秒で驚きや楽しさを伝えられるか
 - MVやライブ映像など、リールで見せられる素材があるか
-- DJやクラブカルチャーに関わる話題は、スクール生にも刺さるので加点する
+- ダンスミュージック（DJ・プロデューサー）の話題も、POPやHip-Hopと同じ基準で扱う
 - 海外でしか知られていない話題は、「これから日本でも来る」と言える根拠があるときだけ選ぶ
 - 訃報・事件・裁判などは、重大なものだけ。取り上げる場合は茶化さず事実を伝える切り口にする
 """
@@ -156,12 +156,6 @@ feed = ""
 google_news = "site:complex.com music"
 
 [[sources]]
-name = "HipHopDX"
-genre = "Hip-Hop"
-site = "https://hiphopdx.com"
-feed = "https://hiphopdx.com/rss/news.xml"
-
-[[sources]]
 name = "XXL"
 genre = "Hip-Hop"
 site = "https://www.xxlmag.com"
@@ -200,14 +194,6 @@ genre = "POP"
 group = "日本"
 region = "JP"
 site = "https://www.billboard-japan.com"
-feed = ""
-
-[[sources]]
-name = "MTV JAPAN"
-genre = "POP"
-group = "日本"
-region = "JP"
-site = "https://www.mtvjapan.com"
 feed = ""
 
 [[sources]]

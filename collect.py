@@ -144,6 +144,7 @@ def google_news_url(query: str, region: str = "") -> str:
 
 
 STALE_DAYS = 7
+_HANGUL_RE = re.compile(r"[\uac00-\ud7a3]")
 
 
 def _try(url: str) -> list[dict]:
@@ -188,7 +189,15 @@ def fetch_source(src: dict, feed_cache: dict) -> tuple[list[dict], dict]:
     query = src.get("google_news") or (f"site:{domain_of(src['site'])}" if src.get("site") else "")
     if query:
         url = google_news_url(query, src.get("region", ""))
-        items = _try(url)
+        keyword = not query.strip().lower().startswith("site:")
+        try:
+            raw = http_get(url, timeout=20)
+            items, reachable = parse_feed(raw), raw.lstrip().startswith(b"<")
+        except Exception:  # noqa: BLE001
+            items, reachable = [], False
+        if not items and reachable and keyword:
+            # 検索はできたが、その日は該当する記事がなかっただけ
+            return [], {"status": "ok", "method": "Googleニュース検索・該当なし", "url": url, "keyword": True}
         if items:
             for it in items:  # Googleニュースの見出しは末尾に「 - 媒体名」が付くので外す
                 m = re.search(r"\s+-\s+([^-]{2,60})$", it["title"])
@@ -196,7 +205,6 @@ def fetch_source(src: dict, feed_cache: dict) -> tuple[list[dict], dict]:
                     it["publisher"] = it.get("publisher") or m.group(1).strip()
                     it["title"] = it["title"][: m.start()]
             # キーワード検索のときは、記事ごとの実際の媒体名で数える
-            keyword = not query.strip().lower().startswith("site:")
             return items, {"status": "ok", "method": "Googleニュース検索" if keyword else "Googleニュース経由",
                            "url": url, "keyword": keyword}
 
@@ -232,6 +240,10 @@ def collect_all(sources: list[dict], lookback_hours: int, seen_before_today: set
             outlet = src.get("outlet") or src["name"]
             if status.get("keyword") and it.get("publisher"):
                 outlet = it["publisher"]
+                if outlet.startswith("http"):  # 媒体名の代わりにURLが入っていることがある
+                    outlet = domain_of(outlet)
+            if src.get("region") == "JP" and _HANGUL_RE.search(it["title"]):
+                continue  # 日本版の検索に混ざる韓国語の記事
             title_key = (outlet.lower(), it["title"].strip().lower())
             if title_key in titles_now:
                 continue

@@ -6,6 +6,7 @@
 import argparse
 import json
 import os
+import re
 import sys
 import tomllib
 import traceback
@@ -67,8 +68,9 @@ def recent_picks(today: str, days: int = 7) -> list[str]:
             out.append(f"{t.get('title_ja', '')}（{labels.get(t.get('id'), '')}）")
         for t in day.get("picks", {}).get("japan_tours", []):
             out.append(f"来日：{t.get('title_ja', '')}")
-        for t in day.get("picks", {}).get("runners_up", {}).get("Other", []):
-            out.append(f"雑学ネタ：{t.get('title_ja', '')}")
+        for g, rs in day.get("picks", {}).get("runners_up", {}).items():
+            for t in rs:
+                out.append(f"{'雑学ネタ' if g == 'Other' else '次点'}：{t.get('title_ja', '')}")
     return out
 
 
@@ -82,6 +84,27 @@ def _uniq_outlets(names) -> list[str]:
     return sorted(seen.values())
 
 
+_TOUR_RE = re.compile(r"\b(japan|tokyo|osaka|nagoya|fukuoka)\b.{0,40}\b(tour|concerts?|shows?|gigs?|debut|dates?)\b"
+                      r"|\b(tour|concerts?|shows?|gigs?)\b.{0,40}\b(japan|tokyo|osaka|nagoya|fukuoka)\b", re.I)
+
+
+_JP_PLACE = r"(東京|大阪|名古屋|福岡|札幌|横浜|神戸|京都|仙台|広島|岡山|幕張|武道館|東京ドーム|京セラドーム)"
+_JP_TOUR_RE = re.compile(r"来日|日本公演|ジャパン・?ツアー"
+                         rf"|{_JP_PLACE}.{{0,30}}(公演|ツアー|出演|開催)|(公演|ツアー|出演).{{0,30}}{_JP_PLACE}")
+
+
+def _looks_like_tour(kind: str, label: str, arts: list[dict], visit_source: bool) -> bool:
+    """来日の話題かどうか。AIの判定に加えて、見出しの言葉（来日、日本の地名＋公演など）からも拾う。
+    来日の検索で見つかっただけの記事（海外での公演など）は来日扱いしない。"""
+    if kind == "japan_tour":
+        return True
+    if kind == "evergreen":  # 「来日を振り返る」のような雑学記事は除く
+        return False
+    if _TOUR_RE.search(label):
+        return True
+    return any(_JP_TOUR_RE.search(a["title"]) for a in arts if a.get("region") == "JP")
+
+
 def build_stories(articles: list[dict], clusters: list[dict]) -> list[dict]:
     stories = []
     for n, cl in enumerate(clusters):
@@ -90,13 +113,17 @@ def build_stories(articles: list[dict], clusters: list[dict]) -> list[dict]:
         outlets = _uniq_outlets(a["outlet"] for a in arts)
         jp = _uniq_outlets(a["outlet"] for a in arts if a.get("region") == "JP")
         mainstream = _uniq_outlets(a["outlet"] for a in arts if a.get("group") == "一般")
+        visit_source = any(a.get("group") == "来日" for a in arts)
+        is_tour = _looks_like_tour(cl["kind"], cl["label"], arts, visit_source)
         stories.append({
             "id": f"s{n}", "label": cl["label"], "artists": cl["artists"], "genre": cl["genre"],
             "kind": cl["kind"], "outlets": outlets, "n_outlets": len(outlets),
             "jp_outlets": jp, "mainstream_outlets": mainstream,
-            "visit_source": any(a.get("group") == "来日" for a in arts),
-            # 日本の媒体・一般メディアの報道は2倍に数えて、日本ウケ・一般ウケを優先する
-            "score": len(outlets) + len(jp) + len(mainstream),
+            "visit_source": visit_source, "is_tour": is_tour,
+            "n_overseas": len(outlets) - len(jp),
+            # 点数＝海外の媒体数（一般メディアは2倍）。日本の媒体は「日本でも報じられた」という
+            # 補助的な目印として、何媒体あっても＋1だけ
+            "score": (len(outlets) - len(jp)) + len(mainstream) + (1 if jp else 0),
             "latest": arts[0]["published"] or "",
             "articles": [{"outlet": a["outlet"], "title": a["title"], "link": a["link"],
                           "published": a["published"], "summary": a["summary"][:240]} for a in arts[:10]],
@@ -107,19 +134,21 @@ def build_stories(articles: list[dict], clusters: list[dict]) -> list[dict]:
 
 def pick_evergreen(stories: list[dict]) -> list[dict]:
     """いつでも使えるネタの候補（雑学・裏話・歴史など）。"""
-    return [s for s in stories if s["kind"] == "evergreen"][:15]
+    return sorted((s for s in stories if s["kind"] == "evergreen"),
+                  key=lambda s: (s["score"], s["n_outlets"]), reverse=True)[:10]
 
 
 def pick_tours(stories: list[dict]) -> list[dict]:
     """来日情報の候補（AIが来日と判定したもの＋来日系の情報源から来た公演・フェスの話題）。"""
-    return [s for s in stories if s["kind"] == "japan_tour"
-            or (s["visit_source"] and s["kind"] in ("tour", "festival", "announcement"))][:15]
+    return [s for s in stories if s.get("is_tour")][:15]
 
 
 def pick_candidates(stories: list[dict], cfg: dict) -> list[dict]:
     g = cfg["general"]
-    # 雑学などの「いつでも使えるネタ」は、今日のニュースとは別枠で選ぶ
-    pool = [s for s in stories if s["kind"] != "evergreen" and (s["genre"] in GENRES or s["n_outlets"] >= 3)]
+    # ニュースの候補は「海外の媒体が報じた話題」だけ。来日情報と雑学ネタは別枠で選ぶ
+    pool = [s for s in stories
+            if s["kind"] != "evergreen" and not s["is_tour"] and s["n_overseas"] >= 1
+            and (s["genre"] in GENRES or s["n_outlets"] >= 3)]
     chosen = pool[: g["candidate_count"]]
     ids = {s["id"] for s in chosen}
     for genre in GENRES:  # 次点を選べるよう、各ジャンル最低限の候補を確保する

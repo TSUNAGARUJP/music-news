@@ -133,6 +133,11 @@ def model_name(model_id: str) -> str:
     return f"{m.group(1).capitalize()} {m.group(2)}.{m.group(3)}" if m else (model_id or "")
 
 
+def _glabel(genre: str) -> str:
+    """ニュースのジャンル表示。「Other」は雑学ネタ枠と紛らわしいので「その他」と出す。"""
+    return "その他" if genre in ("Other", "General", "") else genre
+
+
 def _gclass(genre: str) -> str:
     return GENRE_CLASS.get(genre, "g-other")
 
@@ -186,7 +191,7 @@ def _sources_html(c: dict) -> str:
 
 def _pick_html(n: int, t: dict, c: dict) -> str:
     genre = t.get("genre") or c.get("genre", "Other")
-    meta = [f'<span class="chip">{escape(genre)}</span>', f'<span>{escape(coverage_text(c))}</span>']
+    meta = [f'<span class="chip">{escape(_glabel(genre))}</span>', f'<span>{escape(coverage_text(c))}</span>']
     vt = _video_text(c.get("video"))
     if vt:
         meta.append(f"<span>{escape(vt)}</span>")
@@ -271,7 +276,7 @@ def _candidates_html(cands: list[dict]) -> str:
         v = c.get("video")
         rows.append(f'<tr><td><a href="{escape(first["link"])}" rel="noopener" target="_blank">'
                     f'{escape(c["label"])}</a></td><td><span class="{_gclass(c["genre"])}">'
-                    f'<span class="chip">{escape(c["genre"])}</span></span></td>'
+                    f'<span class="chip">{escape(_glabel(c["genre"]))}</span></span></td>'
                     f'<td class="n">{c["n_outlets"]}</td><td class="n">{escape(fmt_views(v["views"]) if v and v.get("views") else "—")}</td></tr>')
     return (f'<details><summary>今日の話題一覧（{len(cands)}件）</summary><div class="scroll"><table>'
             f'<thead><tr><th>話題</th><th>ジャンル</th><th>媒体数</th><th>動画再生数</th></tr></thead>'
@@ -329,7 +334,7 @@ def _archive_body(days: list[dict]) -> str:
         lis = []
         for t in day["picks"]["top"]:
             g = t.get("genre") or stories.get(t["id"], {}).get("genre", "Other")
-            lis.append(f'<li data-genre="{escape(g)}"><span class="{_gclass(g)}"><span class="chip">{escape(g)}</span></span>'
+            lis.append(f'<li data-genre="{escape(_glabel(g))}"><span class="{_gclass(g)}"><span class="chip">{escape(_glabel(g))}</span></span>'
                        f'<span>{escape(t["title_ja"])}</span></li>')
         for t in day["picks"].get("japan_tours", []):
             lis.append(f'<li data-genre="来日"><span class="g-visit"><span class="chip">来日</span></span>'

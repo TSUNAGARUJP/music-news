@@ -10,6 +10,7 @@ from datetime import timedelta
 from util import http_json, log, now_utc, parse_date
 
 API = "https://www.googleapis.com/youtube/v3/"
+MIN_VIEWS = 10_000  # これ未満の動画は無関係な可能性が高く、話題性を低く見せてしまうので付けない
 
 
 def _get(endpoint: str, key: str, **params) -> dict:
@@ -83,6 +84,8 @@ def related_video(key: str, query: str, artists: list[str], days: int = 7) -> di
         if not videos:
             return None
         best = max(videos, key=lambda v: v["views"])
+        if best["views"] < MIN_VIEWS:
+            return None
         best["views_per_hour"] = round(best["views"] / best["hours_since"]) if best["hours_since"] else None
         return best
     except Exception as e:  # noqa: BLE001

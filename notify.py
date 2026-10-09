@@ -41,7 +41,8 @@ def build_digest(day: dict, page_url: str) -> str:
     lines = [f"■ 今日の洋楽ネタ（{d.month}/{d.day} {WEEKDAYS[d.weekday()]}）", ""]
     for n, t in enumerate(pick["top"], start=1):
         c = stories.get(t["id"], {})
-        meta = [t.get("genre") or c.get("genre", ""), coverage_text(c)]
+        genre = t.get("genre") or c.get("genre", "")
+        meta = ["その他" if genre in ("Other", "General", "") else genre, coverage_text(c)]
         v = c.get("video")
         if v and v.get("views"):
             meta.append(f"関連動画 {fmt_views(v['views'])}")
