@@ -1,0 +1,1846 @@
+{
+ "date": "2026-10-11",
+ "generated_at": "2026-10-11T02:42:06.754313+00:00",
+ "article_count": 174,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日は大きな一般メディア級のニュースはありませんでした。Girls' Generationの再集結報道や、MVが伸びているBigXthaPlug×Ava Maxなど、日本でも名前が通じるPOP寄りの話題が中心です。来日情報はRadioheadの寄付の発表やFontaines D.C.の来日決定などがありました。",
+  "top": [
+   {
+    "id": "s7",
+    "title_ja": "Girls' Generation、20周年を前に2027年シーグリで再集結",
+    "genre": "POP",
+    "summary_ja": "Girls' Generationが、2027年のシーズングリーティングで再集結すると報じられている。グループの20周年を控えたタイミングでの発表となる。",
+    "why_ja": "Complexが報じた再集結のニュース。20周年という節目と重なり、日本でも名前が通じるガールズグループの動きとして関心を集めやすい。",
+    "line_point": "Girls' Generationが2027年シーズングリーティングで再集結と報道。20周年目前の節目",
+    "reels": [
+     {
+      "hook": "Girls' Generationが再集結！？",
+      "angle": "冒頭で再集結の報道を見せ、20周年という節目を紹介する。シーズングリーティングとは何かも軽く説明する"
+     },
+     {
+      "hook": "20周年、何か起きる予感…",
+      "angle": "グループの歩みを年表風に振り返り、今回の再集結報道につなげる。最後にコメントで期待の声を募る"
+     }
+    ]
+   },
+   {
+    "id": "s29",
+    "title_ja": "BigXthaPlug×Ava Max、コラボ新曲「BURN」MV公開",
+    "genre": "POP",
+    "summary_ja": "BigXthaPlugがAva Maxを迎えた新曲「BURN」を公開し、公式MVも出ている。HotNewHipHopは、2人の持ち味が出た曲だと紹介している。",
+    "why_ja": "公式MVは公開から約30時間で335,334回再生されている。Hip-HopとPOPシンガーの組み合わせなので、POPファンにも届きやすい。",
+    "line_point": "BigXthaPlugとAva Maxがコラボ新曲「BURN」。MVは約30時間で33万回超の再生",
+    "reels": [
+     {
+      "hook": "Ava Maxがまさかのラップ曲に参加",
+      "angle": "冒頭でMVのサビを流し、Ava Maxの歌声とBigXthaPlugのラップの対比を見せる。意外な組み合わせを強調する"
+     },
+     {
+      "hook": "この2人の共演、予想できた？",
+      "angle": "Ava MaxのPOPなイメージと今回のHip-Hop曲を比べ、ジャンルを越えたコラボの面白さをMVの映像とともに紹介する"
+     }
+    ]
+   },
+   {
+    "id": "s6",
+    "title_ja": "Charli XCX、ACLフェスでTinasheをサプライズ招待",
+    "genre": "POP",
+    "summary_ja": "Charli XCXがヘッドライナーを務めたAustin City Limits Festival 2026のステージに、Tinasheがサプライズで登場した。Tinasheは新作『Popstar』から「Nobody Wanna Dance Anymore」と「Melatonin」を披露した。",
+    "why_ja": "BillboardとRolling Stoneの2媒体が報じている。友人同士のポップスターの共演で、ライブ映像をリールに使いやすい。",
+    "line_point": "Charli XCXのACLヘッドライナー公演にTinasheが登場。新作『Popstar』の曲を披露",
+    "reels": [
+     {
+      "hook": "ヘッドライナー中に親友を呼んだ！",
+      "angle": "Tinasheが登場した瞬間を冒頭に置き、披露した2曲を紹介する。2人の関係から新作『Popstar』へつなげる"
+     },
+     {
+      "hook": "Tinasheの新作、もう聴いた？",
+      "angle": "Tinasheの新作『Popstar』を軸に、ACLで披露した曲をピックアップする。Charli XCXとの共演シーンで締める"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s23",
+     "title_ja": "Daft Punkの世界観を描く272ページのコミック集",
+     "note": "最終作のアートを手がけたCédric HervetとWarren Fuが表紙を担当する公認特別号。"
+    },
+    {
+     "id": "s24",
+     "title_ja": "Chase & Status、新作『Generic Everything』を発表",
+     "note": "AIやコンテンツ過多と向き合った新作。Little Simz参加曲が英YouTubeチャート27位。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s4",
+     "title_ja": "Usher＆Chris Brown、ツアーの複数公演を中止",
+     "note": "中止の理由は、クルーの疲労やBrownの量刑言い渡しを前にしてなど、報道が分かれている。"
+    },
+    {
+     "id": "s21",
+     "title_ja": "Ashnikko、Gwen Stefani「What You Waiting For?」をカバー",
+     "note": "triple jのLike A Versionで披露し、音楽を始めるきっかけになった曲だと語った。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s12",
+     "title_ja": "Jay-Z、Kanye WestのChris Martin発言に反応",
+     "note": "Kanyeの裏切り発言に対し、Jay-Zが「We Don't Own People」と答えたと報じられている。"
+    },
+    {
+     "id": "s14",
+     "title_ja": "Boosie Badazz、ホワイトハウス前でサプライズライブ",
+     "note": "「Set It Off」を披露した。60万ドルの恩赦をめぐる問題は未解決と報じられている。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s22",
+     "title_ja": "Lance Bass、*NSYNC全盛期の日給は35ドルと告白",
+     "note": "人気絶頂期でも1日35ドルしかもらえなかったという、意外な裏話。"
+    },
+    {
+     "id": "s17",
+     "title_ja": "Olivia Rodrigo、Meg Whiteの『Elephant』ジャケのドレスを購入",
+     "note": "2003年作『Elephant』のジャケットでMeg Whiteが着た白いドレスに大金を払ったという話。"
+    },
+    {
+     "id": "s32",
+     "title_ja": "Troye Sivan、Nicole KidmanをMVに起用できた理由",
+     "note": "「She's the Best」のMVにNicole Kidmanが出演した経緯を本人が語った裏話。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s35",
+    "title_ja": "Radiohead、2027年6月の来日公演チケット代の一部を寄付",
+    "note": "チケット代の一部をmore treesの森づくりに寄付すると発表。"
+   },
+   {
+    "id": "s36",
+    "title_ja": "Fontaines D.C.、2027年1月に来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s38",
+    "title_ja": "Sheryl Pepsi Riley、初来日 「MARUNOUCHI SOUNDSCAPE」",
+    "note": "NYの『ハーレム・ナイツ』のイベントが、14年ぶりに「MARUNOUCHI SOUNDSCAPE」として復活。"
+   },
+   {
+    "id": "s39",
+    "title_ja": "St. Petersburg Philharmonic Symphony、8年ぶりに来日",
+    "note": "ロシアのオーケストラ、サンクト・ペテルブルク フィルハーモニー交響楽団が8年ぶりに来日。"
+   }
+  ],
+  "tour_candidates": 7
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s9",
+   "label": "Geordie Greep cancels tour dates amid sexual misconduct allegation",
+   "artists": [
+    "Geordie Greep"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "Billboard",
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-10T20:04:35+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Geordie Greep Responds to Sexual Misconduct Allegation, Cancels Tour Dates",
+     "link": "https://www.billboard.com/music/music-news/geordie-greep-misconduct-allegation-cancels-tour-dates-1236358602/",
+     "published": "2026-10-10T20:04:35+00:00",
+     "summary": "The former Black Midi frontman denied any wrongdoing during his Oct. 8 performance in Vancouver."
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Geordie Greep Shows Cancelled Following Sexual Misconduct Allegations",
+     "link": "https://pitchfork.com/story/geordie-greep-shows-cancelled-following-sexual-misconduct-allegations/",
+     "published": "2026-10-10T16:10:30+00:00",
+     "summary": "The singer, who has denied the allegations, called off performances in Boise, Salt Lake City, Boulder, and Denver"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Geordie Greep Cancels Tour Dates Amid Sexual Misconduct Allegation",
+     "link": "https://www.rollingstone.com/music/music-news/geordie-greep-cancel-tour-dates-sexual-misconduct-claim-1235640795/",
+     "published": "2026-10-10T13:50:34+00:00",
+     "summary": "Singer, who denied rape accusation, cancels four gigs following alleged incident that occurred Thursday in Vancouver"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "Summer Walker faces $50 million lawsuit from Interscope over contract",
+   "artists": [
+    "Summer Walker"
+   ],
+   "genre": "POP",
+   "kind": "legal",
+   "outlets": [
+    "AllHipHop",
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-10T18:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Interscope Wants $50M From Summer Walker To Get Out Of Her Deal",
+     "link": "https://allhiphop.com/news/interscope-wants-50m-from-summer-walker-to-get-out-of-her-deal/",
+     "published": "2026-10-10T18:00:00+00:00",
+     "summary": "Summer Walker seeks freedom from Interscope as the UMG label demands millions over recordings it says she still owes."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Summer Walker Hit With $50 Million Lawsuit From Interscope & UMG",
+     "link": "https://www.hotnewhiphop.com/1012678-summer-walker-interscope-umg-lawsuit",
+     "published": "2026-10-10T16:52:38+00:00",
+     "summary": "Summer Walker was hit with a lawsuit from UMG and Interscope as the artist attempts to sever ties from her deal. The post Summer Walker Hit With $50 Million Lawsuit From Interscope & UMG appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Summer Walker Faces $50 Million Interscope Lawsuit Over Contractual Dispute",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWZwclhrNWxLemhQWEd1azk2REV6UnE5RVpWMVZsbTFmdDlvUS1Nb3FnNVdwaEt2bWZpRmU0MW9tMGpUZndqWUhDc2hoNV91TWh0aEVPOXZOaXlZN3d1bGdvZXJiS2U5S1RIcml3Q1REWEJsUzNLU0RuemQyVE9uYlVhSUxsTHlvN3hpbzNtZTJYcFQwLTkycks4c3FuOWs?oc=5",
+     "published": "2026-10-10T14:37:43+00:00",
+     "summary": "Summer Walker Faces $50 Million Interscope Lawsuit Over Contractual Dispute Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Usher and Chris Brown cancel multiple R&B Tour dates",
+   "artists": [
+    "Usher",
+    "Chris Brown"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "outlets": [
+    "AllHipHop",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-10T21:01:48+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Usher And Chris Brown Cancel Multiple Tour Dates Due To Exhausted Crew",
+     "link": "https://allhiphop.com/news/usher-and-chris-brown-cancel-multiple-tour-dates-without-explanation/",
+     "published": "2026-10-10T21:01:48+00:00",
+     "summary": "Usher and Chris Brown cancel multiple R&B Tour dates without providing any reason to disappointed ticket holders."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Usher and Chris Brown Cancel Tour Dates Ahead of Brown's London Sentencing",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSXBXelc4WnVBMzZtcnE2ek1LZThjVjFKZ01lckgzUk9RTmxwc3NmUVdYXzV6Z2xFVnhMRzN0TE84ZGpFRE42b2szWlpVZ05kV3BSVXh1eUV2NDgwNUpqU0xjeHhLRXlJTGt0U1NkdThlVHpwSFF6V1JNSEFrS2xhd0V2SFBYeWI2NlMwc3VXSUNTYnAyNFBrdFRPZ2RReUhJ?oc=5",
+     "published": "2026-10-10T14:19:53+00:00",
+     "summary": "Usher and Chris Brown Cancel Tour Dates Ahead of Brown's London Sentencing Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Boosie Badazz performs surprise show outside White House",
+   "artists": [
+    "Boosie Badazz"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "AllHipHop",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-10T20:00:43+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Boosie Badazz Performs “Set It Off” Outside White House In Surprise Appearance",
+     "link": "https://allhiphop.com/news/boosie-badazz-performs-set-it-off-outside-white-house-in-surprise-appearance/",
+     "published": "2026-10-10T20:00:43+00:00",
+     "summary": "Boosie Badazz delivers a surprise Washington performance near Trump's residence while his $600,000 pardon dispute remains unresolved."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Boosie Badazz Goes Viral With Performance In Front Of The White House",
+     "link": "https://www.hotnewhiphop.com/1012672-boosie-badazz-washington-dc-white-house",
+     "published": "2026-10-10T15:55:53+00:00",
+     "summary": "Boosie Badazz surprised fans with a performance at the White House, and there is no doubt that he is turning some heads. The post Boosie Badazz Goes Viral With Performance In Front Of The White House appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Charli XCX brings out Tinashe at Austin City Limits Festival 2026",
+   "artists": [
+    "Charli XCX",
+    "Tinashe"
+   ],
+   "genre": "POP",
+   "kind": "festival",
+   "outlets": [
+    "Billboard",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-10T18:39:22+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Charli XCX Welcomes Tinashe for Surprise Performance at 2026 Austin City Limits Festival",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVMzcmNVa1BKdk00SnMtcnd1T2dzeElsV25Xbk43aVpYYVZDZHROdms5bW05MW5mR0RmZ0NzczVheWZRcGVQR3RaUEU0aTRpTmo1b0htUmxyeUtLRmFSaW1talhadkpPZEQ3LUhXcjgyYjFBenZFMmRuSWNwTng2dHQyb2YwY2NlQUJjb3hmLUE2NlFvaHhGWFVJM2oybm1hTmsxSTJOb1RxUQ?oc=5",
+     "published": "2026-10-10T18:39:22+00:00",
+     "summary": "Charli XCX Welcomes Tinashe for Surprise Performance at 2026 Austin City Limits Festival Billboard"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "See Charli XCX Bring Out Tinashe at ACL Festival",
+     "link": "https://www.rollingstone.com/music/music-news/charli-xcx-tinashe-acl-festival-1235640837/",
+     "published": "2026-10-10T16:45:17+00:00",
+     "summary": "Tinashe performs \"Nobody Wanna Dance Anymore\" and \"Melatonin\" from her new LP Popstar during her friend Charli's headlining set"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Eazy The Block Captain releases diss track 'Lothario' targeting Papoose",
+   "artists": [
+    "Eazy The Block Captain",
+    "Papoose"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-11T01:59:51+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Eazy The Block Captain Goes For Papoose’s Neck On “Lothario,” Drags Claressa Shields",
+     "link": "https://allhiphop.com/rumors/eazy-the-block-captain-goes-for-papooses-neck-on-lothario-drags-claressa-shields/",
+     "published": "2026-10-11T01:59:51+00:00",
+     "summary": "Eazy The Block Captain is taking his feud with Papoose to another level with an explosive new diss “Lothario.”"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Nicki Minaj teases fans about next album expectations",
+   "artists": [
+    "Nicki Minaj"
+   ],
+   "genre": "POP",
+   "kind": "announcement",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T23:38:45+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Nicki Minaj Jokingly Says Fans Should Expect ‘Nothing’ From Her Next Album",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXl3dFRMbGszdnNYNmVESWEwUXRrd2dsLVVPUkktd1ZaNmhJekFET1NlQ1NCZXk0UnlQZ3VUZC0wUWlVS3VvVS13dkRuTXp2YkYwQjhDcmt1UVloX2phZG5kLXdGRnJhYnhocTZ1Z00wS0Q2UWdkSVh2b1RfeGQ5RjYxV1RmdEJvUnpTRkJjT0g?oc=5",
+     "published": "2026-10-10T23:38:45+00:00",
+     "summary": "Nicki Minaj Jokingly Says Fans Should Expect ‘Nothing’ From Her Next Album Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "Main Source releases Ultimate Collectors Edition of 'Breaking Atoms'",
+   "artists": [
+    "Main Source"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T19:46:20+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Main Source Drops Ultimate Collectors Edition of 1991 Debut Album 'Breaking Atoms'",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDJ6V0UwZ3hGQ2VIcmlsc1I4dmw3NWhoYkpzYnY1T29xRWtqQjRSdWRLNUhmdF9YcGFqVkdaN3RBbzhDVFRoTjY3MVdZRDB5X1V4T3htZ1ZfOHBUakhZQm9CTEdJbmdDVEl5eGZFY203QzVOQmZZTEJjUU9tcmo0ejJjTUxwTU5pX2JranVaM0I1M2FvMjNEYmgzcHQ5eEhu?oc=5",
+     "published": "2026-10-10T19:46:20+00:00",
+     "summary": "Main Source Drops Ultimate Collectors Edition of 1991 Debut Album 'Breaking Atoms' Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Girls' Generation reunites for 2027 Seasons Greetings",
+   "artists": [
+    "Girls' Generation"
+   ],
+   "genre": "POP",
+   "kind": "announcement",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T18:01:02+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Girls' Generation Reunites for 2027 Seasons Greetings Ahead of 20th Anniversary",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFcxeXkxb29TX2dkWWZHSHROeHAyMG9kaThaWDlydEM1MklJT1diVzdNWGxyUXZJdGVOeFRvQm8weFp5ZVNSdTFjTm95c1R6eWQ5UDBiQTBHbWJ1X3doM3gxbDB3Nnd1cGJVV3lQSTdQRDdnTWpOaDVHcm9Kc3lCYzJ3dFZZRjU0Mk5EbUVFajVqOU52Q3NQQmFzNUJsMVU?oc=5",
+     "published": "2026-10-10T18:01:02+00:00",
+     "summary": "Girls' Generation Reunites for 2027 Seasons Greetings Ahead of 20th Anniversary Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Jay-Z responds to Kanye West's Chris Martin betrayal comments",
+   "artists": [
+    "Jay-Z",
+    "Kanye West",
+    "Chris Martin"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T16:45:23+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Jay-Z Addresses Kanye West's Chris Martin Betrayal Comments: 'We Don't Own People'",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTDdZeWRILUpyT29lckRaSUFwYzA2TzFWbkVsdWVUV3JoeHJYcUtWeDFuakpsU1A1THkzNUxHbXloZUlncWhfR0Z0QWdKT1hoZFVrVWtFMTlNdTRLclNfeExFQ28zYXprWjFncFYxMElYZmt1WlhTMktuOTczRHdibHVQRU9ESG55cEd1Tzk0dHpDQlhoWjRKM0cxS1NFYk5lNVZRQ3l3TQ?oc=5",
+     "published": "2026-10-10T16:45:23+00:00",
+     "summary": "Jay-Z Addresses Kanye West's Chris Martin Betrayal Comments: 'We Don't Own People' Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Daft Punk's sci-fi legacy in 272-page comic anthology",
+   "artists": [
+    "Daft Punk"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T14:49:15+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Daft Punk’s Sci-Fi Legacy Reimagined in 272-Page Comic Anthology With Past Collaborators",
+     "link": "https://edm.com/news/daft-punk-comic-anthology-metal-hurlant/",
+     "published": "2026-10-10T14:49:15+00:00",
+     "summary": "The authorized special issue features an exclusive cover by Cédric Hervet and Warren Fu, the duo behind the cover art and illustrations for Daft Punk's final album, 'Random Access Memories.' The post Daft Punk’s Sci-Fi Legacy Reimagined in "
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "Chase & Status confront creative pressures on new album 'Generic Everything'",
+   "artists": [
+    "Chase & Status"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T14:36:07+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Chase & Status Challenge Their Own Approach on New Album, ‘Generic Everything’",
+     "link": "https://edm.com/music-releases/chase-status-new-album-generic-everything/",
+     "published": "2026-10-10T14:36:07+00:00",
+     "summary": "After a run of career-defining hits, the drum & bass duo confront the creative pressures of AI, endless content and their own success. The post Chase & Status Challenge Their Own Approach on New Album, ‘Generic Everything’ appeared first on"
+    }
+   ],
+   "chart": [
+    {
+     "id": "Omtq4Qsk0uY",
+     "title": "Chase & Status - Carnage (ft. Little Simz)",
+     "channel": "Chase & Status",
+     "published": "2026-10-09T08:00:09Z",
+     "hours_since": 43,
+     "views": 340059,
+     "url": "https://www.youtube.com/watch?v=Omtq4Qsk0uY",
+     "region": "GB",
+     "rank": 27
+    }
+   ],
+   "video": {
+    "id": "Omtq4Qsk0uY",
+    "title": "Chase & Status - Carnage (ft. Little Simz)",
+    "channel": "Chase & Status",
+    "published": "2026-10-09T08:00:09Z",
+    "hours_since": 43,
+    "views": 340059,
+    "url": "https://www.youtube.com/watch?v=Omtq4Qsk0uY",
+    "region": "GB",
+    "rank": 27
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s27",
+   "label": "Jessie Reyez and Samara Cyn collaborate on 'For Sixxx In The Mornin'",
+   "artists": [
+    "Jessie Reyez",
+    "Samara Cyn"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T14:18:29+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "For Sixxx In The Mornin – Song by Jessie Reyez featuring Samara Cyn",
+     "link": "https://www.hotnewhiphop.com/1012657-for-sixxx-in-the-mornin-jessie-reyez-samara-cyn",
+     "published": "2026-10-10T14:18:29+00:00",
+     "summary": "Jessie Reyez and Samara Cyn have come through with their newest collaboration, a fusion of sounds on \"For Sixxx In The Mornin.\" The post For Sixxx In The Mornin – Song by Jessie Reyez featuring Samara Cyn appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "Doe Boy and Honorable C.N.O.T.E release 'Mr. Walk Em Down'",
+   "artists": [
+    "Doe Boy",
+    "Honorable C.N.O.T.E"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T14:05:19+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "MR. WALK EM DOWN – Song by Doe Boy & Honorable C.N.O.T.E.",
+     "link": "https://www.hotnewhiphop.com/1012654-mr-walk-em-down-doe-boy-honorable-cnote",
+     "published": "2026-10-10T14:05:19+00:00",
+     "summary": "Doe Boy has teamed up with producer Honorable C.N.O.T.E for an exciting new single called \"Mr. Walk Em Down.\" The post MR. WALK EM DOWN – Song by Doe Boy & Honorable C.N.O.T.E. appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "Ttv3P8YNzhk",
+    "title": "MR. WALK EM DOWN",
+    "channel": "Doe Boy - Topic",
+    "published": "2026-10-09T04:04:30Z",
+    "hours_since": 47,
+    "views": 24725,
+    "url": "https://www.youtube.com/watch?v=Ttv3P8YNzhk",
+    "views_per_hour": 526
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "BigXthaPlug and Ava Max collaborate on 'BURN'",
+   "artists": [
+    "BigXthaPlug",
+    "Ava Max"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T13:56:19+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "BURN – Song by BigXthaPlug featuring Ava Max",
+     "link": "https://www.hotnewhiphop.com/1012651-burn-bigxthaplug-ava-max",
+     "published": "2026-10-10T13:56:19+00:00",
+     "summary": "BigXthaPlug has teamed up with Ava Max for an exciting new song called \"BURN,\" which showcases both artists at their best. The post BURN – Song by BigXthaPlug featuring Ava Max appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "vLLdKVYJUzs",
+    "title": "BigXthaPlug feat. Ava Max - BURN (Official Music Video)",
+    "channel": "BigXthaPlug",
+    "published": "2026-10-09T21:00:18Z",
+    "hours_since": 30,
+    "views": 335334,
+    "url": "https://www.youtube.com/watch?v=vLLdKVYJUzs",
+    "views_per_hour": 11178
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Chemical Brothers, Ellie Goulding, Adéla announced for Open'er 2027",
+   "artists": [
+    "The Chemical Brothers",
+    "Ellie Goulding",
+    "Adéla"
+   ],
+   "genre": "POP",
+   "kind": "festival",
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T08:29:16+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "The Chemical Brothers, Ellie Goulding, Adéla lead latest wave of line-up for Open’er 2027",
+     "link": "https://www.nme.com/news/music/chemical-brothers-ellie-goulding-adela-line-up-opener-2027-3972847?utm_source=rss&utm_medium=rss&utm_campaign=chemical-brothers-ellie-goulding-adela-line-up-opener-2027",
+     "published": "2026-10-10T08:29:16+00:00",
+     "summary": "Tom Rowlands and Ed Simons will return 25 years after headlining the festival’s inaugural edition The post The Chemical Brothers, Ellie Goulding, Adéla lead latest wave of line-up for Open’er 2027 appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Ashnikko covers Gwen Stefani's 'What You Waiting For?'",
+   "artists": [
+    "Ashnikko",
+    "Gwen Stefani"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T08:25:05+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Ashnikko Covers Gwen Stefani’s ‘What You Waiting For?’ for Like A Version",
+     "link": "https://www.billboard.com/music/music-news/ashnikko-gwen-stefani-what-you-waiting-for-like-a-version-1236358578/",
+     "published": "2026-10-10T08:25:05+00:00",
+     "summary": "The artist called the 2004 solo hit “the song that inspired me to make music” in her triple j debut"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Deadmau5 signs with independent artist group in all areas",
+   "artists": [
+    "Deadmau5"
+   ],
+   "genre": "Dance",
+   "kind": "business",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T01:11:51+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Deadmau5 Signs With Independent Artist Group in All Areas",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hZGJVMzI4QTdPVnk2WHRXX2Rzb1ZvZGZuWDZOM0F6YTlLMjlzS0JZOGtUQmRQMzVrN2Nfd1hUVEFQZVNzejk5cEtYZTN4ZGVSR3N5NGtCVjRDVFUyVllEeHdCQTRzVkpmZTBjR0ZJM3BvS2lrazE2blp3?oc=5",
+     "published": "2026-10-10T01:11:51+00:00",
+     "summary": "Deadmau5 Signs With Independent Artist Group in All Areas Billboard"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "Zara Larsson completes first solo Japan tour 2DAYS",
+   "artists": [
+    "Zara Larsson"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "Pointed",
+    "TRILL"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Pointed",
+    "TRILL"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-10T09:09:18+00:00",
+   "articles": [
+    {
+     "outlet": "Pointed",
+     "title": "Zara Larsson、初の単独来日公演2DAYS終了！圧巻のパフォーマンスで日本のファンを魅了した当日を振り返るライブレポート公開",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iSEJhQ3U5TW5QTHVmdlZaOTR5ZVZhYm5ZRW02NnkzX3lRTmtVMnpQd3A4U0ZodkVfQm9uVUQ0ZGhqYjFNUktXcUhTNGVQelA3T05VM216YnRZSUhRdkdDSzZLY0hHR29QNXViQ2ZFeGZzUQ?oc=5",
+     "published": "2026-10-10T09:09:18+00:00",
+     "summary": "Zara Larsson、初の単独来日公演2DAYS終了！圧巻のパフォーマンスで日本のファンを魅了した当日を振り返るライブレポート公開 Pointed"
+    },
+    {
+     "outlet": "TRILL",
+     "title": "「次は東京ドームで」ザラ・ラーソン初の単独来日、大合唱に本人も驚き",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXQ1czRW56ZTZoTVdJSmR5a1kyTzJOWWk5cFFnWVpXUEcyMzJaTG4xYkszTVVwd19MODFmQUlOVGZneU9rXzZIbGN0NEpzNWM?oc=5",
+     "published": "2026-10-09T21:48:58+00:00",
+     "summary": "「次は東京ドームで」ザラ・ラーソン初の単独来日、大合唱に本人も驚き TRILL"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s37",
+   "label": "AYA(UK) and VMO announce December Japan tour",
+   "artists": [
+    "AYA(UK)",
+    "VMO"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "outlets": [
+    "CDJournal.com",
+    "千葉テレビ放送株式会社"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "CDJournal.com",
+    "千葉テレビ放送株式会社"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-10T01:54:25+00:00",
+   "articles": [
+    {
+     "outlet": "千葉テレビ放送株式会社",
+     "title": "AYA(UK)×VMO、12月に東京・大阪を巡るジャパン・ツアー開催",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yZGZobFNtMFBYNmhGbml4R3p6OHRtZEtDRWkzSlhkaXVocy10NXo3cFJZNVdqc3gwZ0pDYjRPTzVvcFFZWnctZ3FCaVp2SkJNZ3JRUWpNa3lhLXJLWFJyUzNfZkQ?oc=5",
+     "published": "2026-10-10T01:54:25+00:00",
+     "summary": "AYA(UK)×VMO、12月に東京・大阪を巡るジャパン・ツアー開催 千葉テレビ放送株式会社"
+    },
+    {
+     "outlet": "CDJournal.com",
+     "title": "AYA（UK）×VMO、12月に東京・大阪を巡るジャパン・ツアー開催",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GQ3h6eEVwaGpQNm1aS1loUEVwNm40dkdUNDFpNHdKVFVabVFWbHRRX0pHWlJlU3VtNnk2WWhqS2NVYjdka0VfWEJseGkyMU5f?oc=5",
+     "published": "2026-10-10T01:39:00+00:00",
+     "summary": "AYA（UK）×VMO、12月に東京・大阪を巡るジャパン・ツアー開催 CDJournal.com"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s38",
+   "label": "Sheryl Pepsi Riley revives 'Harlem Nights' event as 'MARUNOUCHI SOUNDSCAPE' in Japan",
+   "artists": [
+    "Sheryl Pepsi Riley"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "outlets": [
+    "note"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "note"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-10T15:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "note",
+     "title": "ニューヨーク『ハーレム・ナイツ』のイヴェントが14年ぶりに「MARUNOUCHI SOUNDSCAPE」として大復活～シェリル・ペプシ・ライリー初来日｜Soul Searcher",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MUnptdHRfamhyalE0cHpHQ2EzYW9TZVctWV9ueWlpSHJ5aGVfWXFMdWNtVFNHc09PUFA3cU44VWM4YkRza2M0eGFMVXI?oc=5",
+     "published": "2026-10-10T15:00:00+00:00",
+     "summary": "ニューヨーク『ハーレム・ナイツ』のイヴェントが14年ぶりに「MARUNOUCHI SOUNDSCAPE」として大復活～シェリル・ペプシ・ライリー初来日｜Soul Searcher note"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s40",
+   "label": "Europe announces new album and 'The Final Countdown' 40th anniversary Japan shows",
+   "artists": [
+    "Europe"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "タワーレコード オンライン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "タワーレコード オンライン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-10T15:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "タワーレコード オンライン",
+     "title": "Europe ニュー・アルバム＆『The Final Countdown』40周年来日公演特集！伝説から紐解くメロディック・ハードロック至高の名盤たち",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3Y0xpOFVDYVd4Qy1uWkNWb0xZNjVDY2QwQWNvQ3UyRG5zWmkwanJMcWtPM2Fvc0F4X2pOdXFvRXV4RDl3bWhoSVF5V0xvSzBfb0lQS2lxUmRWTFk2aHZqbDZwM3JsQQ?oc=5",
+     "published": "2026-10-10T15:00:00+00:00",
+     "summary": "Europe ニュー・アルバム＆『The Final Countdown』40周年来日公演特集！伝説から紐解くメロディック・ハードロック至高の名盤たち タワーレコード オンライン"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s35",
+   "label": "Radiohead donates portion of 2027 Japan concert ticket sales to forest project",
+   "artists": [
+    "Radiohead"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "SPUR（シュプール）"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "SPUR（シュプール）"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-10T07:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "SPUR（シュプール）",
+     "title": "【レディオヘッド】が【more trees】の森づくりに2027年6月の来日公演のチケット代の一部を寄付！",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94eXlzdWdSVkNNZVYxLUxMTUFRVm1wcXlqU2NBTWw4dUFhMS1WOXBIREhsM09KaFpMUHlRU1M2M29qSGYwX0ZfSUxaLTJyX1pwRkRUUXNBcUZOTHlCaFRLdw?oc=5",
+     "published": "2026-10-10T07:00:00+00:00",
+     "summary": "【レディオヘッド】が【more trees】の森づくりに2027年6月の来日公演のチケット代の一部を寄付！ SPUR（シュプール）"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s36",
+   "label": "Fontaines D.C. announces January 2027 Japan tour",
+   "artists": [
+    "Fontaines D.C."
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-10T02:54:00+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "Fontaines D.C.、2027年1月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TRkhxbTJpSzdmZ0ctMVUtSU90a0tMNkF3OUVCMFlyT0R3ODg3VGs5UjloRVFXS1NpOGhVc3c5aFZ0Z1pDcXkw?oc=5",
+     "published": "2026-10-10T02:54:00+00:00",
+     "summary": "Fontaines D.C.、2027年1月に来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s39",
+   "label": "St. Petersburg Philharmonic Symphony returns to Japan after 8 years",
+   "artists": [
+    "St. Petersburg Philharmonic Symphony"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "エンタメ特化型情報メディア スパイス"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "エンタメ特化型情報メディア スパイス"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-10T01:04:36+00:00",
+   "articles": [
+    {
+     "outlet": "エンタメ特化型情報メディア スパイス",
+     "title": "ロシア音楽界の至宝、サンクト・ペテルブルク フィルハーモニー交響楽団が8年ぶりの来日",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tN1lZWWFMUzJLZ0RvMmZDTE9aVnAyVTdlb3VRN1o3RTRlZXoxTlJVVnJXTWtDTDFjTlN4R3BRdDdVaFIwbEtXS05Tb1NMOVVJZTljcNIBVEFVX3lxTE9tN1lZWWFMUzJLZ0RvMmZDTE9aVnAyVTdlb3VRN1o3RTRlZXoxTlJVVnJXTWtDTDFjTlN4R3BRdDdVaFIwbEtXS05Tb1NMOVVJZTljcA?oc=5",
+     "published": "2026-10-10T01:04:36+00:00",
+     "summary": "ロシア音楽界の至宝、サンクト・ペテルブルク フィルハーモニー交響楽団が8年ぶりの来日 エンタメ特化型情報メディア スパイス"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "Lance Bass says *NSYNC earned just $35 per day at peak fame",
+   "artists": [
+    "Lance Bass",
+    "*NSYNC"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "outlets": [
+    "Billboard",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-10T15:28:32+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Lance Bass Says NYSYC Were Paid $35 Per Day at Height of Their Fame",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWxaR3FEY2tWYXNRTEd4RXpwT18wSkFzRGJjSHNjMkJQTWhZQ0NLVGlJeGJaRlc1S2d2YWwxUmJfNndJYzd4cnA3UzVoUGtsZS1sY1pfUm9rZEE4d1hyV0VNOUVEbXViSWNMY0xLZEIzSElKRHkxSjBFa1I5OXRyd0tLVDBVYk92?oc=5",
+     "published": "2026-10-10T15:28:32+00:00",
+     "summary": "Lance Bass Says NYSYC Were Paid $35 Per Day at Height of Their Fame Complex"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Lance Bass Says He Earned Just $35 a Day at the Height of *NSYNC’s Fame",
+     "link": "https://www.billboard.com/music/music-news/lance-bass-nsync-fame-1236358572/",
+     "published": "2026-10-10T08:09:09+00:00",
+     "summary": "The singer claimed the group’s first check was $10,000 — after “years of number one albums” and sold-out tours."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s3",
+   "label": "LL Cool J reveals origin story of 'Radio' album title",
+   "artists": [
+    "LL Cool J"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T22:01:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Title For LL Cool J’s “Radio” Album Has An Incredible Origin Story",
+     "link": "https://allhiphop.com/news/title-for-ll-cool-js-radio-album-has-an-incredible-origin-story/",
+     "published": "2026-10-10T22:01:00+00:00",
+     "summary": "LL Cool J reveals how his grandfather's unwavering faith at a VA hospital inspired the title of his iconic debut album 'Radio.'"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Lloyd Banks celebrates 20 years of 'Rotten Apple' album",
+   "artists": [
+    "Lloyd Banks"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T20:43:38+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Lloyd Banks Celebrates 20 Years of Sophomore Album 'Rotten Apple': 'Time Flies!!'",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0czTE9iRlcycnQ0c0h0UHNKSEFGRUtDY2tLVy10VzhuakpmX3RRT0hLRUhSVnJwTDhQVzBONDJaTmFaUDJVTTJ6a21HY0dwZnZKeEtiTFhjMlp1SGhGSFRyWmQyYmwtdlJEdDctbkVGWUlSNUJ0dEUxa2JSQWhnbGVvdmtSQWFPdlNQXw?oc=5",
+     "published": "2026-10-10T20:43:38+00:00",
+     "summary": "Lloyd Banks Celebrates 20 Years of Sophomore Album 'Rotten Apple': 'Time Flies!!' Complex"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "Beatles 'Rubber Soul' special edition discussed at Nippon Housou event",
+   "artists": [
+    "The Beatles"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-10T14:10:49+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "ビートルズ『Rubber Soul』スペシャル・エディションを瞳みのると萩原健太が多角的に解説",
+     "link": "https://www.udiscovermusic.jp/new-releases/minoru-hitomi-and-kenta-hagiwara-discuss-the-special-edition-of-the-beatles-rubber-soul",
+     "published": "2026-10-10T14:10:49+00:00",
+     "summary": "ジョン・レノンの名曲を冠した世界で唯一のラジオスタジオであるニッポン放送「イマジンスタジオ」で2026年10月10日、スペシャルイベント『ニッポン放送 imagine studio 2026 ジョン・レノンスピリットファンデーション ザ・ビートルズ 名盤「Rubber Soul」その魅力と来日公演』が開催された。 The post ビートルズ『Rubber Soul』スペシャル・エディションを瞳みのると萩原健太が多角的に解説 appeared first on uDiscov"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Radiohead's Thom Yorke shares advice from R.E.M.'s Michael Stipe",
+   "artists": [
+    "Radiohead",
+    "Thom Yorke",
+    "R.E.M.",
+    "Michael Stipe"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T10:04:55+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Radiohead’s Thom Yorke shares most important piece of advice given to him by R.E.M.’s Michael Stipe",
+     "link": "https://www.nme.com/news/music/radiohead-thom-yorke-important-advice-rem-michael-stipe-3972855?utm_source=rss&utm_medium=rss&utm_campaign=radiohead-thom-yorke-important-advice-rem-michael-stipe",
+     "published": "2026-10-10T10:04:55+00:00",
+     "summary": "The pair became close when Radiohead supported R.E.M. on their 1995 ‘Monster’ tour The post Radiohead’s Thom Yorke shares most important piece of advice given to him by R.E.M.’s Michael Stipe appeared first on NME ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Olivia Rodrigo buys iconic Meg White dress from The White Stripes",
+   "artists": [
+    "Olivia Rodrigo",
+    "The White Stripes",
+    "Meg White"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-10T09:22:57+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Olivia Rodrigo shares how she spent “exorbitant amount of money” on iconic piece of The White Stripes clothing",
+     "link": "https://www.nme.com/news/music/olivia-rodrigo-exorbitant-money-iconic-piece-white-stripes-clothing-3972851?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-exorbitant-money-iconic-piece-white-stripes-clothing",
+     "published": "2026-10-10T09:22:57+00:00",
+     "summary": "The singer bought the white dress worn by Meg White on the cover of 2003’s ‘Elephant’ The post Olivia Rodrigo shares how she spent “exorbitant amount of money” on iconic piece of The White Stripes clothing appeared first on NME ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "Oasis fans celebrate reunion after Japan performances",
+   "artists": [
+    "Oasis"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "Mikiki by TOWER RECORDS"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Mikiki by TOWER RECORDS"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-10T08:49:13+00:00",
+   "articles": [
+    {
+     "outlet": "Mikiki by TOWER RECORDS",
+     "title": "オアシス（Oasis）再結成の熱はまだまだ冷めない! タワレコスタッフ5名が来日公演の興奮とバンドへの愛を語り合う",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5Ny1lS1F0VjNFQ2xwaDlZdV8wVk90UGc2NXJUY0VSSDh3c3I0U1Q2d2NIUlBEelhfSXN5bzRPNHYzSGdIRWtEZEZfNU1wRGdXUW02LVRjTTVPNGM?oc=5",
+     "published": "2026-10-10T08:49:13+00:00",
+     "summary": "オアシス（Oasis）再結成の熱はまだまだ冷めない! タワレコスタッフ5名が来日公演の興奮とバンドへの愛を語り合う Mikiki by TOWER RECORDS"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s32",
+   "label": "Troye Sivan shares how he got Nicole Kidman for 'She's the Best' video",
+   "artists": [
+    "Troye Sivan",
+    "Nicole Kidman"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-09T21:10:14+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Troye Sivan Shares How He Got Nicole Kidman for ‘She’s the Best’ Video (And What He Thinks of ADÉLA’s Hit)",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSzlVWFZBellfWFJ2OWxuRWk5d0VTTzZvaUFjZVRIajNmRUtMODF5YzE0cGVZZEpIeFU1YnN2UE9vVmVxTE9QdVpYMmFVZFhCQ0hLMkJ0V2hlU1NRdFhqbVMydEVSc3NzckZGTnFfbHRFNFduaDJxV0xKQUZ6VTZIcy11ZldFTkdCVkZTaU1UV3R4d2I4?oc=5",
+     "published": "2026-10-09T21:10:14+00:00",
+     "summary": "Troye Sivan Shares How He Got Nicole Kidman for ‘She’s the Best’ Video (And What He Thinks of ADÉLA’s Hit) Billboard"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s26",
+   "label": "Ella Langley cancels concert due to security threat in Tulsa",
+   "artists": [
+    "Ella Langley"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "outlets": [
+    "BBC",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-10-10T18:57:47+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Canceled Ella Langley Concert Had 'No Credible Threat,' Says Tulsa Police",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUNyMEJXcE5BUEdyUU5xMmxwZHUyOE5TX0ZBcllMVGd4c3h2TC1Sd2JpbTZPUjRlMHdBS3lGMGJfSHpsc3JiekstVExlU1dXRDctYWNIVWNZSHMyRm5MTmdRXy0xUm1BR0ZZRGhXcVZYSklxMFdIVDhDdzh1SWY5LW56Z0FYVUlZaDYyR0NnYjBTVWd4Z1lHRkloZHJrbG9vRGdwaXNQUF9wZw?oc=5",
+     "published": "2026-10-10T18:57:47+00:00",
+     "summary": "Canceled Ella Langley Concert Had 'No Credible Threat,' Says Tulsa Police Complex"
+    },
+    {
+     "outlet": "BBC",
+     "title": "US country music star Ella Langley cancels show due to 'security threat'",
+     "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+     "published": "2026-10-10T02:02:54+00:00",
+     "summary": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\"."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s2",
+   "label": "'Golden' wins Best Song at 2026 World Soundtrack Awards",
+   "artists": [
+    "Daniel Pemberton",
+    "Jeff Russo"
+   ],
+   "genre": "Other",
+   "kind": "award",
+   "outlets": [
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-10T23:16:32+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "‘Golden’ Is Still Golden, Wins Best Song at 2026 World Soundtrack Awards (Full Winners List)",
+     "link": "https://www.billboard.com/music/awards/2026-world-soundtrack-awards-winners-list-1236358619/",
+     "published": "2026-10-10T23:16:32+00:00",
+     "summary": "Daniel Pemberton and Jeff Russo also won top honors."
+    },
+    {
+     "outlet": "Variety",
+     "title": "‘Project Hail Mary’ Composer Daniel Pemberton, ‘KPop Demon Hunters’ Songwriter EJAE Triumph at World Soundtrack Awards",
+     "link": "https://variety.com/2026/film/awards/project-hail-mary-daniel-pemberton-kpop-demon-hunters-ejae-1236907618/",
+     "published": "2026-10-10T20:40:00+00:00",
+     "summary": "Daniel Pemberton was named Film Composer of the Year at the World Soundtrack Awards on Saturday, capping a prolific run that includes “Project Hail Mary,” “The Drama,” “The Bad Guys 2” and “Masters of the Universe.” The British composer has"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s10",
+   "label": "Barry Manilow cancels Vegas residency shows due to bronchitis",
+   "artists": [
+    "Barry Manilow"
+   ],
+   "genre": "Other",
+   "kind": "health",
+   "outlets": [
+    "Consequence",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-10T19:14:24+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Barry Manilow’s Vegas Comeback Derailed by Bronchitis",
+     "link": "https://consequence.net/2026/10/barry-manilows-vegas-comeback-derailed-by-bronchitis/",
+     "published": "2026-10-10T19:14:24+00:00",
+     "summary": "The 83-year-old singer was forced to cut short his concert in Las Vegas on Friday night after just two songs and subsequently canceled his scheduled Saturday night performance. Barry Manilow’s Vegas Comeback Derailed by Bronchitis Alex Youn"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Barry Manilow Makes Early Exit From Second Night of Vegas Residency Comeback, Cancels Saturday Night Show",
+     "link": "https://variety.com/2026/music/news/barry-manilow-cancels-las-vegas-shows-1236907619/",
+     "published": "2026-10-10T17:50:37+00:00",
+     "summary": "Following a long-anticipated return to the stage Thursday night, Barry Manilow put an early halt to Friday’s concert and has canceled his Saturday show at the International Theater at the Westgate Las Vegas Resort & Casino. “After a triumph"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s22",
+   "label": "Lance Bass says *NSYNC earned just $35 per day at peak fame",
+   "artists": [
+    "Lance Bass",
+    "*NSYNC"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "outlets": [
+    "Billboard",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-10T15:28:32+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Lance Bass Says NYSYC Were Paid $35 Per Day at Height of Their Fame",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWxaR3FEY2tWYXNRTEd4RXpwT18wSkFzRGJjSHNjMkJQTWhZQ0NLVGlJeGJaRlc1S2d2YWwxUmJfNndJYzd4cnA3UzVoUGtsZS1sY1pfUm9rZEE4d1hyV0VNOUVEbXViSWNMY0xLZEIzSElKRHkxSjBFa1I5OXRyd0tLVDBVYk92?oc=5",
+     "published": "2026-10-10T15:28:32+00:00",
+     "summary": "Lance Bass Says NYSYC Were Paid $35 Per Day at Height of Their Fame Complex"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Lance Bass Says He Earned Just $35 a Day at the Height of *NSYNC’s Fame",
+     "link": "https://www.billboard.com/music/music-news/lance-bass-nsync-fame-1236358572/",
+     "published": "2026-10-10T08:09:09+00:00",
+     "summary": "The singer claimed the group’s first check was $10,000 — after “years of number one albums” and sold-out tours."
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 0
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 24
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 3,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 69,
+   "kept": 12
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 1
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 5
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 1
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 17
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 0
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 7
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 2
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 25,
+   "kept": 8
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 28,
+   "kept": 3
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 0
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 24
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 8,
+   "kept": 7
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 26,
+   "kept": 6
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 4,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 42,
+   "kept": 1
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 39,
+   "kept": 16
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 14,
+   "kept": 0
+  }
+ ],
+ "cost": {
+  "usd": 0.2346,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 13648,
+    "output_tokens": 4511
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 13964,
+    "output_tokens": 7125
+   }
+  ]
+ }
+}
