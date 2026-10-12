@@ -1,0 +1,1354 @@
+{
+ "date": "2026-10-12",
+ "generated_at": "2026-10-12T02:44:24.258537+00:00",
+ "article_count": 83,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "Taylor SwiftがThe Beatlesに並ぶアルバム首位通算100週に到達し、Rosalíaの『SNL』パフォーマンスも複数媒体で話題です。日本関連では、NE-YOとMC Jinの東京レーベル始動とJP THE WAVYとの契約が注目です。",
+  "top": [
+   {
+    "id": "s0",
+    "title_ja": "Taylor Swift、アルバム首位通算100週に到達",
+    "genre": "POP",
+    "summary_ja": "『The Life of a Showgirl』が、Encore盤で首位に返り咲いてから2週目もBillboard 200の1位を守りました。これでTaylor Swiftのアルバムチャート1位は通算100週に到達。100週到達はThe Beatlesに続く2組目と報じられています。",
+    "why_ja": "Billboard、Variety、Billboard JAPANが報じています。関連の「Patient Zero」MVは約1846万回再生で、YouTube音楽チャートのUSとGBで2位に入っています。",
+    "line_point": "Taylor Swift、全米アルバム1位が通算100週に。達成はThe Beatlesに続く2組目",
+    "reels": [
+     {
+      "hook": "The Beatlesに並んだのはTaylorだけ",
+      "angle": "100週という数字を大きく見せ、The Beatlesとの比較で記録のすごさを伝える。最後に「Patient Zero」MVの映像で締める"
+     },
+     {
+      "hook": "全米1位、合計100週ってヤバくない？",
+      "angle": "Encore盤で首位に返り咲き、2週連続1位で100週に届いた流れを、時系列のテロップで30秒にまとめる"
+     }
+    ]
+   },
+   {
+    "id": "s16",
+    "title_ja": "Rosalía、SNLでトウシューズ姿の「Reliquia」披露",
+    "genre": "POP",
+    "summary_ja": "Rosalíaが米『Saturday Night Live』に出演し、『Lux』収録の「Reliquia」をトウシューズのつま先立ちで歌いました。もう1曲の「Magnolias」は雨の演出の中で披露しています。",
+    "why_ja": "Consequence、NME、Pitchfork、Rolling Stone、Varietyの5媒体が報じています。関連インタビュー動画も公開95時間で約47万回再生されています。",
+    "line_point": "Rosalía、SNLで「Reliquia」をつま先立ちで熱唱、「Magnolias」は雨の中で披露",
+    "reels": [
+     {
+      "hook": "トウシューズで歌うってどういうこと？",
+      "angle": "つま先立ちで歌う「Reliquia」と、雨の中の「Magnolias」という2つの演出を対比させ、ステージの見どころを紹介する"
+     },
+     {
+      "hook": "今いちばん攻めてる歌姫、知ってる？",
+      "angle": "Rosalíaを知らない人向けに、新作『Lux』とSNL出演を入口として、5媒体が絶賛した理由をテンポよく紹介する"
+     }
+    ]
+   },
+   {
+    "id": "s5",
+    "title_ja": "NE-YOとMC Jin、東京にレーベル設立　JP THE WAVYと契約",
+    "genre": "Hip-Hop",
+    "summary_ja": "NE-YOとMC Jinが関わるPacific Music Groupが東京で始動し、JP THE WAVYと360契約を結んだと報じられています。日本のヒップホップを世界市場へ広げる狙いとされています。",
+    "why_ja": "報じたのはAllHipHopの1媒体です。ただ、日本人ラッパーが主役になる珍しい海外ニュースで、来日経験もあるNE-YOが関わっているため、日本の視聴者に届きやすい話題です。",
+    "line_point": "NE-YOとMC Jinのレーベルが東京で始動し、JP THE WAVYと契約したと報道",
+    "reels": [
+     {
+      "hook": "NE-YOが日本のラッパーと契約!?",
+      "angle": "NE-YOのヒット曲のイメージから入り、東京でのレーベル始動とJP THE WAVYとの契約を、驚きの流れで伝える"
+     },
+     {
+      "hook": "日本のヒップホップ、世界に行くかも",
+      "angle": "日本のヒップホップを世界に広げる狙いと報じられている点を軸に、今後の可能性として前向きに紹介する"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s11",
+     "title_ja": "Calvin Harris、Head Trip2日目に急きょ出演",
+     "note": "悪天候で初日が短縮されたHead Tripの2日目に、Calvin Harrisが追加出演"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s1",
+     "title_ja": "Victoria Monét新作にSZA、Bruno Marsらが参加",
+     "note": "新作にSZA、Bruno Mars、Leon Thomasが参加。秋のツアーは若者向け菜園活動と連動"
+    },
+    {
+     "id": "s2",
+     "title_ja": "Harry Styles、MSG公演でOscar Belgalさんに言及",
+     "note": "MSG公演でICEに撃たれたBelgalさんの名を挙げ、互いを大切にと観客に呼びかけ"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s3",
+     "title_ja": "Bruno Mars、「Luther」の1位31週記録に並ぶ",
+     "note": "Bruno Marsが1位31週に到達し、Kendrick Lamar＆SZA「Luther」の記録に並んだ"
+    },
+    {
+     "id": "s10",
+     "title_ja": "Drake『HABIBTI (FOMO)』がBillboard 200に初登場",
+     "note": "デラックス版の新曲4曲が加わり、初週セールスが判明。Taylor Swiftらとトップ10入り"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s22",
+     "title_ja": "Spice Girls、Geri脱退直前の「Viva Forever」映像公開",
+     "note": "Geri脱退直前の1998年、BBC『Top of the Pops』での貴重なパフォーマンス映像"
+    },
+    {
+     "id": "s21",
+     "title_ja": "Stevie Wonder『Hotter Than July』の魅力",
+     "note": "誕生日の定番「Happy Birthday」も収録された、1980年の名盤の裏話"
+    },
+    {
+     "id": "s23",
+     "title_ja": "The La's、唯一のアルバム『The La's』の伝説",
+     "note": "「There She Goes」を生んだ唯一の作品と、Lee Maversの完璧主義による難航した制作"
+    }
+   ]
+  },
+  "japan_tours": [],
+  "tour_candidates": 0
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s16",
+   "label": "Rosalía performs on SNL from album 'Lux'",
+   "artists": [
+    "Rosalía"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Consequence",
+    "NME",
+    "Pitchfork",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 5,
+   "score": 5,
+   "latest": "2026-10-11T13:58:07+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Rosalía Raises the Bar (Once Again) with Incredible SNL Performances: Watch",
+     "link": "https://consequence.net/2026/10/rosalia-snl-reliquia-magnolias-performances/",
+     "published": "2026-10-11T13:58:07+00:00",
+     "summary": "Watch her truly captivating performances of \"Reliquia\" and \"Magnolias\" Rosalía Raises the Bar (Once Again) with Incredible SNL Performances: Watch Alex Young"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Watch Rosalía Perform “Reliquia” En Pointe on SNL",
+     "link": "https://pitchfork.com/story/watch-rosalia-perform-reliquias-en-pointe-on-snl/",
+     "published": "2026-10-11T13:43:04+00:00",
+     "summary": "She also brought “Magnolias” to the Saturday Night Live stage"
+    },
+    {
+     "outlet": "NME",
+     "title": "Watch Rosalía perform ‘Reliquia’ en pointe and ‘Magnolias’ in the rain on ‘SNL’",
+     "link": "https://www.nme.com/news/music/watch-rosalia-reliquia-en-pointe-magnolias-rain-snl-3972886?utm_source=rss&utm_medium=rss&utm_campaign=watch-rosalia-reliquia-en-pointe-magnolias-rain-snl",
+     "published": "2026-10-11T09:01:17+00:00",
+     "summary": "The Spanish star delivered two theatrical performances of tracks from her acclaimed 2025 album ‘Lux’ The post Watch Rosalía perform ‘Reliquia’ en pointe and ‘Magnolias’ in the rain on ‘SNL’ appeared first on NME ."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "‘SNL’: Watch Rosalía Perform ‘Reliquia,’ ‘Magnolias’",
+     "link": "https://www.rollingstone.com/music/music-news/snl-watch-rosalia-performs-reliquia-magnolias-1235640806/",
+     "published": "2026-10-11T07:17:06+00:00",
+     "summary": "Both songs are from the Spanish singer-songwriter's highly praised album, Lux"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Rosalía Performs an Entire Number En Pointe on ‘SNL,’ Then Cools Off With a Nice Shower",
+     "link": "https://variety.com/2026/music/news/rosalia-snl-en-pointe-performance-reliquia-magnolias-1236907983/",
+     "published": "2026-10-11T06:23:24+00:00",
+     "summary": "To the question of whether Rosalía would be dancing during her “Saturday Night Live” appearance or not, that depends on how you’re looking at it. The acclaimed singer stood in place, perfectly still, during her first number, “Reliquia” — bu"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "rmfXbXJn98U",
+    "title": "ROSALÍA Makes Her Own LUX Tour Confession, Was Mind Blown by U2 Writing a Song About Her (Extended)",
+    "channel": "The Tonight Show Starring Jimmy Fallon",
+    "published": "2026-10-08T04:02:35Z",
+    "hours_since": 95,
+    "views": 472639,
+    "url": "https://www.youtube.com/watch?v=rmfXbXJn98U",
+    "views_per_hour": 4975
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "Jack White reunites The Raconteurs in Nashville",
+   "artists": [
+    "The Raconteurs",
+    "Jack White"
+   ],
+   "genre": "Other",
+   "kind": "collab",
+   "outlets": [
+    "Consequence",
+    "NME",
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 4,
+   "latest": "2026-10-11T15:11:58+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Jack White Reunites the Raconteurs at Nashville Show",
+     "link": "https://pitchfork.com/story/jack-white-reunites-the-raconteurs-at-nashville-show/",
+     "published": "2026-10-11T15:11:58+00:00",
+     "summary": "It marked the bands first appearance together since 2019"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "The Raconteurs Reunite for First Performance in Seven Years",
+     "link": "https://consequence.net/2026/10/the-raconteurs-reunite-for-first-performance-in-seven-years/",
+     "published": "2026-10-11T14:41:59+00:00",
+     "summary": "The surprise five-song set took place during Jack White's show in Nashville on Saturday. The Raconteurs Reunite for First Performance in Seven Years Alex Young"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "See the Raconteurs Reunite for First Time in Seven Years at Jack White’s Nashville Concert",
+     "link": "https://www.rollingstone.com/music/music-news/the-raconteurs-reunite-jack-white-nashville-concert-1235640937/",
+     "published": "2026-10-11T13:19:42+00:00",
+     "summary": "Band plays five-song set during the encore for first performance since 2019"
+    },
+    {
+     "outlet": "NME",
+     "title": "Watch The Raconteurs reunite at Jack White’s Nashville gig",
+     "link": "https://www.nme.com/news/music/watch-the-raconteurs-reunite-at-jack-whites-nashville-gig-3972890?utm_source=rss&utm_medium=rss&utm_campaign=watch-the-raconteurs-reunite-at-jack-whites-nashville-gig",
+     "published": "2026-10-11T09:48:39+00:00",
+     "summary": "It was the band's first live appearance together since December 2019 The post Watch The Raconteurs reunite at Jack White’s Nashville gig appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Taylor Swift's 'Life of a Showgirl' reaches 100 weeks at No. 1",
+   "artists": [
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "chart",
+   "outlets": [
+    "Billboard",
+    "Billboard JAPAN",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-10-12T11:10:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "【米ビルボード・アルバム・チャート】テイラー・スウィフト『ザ・ライフ・オブ・ア・ショーガール』2週連続首位 、ドレイク／ビートルズ再発盤がチャートイン",
+     "link": "https://www.billboard-japan.com/d_news/detail/166401",
+     "published": "2026-10-12T11:10:00+09:00",
+     "summary": "今週（2026年10月17日付）の米ビルボード・アルバム・チャート“Billboard 200”は、テイラー・スウィ…"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Taylor Swift Spends Her 100th Week at No. 1 on the Billboard 200, as ‘Life of a Showgirl’ Stays on Top in Week 2 of ‘Encore’ Rebound",
+     "link": "https://variety.com/2026/music/news/taylor-swift-100th-week-billboard-200-number-one-beatles-1236908356/",
+     "published": "2026-10-11T20:22:14+00:00",
+     "summary": "Taylor Swift is fond of the number 13, but here’s betting she also considers the numeral 100 lucky, too. She can now celebrate having 100 weeks at No. 1 on the Billboard 200 chart, for all of her albums combined, further extending a record "
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Taylor Swift Joins The Beatles as Only Acts With 100 Weeks at No. 1 on Billboard 200 Albums Chart",
+     "link": "https://www.billboard.com/music/chart-beat/taylor-swift-beatles-100-weeks-number-one-billboard-200-1236358736/",
+     "published": "2026-10-11T19:07:29+00:00",
+     "summary": "Swift’s The Life of a Showgirl spends a 14th week atop the chart, bringing her career total weeks at No. 1 to 100."
+    }
+   ],
+   "chart": [
+    {
+     "id": "mw3kSNIxjqo",
+     "title": "Taylor Swift - Patient Zero (Official Music Video)",
+     "channel": "Taylor Swift",
+     "published": "2026-09-29T22:00:19Z",
+     "hours_since": 293,
+     "views": 18467887,
+     "url": "https://www.youtube.com/watch?v=mw3kSNIxjqo",
+     "region": "US",
+     "rank": 2
+    },
+    {
+     "id": "mw3kSNIxjqo",
+     "title": "Taylor Swift - Patient Zero (Official Music Video)",
+     "channel": "Taylor Swift",
+     "published": "2026-09-29T22:00:19Z",
+     "hours_since": 293,
+     "views": 18467887,
+     "url": "https://www.youtube.com/watch?v=mw3kSNIxjqo",
+     "region": "GB",
+     "rank": 2
+    }
+   ],
+   "video": {
+    "id": "mw3kSNIxjqo",
+    "title": "Taylor Swift - Patient Zero (Official Music Video)",
+    "channel": "Taylor Swift",
+    "published": "2026-09-29T22:00:19Z",
+    "hours_since": 293,
+    "views": 18467887,
+    "url": "https://www.youtube.com/watch?v=mw3kSNIxjqo",
+    "region": "US",
+    "rank": 2
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Mike Love rejoins Beach Boys on stage amid health issues",
+   "artists": [
+    "The Beach Boys",
+    "Mike Love"
+   ],
+   "genre": "Other",
+   "kind": "health",
+   "outlets": [
+    "Consequence",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-12T00:22:00+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Mike Love Rejoins The Beach Boys on Stage Amid Health Issues [Updated]",
+     "link": "https://consequence.net/2026/10/mike-love-beach-boys-live-comeback-health-issues/",
+     "published": "2026-10-12T00:22:00+00:00",
+     "summary": "Love looked frail as he walked on the stage with assistance and remained seated throughout the performance. Mike Love Rejoins The Beach Boys on Stage Amid Health Issues [Updated] Alex Young"
+    },
+    {
+     "outlet": "Variety",
+     "title": "John Stamos Addresses Mike Love’s Health as Beach Boys Concert Footage Raises Concerns: ‘We Don’t Know What the Future Holds — We Have Tonight’",
+     "link": "https://variety.com/2026/music/news/mike-love-john-stamos-statement-beach-boys-health-concern-1236908432/",
+     "published": "2026-10-11T21:49:56+00:00",
+     "summary": "Following many Beach Boys fans and followers expressing concern for Mike Love after seeing footage from the group’s Saturday night show in Cincinnati, John Stamos has stepped in with a statement acknowledging that Love is in poor health as "
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "The Beach Boys Played Their First Public Concert in Three Months With an Alarmingly Frail Mike Love",
+     "link": "https://www.rollingstone.com/music/music-news/the-beach-boys-cincinnati-concert-frail-mike-love-1235640961/",
+     "published": "2026-10-11T15:37:05+00:00",
+     "summary": "\"He's been going through some health issues,\" John Stamos told the crowd at the start of the show. \"We're all here to support him and give him as much love as we can\""
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Drake's 'HABIBTI (FOMO)' debuts on Billboard 200",
+   "artists": [
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "chart",
+   "outlets": [
+    "Billboard",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-11T19:30:39+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Drake’s “HABIBTI (FOMO)” Officially Debuts On Billboard 200",
+     "link": "https://www.hotnewhiphop.com/1012736-drake-habibti-fomo-official-debut-billboard-200-first-week-sales",
+     "published": "2026-10-11T19:30:39+00:00",
+     "summary": "Official first week sales numbers for Drake's \"HABIBTI (FOMO)\" are in after the deluxe's four new tracks reinvigorated the tracklist. The post Drake’s “HABIBTI (FOMO)” Officially Debuts On Billboard 200 appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "The Beatles, Drake & Taylor Swift Are Together in Top 10 on Billboard 200 for First Time",
+     "link": "https://www.billboard.com/music/chart-beat/beatles-drake-taylor-swift-top-ten-billboard-200-first-time-1236358742/",
+     "published": "2026-10-11T19:11:36+00:00",
+     "summary": "The superstar acts have the three highest totals of career No. 1 albums."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Taylor Swift’s ‘The Life of a Showgirl’ Spends 14th Week Atop Billboard 200",
+     "link": "https://www.billboard.com/music/chart-beat/taylor-swift-showgirl-14th-week-number-one-billboard-200-1236358728/",
+     "published": "2026-10-11T19:00:03+00:00",
+     "summary": "Plus, Drake’s HABIBTI , The Beatles’ Rubber Soul and Mac Miller’s The Divine Feminine return to top 10 after reissues."
+    }
+   ],
+   "chart": [
+    {
+     "id": "vBk30V8AukM",
+     "title": "Drake, Don Toliver - Solar Eclipse",
+     "channel": "DrakeVEVO",
+     "published": "2026-10-06T15:08:34Z",
+     "hours_since": 132,
+     "views": 3010697,
+     "url": "https://www.youtube.com/watch?v=vBk30V8AukM",
+     "region": "US",
+     "rank": 10
+    },
+    {
+     "id": "vBk30V8AukM",
+     "title": "Drake, Don Toliver - Solar Eclipse",
+     "channel": "DrakeVEVO",
+     "published": "2026-10-06T15:08:34Z",
+     "hours_since": 132,
+     "views": 3010697,
+     "url": "https://www.youtube.com/watch?v=vBk30V8AukM",
+     "region": "GB",
+     "rank": 15
+    }
+   ],
+   "video": {
+    "id": "vBk30V8AukM",
+    "title": "Drake, Don Toliver - Solar Eclipse",
+    "channel": "DrakeVEVO",
+    "published": "2026-10-06T15:08:34Z",
+    "hours_since": 132,
+    "views": 3010697,
+    "url": "https://www.youtube.com/watch?v=vBk30V8AukM",
+    "region": "US",
+    "rank": 10
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Victoria Monét album features SZA, Bruno Mars, Leon Thomas",
+   "artists": [
+    "Victoria Monét",
+    "SZA",
+    "Bruno Mars",
+    "Leon Thomas"
+   ],
+   "genre": "POP",
+   "kind": "collab",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-12T02:01:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Victoria Monét Says She No Longer Thinks She Has To Earn Love",
+     "link": "https://allhiphop.com/news/victoria-monet-says-she-no-longer-thinks-she-has-to-earn-love/",
+     "published": "2026-10-12T02:01:00+00:00",
+     "summary": "SZA, Bruno Mars & Leon Thomas join Victoria Monét's new album as her fall tour pairs live shows with a youth garden initiative."
+    }
+   ],
+   "chart": [
+    {
+     "id": "1l7wbZmdtys",
+     "title": "Bruno Mars - Dance With Me [Official Music Video]",
+     "channel": "Bruno Mars",
+     "published": "2026-10-01T16:00:04Z",
+     "hours_since": 251,
+     "views": 11812598,
+     "url": "https://www.youtube.com/watch?v=1l7wbZmdtys",
+     "region": "US",
+     "rank": 24
+    }
+   ],
+   "video": {
+    "id": "1l7wbZmdtys",
+    "title": "Bruno Mars - Dance With Me [Official Music Video]",
+    "channel": "Bruno Mars",
+    "published": "2026-10-01T16:00:04Z",
+    "hours_since": 251,
+    "views": 11812598,
+    "url": "https://www.youtube.com/watch?v=1l7wbZmdtys",
+    "region": "US",
+    "rank": 24
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Harry Styles dedicates moment to Oscar Belgal at MSG",
+   "artists": [
+    "Harry Styles"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-12T01:56:16+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Harry Styles Dedicates Moment to Oscar Belgal After ICE Shooting: ‘Look After Each Other,’ He Tells NYC Crowd",
+     "link": "https://www.billboard.com/music/pop/harry-styles-oscar-belgal-ice-shooting-msg-concert-nyc-1236358841/",
+     "published": "2026-10-12T01:56:16+00:00",
+     "summary": "Styles paused his show with a speech naming Belgal at night 21 of his Madison Square Garden residency. Belgal was shot by ICE in his car in the Bronx, with his 5-year-old in the backseat."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Bruno Mars ties Kendrick Lamar and SZA's 31-week chart record",
+   "artists": [
+    "Bruno Mars",
+    "Kendrick Lamar",
+    "SZA"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "chart",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-12T01:00:52+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Bruno Mars Ties Kendrick Lamar & SZA’s 31-Week Chart Record",
+     "link": "https://allhiphop.com/news/bruno-mars-ties-kendrick-lamar-szas-31-week-chart-record/",
+     "published": "2026-10-12T01:00:52+00:00",
+     "summary": "Bruno Mars reaches 31 weeks at No. 1, matching the record held by Kendrick Lamar and SZA's chart giant \"Luther.\""
+    }
+   ],
+   "chart": [
+    {
+     "id": "1l7wbZmdtys",
+     "title": "Bruno Mars - Dance With Me [Official Music Video]",
+     "channel": "Bruno Mars",
+     "published": "2026-10-01T16:00:04Z",
+     "hours_since": 251,
+     "views": 11812598,
+     "url": "https://www.youtube.com/watch?v=1l7wbZmdtys",
+     "region": "US",
+     "rank": 24
+    }
+   ],
+   "video": {
+    "id": "1l7wbZmdtys",
+    "title": "Bruno Mars - Dance With Me [Official Music Video]",
+    "channel": "Bruno Mars",
+    "published": "2026-10-01T16:00:04Z",
+    "hours_since": 251,
+    "views": 11812598,
+    "url": "https://www.youtube.com/watch?v=1l7wbZmdtys",
+    "region": "US",
+    "rank": 24
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "NE-YO and MC Jin establish Japan hip-hop label",
+   "artists": [
+    "NE-YO",
+    "MC Jin",
+    "JP THE WAVY"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "business",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-12T00:01:12+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "NE-YO & MC Jin Take Japan With JP THE WAVY Deal",
+     "link": "https://allhiphop.com/news/ne-yo-mc-jin-take-japan-with-jp-the-wavy-deal/",
+     "published": "2026-10-12T00:01:12+00:00",
+     "summary": "Pacific Music Group opens in Tokyo and signs JP THE WAVY to a 360 deal aimed at pushing Japanese Hip-Hop into global markets."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Cardi B cancels Jamaica show due to unfinished arrangements",
+   "artists": [
+    "Cardi B"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-11T23:54:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Cardi B Blames Unfinished Arrangements For Jamaica Show Cancellation",
+     "link": "https://allhiphop.com/news/cardi-b-blames-unfinished-arrangements-for-jamaica-show-cancellation/",
+     "published": "2026-10-11T23:54:00+00:00",
+     "summary": "Cardi B points to unresolved arrangements as BZR WKND organizers ask ticket holders for patience after losing their headliner."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Troye Sivan's 'She's the Best' wins fan vote",
+   "artists": [
+    "Troey Sivan"
+   ],
+   "genre": "POP",
+   "kind": "chart",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-11T22:42:06+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Fans Choose Troye Sivan’s ‘She’s the Best’ as This Week’s Favorite New Music",
+     "link": "https://www.billboard.com/music/music-news/troye-sivan-shes-the-best-new-music-poll-results-1236358805/",
+     "published": "2026-10-11T22:42:06+00:00",
+     "summary": "His fourth full-length album brought in 56% of the vote."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "Bryson Tiller receives Louisville key and platinum award",
+   "artists": [
+    "Bryson Tiller",
+    "Jack Harlow"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "award",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-11T22:02:18+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Bryson Tiller Gets Louisville Key & Platinum Surprise From Jack Harlow",
+     "link": "https://allhiphop.com/news/bryson-tiller-gets-louisville-key-platinum-surprise-from-jack-harlow/",
+     "published": "2026-10-11T22:02:18+00:00",
+     "summary": "Jack Harlow joined the hometown show, while Bryson Tiller also visited his former high school before taking his tour back on the road."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Lil Jon reveals final texts with late son Nathan",
+   "artists": [
+    "Lil Jon"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-11T21:02:20+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Lil Jon Reveals Final Texts With Son Nathan Before His Death",
+     "link": "https://allhiphop.com/news/lil-jon-reveals-final-texts-with-son-nathan-before-his-death/",
+     "published": "2026-10-11T21:02:20+00:00",
+     "summary": "Lil Jon's memoir shares his last texts with son Nathan, including an exchange about anxiety, music, fear and a father's love."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "TLC continues tour with T-Boz recovering",
+   "artists": [
+    "TLC"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-11T20:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "TLC Continues Tour As Chili Shares Encouraging T-Boz Update",
+     "link": "https://allhiphop.com/news/tlc-continues-tour-as-chili-shares-encouraging-t-boz-update/",
+     "published": "2026-10-11T20:00:00+00:00",
+     "summary": "T-Boz's recovery leaves Chilli handling TLC performances as the group navigates illness and fallout over political donations."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "Calvin Harris joins Head Trip Day Two after weather",
+   "artists": [
+    "Calvin Harris",
+    "Skrillex",
+    "Swedish House Mafia"
+   ],
+   "genre": "Dance",
+   "kind": "festival",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-11T18:14:16+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "It’s a Force Field! Calvin Harris Slides Into Head Trip Day Two After Weather Cuts Night One Short",
+     "link": "https://www.billboard.com/music/music-news/calvin-harris-added-head-trip-day-two-lineup-coachella-1236358733/",
+     "published": "2026-10-11T18:14:16+00:00",
+     "summary": "The night two bill will now feature Harris, Skrillex, Swedish House Mafia and more."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Charli XCX brings out Tinashe at Austin City Limits",
+   "artists": [
+    "Charli XCX",
+    "Tinashe"
+   ],
+   "genre": "POP",
+   "kind": "collab",
+   "outlets": [
+    "Pitchfork"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-11T16:30:44+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Charli XCX Brings Out Tinashe at Austin City Limits Festival",
+     "link": "https://pitchfork.com/story/charli-xcx-brings-out-tinashe-at-austin-city-limits/",
+     "published": "2026-10-11T16:30:44+00:00",
+     "summary": "The Popstar mastermind gave “Nobody Wanna Dance Anymore\" and “Melatonin” live debuts"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Sasha Keable performs on Saturday Night Live UK",
+   "artists": [
+    "Sasha Keable"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-11T10:39:54+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Watch Sasha Keable perform ‘Options’ and ‘Why’ on ‘Saturday Night Live UK’",
+     "link": "https://www.nme.com/news/music/watch-sasha-keable-options-why-saturday-night-live-uk-3972894?utm_source=rss&utm_medium=rss&utm_campaign=watch-sasha-keable-options-why-saturday-night-live-uk",
+     "published": "2026-10-11T10:39:54+00:00",
+     "summary": "The British-Colombian singer appeared alongside host Danny Dyer in the latest episode of the show's second series The post Watch Sasha Keable perform ‘Options’ and ‘Why’ on ‘Saturday Night Live UK’ appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "HrTOK0UmWAs",
+    "title": "Danny Dyer. Sasha Keable. Saturday! | SNL UK",
+    "channel": "Saturday Night Live UK",
+    "published": "2026-10-08T19:00:06Z",
+    "hours_since": 80,
+    "views": 320320,
+    "url": "https://www.youtube.com/watch?v=HrTOK0UmWAs",
+    "views_per_hour": 4004
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Stevie Wonder 'Hotter Than July' album retrospective",
+   "artists": [
+    "Stevie Wonder"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-11T05:38:43+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "スティーヴィー・ワンダー『Hotter Than July』：80年代の幕開けを飾った名盤",
+     "link": "https://www.udiscovermusic.jp/stories/stevie-wonder-hotter-than-july-feature",
+     "published": "2026-10-11T05:38:43+00:00",
+     "summary": "スティーヴィー・ワンダーが1980年に発表した『Hotter Than July』を解説。『Master Blaster (Jammin’)』『Lately』『Happy Birthday』などを通じ、80年代の幕開けを飾った名作の魅力を振り返る。 The post スティーヴィー・ワンダー『Hotter Than July』：80年代の幕開けを飾った名盤 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "Spice Girls archive performance 'Viva Forever'",
+   "artists": [
+    "Spice Girls"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-11T05:30:32+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "スパイス・ガールズ、ジェリ脱退直前の1998年「Viva Forever」TVパフォーマンス映像を公開",
+     "link": "https://www.udiscovermusic.jp/news/spice-girls-share-1998-viva-forever-performance",
+     "published": "2026-10-11T05:30:32+00:00",
+     "summary": "スパイス・ガールズが1998年6月5日にBBC“Top of the Pops”で放送された「Viva Forever」のアーカイヴ映像を公開。11月6日発売『The Singles Collection』に先駆けた映像となる。 The post スパイス・ガールズ、ジェリ脱退直前の1998年「Viva Forever」TVパフォーマンス映像を公開 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "The La's 'The La's' album retrospective",
+   "artists": [
+    "The La's"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-11T05:18:49+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "ラーズ『The La’s』解説：唯一無二の傑作アルバムに刻まれた時代を超えるメロディ",
+     "link": "https://www.udiscovermusic.jp/stories/the-las-self-titled-album",
+     "published": "2026-10-11T05:18:49+00:00",
+     "summary": "リヴァプール出身のラーズが1990年に発表した唯一のアルバム『The La’s』。名曲「There She Goes」、難航した制作、リー・メイヴァースの完璧主義を振り返る。 The post ラーズ『The La’s』解説：唯一無二の傑作アルバムに刻まれた時代を超えるメロディ appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 1
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 3
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 6
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 0
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 0
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 25
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 3
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 29,
+   "kept": 1
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 1
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  }
+ ],
+ "cost": {
+  "usd": 0.1757,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 7599,
+    "output_tokens": 3903
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 12060,
+    "output_tokens": 5015
+   }
+  ]
+ }
+}
