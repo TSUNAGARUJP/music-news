@@ -1,0 +1,2034 @@
+{
+ "date": "2026-10-13",
+ "generated_at": "2026-10-13T02:45:11.743583+00:00",
+ "article_count": 298,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日は懐かしの未発表曲解禁や、ジャンルを越えたコラボなど、新曲・新作の話題が中心。来日情報は、インストアイベントや公演中止など細かな動きが多い一日。",
+  "top": [
+   {
+    "id": "s44",
+    "title_ja": "Britney Spears、JT共作の2001年の未発表曲を配信",
+    "genre": "POP",
+    "summary_ja": "Britney Spearsが、Justin Timberlakeと共作した未発表曲「She'll Never Be Me」をストリーミングで公開した。アルバム『Britney』用に録音されたものの、未完成のまま収録から外れていた曲と報じられている。『Britney』は今年で25周年を迎える。",
+    "why_ja": "Complex、Rolling Stone、Varietyの3媒体が報道。2000年代を代表するカップルとして知られた2人の共作が、25年越しに世に出たことが話題になっている。",
+    "line_point": "Britney SpearsがJustin Timberlakeと共作した2001年の未発表曲「She'll Never Be Me」を配信",
+    "reels": [
+     {
+      "hook": "25年眠っていたBritneyの曲が解禁！",
+      "angle": "2001年の『Britney』制作時に録音され、未完成のままお蔵入りした経緯を紹介。サビを流して当時の空気感を伝える"
+     },
+     {
+      "hook": "BritneyとJTの共作、今聴けます",
+      "angle": "2人が共作した曲が今になって公開された意外性を軸に、25周年の『Britney』とあわせて当時を振り返る構成"
+     }
+    ]
+   },
+   {
+    "id": "s33",
+    "title_ja": "Fontaines D.C.、Rosalíaとのデュエット新曲を公開",
+    "genre": "Other",
+    "summary_ja": "アイルランドのロックバンドFontaines D.C.が、Rosalíaを迎えた新曲「Where Is Gone?」を公開した。オーケストラを使った切ないバラードで、次のアルバム『Dopamine Chamber』に収録される。メンバーのCarlos O'Connellは、Rosalíaがスペインの音楽の伝統を受け継いでいる点が、自分たちとアイルランド音楽の関係に近いと語っている。",
+    "why_ja": "Consequence、Pitchfork、Rolling Stoneの3媒体が報道。The Guardianも『Dopamine Chamber』のレビューで、驚くべき勝利作と高く評価している。",
+    "line_point": "Fontaines D.C.がRosalíaとのデュエット「Where Is Gone?」を公開。新作『Dopamine Chamber』に収録",
+    "reels": [
+     {
+      "hook": "アイルランドのロック×Rosalía!?",
+      "angle": "ロックバンドとスペインの歌姫という意外な組み合わせを紹介。スペインとアイルランド、それぞれの伝統をつなぐ発言を字幕で見せる"
+     },
+     {
+      "hook": "来日も決まったバンドの新曲がすごい",
+      "angle": "2027年1月の来日公演が発表済みのFontaines D.C.を、この曲と新作『Dopamine Chamber』の高評価で予習する構成"
+     }
+    ]
+   },
+   {
+    "id": "s12",
+    "title_ja": "Doechii、Swamp Sessions復活で新曲「BOMBS」",
+    "genre": "Hip-Hop",
+    "summary_ja": "Doechiiが、自身の企画「Swamp Sessions」シリーズを復活させ、新曲「BOMBS」を公開した。Pitchforkは、Doechiiがデビューアルバムで、黒人女性としての視点をヒップホップに持ち込もうとしていると報じている。",
+    "why_ja": "Complex、Pitchfork、XXLの3媒体が報道。人気シリーズの復活と新曲の公開が同時に伝えられている。",
+    "line_point": "Doechiiが「Swamp Sessions」シリーズを復活させ、新曲「BOMBS」を公開",
+    "reels": [
+     {
+      "hook": "Doechiiの「沼セッション」が帰ってきた",
+      "angle": "Swamp Sessionsシリーズの復活と新曲「BOMBS」を紹介。パフォーマンスの雰囲気が伝わる部分をテンポよく見せる"
+     },
+     {
+      "hook": "Doechiiが語る、アルバムのテーマ",
+      "angle": "黒人女性としての視点をヒップホップに持ち込むという報道を軸に、Doechiiの表現を紹介する構成"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s32",
+     "title_ja": "Head Trip 2026、悪天候でEDM黄金期の豪華共演に",
+     "note": "初日の天候トラブルで、2日目にSkrillexやCalvin Harrisらの共演が実現したとBillboardが総括"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s4",
+     "title_ja": "Shakira、マドリードでの公演シリーズを豪華ゲストと締めくくり",
+     "note": "Shakiraがマドリードでの歴史的な連続公演の最終日に、MalumaやBizarrapらを招いた"
+    },
+    {
+     "id": "s39",
+     "title_ja": "Kelly Clarkson、ブルックリンの店と口論が泥沼化",
+     "note": "1万5000ドルの商品をめぐり、Kelly Clarksonが反論した店を「うそつき」と批判した"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s22",
+     "title_ja": "ScHoolboy Q、新作『THank Que』を2027年に発表へ",
+     "note": "ScHoolboy Qが新作『THank Que』の2027年リリースを明言し、引退はしないと宣言"
+    },
+    {
+     "id": "s8",
+     "title_ja": "Gucci Mane、新作『Against All Odds』を発表",
+     "note": "Gucci Maneが新作『Against All Odds』を発表。今週金曜にリリースされると報じられている"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s67",
+     "title_ja": "1982年、インドの古典音楽をTB-303でディスコ化",
+     "note": "Charanjit Singhの『Synthesizing: Ten Ragas to a Disco Beat』は、TB-303を活用した最初期のアルバムの一つという音楽史ネタ"
+    },
+    {
+     "id": "s88",
+     "title_ja": "Taylor SwiftとThe Beatles、交差するチャートの歴史",
+     "note": "Taylor Swiftのチャート記録が、何度もThe Beatlesの記録と重なってきたという比較ネタ"
+    },
+    {
+     "id": "s95",
+     "title_ja": "Courteeners「Not Nineteen Forever」誕生の裏話",
+     "note": "クラブの隅で歌詞を書いていた話や、ダブル・プラチナ獲得時の逸話など、名曲誕生の裏話"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s1",
+    "title_ja": "QWER、大阪公演で当日券を販売",
+    "note": "10/15(木)GORILLA HALL OSAKA。スタンディング14,000円(税込/1D)、当日10:00〜20:00販売"
+   },
+   {
+    "id": "s55",
+    "title_ja": "Quicksand、約4年ぶりの来日公演決定",
+    "note": "約4年ぶりの来日。SPICEがコメント付きで報道"
+   },
+   {
+    "id": "s53",
+    "title_ja": "Art Garfunkel、11〜12月の来日公演が中止に",
+    "note": "11月から12月にかけて予定されていた来日公演が中止"
+   },
+   {
+    "id": "s56",
+    "title_ja": "Queens Of The Stone Age、渋谷でインストアライブ決定",
+    "note": "タワーレコード渋谷店でインストア・ライヴを開催"
+   },
+   {
+    "id": "s57",
+    "title_ja": "The Avalanches、渋谷でトーク＆サイン会決定",
+    "note": "タワーレコード渋谷店でトーク＆サイン会を開催"
+   },
+   {
+    "id": "s51",
+    "title_ja": "Marlon Hoffstadt、来日を前にDavid Guettaと初コラボ",
+    "note": "来日を控える中、David Guettaとの初のコラボ作をリリース"
+   },
+   {
+    "id": "s52",
+    "title_ja": "GENESI、来日公演が決定",
+    "note": "来日公演が決定。コーチェラで話題になったFlowdan参加曲を正式リリース"
+   },
+   {
+    "id": "s59",
+    "title_ja": "Joey Dosik、来日時のインタビューが公開",
+    "note": "日本との関係、新曲の制作、Vulfpeckでの演奏について語ったインタビュー"
+   }
+  ],
+  "tour_candidates": 11
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s18",
+   "label": "Kacey Musgraves fires back at Kristi Noem's criticism",
+   "artists": [
+    "Kacey Musgraves"
+   ],
+   "genre": "Other",
+   "kind": "beef",
+   "outlets": [
+    "Billboard",
+    "Consequence",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 4,
+   "latest": "2026-10-12T23:52:55+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Kacey Musgraves Fires Back After Kristi Noem Disses Her: You Don’t ‘Have a Dog in This Fight, but If You Did You Would’ve Shot It’",
+     "link": "https://variety.com/2026/music/news/kacey-musgraves-fires-back-kristi-noem-dog-joke-talarico-1236909604/",
+     "published": "2026-10-12T23:52:55+00:00",
+     "summary": "Kristi Noem might have thought twice before initiating a war of words with Kacey Musgraves, who had a mic-drop of a comeback post after the ousted Secretary of Homeland Security went on X to pick a fight with the country-pop star. Because w"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Kacey Musgraves Is Dogging Kristi Noem After Trump Appointee Says She’d Take Ella Langley Over Kacey ‘Any Day’",
+     "link": "https://www.billboard.com/music/country/kacey-musgraves-kristi-noem-james-talarico-clap-back-1236359512/",
+     "published": "2026-10-12T23:24:59+00:00",
+     "summary": "The country star had a very specific response when the former Homeland Security secretary weighed in on Musgraves' James Talarico support."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Kacey Musgraves Puts Kristi Noem in the Dog House After Petty Jab",
+     "link": "https://www.rollingstone.com/music/music-news/kacey-musgraves-kristi-noem-james-talarico-concert-1235641690/",
+     "published": "2026-10-12T23:03:20+00:00",
+     "summary": "The ousted Secretary of Homeland Security attempted to diss Musgraves for hosting the Texas Senate candidate at her recent concert"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Kacey Musgraves Bodies Kristi Noem",
+     "link": "https://consequence.net/2026/10/kacey-musgraves-kristi-noem-murdered/",
+     "published": "2026-10-12T22:07:57+00:00",
+     "summary": "After Noem mocked Musgraves over her support for James Talarico, the country star fired back with a brutal putdown on X. Kacey Musgraves Bodies Kristi Noem Alex Young"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s46",
+   "label": "The Beach Boys resume performances with Mike Love on stage",
+   "artists": [
+    "The Beach Boys"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "outlets": [
+    "Infoseek",
+    "Rolling Stone",
+    "The Guardian"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Infoseek"
+   ],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 4,
+   "latest": "2026-10-12T15:42:59+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Mike Love and Al Jardine of the Beach Boys Play Simultaneous, Historic Shows",
+     "link": "https://www.rollingstone.com/music/music-news/mike-love-al-jardine-beach-boys-historic-shows-1235641223/",
+     "published": "2026-10-12T15:42:59+00:00",
+     "summary": "As a frail Love played what could be his final Beach Boys concert, in Nashville on Sunday, Jardine was taking the stage in Cerritos, California, with ex-bandmates Bruce Johnston and David Marks"
+    },
+    {
+     "outlet": "Infoseek",
+     "title": "ザ・ビーチ・ボーイズ、約3カ月ぶりに公演再開 衰弱したマイク・ラヴの姿に懸念｜Infoseekニュース",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94Yjc5dVZkckZ3UWxqdFkzYTNVNENJS1IxOUpWODdxUkg1RkN2UWRwM3pWUXlrWFBOQUFidGVPb3FYZDd3N29BeFQ3SGxSVmpTLTFKNkkyLTctbmdFWGVfUk9PWE80MlotYVBFMQ?oc=5",
+     "published": "2026-10-12T03:05:00+00:00",
+     "summary": "ザ・ビーチ・ボーイズ、約3カ月ぶりに公演再開 衰弱したマイク・ラヴの姿に懸念｜Infoseekニュース Infoseek"
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "The Beach Boys’ Mike Love returns to the stage despite ‘facing serious health challenges’",
+     "link": "https://www.theguardian.com/music/2026/oct/12/beach-boys-live-cincinnati-mike-love-helped-john-stamos-health-issues",
+     "published": "2026-10-12T00:33:49+00:00",
+     "summary": "The 85-year-old was helped on stage by actor John Stamos, who shared an emotional message about his ‘musical hero and mentor’ After months of cancelled comeback tours, the Beach Boys have played their first public show since July – with co-"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Taylor Swift's 'Patient Zero' holds No. 1 for second week",
+   "artists": [
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "chart",
+   "outlets": [
+    "Billboard",
+    "Billboard JAPAN",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-10-13T11:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "【米ビルボード・ソング・チャート】テイラー・スウィフトが2週連続首位、アデラが初TOP10入り",
+     "link": "https://www.billboard-japan.com/d_news/detail/166423",
+     "published": "2026-10-13T11:00:00+09:00",
+     "summary": "今週（2026年10月17日付）の米ビルボード・ソング・チャート“Hot 100”は、テイラー・スウィフトの「ペイシ…"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Taylor Swift’s ‘Patient Zero’ Holds Steady at No. 1 for Second Week on Singles Chart",
+     "link": "https://variety.com/2026/music/news/taylor-swift-patient-zero-no-1-second-week-singles-chart-1236909200/",
+     "published": "2026-10-12T17:34:12+00:00",
+     "summary": "Taylor Swift has scored a second week atop the Billboard Hot 100 with “Patient Zero,” the lead single off of “The Life of Showgirl: The Encore.” “Patient Zero” is one of four new Swift songs included on “Encore,” which, just yesterday, earn"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Taylor Swift’s ‘Patient Zero’ No. 1 on Hot 100 for 2nd Week",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbG9RT2xoWE1TWmFMdVA0MGhjNjM1cTNHUVg2MEE5WjJibXZKVTZ6djd4bVdFSzJ6cDFUdzBEbE9ndEttVWQ3V2t6TlNlREdlZjFyb1FuY1ROMW9jeEsweWRCaGJGNk5QSHRzYm5NY05xYzdzUmh5ZzVYMDNpc29HYXpuWDhYWjRqOGVIQXNfREFOeVU?oc=5",
+     "published": "2026-10-12T17:04:57+00:00",
+     "summary": "Taylor Swift’s ‘Patient Zero’ No. 1 on Hot 100 for 2nd Week Billboard"
+    }
+   ],
+   "chart": [
+    {
+     "id": "mw3kSNIxjqo",
+     "title": "Taylor Swift - Patient Zero (Official Music Video)",
+     "channel": "Taylor Swift",
+     "published": "2026-09-29T22:00:19Z",
+     "hours_since": 317,
+     "views": 19017869,
+     "url": "https://www.youtube.com/watch?v=mw3kSNIxjqo",
+     "region": "US",
+     "rank": 2
+    },
+    {
+     "id": "mw3kSNIxjqo",
+     "title": "Taylor Swift - Patient Zero (Official Music Video)",
+     "channel": "Taylor Swift",
+     "published": "2026-09-29T22:00:19Z",
+     "hours_since": 317,
+     "views": 19017869,
+     "url": "https://www.youtube.com/watch?v=mw3kSNIxjqo",
+     "region": "GB",
+     "rank": 3
+    }
+   ],
+   "video": {
+    "id": "mw3kSNIxjqo",
+    "title": "Taylor Swift - Patient Zero (Official Music Video)",
+    "channel": "Taylor Swift",
+    "published": "2026-09-29T22:00:19Z",
+    "hours_since": 317,
+    "views": 19017869,
+    "url": "https://www.youtube.com/watch?v=mw3kSNIxjqo",
+    "region": "US",
+    "rank": 2
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Doechii aims to bring Black womanhood to hip-hop",
+   "artists": [
+    "Doechii"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "outlets": [
+    "Complex",
+    "Pitchfork",
+    "XXL"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-12T23:28:32+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "Doechii Aims to Bring Black Womanhood to Hip-Hop With Debut Album",
+     "link": "https://www.xxlmag.com/doechii-black-womanhood-hip-hop-bombs-video/",
+     "published": "2026-10-12T23:28:32+00:00",
+     "summary": "Doechii's back. Continue reading…"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Doechii Brings Back ‘Swamp Sessions’ With “BOMBS”",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNk51WEVycnJNelg3eTliRDQ1bWtsZ3k2Rjh0ZXg0NWExNEszOG1WNnlsTTRjSk9HcFJJeFZ4ZjZYWGdQeXlWNlpPUl8wdjYyZjZheHZOWlFGMVYtRGJJOVZ5ekJyd3phVVNJOEdSd2VXOFdxRzhFSnVTS3lBT1pEbkZHajNvNXVR?oc=5",
+     "published": "2026-10-12T19:46:49+00:00",
+     "summary": "Doechii Brings Back ‘Swamp Sessions’ With “BOMBS” Complex"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Doechii Revives Her “Swamp Sessions” Series With New Song “Bombs”",
+     "link": "https://pitchfork.com/story/doechii-revives-her-swamp-sessions-series-with-new-song-bombs/",
+     "published": "2026-10-12T18:38:25+00:00",
+     "summary": "“A mission is brewing inside of me,” the rapper wrote in a letter to fans, “to see Black Womanhood exist at the center of Hip-Hop AND Pop”"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "Fontaines D.C. releases new duet 'Where Is Gone?' with Rosalía",
+   "artists": [
+    "Fontaines D.C.",
+    "Rosalía"
+   ],
+   "genre": "Other",
+   "kind": "collab",
+   "outlets": [
+    "Consequence",
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-12T17:54:38+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Rosalía Joins Fontaines D.C. on the Aching Orchestral Ballad ‘Where Is Gone?’",
+     "link": "https://www.rollingstone.com/music/music-news/fontaines-dc-rosalia-where-is-gone-single-1235641130/",
+     "published": "2026-10-12T17:54:38+00:00",
+     "summary": "The track comes off the Irish rock band's forthcoming album, Dopamine Chamber"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Fontaines D.C. Recruit Rosalía for New Song “Where Is Gone?”",
+     "link": "https://pitchfork.com/story/fontaines-dc-recruit-rosalia-for-new-song-where-is-gone/",
+     "published": "2026-10-12T17:32:37+00:00",
+     "summary": "“She was keeping a Spanish tradition of music alive, which in a spiritual way felt akin to what we’ve tried to do with Irish music,” says the band’s Carlos O’Connell"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Fontaines D.C. Release New Duet with Rosalía “Where Is Gone?”: Stream",
+     "link": "https://consequence.net/2026/10/fontaines-dc-rosalia-where-is-gone-new-song-stream/",
+     "published": "2026-10-12T17:30:16+00:00",
+     "summary": "The Irish band's first-ever track with a guest vocalist is a slow-burning, atmospheric ballad. Fontaines D.C. Release New Duet with Rosalía “Where Is Gone?”: Stream Paolo Ragusa"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s44",
+   "label": "Britney Spears releases unreleased Justin Timberlake collaboration",
+   "artists": [
+    "Britney Spears",
+    "Justin Timberlake"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "Complex",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-12T17:03:32+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Previously Unreleased Britney Spears Song Co-Written by Justin Timberlake Lands on Streaming",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOXc3ZU95ZVoySTU1b29lTlVMcy1zTEg5VXVDZ3pEODRrQXlCQWRFVEVRZzZtUFRxelp2Z3kwUWxFRjY2bDZQeTdobGtRTkpMWDdldWM5czM3Sy04VkZPTnMwaUxqYlk5LWYwMjB5ZHQ2NUY0ZDVGVGZFRlRIczNOTFpaUFh5ZzA1dmExdFBvbVdEZ1Bvc2NNdXpfTFNhMGlkV0FzVVZZYmVSTTV2?oc=5",
+     "published": "2026-10-12T17:03:32+00:00",
+     "summary": "Previously Unreleased Britney Spears Song Co-Written by Justin Timberlake Lands on Streaming Complex"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Britney Spears Just Released a 2001 Song She Wrote With Justin Timberlake",
+     "link": "https://www.rollingstone.com/music/music-news/unreleased-britney-spears-song-written-justin-timberlake-1235641215/",
+     "published": "2026-10-12T16:02:02+00:00",
+     "summary": "Spears recorded “She’ll Never Be Me” for Britney, which celebrates its 25th anniversary this year, but the track was left unfinished and scrapped from the record to prioritize other songs"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Britney Spears Drops Previously Unreleased Justin Timberlake Collaboration, ‘She’ll Never Be Me’",
+     "link": "https://variety.com/2026/music/news/britney-spears-drops-unreleased-justin-timberlake-collaboration-1236908996/",
+     "published": "2026-10-12T13:59:00+00:00",
+     "summary": "Britney Spears has posted a previously unreleased collaboration with Justin Timberlake titled “She’ll Never Be Me,” originally recorded for her 2001 album “Britney,” as a preview of the album’s 25 th anniversary edition, out on Nov. 6. Spea"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s39",
+   "label": "Kelly Clarkson responds to Art of Play store dispute",
+   "artists": [
+    "Kelly Clarkson"
+   ],
+   "genre": "POP",
+   "kind": "beef",
+   "outlets": [
+    "Complex",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-12T14:51:13+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "In Defense of Kelly Clarkson (Kind Of) and the $15,000 Singing Bird Saga",
+     "link": "https://variety.com/2026/music/columns/kelly-clarkson-art-of-play-brooklyn-twitter-1236908964/",
+     "published": "2026-10-12T14:51:13+00:00",
+     "summary": "Kelly Clarkson does not seem to be winning the war she haphazardly declared against a Brooklyn novelty store. But the mere fact of its existence is proof that Clarkson is providing the public a service, of sorts. For too long, celebrities h"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Kelly Clarkson Responds to Brooklyn Store After They Refute Her Bad Shopping Experience",
+     "link": "https://www.rollingstone.com/music/music-news/kelly-clarkson-brooklyn-store-shopping-experience-feud-1235641134/",
+     "published": "2026-10-12T07:41:43+00:00",
+     "summary": "“So you’re not only rude, you’re also a liar,” the singer wrote in response to Art of Play’s claims"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Kelly Clarkson Calls Brooklyn Shop a 'Liar' After It Claims $15,000 Item Wasn't for Sale",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzZ4SHBYZ1VDdmU1eVN3UGt5T2dxcm5sd24xSjZsU2hKd250NU9HTklIcmhucUl0R3VoNXl1YXBYblFaWU5XOTdud2E2OHJteEZxbWl0dl9OREZNZVBiOV9ibU5jY0pMYWJpQzVnVjk4eG92R0VtaFhaVjY0b1A0VjNOMFRtVlM0d204Uw?oc=5",
+     "published": "2026-10-12T03:45:07+00:00",
+     "summary": "Kelly Clarkson Calls Brooklyn Shop a 'Liar' After It Claims $15,000 Item Wasn't for Sale Complex"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "RWcDbFggUPc",
+    "title": "The Kelly Clarkson Puzzle Shop Drama, Explained.",
+    "channel": "kayla says",
+    "published": "2026-10-12T18:05:19Z",
+    "hours_since": 9,
+    "views": 55647,
+    "url": "https://www.youtube.com/watch?v=RWcDbFggUPc",
+    "views_per_hour": 6183
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Shane Gillis SNL monologue draws criticism from artists",
+   "artists": [
+    "Maren Morris",
+    "Flavor Flav",
+    "Maggie Baird",
+    "Jewel",
+    "Lisa Loeb"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard",
+    "CNN"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "CNN"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-10-13T02:10:54+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Maren Morris, Flavor Flav, Maggie Baird & More Speak Out Against Shane Gillis ‘SNL’ Monologue: ‘It’s Actually Dangerous for Women’",
+     "link": "https://www.billboard.com/culture/tv-film/shane-gillis-snl-monologue-response-maren-morris-flavor-flav-1236359613/",
+     "published": "2026-10-13T02:10:54+00:00",
+     "summary": "Jewel, Lisa Loeb & Kristin Chenoweth also jumped into Dan Levy's comments section after the actor shared a takedown of the monologue."
+    },
+    {
+     "outlet": "CNN",
+     "title": "Shane Gillis called out for ‘misogynistic’ SNL monologue",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFB0Z1JBTE55bDdVTVRLdXBmbzBLQnU1Z0s0Xy0yNVZvRGNGS3Y0UVljLUJOaml2cl80STItR2pCZl9HWXpLV0VxQkFLLU9mbmV0NF9EeF9xWXFNNXJLdlFxc1VKczJHUldLVDlPTDI4YjRpb0RtSlZRSTRnVTFwNlFRY3hITVRERzNWcURCZ3RxWGNERFhPN1pMRTR5SmtUSWl0R01LY1pXU1Y5d3NjUA?oc=5",
+     "published": "2026-10-13T01:45:00+00:00",
+     "summary": "Shane Gillis called out for ‘misogynistic’ SNL monologue CNN"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "ScHoolboy Q confirms new album 'THank Que' for 2027",
+   "artists": [
+    "ScHoolboy Q"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "outlets": [
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-12T23:54:48+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "ScHoolboy Q Says ‘THank Que’ Album Is Coming In 2027",
+     "link": "https://www.hotnewhiphop.com/1012849-schoolboy-q-thank-que-2027",
+     "published": "2026-10-12T23:54:48+00:00",
+     "summary": "Retirement is not part of the plan as ScHoolboy Q confirms \"THank Que\" for 2027 and says he intends to keep going. The post ScHoolboy Q Says ‘THank Que’ Album Is Coming In 2027 appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "ScHoolboy Q Says New Album 'THank Que' Will Be Out in 2027: 'I Will Never Retire'",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZGNLajdnbEU3ek01Z0FRVmhvMkstNktRb1ZhTGZCVTVFb1U5R3NtcUpMc0pmSFY0bnlMclNkUmpFQVcway1KTEpVZVpzeWpIanYzNXh3dW81T3lvMjhNQjVVc25tM2lrN0JPUlVSSVAtRERIT1pIaW40U0lxa3pvSnFB?oc=5",
+     "published": "2026-10-12T18:02:37+00:00",
+     "summary": "ScHoolboy Q Says New Album 'THank Que' Will Be Out in 2027: 'I Will Never Retire' Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s32",
+   "label": "Head Trip 2026 festival shifts lineup to EDM icons after weather delay",
+   "artists": [
+    "Skrillex",
+    "Calvin Harris"
+   ],
+   "genre": "Dance",
+   "kind": "festival",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-12T22:20:11+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Head Trip 2026: Seven Takeaways From the Historic Festival",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZW5JMzZJT2lCZEI5ekFfNkpsaGZfY0ZDSndVV0owb0dvTHVocGpWTUExNTY5SmdScEM0M1RXVFFrLUVWNmpQZEpXQm44dnpFMm5LRGU5STVhakNfZVdUXzhUTUtDcklqNUhfS0V5aVJNd3hqeUhNZjNqN3J1a2Ewa1pwNzhEX3RyV1kxSjdEeExDQjdi?oc=5",
+     "published": "2026-10-12T22:20:11+00:00",
+     "summary": "Head Trip 2026: Seven Takeaways From the Historic Festival Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Head Trip 2026 Was (Accidentally) the Craziest One-Night Lineup in EDM History: Seven Takeaways From the Historic Festival",
+     "link": "https://www.billboard.com/lists/head-trip-festival-recap-skrillex-calvin-harris-coachella/",
+     "published": "2026-10-12T22:16:08+00:00",
+     "summary": "After a day one weather disruption, the festival’s Sunday lineup shifted to include back-to-back-to-back sets from peak-EDM-era icons Skrillex, Calvin Harris and Swedish House Mafia."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Tobe Nwigwe recalls Jay Electronica studio session",
+   "artists": [
+    "Tobe Nwigwe",
+    "Jay Electronica"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T02:04:30+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Tobe Nwigwe Recalls Jay Electronica Bringing Two Huge Dogs To Their Studio Session",
+     "link": "https://allhiphop.com/news/tobe-nwigwe-recalls-jay-electronica-bringing-two-huge-dogs-to-their-studio-session/",
+     "published": "2026-10-13T02:04:30+00:00",
+     "summary": "Tobe and Fat Nwigwe recall an unusual Houston recording session as Jay Electronica joins their new album, The Bridge."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Shakira closes historic Madrid residency with special guests",
+   "artists": [
+    "Shakira",
+    "Maluma",
+    "Bizarrap"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T01:35:54+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Shakira Closes Historic Madrid Residency With Maluma, Bizarrap & More: ‘Someone Pinch Me’",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFBid3JqYW9NQVJ3RUpZbXUtcGFjYm1sNFRMNmZsYU9ySG92Zk4yeWRvZkNnNHJfSnFkT1dXckFSLWJFOEgxWnZ2d2hrWnhUYVV2aUJSUHdhQlZvY0VzVzVhZnRZTWlVVE1vWk93TXJQUHpQZzh2dTF3OExDRUFzaF9CUmVNUWtUMHJuRWdSRzk5TVBhdDlnNm53S2lpTEZHZ0h5N08yaw?oc=5",
+     "published": "2026-10-13T01:35:54+00:00",
+     "summary": "Shakira Closes Historic Madrid Residency With Maluma, Bizarrap & More: ‘Someone Pinch Me’ Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s96",
+   "label": "Hard Rock Streaming Songs",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "other",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T01:06:38+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Hard Rock Streaming Songs",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xeVhfcVJrTE5LU0pOaE9nM1RrM096YUFHRmJoUTdoZHJweEg4SjF5dnEzQ1R6M0xsdk1NRnZsYjFMU1lKN0FCM0Z2S1F0dUpTZzVrTnZqNThFdkJwMUVuS0JJWElRUUNYMTk0MWQ5VU9XY3NYbFlyOHV3?oc=5",
+     "published": "2026-10-13T01:06:38+00:00",
+     "summary": "Hard Rock Streaming Songs Billboard"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s97",
+   "label": "Kid Rock’s Religious Civil War Warning Gets A Trump Repost",
+   "artists": [],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T01:01:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Kid Rock’s Religious Civil War Warning Gets A Trump Repost",
+     "link": "https://allhiphop.com/news/kid-rocks-religious-civil-war-warning-gets-a-trump-repost/",
+     "published": "2026-10-13T01:01:00+00:00",
+     "summary": "Kid Rock’s warning about religion and civil war reached Donald Trump’s feed as Michigan’s Senate contest entered its final weeks."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s82",
+   "label": "Jay-Z reflects on feeling betrayed by Irv Gotti",
+   "artists": [
+    "Jay-Z"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T00:50:41+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Jay-Z Reflects On Feeling Betrayed By Irv Gotti",
+     "link": "https://www.hotnewhiphop.com/1012856-jay-z-betrayed-irv-gotti",
+     "published": "2026-10-13T00:50:41+00:00",
+     "summary": "Friendship gets complicated as Jay-Z recalls feeling betrayed by Irv Gotti over Ja Rule and a possible Nas signing. The post Jay-Z Reflects On Feeling Betrayed By Irv Gotti appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s87",
+   "label": "Swizz Beatz and Alicia Keys' son Genesis launches YouTube show",
+   "artists": [
+    "Swizz Beatz",
+    "Alicia Keys"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "XXL"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T00:42:41+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "Swizz Beatz, Alicia Keys' Son Genesis Launches Cool YouTube Show",
+     "link": "https://www.xxlmag.com/swizz-beatz-alicia-keys-son-genesis-youtube-show-ceos/",
+     "published": "2026-10-13T00:42:41+00:00",
+     "summary": "Swizz's son interviews cool CEOs. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Summer Walker responds to Interscope $50M lawsuit",
+   "artists": [
+    "Summer Walker"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T00:22:01+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Summer Walker “Disappointed” By Interscope’s $50 Million Lawsuit",
+     "link": "https://www.hotnewhiphop.com/1012852-summer-walker-interscope-lawsuit-disappointed",
+     "published": "2026-10-13T00:22:01+00:00",
+     "summary": "With negotiations still active, Summer Walker is preparing to defend herself against Interscope’s multimillion-dollar lawsuit. The post Summer Walker “Disappointed” By Interscope’s $50 Million Lawsuit appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "Vo351KV60cQ",
+    "title": "Summer Walker Faces a Reported $50M Lawsuit Over Her Music Projects 👀",
+    "channel": "MedaBuzz",
+    "published": "2026-10-10T19:04:54Z",
+    "hours_since": 56,
+    "views": 13704,
+    "url": "https://www.youtube.com/watch?v=Vo351KV60cQ",
+    "views_per_hour": 245
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "Gucci Mane announces new album 'Against All Odds'",
+   "artists": [
+    "Gucci Mane"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T00:04:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Gucci Mane Announces New Album ‘Against All Odds’",
+     "link": "https://www.hotnewhiphop.com/1012837-gucci-mane-against-all-odds-announcement",
+     "published": "2026-10-13T00:04:00+00:00",
+     "summary": "The latest Gucci Mane project arrives Friday, with \"Against All Odds\" continuing his habit of keeping October busy. The post Gucci Mane Announces New Album ‘Against All Odds’ appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Queen Latifah weighs options after Lauryn Hill cover battle",
+   "artists": [
+    "Queen Latifah"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T00:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Queen Latifah Faces Tough Call After Lauryn Hill Battle On “The Voice”",
+     "link": "https://allhiphop.com/news/queen-latifah-faces-tough-call-after-lauryn-hill-battle-on-the-voice/",
+     "published": "2026-10-13T00:00:00+00:00",
+     "summary": "Queen Latifah weighs Alt Bloom against Morgan Lett after their Lauryn Hill cover, with Patti LaBelle helping guide her team."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "A2O Lite and A2O Soul debut with 'NEON' and 'SUPERSTAR'",
+   "artists": [
+    "A2O Lite",
+    "A2O Soul"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-12T23:46:47+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "K-Pop Newcomers A2O Lite and A2O Soul Make Their Debut With “NEON” and “SUPERSTAR”",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR256UUlYYTlLTjlYbWhHOVhNNUJBQVRSQzFSZ3QtR3lhNHBRbnJHdC1YdE1tX0QwZk53V2VCQ3Nnb3d1UGdaa3pZYzdCSkI5SU5MNy1RRUxEajNOTGFjTWhCUktpRlJ6VUI0R25YTkNQZE9KLXZ4bkF1TEpyS0RGeW52X2JocnNaWmtj?oc=5",
+     "published": "2026-10-12T23:46:47+00:00",
+     "summary": "K-Pop Newcomers A2O Lite and A2O Soul Make Their Debut With “NEON” and “SUPERSTAR” Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s99",
+   "label": "Katie Bain",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "other",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-12T22:11:51+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Katie Bain",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzXzd2VkRqdnN1Y3RjQXZQOUJtQ0p4NjZnNHB1cnl5VnFxNDRnSHdLYS1OTVFBS3RfWWZZY0dvelFyWXJLeG1uRnA5Z2VjTmJIandZSnJaTQ?oc=5",
+     "published": "2026-10-12T22:11:51+00:00",
+     "summary": "Katie Bain Billboard"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s79",
+   "label": "MEOVV revs back with new single album 'GO HARD'",
+   "artists": [
+    "MEOVV"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-12T20:07:54+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "MEOVV Revs Back Into Action With New Single Album \"GO HARD\"",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95SGwyQ0RHNWlTTTdLZ3gxc1FtQzlGZjlqMDh4UmV1cVlGVkh0ODBrdml3LWF3WGZzTDNZZl9aWV9HaW9nREFVM0t3cmF1bVdxakJKbklVUWVDR05CWndZaWx4LVZUc2tOSkRuaEF2MmV5WFotek9J?oc=5",
+     "published": "2026-10-12T20:07:54+00:00",
+     "summary": "MEOVV Revs Back Into Action With New Single Album \"GO HARD\" Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s60",
+   "label": "Zara Larsson Japan concert showcases positive pop power",
+   "artists": [
+    "Zara Larsson"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "Excite エキサイト",
+    "Yahoo!ニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Excite エキサイト",
+    "Yahoo!ニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-12T09:25:00+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "ザラ・ラーソンはなぜ今、世界を熱狂させているのか？ 東京公演の大合唱が証明した、互いを肯定し合うポップの力",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSnkzbU9jeXd6Y1dXMGttOGJGZ2pXZlZtNDBId2hLdjNqb0Nrak5QLUJoZ2JHejZVOW9MWGNjWG9ZdXdLQ2xyVTBSWU9mOWRNVDg5YU4tc0h4SU9uSXZtOFktOU1VLXJGZVp4ZjZrM0xqZENBeXJfeDk5aExBYzQ?oc=5",
+     "published": "2026-10-12T09:25:00+00:00",
+     "summary": "ザラ・ラーソンはなぜ今、世界を熱狂させているのか？ 東京公演の大合唱が証明した、互いを肯定し合うポップの力 Yahoo!ニュース"
+    },
+    {
+     "outlet": "Excite エキサイト",
+     "title": "ザラ・ラーソンはなぜ今、世界を熱狂させているのか？ 東京公演の大合唱が証明した、互いを肯定し合うポップの力",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uX3pjcnVxSVdGZVRabzQ4bDZVRGxoUVlCRW4zTFczSWdxeGQ4NnI5dlJ0dlJyRWc3aWxwMHJlUWRrazk0SkppSUt3X01ZNGk5NnNzSmlEaWFHelAtTXBrWV9NcGpSZUE?oc=5",
+     "published": "2026-10-12T09:05:00+00:00",
+     "summary": "ザラ・ラーソンはなぜ今、世界を熱狂させているのか？ 東京公演の大合唱が証明した、互いを肯定し合うポップの力 Excite エキサイト"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s55",
+   "label": "Quicksand announces return Japan tour after four years",
+   "artists": [
+    "Quicksand"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "エンタメ特化型情報メディア スパイス",
+    "ｄメニューニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "エンタメ特化型情報メディア スパイス",
+    "ｄメニューニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-12T03:48:39+00:00",
+   "articles": [
+    {
+     "outlet": "エンタメ特化型情報メディア スパイス",
+     "title": "「【画像】クイックサンド、約4年ぶりの来日公演が決定【コメントあり】」の画像1/2 | SPICE - エンタメ特化型情報メディア スパイス",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMekdFVW5YNllQUm8ybU0zeFhVM2lQQk4yUjd1Unp0dDk2eC1SZkYtR3htRWdHVEkyVjY0d0JldHB2ZnZrYTVDbHZUZGdCZ2xTNkZzQUV3bFJqdm1GNS01LVQzRQ?oc=5",
+     "published": "2026-10-12T03:48:39+00:00",
+     "summary": "「【画像】クイックサンド、約4年ぶりの来日公演が決定【コメントあり】」の画像1/2 | SPICE - エンタメ特化型情報メディア スパイス エンタメ特化型情報メディア スパイス"
+    },
+    {
+     "outlet": "ｄメニューニュース",
+     "title": "クイックサンド、約4年ぶりの来日公演が決定【コメントあり】（SPICE）",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05RHNJRnpUSEJVZWVaSmRzNzdmQUFNNC1nN2RPdzJ5R0hoQW5mV2kyOF8taGx3OU5tNG5saHp1Z1F2R1AySUtwV0QzNXZfVUtmdy1UTmJnMnNIaUljTU9JM2lpbDFyQjhocWk2eFF1MDFRUkgxUUh6VTJsbF8?oc=5",
+     "published": "2026-10-12T03:00:00+00:00",
+     "summary": "クイックサンド、約4年ぶりの来日公演が決定【コメントあり】（SPICE） ｄメニューニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "QWER Osaka concert day-of ticket sales",
+   "artists": [
+    "QWER"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "クリエイティブマン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T02:21:35+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "QWER 大阪公演の当日券お知らせ",
+     "link": "https://www.creativeman.co.jp/2026/10/13/108400/",
+     "published": "2026-10-13T02:21:35+00:00",
+     "summary": "10/15(木) GORILLA HALL OSAKA 公演の当日券を以下のように販売いたします。 通常スタンディング ￥14,000-(税込/1Drink) プレイガイド販売：公演当日10:00〜20:00 ※WEB販 […] The post QWER 大阪公演の当日券お知らせ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s50",
+   "label": "EZRA COLLECTIVE performs at Tokyo Toyosu Pit",
+   "artists": [
+    "EZRA COLLECTIVE"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "bignothing.blog.fc2.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "bignothing.blog.fc2.com"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-12T13:51:00+00:00",
+   "articles": [
+    {
+     "outlet": "bignothing.blog.fc2.com",
+     "title": "■EZRA COLLECTIVE | エズラ・コレクティヴ、10月13日（火）、豊洲PITで来日公演実施。会場でCD/LPを購入した方にはポスターを先着でプレゼント。 | BIG NOTHING",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5RzRkMmFvTk5RRzBSeVpoQmFtQjRkLTVDZFJHX3VCazNaRHZPN05rYmthajY4OGE3eV95NnkyOXJMS09CSEVma0M0TjY3NG9RUEM5TENTSGlJUUdzSnhGcGYySDA?oc=5",
+     "published": "2026-10-12T13:51:00+00:00",
+     "summary": "■EZRA COLLECTIVE | エズラ・コレクティヴ、10月13日（火）、豊洲PITで来日公演実施。会場でCD/LPを購入した方にはポスターを先着でプレゼント。 | BIG NOTHING https://bignothing.blog.fc2.com/"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s51",
+   "label": "Marlon Hoffstadt and David Guetta release collaboration",
+   "artists": [
+    "Marlon Hoffstadt",
+    "David Guetta"
+   ],
+   "genre": "Dance",
+   "kind": "collab",
+   "outlets": [
+    "EDM MAXX"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "EDM MAXX"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-12T10:11:18+00:00",
+   "articles": [
+    {
+     "outlet": "EDM MAXX",
+     "title": "来日を控える新世代トランスの旗手Marlon Hoffstadt、David Guettaとの初コラボ作をリリース",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9JWEpOcHp2SGRBcXpSa29SWmNtUmxOQXNSOC1weDZoZ2FTMXdnOXAyT3NOdW1oa2FkRXhLU2NlOHVnakRa?oc=5",
+     "published": "2026-10-12T10:11:18+00:00",
+     "summary": "来日を控える新世代トランスの旗手Marlon Hoffstadt、David Guettaとの初コラボ作をリリース EDM MAXX"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s52",
+   "label": "GENESI releases UK grime collaboration with Flowdan",
+   "artists": [
+    "GENESI",
+    "Flowdan"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "outlets": [
+    "EDM MAXX"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "EDM MAXX"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-12T08:51:14+00:00",
+   "articles": [
+    {
+     "outlet": "EDM MAXX",
+     "title": "来日公演決定のGENESI – UKグライムの重鎮Flowdanをフィーチャー、コーチェラで話題を集めたIDを正式リリース",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4zcU1RVlBGUUhiUF9FRndsc1NCREx6dS0wdFNySVJpVzNHQXVGNmQ5YkdOSDRNQXp2bXRQQUFXRUloWGZG?oc=5",
+     "published": "2026-10-12T08:51:14+00:00",
+     "summary": "来日公演決定のGENESI – UKグライムの重鎮Flowdanをフィーチャー、コーチェラで話題を集めたIDを正式リリース EDM MAXX"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s53",
+   "label": "Art Garfunkel cancels Japan tour in November-December",
+   "artists": [
+    "Art Garfunkel"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-12T04:52:45+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "Art Garfunkel、11月から12月にかけて予定されていた来日公演が中止に - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5tQnVVamh3Z1ZZSnRBQ180MWF5elBEVF9Ua3ZDQmg3VXhFZjE1bE9xTHI4U1pXRklKeUlOMFE5ZGJGaXJ3S3lR?oc=5",
+     "published": "2026-10-12T04:52:45+00:00",
+     "summary": "Art Garfunkel、11月から12月にかけて予定されていた来日公演が中止に LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s54",
+   "label": "Megadeth announces additional Japan tour dates for February 2027",
+   "artists": [
+    "Megadeth"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-12T03:52:15+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "Megadeth、2027年2月に行われる来日公演に追加公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9URVJwejgzeWJzaEUxNW1rMnM5c0pqWDIza0dTcDNnajUxNW1sek9sa2lvN1J6eTBVdGg2OVVldEtEcXkxS2Vn?oc=5",
+     "published": "2026-10-12T03:52:15+00:00",
+     "summary": "Megadeth、2027年2月に行われる来日公演に追加公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s59",
+   "label": "Joey Dosik Japan tour interview on Japan relationship",
+   "artists": [
+    "Joey Dosik"
+   ],
+   "genre": "Other",
+   "kind": "interview",
+   "outlets": [
+    "note"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "note"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-12T03:00:34+00:00",
+   "articles": [
+    {
+     "outlet": "note",
+     "title": "Joey Dosik来日インタビュー`26 /// 日本との相思相愛の関係、新曲の制作ストーリー、Vulfpeckで演奏する喜び",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnb3h5S2V6NXNuSGRucURwVjBlUmRpRUl2SzY2MDBSaGMtallFVExYOFdFbFZJWlg0dXdUV1NmMWZxaFl5bXlpeXlpM3FCTUZL?oc=5",
+     "published": "2026-10-12T03:00:34+00:00",
+     "summary": "Joey Dosik来日インタビュー`26 /// 日本との相思相愛の関係、新曲の制作ストーリー、Vulfpeckで演奏する喜び note"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s56",
+   "label": "Queens Of The Stone Age in-store live at Tower Records Shibuya",
+   "artists": [
+    "Queens Of The Stone Age"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-12T02:52:18+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "Queens Of The Stone Age、タワーレコード渋谷店でインストア・ライヴが決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wbG1KWG5JYVlxSDB4Mld2RmNaNW9fRkZLSHJrSmY1Z2hSUkIzNGtZdTdnSDh4OGpIdXQ5MWoxOUpiT1BLeDZJ?oc=5",
+     "published": "2026-10-12T02:52:18+00:00",
+     "summary": "Queens Of The Stone Age、タワーレコード渋谷店でインストア・ライヴが決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s57",
+   "label": "The Avalanches do talk and signing at Tower Records Shibuya",
+   "artists": [
+    "The Avalanches"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-12T02:52:18+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "The Avalanches、タワーレコード渋谷店でトーク＆サイン会の開催が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FUlRvZDhUOEdXQTFXMzFnaHhRTE4zMWo4NU5kT21zU3RrN08wT184ZVkwLU1NMVpJWnJ3TC03RVpaa3ZjMWtj?oc=5",
+     "published": "2026-10-12T02:52:18+00:00",
+     "summary": "The Avalanches、タワーレコード渋谷店でトーク＆サイン会の開催が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s95",
+   "label": "Courteeners 'Not Nineteen Forever' oral history",
+   "artists": [
+    "Courteeners"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-12T14:11:47+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "‘When it went double platinum, Andy Burnham gave us the award’: how Courteeners made Not Nineteen Forever",
+     "link": "https://www.theguardian.com/culture/2026/oct/12/how-courteeners-made-not-nineteen-forever-andy-burnham",
+     "published": "2026-10-12T14:11:47+00:00",
+     "summary": "‘In nightclubs, I’d be the dude scribbling lyrics in the corner while everyone else was dancing or copping off’ I had the lyrics to Not Nineteen Forever before the band existed. They were in a little red book of poems and scribbles that got"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s93",
+   "label": "Fontaines D.C. Dopamine Chamber review",
+   "artists": [
+    "Fontaines D.C."
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-12T06:00:48+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "Fontaines DC: Dopamine Chamber review – gloomy, gorgeous and a gargantuan triumph",
+     "link": "https://www.theguardian.com/music/2026/oct/12/fontaines-dc-dopamine-chamber-album-review-xl-grian-chatten",
+     "published": "2026-10-12T06:00:48+00:00",
+     "summary": "(XL) This is a beguiling, endlessly inventive and frequently astonishing fifth LP from a group at increasing ease with being the best band of their generation Fifteen centuries ago, the Byzantine archbishop Theophilus of Adana did first-han"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s94",
+   "label": "Grammy predictions for Record and Song of the Year",
+   "artists": [
+    "Ella Langley",
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "outlets": [
+    "Variety"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-12T21:13:07+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Record and Song of the Year Grammy Predictions: With Ella Langley, Taylor Swift, the Two Olivias and Other Frontrunners in the Race, Expect a Nail-Biter",
+     "link": "https://variety.com/2026/music/news/grammy-record-of-year-predictions-2027-ella-taylor-olivia-1236909331/",
+     "published": "2026-10-12T21:13:07+00:00",
+     "summary": "Predicting the Record of the Year race for the 2027 Grammys is both super easy and super challenging… depending on whether we’re focused on narrowing down the thousands of first-ballot contenders to eight nominees, or whether we’re jumping "
+    },
+    {
+     "outlet": "Variety",
+     "title": "Out With the New, in With the Old?: How the Grammys Should Recognize Revived Hits",
+     "link": "https://variety.com/2026/music/news/how-the-grammys-should-recognize-revived-hits-iris-dreams-1236909151/",
+     "published": "2026-10-12T17:06:56+00:00",
+     "summary": "Earlier this year, Goo Goo Dolls’ “Iris” had another sudden resurgence — one of many since its release in 1998 — after social media users and celebrities spanning Drew Barrymore to Kevin Bacon used the song to showcase photos of what they l"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s88",
+   "label": "Taylor Swift and Beatles chart history intersection",
+   "artists": [
+    "Taylor Swift",
+    "The Beatles"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T00:42:05+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Taylor Swift, Meet The Beatles: How This Dynamic Duo Tells the Story of Now & Then on the Billboard Charts",
+     "link": "https://www.billboard.com/media/podcasts/taylor-swift-beatles-chart-history-pop-shop-podcast-1236359335/",
+     "published": "2026-10-13T00:42:05+00:00",
+     "summary": "On the new Billboard Pop Shop Podcast , Katie & Keith are discussing the ways Swift's chart history keeps intersecting with the Fab Four."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s67",
+   "label": "Charanjit Singh's synth-based Indian classical music history",
+   "artists": [
+    "Charanjit Singh"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-12T15:17:32+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "How Charanjit Singh reimagined Indian classical music for the electronic age",
+     "link": "https://djmag.com/features/how-charanjit-singh-reimagined-indian-classical-music-electronic-age",
+     "published": "2026-10-12T15:17:32+00:00",
+     "summary": "In 1982, Indian composer Charanjit Singh’s ‘Synthesizing: Ten Ragas to a Disco Beat’ became one of the first albums to harness the potential of the Roland TB-303, the bass synth that would later become synonymous with acid house. Overlooked"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s63",
+   "label": "UK music magazine features 90s-present UK rock essential albums",
+   "artists": [],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "rockinon.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "rockinon.com"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-12T04:00:57+00:00",
+   "articles": [
+    {
+     "outlet": "rockinon.com",
+     "title": "本日発売の『ロッキング・オン』最新号は、90年代から現在までのUKロックの必聴名盤150枚を総まとめする完全ディスクガイド特集！ 90年代から現在に至るまで、UKロックシーンの変遷を辿る総括論考を掲載中！ (rockin'on 編集部日記)－rockinon.com｜https://rockinon.com",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBObW1fWU9OV01xRWVKdmNPZ0NUMXp1S244QmlEUW9CWko5dkwwdUhRT3BidkNiZ3BnSDRSNU5ld0N3ampVOG9QcDB1bGdmVllCMlJR?oc=5",
+     "published": "2026-10-12T04:00:57+00:00",
+     "summary": "本日発売の『ロッキング・オン』最新号は、90年代から現在までのUKロックの必聴名盤150枚を総まとめする完全ディスクガイド特集！ 90年代から現在に至るまで、UKロックシーンの変遷を辿る総括論考を掲載中！ (rockin'on 編集部日記)－rockinon.com｜https://rockinon.com rockinon.com"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "BLACKPINK's Jennie makes surprise appearance at concert",
+   "artists": [
+    "BLACKPINK"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Infoseek",
+    "ｄメニューニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Infoseek",
+    "ｄメニューニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T00:40:00+00:00",
+   "articles": [
+    {
+     "outlet": "Infoseek",
+     "title": "女優デビューのBLACKPINK・ジェニー ドラマで共演したアーティストの公演にサプライズ登場",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGRzY5eC1Lb0Jqc2R4T3MyX1ducXZ3WEZFMlk4Qm0zakdDQ2dTQzFzZW0zbjJsZGFiZGYtY2ptR1YwcHd5YUJGRFF3eW5fUC0zUlV0MTNUQ0ViaFdrRFlFM0RqbVFTQ3hTUDg1dFh30gFuQVVfeXFMUEZHNjl4LUtvQmpzZHhPczJfV25xdndYRkUyWThCbTNqR0NDZ1NDMXNlbTNuMmxkYWJkZi1jam1HVjBwd3lhQkZEUXd5bl9QLTNSVXQxM1RDRWJoV2tEWUUzRGptUVNDeFNQODV0WHc?oc=5",
+     "published": "2026-10-13T00:40:00+00:00",
+     "summary": "女優デビューのBLACKPINK・ジェニー ドラマで共演したアーティストの公演にサプライズ登場 Infoseek"
+    },
+    {
+     "outlet": "ｄメニューニュース",
+     "title": "女優デビューのBLACKPINK・ジェニー ドラマで共演したアーティストの公演にサプライズ登場",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdVQ2SXJfWmx2bmg3bF94eC0ydkdGUXh3aEdKVUhST0haRUs3djUweGlXRHJuaEsweENiRU1yYXdSZ3BlTU1tWERzYTk5dlU1YnFNZ2pzeFBkQzU2MlhiSmtNVF9fNzlrZllKVGRtSENhNm9Yai1XTnRTd3NHbGhiSDROX3dKWTV1UU5NUmQ1c1lZeVox0gGUAUFVX3lxTFB1VDZJcl9abHZuaDdsX3h4LTJ2R0ZReHdoR0pVSFJPSFpFSzd2NTB4aVdEcm5oSzB4Q2JFTXJhd1JncGVNTW1YRHNhOTl2VTVicU1nanN4UGRDNTYyWGJKa01UX183OWtmWUpUZG1IQ2E2b1hqLVdOdFN3c0dsaGJINE5fd0pZNXVRTk1SZDVzWVl5WjE?oc=5",
+     "published": "2026-10-13T00:40:00+00:00",
+     "summary": "女優デビューのBLACKPINK・ジェニー ドラマで共演したアーティストの公演にサプライズ登場 ｄメニューニュース"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 2
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 7
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 24
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 2,
+   "kept": 2
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 74,
+   "kept": 21
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 7
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 7
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 2
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 2
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 25
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 10
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 19
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 28,
+   "kept": 13
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 24,
+   "kept": 13
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 4
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 37
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 1,
+   "kept": 1
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 11,
+   "kept": 1
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 22,
+   "kept": 10
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 1,
+   "kept": 1
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 42,
+   "kept": 19
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 31,
+   "kept": 11
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 6,
+   "kept": 1
+  }
+ ],
+ "cost": {
+  "usd": 0.2457,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 22834,
+    "output_tokens": 9140
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 16452,
+    "output_tokens": 5570
+   }
+  ]
+ }
+}
