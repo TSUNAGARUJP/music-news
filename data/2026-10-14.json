@@ -1,0 +1,2818 @@
+{
+ "date": "2026-10-14",
+ "generated_at": "2026-10-14T02:55:43.838039+00:00",
+ "article_count": 310,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "Tupac殺害事件の判決という一般メディアも報じる重大ニュースに加え、Olivia RodrigoとChappell Roanの共演、KATSEYEの新曲など、日本でも人気のPOPの話題が目立つ一日。来日情報も追加公演や初来日の決定が多い。",
+  "top": [
+   {
+    "id": "s0",
+    "title_ja": "Tupac殺害事件、首謀者に禁錮40年から終身刑の判決",
+    "genre": "Hip-Hop",
+    "summary_ja": "現地時間2026年10月13日、Tupac Shakur殺害事件で有罪判決を受けたDuane Davis（通称Keffe D）に、禁錮40年から終身刑が言い渡された。Davisは殺害を指示したとして、8月に有罪とされていた。",
+    "why_ja": "11媒体が報じ、BBC・CNN・The Guardianなど一般メディアも取り上げた大きなニュース。日本でもBillboard JAPANが報じている。",
+    "line_point": "Tupac殺害事件で、殺害を指示した元ギャングに禁錮40年から終身刑の判決。BBC・CNNも報道。",
+    "reels": [
+     {
+      "hook": "Tupac事件、ついに判決が出ました",
+      "angle": "8月の有罪判決から今回の量刑までを、時系列のテロップで整理。茶化さず、事実を淡々と伝える構成にする。"
+     },
+     {
+      "hook": "ヒップホップ史に残る事件に区切り",
+      "angle": "Tupacをよく知らない若い世代に向けて、BBCやCNNまで報じた理由を報道の広がりから解説する。"
+     }
+    ]
+   },
+   {
+    "id": "s41",
+    "title_ja": "Olivia Rodrigo×Chappell Roan「Expectations」リミックス発表",
+    "genre": "POP",
+    "summary_ja": "Olivia Rodrigoが、Chappell Roanとの「Expectations」リミックスとMVの制作をInstagramで発表したと報じられている。Billboardは公開時期も伝えている。",
+    "why_ja": "BillboardとVarietyが報道。発表を伝えるYouTube動画は、約32時間で約6万回再生されている。",
+    "line_point": "Olivia RodrigoとChappell Roanが「Expectations」リミックスでタッグ。MVも制作。",
+    "reels": [
+     {
+      "hook": "OliviaとChappellがついに共演！",
+      "angle": "2人のこれまでの代表的なビジュアルを並べて、夢の共演の驚きを伝える。最後に公開時期の情報で締める。"
+     },
+     {
+      "hook": "このリミックス、MVまであるんです",
+      "angle": "Instagramでの発表の流れを紹介し、MVがどんな雰囲気になるかを視聴者に予想してもらうコメント誘導型の構成。"
+     }
+    ]
+   },
+   {
+    "id": "s65",
+    "title_ja": "KATSEYE、新曲「Unloveu」公開　メンバーが初の作詞作曲",
+    "genre": "POP",
+    "summary_ja": "KATSEYEが、EP『WILD』のボーナストラック「Unloveu」を映像とともに公開した。メンバーのLara Rajが作詞作曲とプロデュースにクレジットされている。メンバーがグループの楽曲制作に参加するのは今回が初めて。",
+    "why_ja": "「Unloveu」のビジュアライザーは、公開から約3時間で約42.8万回再生と急速に伸びている。",
+    "line_point": "KATSEYE新曲「Unloveu」公開。Lara Rajがメンバーとして初めて作詞作曲とプロデュースを担当。",
+    "reels": [
+     {
+      "hook": "KATSEYEの新曲、メンバーが作りました",
+      "angle": "Lara Rajがメンバー初の作詞作曲とプロデュースを担当したことを軸に、グループの新しい一歩として紹介する。"
+     },
+     {
+      "hook": "3時間で40万回再生突破！",
+      "angle": "再生数の勢いをテロップで見せたあと、映像のおすすめポイントを短く切り取って紹介する。"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s37",
+     "title_ja": "Calvin Harris、初の北米ヘッドラインツアーを発表",
+     "note": "Calvin Harrisが2027年春に、初の北米ヘッドラインツアーを行うと発表した。"
+    },
+    {
+     "id": "s9",
+     "title_ja": "Troye Sivan、Role Modelと新曲「Cowboy」の映像を公開",
+     "note": "Troye Sivanが、Role Modelと踊る新曲「Cowboy」の映像を公開した。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s53",
+     "title_ja": "Raye、Albert Hall公演に180万件の申込　AIボットに苦言",
+     "note": "5,000席の公演に180万件の申込があり、AIボットを使った転売業者にRayeが反論した。"
+    },
+    {
+     "id": "s22",
+     "title_ja": "YG Entertainment、新ボーイズ・ガールズグループのデビュー計画",
+     "note": "YG Entertainmentが、新しいボーイズグループとガールズグループのデビュー計画を発表した。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s16",
+     "title_ja": "A$AP Rocky、FERGに新作の配給を申し出",
+     "note": "改名をめぐり応酬していたFERGに、A$AP Rockyが新作の配給を申し出た。"
+    },
+    {
+     "id": "s19",
+     "title_ja": "50 Cent、J. Coleがビーフ不参加で最も代償を払ったと発言",
+     "note": "Kendrick対Drakeに参戦しなかったJ. Coleが最も代償を払ったと、50 Centが語った。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s2",
+     "title_ja": "Michael Jackson伝説のハーフタイムショー、舞台裏がドキュメンタリーに",
+     "note": "1993年のスーパーボウル・ハーフタイムショーの舞台裏を、HuluとESPNのドキュメンタリーが描く。"
+    },
+    {
+     "id": "s8",
+     "title_ja": "Led Zeppelin、『Narnia』予告に「Stairway to Heaven」を許可",
+     "note": "Greta Gerwig監督がRobert PlantとJimmy Pageから使用許可を得た裏話。"
+    },
+    {
+     "id": "s28",
+     "title_ja": "50 Centの『Street Fighter』の音楽、原点はTupacの録音",
+     "note": "50 Centが、TupacのMike Tyson期の録音から『Street Fighter』の音楽の着想を得たと語った。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s61",
+    "title_ja": "Jane Remover、12月の来日公演に追加公演決定",
+    "note": "WWW X公演が即完売したため、追加公演の開催が決定。"
+   },
+   {
+    "id": "s78",
+    "title_ja": "Finn Wolfhard、2027年2月に初来日公演決定",
+    "note": "主催はCREATIVEMAN PRODUCTIONS。"
+   },
+   {
+    "id": "s4",
+    "title_ja": "The Avalanches、新作リリース・パーティーでDJセット",
+    "note": "最新作『ノー・バッド・メモリーズ』のリリース記念パーティーを10月14日に開催し、DJセットを披露。"
+   },
+   {
+    "id": "s50",
+    "title_ja": "Moodymann、東京・京都で来日公演決定",
+    "note": "東京は渋谷MIDNIGHT EASTで開催。渋谷での公演は約6年ぶり。"
+   },
+   {
+    "id": "s76",
+    "title_ja": "Gia Margaret来日公演、東京公演に青葉市子がゲスト",
+    "note": "東京公演に青葉市子がゲスト出演することが決定。"
+   },
+   {
+    "id": "s5",
+    "title_ja": "LEVERGENT、10月に来日単独公演決定",
+    "note": "初日は無料で観覧できるスペシャルショーケースを実施。"
+   },
+   {
+    "id": "s59",
+    "title_ja": "REYTONS、11月の来日公演のサポート・アクト決定",
+    "note": "11月の来日公演に出演するサポート・アクトが発表された。"
+   },
+   {
+    "id": "s60",
+    "title_ja": "ハン・ジウ、11月に日本初の単独ファンミーティング",
+    "note": "11月3日に東京・渋谷で開催。"
+   },
+   {
+    "id": "s58",
+    "title_ja": "The Lemon Twigs、2027年1月に来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s12",
+    "title_ja": "Anamanaguchi、来日を前にインタビュー公開",
+    "note": "『スコット・ピルグリム』で知られるチップチューンバンド。日本の音楽とゲームへの愛を語る。"
+   },
+   {
+    "id": "s79",
+    "title_ja": "Weezer、4都市5日間の来日公演決定",
+    "note": "16作目の新作を携え、2月から4都市5日間の単独公演を行う。"
+   }
+  ],
+  "tour_candidates": 15
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s0",
+   "label": "Tupac murder orchestrator Duane Davis sentenced",
+   "artists": [
+    "Tupac Shakur"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "BBC",
+    "Billboard",
+    "Billboard JAPAN",
+    "CNN",
+    "Consequence",
+    "HotNewHipHop",
+    "Pitchfork",
+    "Rolling Stone",
+    "The Guardian",
+    "Variety",
+    "XXL"
+   ],
+   "n_outlets": 11,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [
+    "BBC",
+    "CNN",
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 10,
+   "score": 14,
+   "latest": "2026-10-14T11:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "故2パック、殺害を指示した元ギャング・リーダーに禁錮40年から終身刑が言い渡される",
+     "link": "https://www.billboard-japan.com/d_news/detail/166463",
+     "published": "2026-10-14T11:00:00+09:00",
+     "summary": "現地時間2026年10月13日、トゥパック・シャクール殺害事件で有罪判決を受けたドゥエイン・“キーフィー・D”・デイ…"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Duane “Keffe D” Davis Sentenced to 40 Years to Life After Conviction in Tupac’s Murder",
+     "link": "https://consequence.net/2026/10/duane-davis-sentenced-in-tupac-murder/",
+     "published": "2026-10-13T20:39:18+00:00",
+     "summary": "Davis was found guilty in August of orchestrating the rapper's killing. Duane “Keffe D” Davis Sentenced to 40 Years to Life After Conviction in Tupac’s Murder Travis Bland"
+    },
+    {
+     "outlet": "BBC",
+     "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+     "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-10-13T19:51:14+00:00",
+     "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996."
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Duane ‘Keffe D’ Davis sentenced to 40 years to life over Tupac Shakur’s murder",
+     "link": "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder",
+     "published": "2026-10-13T19:43:45+00:00",
+     "summary": "‘You don’t get to take a man from his family … and just walk away from it,’ judge says as former gang leader sentenced Tupac trial spotlights decades of US police failures in solving the case Duane “Keffe D” Davis, the former California gan"
+    },
+    {
+     "outlet": "XXL",
+     "title": "Keffe D Sentenced to 40 years to Life in Prison for Tupac Murder",
+     "link": "https://www.xxlmag.com/keffe-d-sentenced-40-to-life-tupac-shakur-murder/",
+     "published": "2026-10-13T19:25:32+00:00",
+     "summary": "He previously announced plans to repeal. Continue reading…"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Tupac Killer Duane Davis Sentenced to 40 Years To Life in Prison for Murdering Rap Icon",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEo0aHNtTjNlajlCemZLbTZFdF9GY0JyeTNFdWtxM1RYMFhTVTFTbk9RYUlFRzA2Q2JpaUswV3l2NU1nVUE5Z3ZseDZxUVpBemhVT19iWExwSTlKQnlhWnYwMnBlbEUzY1VzUGxmMDNWZ2xTTDlaZ0NoeVVBTDh4RFBENTZZcmc?oc=5",
+     "published": "2026-10-13T19:13:45+00:00",
+     "summary": "Tupac Killer Duane Davis Sentenced to 40 Years To Life in Prison for Murdering Rap Icon Billboard"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Duane ‘Keffe D’ Davis Sentenced to 40 Years to Life for Murder of Tupac Shakur",
+     "link": "https://www.rollingstone.com/music/music-news/duane-keffe-d-davis-sentenced-for-murder-of-tupac-shakur-1235641951/",
+     "published": "2026-10-13T19:10:56+00:00",
+     "summary": "The former Compton gang leader was convicted in August after jurors took three hours to reach a verdict in the 30-year-old homicide"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Duane ‘Keffe D’ Davis Sentenced to 40 Years to Life for Role in Tupac Shakur’s Murder",
+     "link": "https://variety.com/2026/music/news/duane-keffe-d-davis-sentenced-40-years-tupac-shakur-murder-1236909531/",
+     "published": "2026-10-13T18:59:02+00:00",
+     "summary": "Duane “Keffe D” Davis has been sentenced to 40 years to life after being found guilty of orchestrating the 1996 murder of Tupac Shakur. Davis appeared in a Nevada court on Tuesday for his sentencing in the case, with the judge handing him 2"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Man Who Orchestrated Tupac Shakur Murder Sentenced to 40 Years to Life in Prison",
+     "link": "https://pitchfork.com/story/man-convicted-of-orchestrating-tupac-shakur-murder-sentenced-to-40-years-to-life/",
+     "published": "2026-10-13T18:54:34+00:00",
+     "summary": "Duane “Keffe D” Davis was found guilty in August"
+    },
+    {
+     "outlet": "CNN",
+     "title": "Duane Davis sentenced to 40 years to life for the death of Tupac Shakur",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZlNMaDIyU1JTOGpOMVVUaTctbkpmUXgzVV9VbjVwYlAzVVlfLVgwS2lmWmROQUFkdzIxcWJBTG11M05LMGNxeE5IYkhmamtNeWRxb1E2b1V0NktBYVo5aHpIa0htSGJrZWVqNG9wMmxzOW84YXh2a0QxcWM4aFV5Zg?oc=5",
+     "published": "2026-10-13T18:54:31+00:00",
+     "summary": "Duane Davis sentenced to 40 years to life for the death of Tupac Shakur CNN"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "A$AP Rocky FERG distribution deal",
+   "artists": [
+    "A$AP Rocky",
+    "FERG"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "collab",
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-14T00:05:33+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "A$AP Rocky Extends Olive Branch, Offers to Distribute New FERG Album: ‘U Know Where Home Is’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-ferg-new-album-1236360253/",
+     "published": "2026-10-14T00:05:33+00:00",
+     "summary": "The two A$AP members have been going back and forth through the media over FERG's name change."
+    },
+    {
+     "outlet": "Complex",
+     "title": "ASAP Rocky Offers Ferg Potential Distribution Deal: 'U Know Where Home Is'",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjY5V3g1UUZFWThvUjZvOHZ4QU45bUdGaU1mdlQ5RFFvR3Zad3I3aVd6UTFSVTZYTUxFSlA2YzgzSTk2bXItUzJTLW42NnZWNU1TcE15YWhUQ1NVd0sxWW5GT3pqSHpxbW5ZVTRjUjV2LUFJdTRmSkpHSXJNdEVQbVF3b0doa1VtSWZmT3EzXzE?oc=5",
+     "published": "2026-10-13T23:54:33+00:00",
+     "summary": "ASAP Rocky Offers Ferg Potential Distribution Deal: 'U Know Where Home Is' Complex"
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "A$AP Rocky Has An Offer For FERG That Is Hard To Refuse",
+     "link": "https://www.hotnewhiphop.com/1012957-asap-rocky-ferg-new-album-distribution",
+     "published": "2026-10-13T20:14:12+00:00",
+     "summary": "FERG has a new album on the horizon, and on social media, A$AP Rocky came through with a generous new offer. The post A$AP Rocky Has An Offer For FERG That Is Hard To Refuse appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Summer Walker sues LVRN for fraud",
+   "artists": [
+    "Summer Walker"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "Billboard",
+    "HotNewHipHop",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-13T23:35:54+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Summer Walker Accuses LVRN Of Fraud And Withholding Money",
+     "link": "https://www.hotnewhiphop.com/1012973-summer-walker-lawsuit-lvrn-fraud",
+     "published": "2026-10-13T23:35:54+00:00",
+     "summary": "The legal pressure around Summer Walker expands as she accuses LVRN of fraud, hidden revenue, and breaching her trust. The post Summer Walker Accuses LVRN Of Fraud And Withholding Money appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Summer Walker Is Suing LVRN for Fraud, Says Label/Management Firm Pocketed Her Money",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckItQ2VRdlB6SzFrakEzVE4zVlBHdVoxQWZxclBjaENnekpsNXpyaVpTeUdXaTJUTWY3S01pVVEtMUhDWGJiNjM3T1hJWlhRalY4MXdiOEhBMWNZeXo5bGNxWEN5a0ZYdEh5NFVqeDFZZlU3Z0VUc3IyaHh5QXVsb0dZQ0M?oc=5",
+     "published": "2026-10-13T22:37:40+00:00",
+     "summary": "Summer Walker Is Suing LVRN for Fraud, Says Label/Management Firm Pocketed Her Money Billboard"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Summer Walker Claims Label LVRN ‘Fraudulently’ Hid YouTube, Amazon Cash as Contract War Escalates",
+     "link": "https://www.rollingstone.com/music/music-news/summer-walker-love-renaissance-interscope-youtube-amazon-1235642163/",
+     "published": "2026-10-13T21:39:12+00:00",
+     "summary": "The \"No Love\" singer is asking a judge in Atlanta to void her contract with Love Renaissance"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s37",
+   "label": "Calvin Harris North America headline tour",
+   "artists": [
+    "Calvin Harris"
+   ],
+   "genre": "Dance",
+   "kind": "tour",
+   "outlets": [
+    "Billboard",
+    "Consequence",
+    "EDM.com"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-13T17:18:58+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Calvin Harris Announces First-Ever North American Headlining Tour",
+     "link": "https://consequence.net/2026/10/calvin-harris-2027-north-american-tour/",
+     "published": "2026-10-13T17:18:58+00:00",
+     "summary": "Harris has played hundreds of shows in the US and Canada over the years, but his upcoming spring 2027 run technically serves as his first-ever North American tour. Calvin Harris Announces First-Ever North American Headlining Tour Paolo Ragu"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Calvin Harris Announces His First Ever Headlining North American Tour: Is He Coming to Your City?",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1dLNFJyYzFockREUmhpMTJwLWczaEVmTzEzSHE4emZPdFdVZ0Jra0MxeGswbTkwRGp6VzhEQlNXeWRFdmZSZGpZRDNSRTBiOUY3c2JJVWlfbVpnU3Z5OW1JS2V4eU5raEUtTVZVYjVwYjB0S0lYSlp2Y0xSYmU1bWFxZGJSamZ0dFhRMFp0UVhfNlcyb20wWV9ER0Q?oc=5",
+     "published": "2026-10-13T16:01:41+00:00",
+     "summary": "Calvin Harris Announces His First Ever Headlining North American Tour: Is He Coming to Your City? Billboard"
+    },
+    {
+     "outlet": "EDM.com",
+     "title": "Calvin Harris Announces First North American Headline Tour",
+     "link": "https://edm.com/news/calvin-harris-tour-2027/",
+     "published": "2026-10-13T16:00:34+00:00",
+     "summary": "The dance music icon's new live show reflects his \"extraordinary evolution as a live artist,\" according to Live Nation. The post Calvin Harris Announces First North American Headline Tour appeared first on EDM ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s53",
+   "label": "Raye Royal Albert Hall ticket bot issue",
+   "artists": [
+    "Raye"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "BBC",
+    "NME"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-10-13T11:25:43+00:00",
+   "articles": [
+    {
+     "outlet": "BBC",
+     "title": "Raye hits back at ticket touts who 'overwhelmed' sign-up for Albert Hall show",
+     "link": "https://www.bbc.co.uk/news/articles/c8vgxpwlx9wko?at_medium=RSS&at_campaign=rss",
+     "published": "2026-10-13T11:25:43+00:00",
+     "summary": "The award-winning singer said there were 1.8 million sign-ups for her 5,000-seat Royal Albert Hall show."
+    },
+    {
+     "outlet": "NME",
+     "title": "Raye Royal Albert Hall show “overwhelmed by scalpers using AI bots” after receiving nearly 2million sign-ups",
+     "link": "https://www.nme.com/news/music/raye-royal-albert-hall-show-overwhelmed-by-scalpers-using-ai-bots-after-receiving-nearly-2million-sign-ups-3973034?utm_source=rss&utm_medium=rss&utm_campaign=raye-royal-albert-hall-show-overwhelmed-by-scalpers-using-ai-bots-after-receiving-nearly-2million-sign-ups",
+     "published": "2026-10-13T11:13:34+00:00",
+     "summary": "“I’m not sure what the future holds for ticketing, I do know this experience has really opened my eyes” The post Raye Royal Albert Hall show “overwhelmed by scalpers using AI bots” after receiving nearly 2million sign-ups appeared first on "
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "Fontaines D.C. Rosalía collab Where Is Gone",
+   "artists": [
+    "Fontaines D.C.",
+    "Rosalía"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "outlets": [
+    "Billboard JAPAN",
+    "NME",
+    "NME Japan"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-13T17:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "フォンテインズD.C.、ロザリアとのコラボ「Where Is Gone?」公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/166445",
+     "published": "2026-10-13T17:30:00+09:00",
+     "summary": "フォンテインズD.C.が、5作目のスタジオ・アルバム『Dopamine Chamber』からロザリアとのコラボレーシ…"
+    },
+    {
+     "outlet": "NME",
+     "title": "Check out Fontaines D.C.’s and Rosalía’s sweeping, cinematic collab ‘Where Is Gone?’",
+     "link": "https://www.nme.com/news/music/check-out-fontaines-dc-and-rosalia-sweeping-cinematic-collab-where-is-gone-3973006?utm_source=rss&utm_medium=rss&utm_campaign=check-out-fontaines-dc-and-rosalia-sweeping-cinematic-collab-where-is-gone",
+     "published": "2026-10-13T08:51:53+00:00",
+     "summary": "“What really excited me was how she was keeping a Spanish tradition of music alive, which in a spiritual way felt akin to what we’ve tried to do with Irish music,” said Carlos O’Connell The post Check out Fontaines D.C.’s and Rosalía’s swee"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "フォンテインズD.C.、ロザリアとのコラボレーションとなる新曲“Where Is Gone?”の音源が公開",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLbDJVNzkyUndCbFNUQVlKQ2l5bWtnUlowdzd5bGxzcWtRSEhrNGhvZUF2WlpySEstRk1XcDNQVVpxWU1BVXc?oc=5",
+     "published": "2026-10-13T03:00:31+00:00",
+     "summary": "フォンテインズD.C.、ロザリアとのコラボレーションとなる新曲“Where Is Gone?”の音源が公開 NME Japan"
+    }
+   ],
+   "chart": [
+    {
+     "id": "JxS3kEhO4zk",
+     "title": "Fontaines D.C. - Where Is Gone? (with Rosalía)",
+     "channel": "Fontaines DC",
+     "published": "2026-10-12T17:30:07Z",
+     "hours_since": 33,
+     "views": 336971,
+     "url": "https://www.youtube.com/watch?v=JxS3kEhO4zk",
+     "region": "GB",
+     "rank": 16
+    }
+   ],
+   "video": {
+    "id": "JxS3kEhO4zk",
+    "title": "Fontaines D.C. - Where Is Gone? (with Rosalía)",
+    "channel": "Fontaines DC",
+    "published": "2026-10-12T17:30:07Z",
+    "hours_since": 33,
+    "views": 336971,
+    "url": "https://www.youtube.com/watch?v=JxS3kEhO4zk",
+    "region": "GB",
+    "rank": 16
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "Skrillex Head Trip apology",
+   "artists": [
+    "Skrillex"
+   ],
+   "genre": "Dance",
+   "kind": "other",
+   "outlets": [
+    "Billboard",
+    "EDM.com"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-13T20:58:03+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Skrillex Issues Apology After Head Trip Set: ‘Will Take The L and Make a Lesson Of It’",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ2JYM2pCdGtlald5RnRfRE8tSklIbUpJd1BacG45NUdHaU1NUVJ3dXo2Zk53ZkNCZEFkVzhmQ2hqUm0zbmVlc09CYmRwVmZEd05MQkNBZ1NLRFY3VktmYXAtaEt4cG9vN1dYUnFyaWkxcGM1RWs5a2dvM05neXRGYmxoUGRYZkpzVmRRUkVn?oc=5",
+     "published": "2026-10-13T20:58:03+00:00",
+     "summary": "Skrillex Issues Apology After Head Trip Set: ‘Will Take The L and Make a Lesson Of It’ Billboard"
+    },
+    {
+     "outlet": "EDM.com",
+     "title": "Watch Calvin Harris Close His Head Trip Set With Avicii’s ‘Levels’",
+     "link": "https://edm.com/news/watch-calvin-harris-close-head-trip-set-avicii-levels/",
+     "published": "2026-10-13T12:36:56+00:00",
+     "summary": "The dance music superstar closed his rescheduled performance at Goldenvoice's inaugural Head Trip with one of EDM's most enduring anthems. The post Watch Calvin Harris Close His Head Trip Set With Avicii’s ‘Levels’ appeared first on EDM ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "Olivia Rodrigo Chappell Roan Expectations remix",
+   "artists": [
+    "Olivia Rodrigo",
+    "Chappell Roan"
+   ],
+   "genre": "POP",
+   "kind": "collab",
+   "outlets": [
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-13T16:46:41+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Olivia Rodrigo & Chappell Roan to Work Out Their ‘Expectations’ on the Remix: Here’s When It Arrives",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeE9Od2s0ZVlMVmFhWnRNVU5wZGtpVm5wOXhmMUlwT253d0s3ellpeExhQ3pXbjNXRzhrY0ZuOWlVVW92OWtHazJEU0ROWmItX0Q0QXY0amFmVU9JaUpiVXMxRHBHR0NDeEhZMnVyeEt2MWE2ZUFMN29lR09nM3Jqa2dWWXIwdDlpMVlQMmJmM1dod0pHalFOdVpDNTBDOVFsVHU1am9weFJGUzBL?oc=5",
+     "published": "2026-10-13T16:46:41+00:00",
+     "summary": "Olivia Rodrigo & Chappell Roan to Work Out Their ‘Expectations’ on the Remix: Here’s When It Arrives Billboard"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Olivia Rodrigo and Chappell Roan Team Up for ‘Expectations’ Remix and Music Video",
+     "link": "https://variety.com/2026/music/news/olivia-rodrigo-chappell-roan-expectations-remix-video-1236909332/",
+     "published": "2026-10-13T16:18:34+00:00",
+     "summary": "Olivia Rodrigo and Chappell Roan are officially teaming up on an “Expectations” remix and music video. Rodrigo confirmed the news on Instagram Tuesday, sharing a photo of her and Roan posing on a yellow car with the license plate “XPECT8NS."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "x8tMl_aV0wE",
+    "title": "Olivia Rodrigo CONFIRMS Expectations Remix with Chappell Roan🩵",
+    "channel": "Andrew Ramdat",
+    "published": "2026-10-12T18:48:07Z",
+    "hours_since": 32,
+    "views": 60181,
+    "url": "https://www.youtube.com/watch?v=x8tMl_aV0wE",
+    "views_per_hour": 1881
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s65",
+   "label": "KATSEYE Unloveu WILD EP track",
+   "artists": [
+    "KATSEYE"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "Consequence"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-14T01:53:03+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "KATSEYE Release WILD EP Bonus Track “Unloveu” with Music Video",
+     "link": "https://consequence.net/2026/10/katseye-unloveu-new-single/",
+     "published": "2026-10-14T01:53:03+00:00",
+     "summary": "This marks the first time a member has contributed to the group's songwriting and production, with Lara Raj credited for both. KATSEYE Release WILD EP Bonus Track “Unloveu” with Music Video Karan Singh"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "bRrjcdad2Zg",
+    "title": "KATSEYE (캣츠아이) “Unloveu” Visualizer",
+    "channel": "HYBE LABELS",
+    "published": "2026-10-13T23:59:10Z",
+    "hours_since": 3,
+    "views": 428128,
+    "url": "https://www.youtube.com/watch?v=bRrjcdad2Zg",
+    "views_per_hour": 142709
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Troye Sivan Cowboy new track",
+   "artists": [
+    "Troye Sivan",
+    "Role Model"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-14T01:41:02+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Watch Troye Sivan and Role Model Saddle Up and Sway to Troye’s New Track ‘Cowboy’",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVkN1UlgwZnhBeGpES2Y2djN0dWFwb3pXdnFWUmo3aFJ1eW43cUd3RHNJa3FkOVZxa3hzbmw5aUttaDdUV21OaTlZZXNrTmsyNGhPY0IxU0dKdVJxUGE4LVd6elhPcG5vWGE1WEhfMzQ0eDlkNjJnbVJNa2h6Q0gzTS1oakdoNHY0WTRvdjMzN3dWcDhDV2ZSUXNEX3htUQ?oc=5",
+     "published": "2026-10-14T01:41:02+00:00",
+     "summary": "Watch Troye Sivan and Role Model Saddle Up and Sway to Troye’s New Track ‘Cowboy’ Billboard"
+    }
+   ],
+   "chart": [
+    {
+     "id": "fYaF00OZ69U",
+     "title": "Troye Sivan - FF (Official Music Video)",
+     "channel": "TroyeSivanVEVO",
+     "published": "2026-10-09T04:00:07Z",
+     "hours_since": 119,
+     "views": 2032115,
+     "url": "https://www.youtube.com/watch?v=fYaF00OZ69U",
+     "region": "GB",
+     "rank": 14
+    }
+   ],
+   "video": {
+    "id": "fYaF00OZ69U",
+    "title": "Troye Sivan - FF (Official Music Video)",
+    "channel": "TroyeSivanVEVO",
+    "published": "2026-10-09T04:00:07Z",
+    "hours_since": 119,
+    "views": 2032115,
+    "url": "https://www.youtube.com/watch?v=fYaF00OZ69U",
+    "region": "GB",
+    "rank": 14
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Tems second album R&B direction",
+   "artists": [
+    "Tems"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-14T01:30:48+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Tems Teases Mellow R&B Sound For Second Album",
+     "link": "https://allhiphop.com/news/tems-teases-mellow-rb-sound-for-second-album/",
+     "published": "2026-10-14T01:30:48+00:00",
+     "summary": "Tems described the R&B direction of her second album and shared how a 30-minute freestyle became her hit with Dave."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "GloRilla sister BroRilla apology",
+   "artists": [
+    "GloRilla",
+    "BroRilla"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-14T01:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "GloRilla’s Sister BroRilla Publicly Apologizes After Bitter Beef",
+     "link": "https://allhiphop.com/rumors/glorillas-sister-brorilla-publicly-apologizes-after-bitter-beef/",
+     "published": "2026-10-14T01:30:00+00:00",
+     "summary": "GloRilla's sister BroRilla offers a surprising public apology after her own financial success helps her understand the family pressures facing the Memphis rapper."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "P7cB4O9MOrg",
+    "title": "BroRilla APOLOGIZES To Sister GloRilla After REALIZING She Was RIGHT About Family & Money Issues",
+    "channel": "The Media Youtuber",
+    "published": "2026-10-13T04:20:12Z",
+    "hours_since": 23,
+    "views": 30048,
+    "url": "https://www.youtube.com/watch?v=P7cB4O9MOrg",
+    "views_per_hour": 1306
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s90",
+   "label": "Alicia Keys Hell's Kitchen deal",
+   "artists": [
+    "Alicia Keys"
+   ],
+   "genre": "POP",
+   "kind": "business",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-14T00:30:55+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Alicia Keys Strikes “Hell’s Kitchen” Deal To Speed Investor Payouts",
+     "link": "https://allhiphop.com/news/alicia-keys-strikes-hells-kitchen-deal-to-speed-investor-payouts/",
+     "published": "2026-10-14T00:30:55+00:00",
+     "summary": "Alicia Keys struck an Ovation Rights deal to speed payouts for \"Hell's Kitchen\" investors, who were set to recover about 90% overall."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s102",
+   "label": "50 Cent Says Drake’s Rap Run Can’t Be Replaced",
+   "artists": [],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-14T00:29:24+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "50 Cent Says Drake’s Rap Run Can’t Be Replaced",
+     "link": "https://www.hotnewhiphop.com/1012983-50-cent-drake-praise",
+     "published": "2026-10-14T00:29:24+00:00",
+     "summary": "The case for Drake’s staying power gets another boost from 50 Cent, who points to his range and current output. The post 50 Cent Says Drake’s Rap Run Can’t Be Replaced appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Doja Cat Taco Bell meal deal",
+   "artists": [
+    "Doja Cat"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-14T00:03:22+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Doja Cat Lands $4 Taco Bell Meal With Limited $1 Deal",
+     "link": "https://allhiphop.com/news/doja-cat-lands-4-taco-bell-meal-with-limited-1-deal/",
+     "published": "2026-10-14T00:03:22+00:00",
+     "summary": "Doja Cat's Taco Bell order pairs Mexican Pizza with a Spicy Potato Soft Taco, with a limited $1 app deal coming October 27."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "50 Cent on J. Cole Kendrick Drake beef",
+   "artists": [
+    "50 Cent",
+    "J. Cole",
+    "Kendrick Lamar",
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T23:57:59+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "50 Cent Says J. Cole ‘Paid the Most’ By Opting Out of Kendrick Lamar vs. Drake Battle: ‘It’s a Part of Hip-Hop Culture to Compete’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/50-cent-j-cole-kendrick-lamar-drake-battle-andrew-schulz-1236359972/",
+     "published": "2026-10-13T23:57:59+00:00",
+     "summary": "50 knows a thing or two about beefing in hip-hop."
+    }
+   ],
+   "chart": [
+    {
+     "id": "vBk30V8AukM",
+     "title": "Drake, Don Toliver - Solar Eclipse",
+     "channel": "DrakeVEVO",
+     "published": "2026-10-06T15:08:34Z",
+     "hours_since": 180,
+     "views": 3566361,
+     "url": "https://www.youtube.com/watch?v=vBk30V8AukM",
+     "region": "US",
+     "rank": 12
+    },
+    {
+     "id": "vBk30V8AukM",
+     "title": "Drake, Don Toliver - Solar Eclipse",
+     "channel": "DrakeVEVO",
+     "published": "2026-10-06T15:08:34Z",
+     "hours_since": 180,
+     "views": 3566361,
+     "url": "https://www.youtube.com/watch?v=vBk30V8AukM",
+     "region": "GB",
+     "rank": 17
+    }
+   ],
+   "video": {
+    "id": "vBk30V8AukM",
+    "title": "Drake, Don Toliver - Solar Eclipse",
+    "channel": "DrakeVEVO",
+    "published": "2026-10-06T15:08:34Z",
+    "hours_since": 180,
+    "views": 3566361,
+    "url": "https://www.youtube.com/watch?v=vBk30V8AukM",
+    "region": "US",
+    "rank": 12
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s71",
+   "label": "Judeline rusowsky BbY WOW Latin Airplay No. 1",
+   "artists": [
+    "Judeline",
+    "rusowsky",
+    "Karol G"
+   ],
+   "genre": "POP",
+   "kind": "chart",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T23:43:39+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Judeline & rusowsky Score First Latin Airplay No. 1 With Karol G Collab ‘BbY WOW’",
+     "link": "https://www.billboard.com/music/chart-beat/karol-g-bby-wow-judeline-rusowsky-first-latin-airplay-no-1-1236360307/",
+     "published": "2026-10-13T23:43:39+00:00",
+     "summary": "The song also marks the longest coronation by a Spanish act on the Global 200 chart."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Lucian Piane RuPaul Drag Race producer dies",
+   "artists": [
+    "Lucian Piane"
+   ],
+   "genre": "POP",
+   "kind": "death",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T23:39:09+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Lucian Piane, ‘RuPaul’s Drag Race’ Music Producer & Songwriter Behind ‘Sissy That Walk,’ Dies at 46",
+     "link": "https://www.billboard.com/culture/pride/lucian-piane-death-rupauls-drag-race-producer-songwriter-1236360298/",
+     "published": "2026-10-13T23:39:09+00:00",
+     "summary": "The composer helped construct the soundtrack of the hit drag competition series & collaborated on some of RuPaul's best-known songs."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "7o0ds5ctAv4",
+    "title": "Lucian Piane, 'RuPaul's Drag Race' Music Producer, Dead at 46",
+    "channel": "Entertainment Tonight",
+    "published": "2026-10-13T19:00:01Z",
+    "hours_since": 8,
+    "views": 17796,
+    "url": "https://www.youtube.com/watch?v=7o0ds5ctAv4",
+    "views_per_hour": 2224
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "YG Entertainment new girl and boy groups",
+   "artists": [],
+   "genre": "POP",
+   "kind": "announcement",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T23:36:40+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "YG Entertainment Announces Plans to Debut New Boy Group and Girl Group",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVzJEenlrQlFoOVNISUxTMlBHby1KbnV5OGJ1TzNwNzFjX3AwNkNjSEFGVlB1RV9ZMWZtUWZ1NUM2amVHSUhmN0VCcW5hTkxYa2duSHR6WEtZZVotUVVmNnctR0dpTlFJRDhld3JHRllwYnpMVVFrXzRMQjdJM0tXUnFZS1V1MjNISXMyVzhBa2IyMWM?oc=5",
+     "published": "2026-10-13T23:36:40+00:00",
+     "summary": "YG Entertainment Announces Plans to Debut New Boy Group and Girl Group Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "Hamilton 500 weeks at No. 1",
+   "artists": [],
+   "genre": "POP",
+   "kind": "chart",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T23:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "‘Hamilton’ Hits Milestone 500th Week at No. 1 on Billboard’s Cast Albums Chart",
+     "link": "https://www.billboard.com/music/chart-beat/hamilton-500th-week-number-one-billboard-cast-albums-chart-1236360319/",
+     "published": "2026-10-13T23:30:00+00:00",
+     "summary": "The smash set has dominated the list since its release in 2015."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s26",
+   "label": "The Chainsmokers part ways with Columbia",
+   "artists": [
+    "The Chainsmokers"
+   ],
+   "genre": "Dance",
+   "kind": "business",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T22:55:35+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "The Chainsmokers Parts Ways With Columbia/Disruptor Records: ‘We Have No Idea What to Expect’",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXpFSmFCUmFFd0lwbi0wVHl1ckZPeW5FOEYwZ2F2bTRoREQwYm00dll6Nl8tZkZTTThqcW0tNlg2NGlTcTFFckdBeHFpOHM4ZWhKOVNzTnFpRWx5T2pyZi1GMzZoVHNXQTM0V2JEOUJFVXpFbXEtYWUxeVI2T1lid05mOFFxTV9L?oc=5",
+     "published": "2026-10-13T22:55:35+00:00",
+     "summary": "The Chainsmokers Parts Ways With Columbia/Disruptor Records: ‘We Have No Idea What to Expect’ Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s61",
+   "label": "Jane Rimov Japan tour additional show",
+   "artists": [
+    "Jane Rimov"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "NME Japan",
+    "amass",
+    "エンタメ特化型情報メディア スパイス",
+    "ニコニコニュース"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "NME Japan",
+    "amass",
+    "エンタメ特化型情報メディア スパイス",
+    "ニコニコニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T08:12:50+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "ジェーン・リムーヴァー、12月に行われる来日公演に追加公演が決定",
+     "link": "https://nme-jp.com/news/173282/",
+     "published": "2026-10-13T08:12:50+00:00",
+     "summary": "ジェーン・リムーヴァーは12月に行われる来日公演で追加公演が開催されることが決定している。"
+    },
+    {
+     "outlet": "amass",
+     "title": "ジェーン・リムーヴァー 追加公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9ibXhFMW8zTzgzdlIwWndGd2s3SV9MaTZxWkRRdkwydHNJZVJFakd4NTdRcFRZMlkxeGJVTA?oc=5",
+     "published": "2026-10-13T08:05:00+00:00",
+     "summary": "ジェーン・リムーヴァー 追加公演決定 amass"
+    },
+    {
+     "outlet": "ニコニコニュース",
+     "title": "ジェーン・リムーバー、WWW X 公演が即完売につき追加公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KUndseUZDZkFmMkx2R1JvUTVvMmMzYXVZa0pSNGlkVzB5M28yOFJFdkNNZGllVE1Ua0ZtekhoeU9lSWR3T1JRV3dBRmtKcGJhOHFDQXcwRk5Xb091NksxYVNteXJkTVVtSlJ4Zi1SdjYtT3pUZWRBT3VPQQ?oc=5",
+     "published": "2026-10-13T08:00:13+00:00",
+     "summary": "ジェーン・リムーバー、WWW X 公演が即完売につき追加公演が決定 ニコニコニュース"
+    },
+    {
+     "outlet": "エンタメ特化型情報メディア スパイス",
+     "title": "ジェーン・リムーバー、WWW X 公演が即完売につき追加公演が決定 | SPICE - エンタメ特化型情報メディア スパイス",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BcEZLbXpZWWx4YnZjd05qN0JQbVFsTnBJQmN4cDhrMm4yQktaQjNiT181VkplRmlGejBramhLbUJQYjRqVjFlVXJXTVd4TzQ?oc=5",
+     "published": "2026-10-13T08:00:00+00:00",
+     "summary": "ジェーン・リムーバー、WWW X 公演が即完売につき追加公演が決定 | SPICE - エンタメ特化型情報メディア スパイス エンタメ特化型情報メディア スパイス"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s78",
+   "label": "Finn Wolfhard Japan debut tour",
+   "artists": [
+    "Finn Wolfhard"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "CREATIVEMAN PRODUCTIONS",
+    "NME Japan",
+    "amass",
+    "クリエイティブマン"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "CREATIVEMAN PRODUCTIONS",
+    "NME Japan",
+    "amass",
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T03:18:54+00:00",
+   "articles": [
+    {
+     "outlet": "CREATIVEMAN PRODUCTIONS",
+     "title": "FINN WOLFHARD 新規公演決定！",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xNE5IZTBYTjdoZnVyWUsySFlWRUlHWm5Bek9aMjNobm04aVRNWjQ0c01iaXlBeFNObGp3WE5sMlY4QmNzRHo0VXRSUUhFSUdqdnRrbXVEdk5XcTJr?oc=5",
+     "published": "2026-10-13T03:18:54+00:00",
+     "summary": "FINN WOLFHARD 新規公演決定！ CREATIVEMAN PRODUCTIONS"
+    },
+    {
+     "outlet": "amass",
+     "title": "フィン・ウルフハードの初来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE0xVEN5OVlIVDRrYkNJY1hLaDVJNUJILU5qTXdOdmdKTS1OQk5fSjlKa0xVX2lHV0IybWhjNQ?oc=5",
+     "published": "2026-10-13T03:08:00+00:00",
+     "summary": "フィン・ウルフハードの初来日公演決定 amass"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "フィン・ウルフハード、2027年2月に来日公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE56dG05WEprWTVfUE9tOGVNaVhLT3pXQzBZQ2R4cFh4Wll1X1l0WC1qWVM0NlE2VkRyNWZVU0U0TENxTjlNR3c?oc=5",
+     "published": "2026-10-13T03:05:56+00:00",
+     "summary": "フィン・ウルフハード、2027年2月に来日公演が決定 NME Japan"
+    },
+    {
+     "outlet": "クリエイティブマン",
+     "title": "FINN WOLFHARD 新規公演決定！",
+     "link": "https://www.creativeman.co.jp/2026/10/13/108369/",
+     "published": "2026-10-13T02:59:01+00:00",
+     "summary": "『ストレンジャー・シングス』のマイク役で知られる俳優、 ノスタルジックな世界観を奏でるミュージシャン。 オルタナティヴロック、ローファイインディーで「自分」の進化を描く フィン・ウルフハード、待望の初来日公演が決定！ 公 […] The post FINN WOLFHARD 新規公演決定！ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Avalanches Japan release party",
+   "artists": [
+    "Avalanches"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "outlets": [
+    "Billboard JAPAN",
+    "NME Japan",
+    "UNIVERSAL MUSIC JAPAN"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "NME Japan",
+    "UNIVERSAL MUSIC JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-14T09:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "アヴァランチーズ、最新AL『ノー・バッド・メモリーズ』来日リリース・パーティー開催",
+     "link": "https://www.billboard-japan.com/d_news/detail/166456",
+     "published": "2026-10-14T09:00:00+09:00",
+     "summary": "アヴァランチーズが来日し、最新アルバム『ノー・バッド・メモリーズ』のリリースを記念して、アルバム・リリース・パーティ…"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "アヴァランチーズ、明日10月14日に新作のリリース・パーティーでDJセットを披露することに",
+     "link": "https://nme-jp.com/news/173276/",
+     "published": "2026-10-13T09:00:06+00:00",
+     "summary": "アヴァランチーズは10月16日に通算4作目となるニュー・アルバム『ノー・バッド・メモリーズ』をリリースするが、明日10月14日に新作のリリース・パーティーが渋谷区のTRUNK (HOTEL) CAT STREETで開催されることが決定している。"
+    },
+    {
+     "outlet": "UNIVERSAL MUSIC JAPAN",
+     "title": "最新作『ノー・バッド・メモリーズ』リリースパーティー決定！",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtaW13bmZlQkRDT3k3RkUxc2phVDhudVZrT3VhalRCOE9kclZQR0xxejVhclNiMC1aWmFsSjJmOXRjTjZuRnRVLUpUaU1OQ0xzNDJvd09CeUZzQlVGZklUUU1Wc1htbHVfUV9kbGh3amlmUQ?oc=5",
+     "published": "2026-10-13T05:40:57+00:00",
+     "summary": "最新作『ノー・バッド・メモリーズ』リリースパーティー決定！ UNIVERSAL MUSIC JAPAN"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s50",
+   "label": "Moodymann Japan tour announcement",
+   "artists": [
+    "Moodymann"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "outlets": [
+    "Pointed",
+    "Spincoaster（スピンコースター）",
+    "ele-king"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Pointed",
+    "Spincoaster（スピンコースター）",
+    "ele-king"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T12:40:14+00:00",
+   "articles": [
+    {
+     "outlet": "Pointed",
+     "title": "デトロイトが生んだ最重要アーティストMoodymann来日公演が渋谷MIDNIGHT EASTで開催決定！",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tbk9BRXc3QUc0VUJwenJoREtVaFpMeTdPeWVfOFFLNWNVUjhZNW5xNFltakQzRTVNUHdxNmhBaDA2cjNWaldCZUpwTUU1UVRIRTBUUHQ1QmxycmZaVzRlQWFuYlg?oc=5",
+     "published": "2026-10-13T12:40:14+00:00",
+     "summary": "デトロイトが生んだ最重要アーティストMoodymann来日公演が渋谷MIDNIGHT EASTで開催決定！ Pointed"
+    },
+    {
+     "outlet": "ele-king",
+     "title": "Moodymann ──ムーディーマンの来日公演が決定、今年は東京と京都をツアー - ele-king",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zczhlc2ZSMGF1MlVCTnZsenBiRG4xRTZCU2syYXUzYzNPYU5Pc1A5dWZKWlczQ1J0TmxZbTJkRmZFOEVnNTNQV014NEtMdw?oc=5",
+     "published": "2026-10-13T09:37:35+00:00",
+     "summary": "Moodymann ──ムーディーマンの来日公演が決定、今年は東京と京都をツアー ele-king"
+    },
+    {
+     "outlet": "Spincoaster（スピンコースター）",
+     "title": "Moodymannがおよそ6年ぶりに渋谷に帰還 来日公演がMIDNIGHT EASTで開催決定",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxVlRNMkVHcFpudUVXbGtTX2FyWmhpRWsycTVuV2RGQXl1ejFvNGpkNjBSQkpwSUxsbjlBc0F0aV96SjhPeGpkaGd2aEVyTi1PRHVMUng4Tk5UT2s?oc=5",
+     "published": "2026-10-13T09:01:57+00:00",
+     "summary": "Moodymannがおよそ6年ぶりに渋谷に帰還 来日公演がMIDNIGHT EASTで開催決定 Spincoaster（スピンコースター）"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s76",
+   "label": "Gza Margaret Japan tour with guest",
+   "artists": [
+    "Gia Margaret"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "CDJournal.com",
+    "Yahoo!ニュース",
+    "千葉テレビ放送株式会社"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "CDJournal.com",
+    "Yahoo!ニュース",
+    "千葉テレビ放送株式会社"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T04:44:47+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "ジア・マーガレット、来日公演が決定 東京公演には青葉市子がゲスト出演（CDJournal）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wVVRqakdqWDB2VDhkWEpsNml2N1ZhbWNoYkhoQmc4TnBtYi0yUlhBM0dKbGdpVWZmMzQ3MVBxaE9RRnpVRnhfV0ZobDJWc1lKT2hqZ0RiR3BHbURIQzk4ckpfTVlrdVl5aWYwaWNFM0hTa2tmTXlGVmVQZFpwRmc?oc=5",
+     "published": "2026-10-13T04:44:47+00:00",
+     "summary": "ジア・マーガレット、来日公演が決定 東京公演には青葉市子がゲスト出演（CDJournal） Yahoo!ニュース"
+    },
+    {
+     "outlet": "千葉テレビ放送株式会社",
+     "title": "ジア・マーガレット、来日公演が決定 東京公演には青葉市子がゲスト出演",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Zbmx2bXJUTFZXRUpvUHFDanhlc0tPbUdsZ2JvRzZwc3k2cTlOSlVHWGg5aUtEVV9EeHRETkF6Q2p4M3ZhVWZ5bmJKMjJBS182ckdXTW9hbUZGeVA4OW9v?oc=5",
+     "published": "2026-10-13T03:54:24+00:00",
+     "summary": "ジア・マーガレット、来日公演が決定 東京公演には青葉市子がゲスト出演 千葉テレビ放送株式会社"
+    },
+    {
+     "outlet": "CDJournal.com",
+     "title": "ジア・マーガレット、来日公演が決定 東京公演には青葉市子がゲスト出演",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9INE9qdVhzVmZFalpOYTJBalFFSlpfS2lJUE9pYnRFTERGdW5PYTRsUlhqc3gxNE85T3JoYkRUQnAxU3QxN1ZRSFhScEstTXd5Z0ZMZy1uT3ppTHNHb19N?oc=5",
+     "published": "2026-10-13T03:43:00+00:00",
+     "summary": "ジア・マーガレット、来日公演が決定 東京公演には青葉市子がゲスト出演 CDJournal.com"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "LEVERGENT Japan tour October shows",
+   "artists": [
+    "LEVERGENT"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "K-POP、韓国エンタメニュース、取材レポートならコレポ！"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "K-POP、韓国エンタメニュース、取材レポートならコレポ！"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-14T02:40:24+00:00",
+   "articles": [
+    {
+     "outlet": "K-POP、韓国エンタメニュース、取材レポートならコレポ！",
+     "title": "LEVERGENT 10月の来日単独公演開催決定！初日は無料観覧のスペシャルショーケースを実施 - K-POP、韓国エンタメニュース、取材レポートならコレポ！",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9weldPc18tLWpsS2d3dWhUUzkyZzNLNGl2VlFiel92enZtVlpudUdteXhIMVpuejJqU3h4QlRJc2dZcU1lUWhlZG5hQQ?oc=5",
+     "published": "2026-10-14T02:40:24+00:00",
+     "summary": "LEVERGENT 10月の来日単独公演開催決定！初日は無料観覧のスペシャルショーケースを実施 K-POP、韓国エンタメニュース、取材レポートならコレポ！"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s59",
+   "label": "REYTONS Japan tour support acts",
+   "artists": [
+    "REYTONS"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-14T01:59:37+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "REYTONS、11月に行われる来日公演に出演するサポート・アクトが決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5UVUtpSy1hVU1zclZSMmFkNmlMekhheTFjenpDQld4bEhEcUJnTHdvSUdsd2FlUVpoZUNidkpkZnJPUFZYMVpB?oc=5",
+     "published": "2026-10-14T01:59:37+00:00",
+     "summary": "REYTONS、11月に行われる来日公演に出演するサポート・アクトが決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s60",
+   "label": "ハン・ジウ Japan fan meeting",
+   "artists": [
+    "ハン・ジウ"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "Kstyle"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Kstyle"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-14T01:49:25+00:00",
+   "articles": [
+    {
+     "outlet": "Kstyle",
+     "title": "ハン・ジウ、日本初の単独ファンミーティング決定！11月3日に東京・渋谷で開催",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRUnB3U2NoczBYZ0FJRzE3WjAtQ01rTFU1MVVTbE8xeGxyaHR0ZEFOSlFfZkJmVGZKN0tsMVdIT1FTVVBZbUNwOC1zeV8xcFFzMzdBX2h5dElIbFRk?oc=5",
+     "published": "2026-10-14T01:49:25+00:00",
+     "summary": "ハン・ジウ、日本初の単独ファンミーティング決定！11月3日に東京・渋谷で開催 Kstyle"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s58",
+   "label": "The Lemon Twigs Japan tour January 2027",
+   "artists": [
+    "The Lemon Twigs"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "lmusic.tokyo"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "lmusic.tokyo"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-14T00:54:36+00:00",
+   "articles": [
+    {
+     "outlet": "lmusic.tokyo",
+     "title": "The Lemon Twigs、2027年1月に来日公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB3YXRkRm92X3pObWhCYUdRWWJsMWpoLWlaSnJKQzZZZkctZmh3TzZ5QVRfM19rSWhjZmRZWVhWSXNjVXJIYlQ4?oc=5",
+     "published": "2026-10-14T00:54:36+00:00",
+     "summary": "The Lemon Twigs、2027年1月に来日公演が決定 lmusic.tokyo"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Wolf Alice Japan tour and signing event",
+   "artists": [
+    "Wolf Alice"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "タワーレコード オンライン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "タワーレコード オンライン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T23:59:18+00:00",
+   "articles": [
+    {
+     "outlet": "タワーレコード オンライン",
+     "title": "【ウルフ･アリス】単独来日公演＆国内盤「ザ・クリアリング」リリース記念サイン会開催決定！",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43WW1mb0t5TWNCMi1xaGNKNHZVQWlfdHo4RG5nVjJ2NWxxY0hGLThEMDc4SlZnNWpUNmJuem1USDQzWFA3aHhJYVpWSXVnVmJwalRUSXZn?oc=5",
+     "published": "2026-10-13T23:59:18+00:00",
+     "summary": "【ウルフ･アリス】単独来日公演＆国内盤「ザ・クリアリング」リリース記念サイン会開催決定！ タワーレコード オンライン"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Anamanaguchi Japan tour interview",
+   "artists": [
+    "Anamanaguchi"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "GameBusiness.jp"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "GameBusiness.jp"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T21:00:03+00:00",
+   "articles": [
+    {
+     "outlet": "GameBusiness.jp",
+     "title": "『スコット・ピルグリム』で知られるチップチューンバンド・Anamanaguchiが来日直前インタビュー。ビデオゲームとロック／パンクをつなぎ続けてきた20年と、日本の音楽・ゲームへの愛",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50N1FVZnpvTzAtQXV4ZmNKQk9hMXB5WjNYYl8tVVFiZmJyX0J2blBOQ0xBWW5sdkVReVZhYzBzRVNFdnJYLTJVRTFIZTE5MjRqbUp4U04tY0JCVE5acjR3R2JxdkFzZkdF?oc=5",
+     "published": "2026-10-13T21:00:03+00:00",
+     "summary": "『スコット・ピルグリム』で知られるチップチューンバンド・Anamanaguchiが来日直前インタビュー。ビデオゲームとロック／パンクをつなぎ続けてきた20年と、日本の音楽・ゲームへの愛 GameBusiness.jp"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s84",
+   "label": "BTS South America live viewing Japan",
+   "artists": [
+    "BTS"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "Kstyle"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Kstyle"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T09:57:00+00:00",
+   "articles": [
+    {
+     "outlet": "Kstyle",
+     "title": "BTS、南米公演ライブビューイングが対象！日本限定「メモリアルスタンプジャーニー」の実施が決定",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ESVJoOGV1V2VXQ3V4ZUpscC1FSm41ZnpKY1ZJMHVZS2dxOWQxR2MySmhNQzlWOUpIc2ZqWGFObjUtQkpRV2pLQ19ZSE1BczQwZlRTamZvenFva05O?oc=5",
+     "published": "2026-10-13T09:57:00+00:00",
+     "summary": "BTS、南米公演ライブビューイングが対象！日本限定「メモリアルスタンプジャーニー」の実施が決定 Kstyle"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s75",
+   "label": "Beabadoobee Japan tour Pylon album",
+   "artists": [
+    "Beabadoobee"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "rockinon.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "rockinon.com"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T09:00:29+00:00",
+   "articles": [
+    {
+     "outlet": "rockinon.com",
+     "title": "来日決定！ 20年代を代表するUKのSSW:ビーバドゥービーの新たな名盤『Pylon』インタビュー――続く旅で向き合った孤独と葛藤",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJVkticUJ1dWRaMEROLUlFNmY0Ull2WEtvN1ZjSU5oZFd5bzAyMnpVdjhKOFJ5RmtQQ0dhSG84NWhrNjN0TGNoVFdHa3g5LUJDZW1z?oc=5",
+     "published": "2026-10-13T09:00:29+00:00",
+     "summary": "来日決定！ 20年代を代表するUKのSSW:ビーバドゥービーの新たな名盤『Pylon』インタビュー――続く旅で向き合った孤独と葛藤 rockinon.com"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s79",
+   "label": "Weezer Japan tour February 2027",
+   "artists": [
+    "Weezer"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "タワーレコード オンライン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "タワーレコード オンライン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T05:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "タワーレコード オンライン",
+     "title": "WEEZER（ウィーザー）Tシャツ 16作目のニュー・アルバムを携え2026年２月から４都市５日間の単独公演による来日が決定！",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pRm9yMUxTUWdVTXA4emhLSi12WTNaeUtFOGpBZFVHNHhpQ19SWlY2TnVUR0Y2bDZPcHRoRFowOTV6b0FDbmtaQ2VxdGc2QWg1WnZYZzlTb1BBa05ETWhleU01ZWpJWGZ3MUhpZXNFWGhOaEk?oc=5",
+     "published": "2026-10-13T05:30:00+00:00",
+     "summary": "WEEZER（ウィーザー）Tシャツ 16作目のニュー・アルバムを携え2026年２月から４都市５日間の単独公演による来日が決定！ タワーレコード オンライン"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s77",
+   "label": "The Alchemist Japan tour",
+   "artists": [
+    "The Alchemist"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "japan_tour",
+   "outlets": [
+    "ele-king"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "ele-king"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T04:23:40+00:00",
+   "articles": [
+    {
+     "outlet": "ele-king",
+     "title": "The Alchemist ──現代USヒップホップのキーパースン、ジ・アルケミストが来日 - ele-king",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WUEM1ckdheHRSWjBWWmtHZEJYYk5kbkp1bzQ5bjdyTG1OTVltQVJWQnJqd1VjaGt0UHJ5SVhNbFZ1OUdHaWxPUWZ5a1pnQQ?oc=5",
+     "published": "2026-10-13T04:23:40+00:00",
+     "summary": "The Alchemist ──現代USヒップホップのキーパースン、ジ・アルケミストが来日 ele-king"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Michael Jackson Super Bowl halftime documentary",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "outlets": [
+    "AllHipHop",
+    "Billboard JAPAN",
+    "Consequence",
+    "HotNewHipHop",
+    "Rolling Stone",
+    "Variety",
+    "Vibe"
+   ],
+   "n_outlets": 7,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 6,
+   "score": 7,
+   "latest": "2026-10-14T10:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "故マイケル・ジャクソン、伝説の【スーパーボウル】ハーフタイム・ショーの舞台裏を描くドキュメンタリー公開へ",
+     "link": "https://www.billboard-japan.com/d_news/detail/166458",
+     "published": "2026-10-14T10:00:00+09:00",
+     "summary": "故マイケル・ジャクソンによる伝説の【スーパーボウル】ハーフタイム・ショーが、改めて掘り下げられる。【第27回スーパー…"
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Michael Jackson’s Super Bowl Show Gets New Hulu & ESPN Documentary",
+     "link": "https://allhiphop.com/news/michael-jacksons-super-bowl-show-gets-new-hulu-espn-documentary/",
+     "published": "2026-10-14T02:30:52+00:00",
+     "summary": "Michael Jackson's 1993 Super Bowl set will get a behind-the-scenes look in \"Spectacle,\" coming to Hulu and ESPN in February 2027."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Michael Jackson’s 1993 Halftime Show Gets Documentary",
+     "link": "https://www.hotnewhiphop.com/1012969-michael-jackson-halftime-1993-documentary",
+     "published": "2026-10-13T23:13:45+00:00",
+     "summary": "The story behind Michael Jackson’s Super Bowl XXVII set is headed to Hulu and ESPN with rare footage and new production insight. The post Michael Jackson’s 1993 Halftime Show Gets Documentary appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Vibe",
+     "title": "Michael Jackson’s Legendary Super Bowl Halftime Show Is Getting Its Own Documentary",
+     "link": "https://www.vibe.com/news/movies-tv/michael-jackson-super-bowl-halftime-show-documentary-1235198939/",
+     "published": "2026-10-13T19:15:46+00:00",
+     "summary": "'Spectacle: Michael Jackson at the Super Bowl' will arrive in February 2027 and feature never-before-seen footage of the King of Pop’s preparations"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Michael Jackson’s Legendary Super Bowl Halftime Show Is Getting Its Own Documentary",
+     "link": "https://www.rollingstone.com/music/music-news/michael-jackson-super-bowl-halftime-show-documentary-1235642023/",
+     "published": "2026-10-13T18:13:39+00:00",
+     "summary": "Spectacle: Michael Jackson at the Super Bowl will arrive February 2027 and feature never-before-seen footage of the King of Pop’s preparations"
+    },
+    {
+     "outlet": "Variety",
+     "title": "‘Michael Jackson at the Super Bowl’ Documentary Coming to Hulu and ESPN",
+     "link": "https://variety.com/2026/tv/news/michael-jackson-super-bowl-documentary-hulu-espn-1236910198/",
+     "published": "2026-10-13T17:00:00+00:00",
+     "summary": "Michael Jackson’s iconic performance during the the 1993 Super Bowl halftime show will be chronicled in a new documentary coming to Hulu and ESPN. Debuting in February 2027, “Spectacle: Michael Jackson at the Super Bowl” will follow the Kin"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Michael Jackson’s Famed Super Bowl Halftime Show Performance Captured in New Documentary",
+     "link": "https://consequence.net/2026/10/spectacle-michael-jackson-at-the-super-bowl-new-documentary-trailer-watch/",
+     "published": "2026-10-13T17:00:00+00:00",
+     "summary": "Spectacle: Michael Jackson at the Super Bowl will land on Hulu and ESPN in February 2027. Michael Jackson’s Famed Super Bowl Halftime Show Performance Captured in New Documentary Paolo Ragusa"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s63",
+   "label": "Joni Mitchell becomes U.S. citizen",
+   "artists": [
+    "Joni Mitchell"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "Consequence",
+    "Pitchfork",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 4,
+   "latest": "2026-10-13T21:29:10+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Joni Mitchell Completes “Journey That Began 62 Years Ago” By Becoming US Citizen",
+     "link": "https://consequence.net/2026/10/joni-mitchell-becomes-us-citizen/",
+     "published": "2026-10-13T21:29:10+00:00",
+     "summary": "The singer-songwriter came to the U.S. in the mid-1960s and has resided in Los Angeles for almost 60 years. Joni Mitchell Completes “Journey That Began 62 Years Ago” By Becoming US Citizen Travis Bland"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Joni Mitchell Becomes a U.S. Citizen: ‘A Journey That Began 62 Years Ago’",
+     "link": "https://www.rollingstone.com/music/music-news/joni-mitchell-united-states-citizenship-1235642054/",
+     "published": "2026-10-13T20:34:09+00:00",
+     "summary": "The news arrives several decades after the legend began living — and writing — about the U.S."
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Joni Mitchell Is Now Officially American",
+     "link": "https://pitchfork.com/story/joni-mitchell-is-now-officially-american/",
+     "published": "2026-10-13T20:19:45+00:00",
+     "summary": "She was sworn in at a recent ceremony"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Joni Mitchell Sworn In as a U.S. Citizen, Capping ‘a Journey That Began 62 Years Ago’",
+     "link": "https://variety.com/2026/music/news/joni-mitchell-american-citizen-sworn-in-1236910447/",
+     "published": "2026-10-13T19:14:26+00:00",
+     "summary": "When the New York Times ran a list of the greatest living American songwriters earlier this year, the ranking was greeted with a lot of reader flack for not including Joni Mitchell. The newspaper’s explanation at the time was that Mitchell "
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s8",
+   "label": "Led Zeppelin Stairway to Heaven Narnia trailer",
+   "artists": [
+    "Led Zeppelin"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "AP通信",
+    "Billboard",
+    "Consequence"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "AP通信"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-10-14T01:20:18+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Here’s How Greta Gerwig Got Led Zeppelin to Say Yes to Using ‘Stairway to Heaven’ in ‘Narnia’ Trailer",
+     "link": "https://www.billboard.com/culture/tv-film/led-zeppelin-stairway-to-heaven-narnia-trailer-greta-gerwig-1236360368/",
+     "published": "2026-10-14T01:20:18+00:00",
+     "summary": "Robert Plant & Jimmy Page gave the filmmaker their blessing to use the rock classic in the first look at Narnia: The Magician's Nephew ."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Led Zeppelin Finally Loosen Their Grip on “Stairway to Heaven” for New Narnia Movie",
+     "link": "https://consequence.net/2026/10/led-zeppelin-stairway-to-heaven-in-narnia-trailer/",
+     "published": "2026-10-13T20:13:24+00:00",
+     "summary": "It marks the first time the song has been prominently featured in a major motion picture. Led Zeppelin Finally Loosen Their Grip on “Stairway to Heaven” for New Narnia Movie Travis Bland"
+    },
+    {
+     "outlet": "AP通信",
+     "title": "Greta Gerwig debuts first look at an epic, full-hearted 'Narnia' for Netflix — and the big screen",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHV0aUs2dTNqWjZzeldiSWlCXzNGT0JGMFFYREQ3MG9hRVphWWVaa1ZyeTdmZWhOZVNQTjFiMXhmOUJrTmFBZkQ1UF9Qd0F4UDhlbDJzYjFmSkFFLVQtdlE1TGxoOTdWNF9rS1JjM2JpS2ZNN3E2cHlDUGpFR3ZZV2xXbmpSYm9UNGdyaklFV3RtdFJtUG8ySmNSdw?oc=5",
+     "published": "2026-10-13T18:11:00+00:00",
+     "summary": "Greta Gerwig debuts first look at an epic, full-hearted 'Narnia' for Netflix — and the big screen AP News"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Greta Gerwig’s Narnia Rocks Out to Zeppelin in First Magician’s Nephew Trailer: Watch",
+     "link": "https://consequence.net/2026/10/narnia-magicians-nephew-trailer-watch/",
+     "published": "2026-10-13T18:08:03+00:00",
+     "summary": "The fantasy tale flies into IMAX theaters on February 12th, 2027, with a first trailer featuring \"Stairway to Heaven.\" Greta Gerwig’s Narnia Rocks Out to Zeppelin in First Magician’s Nephew Trailer: Watch Liz Shannon Miller"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s69",
+   "label": "JD Twitch record collection sale",
+   "artists": [
+    "JD Twitch",
+    "Optimo"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "outlets": [
+    "DJ Mag",
+    "Mixmag"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-13T13:56:58+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "JD Twitch’s record collection to go on sale via World of Echo",
+     "link": "https://djmag.com/news/jd-twitchs-record-collection-go-sale-world-of-echo",
+     "published": "2026-10-13T13:56:58+00:00",
+     "summary": "“Keith believed records are ultimately there to be played,” wrote the late Optimo (Espacio) member’s widow, Marissa Costello"
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "Thousands of records owned by Optimo's JD Twitch to go on sale in London",
+     "link": "https://mixmag.net/read/optimo-jd-twitch-record-collection-sale-london-news",
+     "published": null,
+     "summary": "Around 7/8,000 records from the late-DJ's extensive collection will be available to buy at World of Echo from November 14 Continue reading..."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s87",
+   "label": "Brian Eno Opal Records Q&A interview",
+   "artists": [
+    "Brian Eno"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "AP通信"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "AP通信"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-14T00:34:00+00:00",
+   "articles": [
+    {
+     "outlet": "AP通信",
+     "title": "Q&A: Brian Eno on relaunching Opal Records, ‘Music for Airports,’ AI and Palestine",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZUZWU3RubkRUMG1sR3A5dHd3c04xZWt3SUJLdG5QQ1pSWGV4ZjgwUE1RdnZHZTd2bXZockRhZUlINHZ1X2Y0YlFVdGowSFpSaUF0M0RoMTdaYWt6dk9MZ21sb1dYU09WbFpBUlhlcnFtM0p5eDFlbDYxN2hvbjNqcXB1elFSbTZoM2h4QmxNYXBrZ3hYX2V3?oc=5",
+     "published": "2026-10-14T00:34:00+00:00",
+     "summary": "Q&A: Brian Eno on relaunching Opal Records, ‘Music for Airports,’ AI and Palestine AP News"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s100",
+   "label": "Luci Gang HEADLOCK profile",
+   "artists": [
+    "Luci Gang"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "outlets": [
+    "Yahoo!ニュース",
+    "ライブドアニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Yahoo!ニュース",
+    "ライブドアニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T08:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "Luci Gangとは何者か？ 「HEADLOCK」でバズを生んだ韓国ラッパー、その自由すぎる音楽観",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGY25ybGlCS2ZkN05XUGdSc2N3ZlJ5NjBxc3NjWXJGWVFVWENRbDVyQmFiYVZvZ0tSQlhucmZkWFByTWRxZTVKSVgxX21ZT0pRZkZ1T1RLTU5BRUVlSm1xSWkwTFhIT0M4VkJiOFZZYVg1MTU1QmZ3QWhiM1d5OTQ?oc=5",
+     "published": "2026-10-13T08:30:00+00:00",
+     "summary": "Luci Gangとは何者か？ 「HEADLOCK」でバズを生んだ韓国ラッパー、その自由すぎる音楽観 Yahoo!ニュース"
+    },
+    {
+     "outlet": "ライブドアニュース",
+     "title": "Luci Gangとは何者か？ 「HEADLOCK」でバズを生んだ韓国ラッパー、その自由すぎる音楽観 (2026年10月13日掲載)",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oNXVUVzN0RzBNc3ZTdTRzcWZKOGFBUk12dDRDV1NrVW1mMUppMEVUQ29BZHJubW5BblU3bmJCU2o1RWg5c0FnMmlCQ1ptMTJFQ1dHYmVoQVJ1YWU1MGc?oc=5",
+     "published": "2026-10-13T08:30:00+00:00",
+     "summary": "Luci Gangとは何者か？ 「HEADLOCK」でバズを生んだ韓国ラッパー、その自由すぎる音楽観 (2026年10月13日掲載) ライブドアニュース"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s7",
+   "label": "Rosalía LUX album",
+   "artists": [
+    "Rosalía"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-14T01:28:02+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Rosalía’s ‘LUX’ Is Making Hailey Bieber ‘Wanna Throw Up in a Good Way’",
+     "link": "https://www.billboard.com/music/pop/hailey-bieber-loves-rosalia-lux-album-1236360374/",
+     "published": "2026-10-14T01:28:02+00:00",
+     "summary": "The model shared her love for the Spanish superstar's genre-bending album on her Instagram Story."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s27",
+   "label": "SB19 and BINI Grammy Asian Pop category",
+   "artists": [
+    "SB19",
+    "BINI"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T22:51:50+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Why Filipino Pop Powerhouses SB19 & BINI Are Embracing the Grammys’ Asian Pop Category: ‘We See It as a Door Opening, Not a Box Closing’",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN25kbnF5RW5kZHBEN1lXOHFDYVdud0haNDl2TlFzSnNROS1rTVRGNlgxU1M1RnZmNU1JeWJoS3Q4MmtfUmVUQ2FMazFLRVc5OXo2M2JyTGJiZVRrMjJIcnEzVFJWTGtfTE5JVmJnYl9PXzVmWGFsMF84WnU3cUhXUFhIVnRvUHZCZUVkVXUzMXkwa2tUTE9hend4THNuQQ?oc=5",
+     "published": "2026-10-13T22:51:50+00:00",
+     "summary": "Why Filipino Pop Powerhouses SB19 & BINI Are Embracing the Grammys’ Asian Pop Category: ‘We See It as a Door Opening, Not a Box Closing’ Billboard"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "50 Cent on Tupac Mike Tyson Street Fighter",
+   "artists": [
+    "50 Cent",
+    "Tupac Shakur"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T22:43:56+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "50 Cent Says Tupac’s Mike Tyson Recording Inspired His ‘Street Fighter’ Music",
+     "link": "https://www.hotnewhiphop.com/1012966-50-cent-mike-tyson-street-fighter",
+     "published": "2026-10-13T22:43:56+00:00",
+     "summary": "The sound of \"Street Fighter\" traces back to Tupac’s Tyson-era work, which 50 Cent says gave him a creative starting point. The post 50 Cent Says Tupac’s Mike Tyson Recording Inspired His ‘Street Fighter’ Music appeared first on HotNewHipHo"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "Wu-Tang Clan documentary to Netflix",
+   "artists": [
+    "Wu-Tang Clan"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "outlets": [
+    "Vibe"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-13T22:31:18+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "A Documentary on Wu-Tang Clan’s Infamous Album Is Heading to Netflix",
+     "link": "https://www.vibe.com/news/movies-tv/the-disciple-wu-tang-clan-album-netflix-documentary-1235198919/",
+     "published": "2026-10-13T22:31:18+00:00",
+     "summary": "Executive-produced by The RZA, 'The Disciple: A Wu-Tang Fable' premieres Friday, October 16"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Michael Jackson Super Bowl halftime documentary",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "outlets": [
+    "AllHipHop",
+    "Billboard JAPAN",
+    "Consequence",
+    "HotNewHipHop",
+    "Rolling Stone",
+    "Variety",
+    "Vibe"
+   ],
+   "n_outlets": 7,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 6,
+   "score": 7,
+   "latest": "2026-10-14T10:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "故マイケル・ジャクソン、伝説の【スーパーボウル】ハーフタイム・ショーの舞台裏を描くドキュメンタリー公開へ",
+     "link": "https://www.billboard-japan.com/d_news/detail/166458",
+     "published": "2026-10-14T10:00:00+09:00",
+     "summary": "故マイケル・ジャクソンによる伝説の【スーパーボウル】ハーフタイム・ショーが、改めて掘り下げられる。【第27回スーパー…"
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Michael Jackson’s Super Bowl Show Gets New Hulu & ESPN Documentary",
+     "link": "https://allhiphop.com/news/michael-jacksons-super-bowl-show-gets-new-hulu-espn-documentary/",
+     "published": "2026-10-14T02:30:52+00:00",
+     "summary": "Michael Jackson's 1993 Super Bowl set will get a behind-the-scenes look in \"Spectacle,\" coming to Hulu and ESPN in February 2027."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Michael Jackson’s 1993 Halftime Show Gets Documentary",
+     "link": "https://www.hotnewhiphop.com/1012969-michael-jackson-halftime-1993-documentary",
+     "published": "2026-10-13T23:13:45+00:00",
+     "summary": "The story behind Michael Jackson’s Super Bowl XXVII set is headed to Hulu and ESPN with rare footage and new production insight. The post Michael Jackson’s 1993 Halftime Show Gets Documentary appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Vibe",
+     "title": "Michael Jackson’s Legendary Super Bowl Halftime Show Is Getting Its Own Documentary",
+     "link": "https://www.vibe.com/news/movies-tv/michael-jackson-super-bowl-halftime-show-documentary-1235198939/",
+     "published": "2026-10-13T19:15:46+00:00",
+     "summary": "'Spectacle: Michael Jackson at the Super Bowl' will arrive in February 2027 and feature never-before-seen footage of the King of Pop’s preparations"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Michael Jackson’s Legendary Super Bowl Halftime Show Is Getting Its Own Documentary",
+     "link": "https://www.rollingstone.com/music/music-news/michael-jackson-super-bowl-halftime-show-documentary-1235642023/",
+     "published": "2026-10-13T18:13:39+00:00",
+     "summary": "Spectacle: Michael Jackson at the Super Bowl will arrive February 2027 and feature never-before-seen footage of the King of Pop’s preparations"
+    },
+    {
+     "outlet": "Variety",
+     "title": "‘Michael Jackson at the Super Bowl’ Documentary Coming to Hulu and ESPN",
+     "link": "https://variety.com/2026/tv/news/michael-jackson-super-bowl-documentary-hulu-espn-1236910198/",
+     "published": "2026-10-13T17:00:00+00:00",
+     "summary": "Michael Jackson’s iconic performance during the the 1993 Super Bowl halftime show will be chronicled in a new documentary coming to Hulu and ESPN. Debuting in February 2027, “Spectacle: Michael Jackson at the Super Bowl” will follow the Kin"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Michael Jackson’s Famed Super Bowl Halftime Show Performance Captured in New Documentary",
+     "link": "https://consequence.net/2026/10/spectacle-michael-jackson-at-the-super-bowl-new-documentary-trailer-watch/",
+     "published": "2026-10-13T17:00:00+00:00",
+     "summary": "Spectacle: Michael Jackson at the Super Bowl will land on Hulu and ESPN in February 2027. Michael Jackson’s Famed Super Bowl Halftime Show Performance Captured in New Documentary Paolo Ragusa"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s63",
+   "label": "Joni Mitchell becomes U.S. citizen",
+   "artists": [
+    "Joni Mitchell"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "Consequence",
+    "Pitchfork",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 4,
+   "latest": "2026-10-13T21:29:10+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Joni Mitchell Completes “Journey That Began 62 Years Ago” By Becoming US Citizen",
+     "link": "https://consequence.net/2026/10/joni-mitchell-becomes-us-citizen/",
+     "published": "2026-10-13T21:29:10+00:00",
+     "summary": "The singer-songwriter came to the U.S. in the mid-1960s and has resided in Los Angeles for almost 60 years. Joni Mitchell Completes “Journey That Began 62 Years Ago” By Becoming US Citizen Travis Bland"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Joni Mitchell Becomes a U.S. Citizen: ‘A Journey That Began 62 Years Ago’",
+     "link": "https://www.rollingstone.com/music/music-news/joni-mitchell-united-states-citizenship-1235642054/",
+     "published": "2026-10-13T20:34:09+00:00",
+     "summary": "The news arrives several decades after the legend began living — and writing — about the U.S."
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Joni Mitchell Is Now Officially American",
+     "link": "https://pitchfork.com/story/joni-mitchell-is-now-officially-american/",
+     "published": "2026-10-13T20:19:45+00:00",
+     "summary": "She was sworn in at a recent ceremony"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Joni Mitchell Sworn In as a U.S. Citizen, Capping ‘a Journey That Began 62 Years Ago’",
+     "link": "https://variety.com/2026/music/news/joni-mitchell-american-citizen-sworn-in-1236910447/",
+     "published": "2026-10-13T19:14:26+00:00",
+     "summary": "When the New York Times ran a list of the greatest living American songwriters earlier this year, the ranking was greeted with a lot of reader flack for not including Joni Mitchell. The newspaper’s explanation at the time was that Mitchell "
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s8",
+   "label": "Led Zeppelin Stairway to Heaven Narnia trailer",
+   "artists": [
+    "Led Zeppelin"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "AP通信",
+    "Billboard",
+    "Consequence"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "AP通信"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-10-14T01:20:18+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Here’s How Greta Gerwig Got Led Zeppelin to Say Yes to Using ‘Stairway to Heaven’ in ‘Narnia’ Trailer",
+     "link": "https://www.billboard.com/culture/tv-film/led-zeppelin-stairway-to-heaven-narnia-trailer-greta-gerwig-1236360368/",
+     "published": "2026-10-14T01:20:18+00:00",
+     "summary": "Robert Plant & Jimmy Page gave the filmmaker their blessing to use the rock classic in the first look at Narnia: The Magician's Nephew ."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Led Zeppelin Finally Loosen Their Grip on “Stairway to Heaven” for New Narnia Movie",
+     "link": "https://consequence.net/2026/10/led-zeppelin-stairway-to-heaven-in-narnia-trailer/",
+     "published": "2026-10-13T20:13:24+00:00",
+     "summary": "It marks the first time the song has been prominently featured in a major motion picture. Led Zeppelin Finally Loosen Their Grip on “Stairway to Heaven” for New Narnia Movie Travis Bland"
+    },
+    {
+     "outlet": "AP通信",
+     "title": "Greta Gerwig debuts first look at an epic, full-hearted 'Narnia' for Netflix — and the big screen",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHV0aUs2dTNqWjZzeldiSWlCXzNGT0JGMFFYREQ3MG9hRVphWWVaa1ZyeTdmZWhOZVNQTjFiMXhmOUJrTmFBZkQ1UF9Qd0F4UDhlbDJzYjFmSkFFLVQtdlE1TGxoOTdWNF9rS1JjM2JpS2ZNN3E2cHlDUGpFR3ZZV2xXbmpSYm9UNGdyaklFV3RtdFJtUG8ySmNSdw?oc=5",
+     "published": "2026-10-13T18:11:00+00:00",
+     "summary": "Greta Gerwig debuts first look at an epic, full-hearted 'Narnia' for Netflix — and the big screen AP News"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Greta Gerwig’s Narnia Rocks Out to Zeppelin in First Magician’s Nephew Trailer: Watch",
+     "link": "https://consequence.net/2026/10/narnia-magicians-nephew-trailer-watch/",
+     "published": "2026-10-13T18:08:03+00:00",
+     "summary": "The fantasy tale flies into IMAX theaters on February 12th, 2027, with a first trailer featuring \"Stairway to Heaven.\" Greta Gerwig’s Narnia Rocks Out to Zeppelin in First Magician’s Nephew Trailer: Watch Liz Shannon Miller"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s40",
+   "label": "Matchbox Twenty 30th anniversary tour",
+   "artists": [
+    "Matchbox Twenty"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "outlets": [
+    "Billboard",
+    "Consequence"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-13T17:01:41+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Matchbox Twenty Celebrate 30th Anniversary With North American Tour Dates: Full List",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVNxSUlZNmFfVHFQNUFWOFVIUnBZOFZMUXZENVZpbHhOZ3BHYTRlRWV1SnRsQlJISjg2UUEyVUpoQ3hCSGpvUTYydW9GdUFBR21FRW5fRU1TYWJ2T0g4MUpYZ1N2eG14V2s2MnlnM3BGUEJNd24yQTA3QW9mYW53SDNyU1RYeFJWWVJDYlZ0bFF1QWc1b0hB?oc=5",
+     "published": "2026-10-13T17:01:41+00:00",
+     "summary": "Matchbox Twenty Celebrate 30th Anniversary With North American Tour Dates: Full List Billboard"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Matchbox Twenty Announce 30th Anniversary Tour in 2027",
+     "link": "https://consequence.net/2026/10/matchbox-twenty-announce-30th-anniversary-tour-in-2027/",
+     "published": "2026-10-13T17:00:02+00:00",
+     "summary": "The 52-date run celebrates three decades of Matchbox Twenty and their 1996 debut Yourself or Someone Like You. Matchbox Twenty Announce 30th Anniversary Tour in 2027 Alex Krinsky"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s69",
+   "label": "JD Twitch record collection sale",
+   "artists": [
+    "JD Twitch",
+    "Optimo"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "outlets": [
+    "DJ Mag",
+    "Mixmag"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-13T13:56:58+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "JD Twitch’s record collection to go on sale via World of Echo",
+     "link": "https://djmag.com/news/jd-twitchs-record-collection-go-sale-world-of-echo",
+     "published": "2026-10-13T13:56:58+00:00",
+     "summary": "“Keith believed records are ultimately there to be played,” wrote the late Optimo (Espacio) member’s widow, Marissa Costello"
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "Thousands of records owned by Optimo's JD Twitch to go on sale in London",
+     "link": "https://mixmag.net/read/optimo-jd-twitch-record-collection-sale-london-news",
+     "published": null,
+     "summary": "Around 7/8,000 records from the late-DJ's extensive collection will be available to buy at World of Echo from November 14 Continue reading..."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s100",
+   "label": "Luci Gang HEADLOCK profile",
+   "artists": [
+    "Luci Gang"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "outlets": [
+    "Yahoo!ニュース",
+    "ライブドアニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Yahoo!ニュース",
+    "ライブドアニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-13T08:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "Luci Gangとは何者か？ 「HEADLOCK」でバズを生んだ韓国ラッパー、その自由すぎる音楽観",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGY25ybGlCS2ZkN05XUGdSc2N3ZlJ5NjBxc3NjWXJGWVFVWENRbDVyQmFiYVZvZ0tSQlhucmZkWFByTWRxZTVKSVgxX21ZT0pRZkZ1T1RLTU5BRUVlSm1xSWkwTFhIT0M4VkJiOFZZYVg1MTU1QmZ3QWhiM1d5OTQ?oc=5",
+     "published": "2026-10-13T08:30:00+00:00",
+     "summary": "Luci Gangとは何者か？ 「HEADLOCK」でバズを生んだ韓国ラッパー、その自由すぎる音楽観 Yahoo!ニュース"
+    },
+    {
+     "outlet": "ライブドアニュース",
+     "title": "Luci Gangとは何者か？ 「HEADLOCK」でバズを生んだ韓国ラッパー、その自由すぎる音楽観 (2026年10月13日掲載)",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oNXVUVzN0RzBNc3ZTdTRzcWZKOGFBUk12dDRDV1NrVW1mMUppMEVUQ29BZHJubW5BblU3bmJCU2o1RWg5c0FnMmlCQ1ptMTJFQ1dHYmVoQVJ1YWU1MGc?oc=5",
+     "published": "2026-10-13T08:30:00+00:00",
+     "summary": "Luci Gangとは何者か？ 「HEADLOCK」でバズを生んだ韓国ラッパー、その自由すぎる音楽観 (2026年10月13日掲載) ライブドアニュース"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 2
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 7
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 23
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 3,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 19
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 6
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 5
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 17
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 6
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 29
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 37,
+   "kept": 14
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 25,
+   "kept": 8
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 4
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 27
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 4,
+   "kept": 3
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 28,
+   "kept": 16
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 1,
+   "kept": 1
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 42,
+   "kept": 15
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 39,
+   "kept": 19
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 12,
+   "kept": 5
+  }
+ ],
+ "cost": {
+  "usd": 0.2653,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 25189,
+    "output_tokens": 9253
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 17848,
+    "output_tokens": 6125
+   }
+  ]
+ }
+}
