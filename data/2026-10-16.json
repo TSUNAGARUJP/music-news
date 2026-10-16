@@ -1,0 +1,2137 @@
+{
+ "date": "2026-10-16",
+ "generated_at": "2026-10-16T02:57:32.131609+00:00",
+ "article_count": 317,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日は『GTA VI』関連の続報として、Justiceが劇伴と豪華コラボ曲を公開した話題が最大のニュース。Zara Larssonの新MVの勢いや、U2の新曲とワールドツアー発表など、映像で見せやすい話題が多い。",
+  "top": [
+   {
+    "id": "s25",
+    "title_ja": "Justice、『GTA VI』の劇伴を担当　SZAらと新曲",
+    "genre": "Dance",
+    "summary_ja": "フランスのエレクトロ・デュオJusticeが、『Grand Theft Auto VI』のオリジナル・スコアを手がけていることが、ゲームのトレーラーで明らかになった。あわせて、Tame Impala、SZA、King Gizzard & The Lizard Wizardが参加したサウンドトラック曲「Flower in a Hurricane」が公開された。",
+    "why_ja": "Billboard、Rolling Stone、Pitchforkなど7媒体が報じた。公開から13時間で約91万回再生され、YouTube音楽チャートではGB 17位、US 27位に入っている。",
+    "line_point": "Justiceが『GTA VI』の劇伴を担当。SZA、Tame Impalaらとの新曲「Flower in a Hurricane」も公開",
+    "reels": [
+     {
+      "hook": "GTA VIの音楽、Justiceが作ってた！",
+      "angle": "トレーラーの映像に、Justice担当と判明したニュースを重ねる。続けて新曲のサビを流し、公開13時間で約91万回再生という数字で締める。"
+     },
+     {
+      "hook": "SZA×Tame Impala×Justiceが共演",
+      "angle": "参加した4組を1組ずつ顔写真と代表曲で紹介する。ジャンルの違う4組がゲーム曲で集まった意外さを、テンポよく見せる。"
+     }
+    ]
+   },
+   {
+    "id": "s43",
+    "title_ja": "Zara Larsson、新曲「Blue Moon」MVで妖精や人魚に変身",
+    "genre": "POP",
+    "summary_ja": "Zara Larssonが「Blue Moon」のMVを公開した。何気ない田舎道やバス停を、妖精や人魚などに変身するファンタジーの世界に変えた映像で、『Midnight Sun』期の流れをくむ作品と報じられている。",
+    "why_ja": "公開から23時間で約187万回再生され、YouTube音楽チャートではGB 4位、US 10位に入った。Rolling StoneとComplexも報じている。",
+    "line_point": "Zara Larssonが「Blue Moon」のMVを公開。23時間で約187万回再生、英国のYouTube音楽チャートで4位",
+    "reels": [
+     {
+      "hook": "バス停が一瞬でファンタジーに",
+      "angle": "MVの変身シーンを妖精、人魚の順に切り替えて見せる。何気ない田舎道との落差を強調し、最後に再生数とチャート順位を出す。"
+     },
+     {
+      "hook": "Zara Larssonの勢いが止まらない",
+      "angle": "「Blue Moon」が公開23時間で約187万回再生、GB 4位、US 10位に入ったことを数字で見せ、MVの見どころを3つにまとめて紹介する。"
+     }
+    ]
+   },
+   {
+    "id": "s24",
+    "title_ja": "U2、新曲公開と2027年スタジアムツアー発表",
+    "genre": "Other",
+    "summary_ja": "U2が新曲「The Greatest Show on Earth」を公開し、同じ名前を冠した2027年のワールド・スタジアムツアーを発表した。ツアーは作品『Carnaval de Luz』を携えたもので、2027年2月にメキシコシティで開幕する。中南米の日程にチリが入らなかったのは初めてで、現地プロモーターとの交渉がまとまらなかったためと報じられている。",
+    "why_ja": "Rolling Stone、NME、Varietyなど5媒体が報じ、日本でもuDiscoverMusic Japanが取り上げた。",
+    "line_point": "U2が新曲「The Greatest Show on Earth」を公開。2027年2月にメキシコシティから世界ツアーを開始",
+    "reels": [
+     {
+      "hook": "U2、2027年に世界スタジアムツアー！",
+      "angle": "新曲の一部を流しながら、ツアー名、2月のメキシコシティ開幕、作品『Carnaval de Luz』との関係を順番に整理する。"
+     },
+     {
+      "hook": "ツアー名はBonoのお気に入り曲から",
+      "angle": "ツアー名がアルバムの中でBonoがいちばん好きな曲から取られたという裏話を軸にする。チリ公演が実現しなかった報道にも触れる。"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s46",
+     "title_ja": "Martin GarrixのSTMPD RCRDS、アムステルダムの空港で秘密公演",
+     "note": "Martin Garrixのレーベルが、スキポール空港の非公開の場所で3時間のショーを開く。"
+    },
+    {
+     "id": "s20",
+     "title_ja": "Above & Beyond、新曲「Nights Like This」を公開",
+     "note": "トランスの人気トリオが、ダークなリズムと壮大な展開をあわせ持つ新曲を発表した。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s11",
+     "title_ja": "2026 MAMA Awardsの出演者にBIGBANG、ENHYPEN",
+     "note": "BIGBANG、ENHYPEN、CORTISらが2026 MAMA Awardsに出演すると発表された。"
+    },
+    {
+     "id": "s16",
+     "title_ja": "Tate McRae、新曲「Housewife」のMVを公開",
+     "note": "Tate McRaeが「Housewife」のMVを公開し、新しい時代の始まりと報じられている。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s12",
+     "title_ja": "Tyler, The Creator、FCバルセロナのキャンペーンを主導",
+     "note": "Tyler, The Creatorが制作の主導権を持ち、GOLFの限定ユニフォームと音楽イベントを計画している。"
+    },
+    {
+     "id": "s10",
+     "title_ja": "Nas、「BLAK MUSIC 2026」の声明で新曲制作を明かす",
+     "note": "Nasが新曲を制作中だと認め、音楽業界での搾取などに警鐘を鳴らした。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s64",
+     "title_ja": "Death Cab for Cutie、ドラマ『The O.C.』でブレイクした裏話",
+     "note": "Ben Gibbardが、ドラマでの起用がバンドの転機になったとNirvanaにたとえて語った裏話。"
+    },
+    {
+     "id": "s8",
+     "title_ja": "Joni Mitchell、政治をテーマにした絵画集を出版へ",
+     "note": "Joni Mitchellは画家の顔も持ち、権力や24時間ニュースを描いた絵をまとめるという豆知識。"
+    },
+    {
+     "id": "s30",
+     "title_ja": "Neil Young、興行不振の映画『Digger』を絶賛",
+     "note": "Neil Youngが興行的に失敗した映画を生涯最高と称え、批評家に反論したという話。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s71",
+    "title_ja": "YOON SAN-HA、12月5日に日本だけの一夜限りのライブ",
+    "note": "12月5日(土)開催。日本だけのスペシャルライブ"
+   },
+   {
+    "id": "s67",
+    "title_ja": "beabadoobee、来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s69",
+    "title_ja": "Marcellus Pittman、来日ツアー開催",
+    "note": "デトロイト・ハウスのアーティストによる来日ツアー"
+   },
+   {
+    "id": "s66",
+    "title_ja": "来日控えるA Perfect Circle、「Starless」MV公開",
+    "note": "5月にリリースした「Starless」のMVを公開"
+   },
+   {
+    "id": "s65",
+    "title_ja": "Arch Enemy、新ボーカル迎えた来日公演を放送",
+    "note": "新ボーカリストLauren Hartを迎えた来日公演の放送"
+   },
+   {
+    "id": "s55",
+    "title_ja": "Tedeschi Trucks Band、来日へ向けインタビュー公開",
+    "note": "新作『Future Soul』や来日への意気込みを語った（rockinon.com）"
+   }
+  ],
+  "tour_candidates": 11
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s25",
+   "label": "Justice compose GTA VI score, release 'Flower in a Hurricane'",
+   "artists": [
+    "Justice",
+    "Tame Impala",
+    "SZA",
+    "King Gizzard & The Lizard Wizard"
+   ],
+   "genre": "Dance",
+   "kind": "collab",
+   "outlets": [
+    "Billboard",
+    "DJ Mag",
+    "EDM.com",
+    "NME",
+    "Pitchfork",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 7,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 7,
+   "score": 7,
+   "latest": "2026-10-15T16:52:34+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Justice Composed the Score for Grand Theft Auto VI",
+     "link": "https://pitchfork.com/story/justice-composed-the-score-for-grand-theft-auto-vi/",
+     "published": "2026-10-15T16:52:34+00:00",
+     "summary": "The French electronic duo have also tapped Tame Impala, SZA, and King Gizzard for a new song from the game’s soundtrack"
+    },
+    {
+     "outlet": "Variety",
+     "title": "‘GTA VI’ Trailer Confirms Justice Is Behind the Original Score, New Song With SZA and Tame Impala Debuts",
+     "link": "https://variety.com/2026/music/news/gta-vi-trailer-justice-original-score-song-sza-tame-impala-1236913120/",
+     "published": "2026-10-15T16:04:23+00:00",
+     "summary": "“Grand Theft Auto VI” continues to roll out the major music moments from the upcoming game with the announcement that French electronic duo Justice will compose the score. To accompany the announcement, Justice has released their new single"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Justice Created the Score for ‘Grand Theft Auto VI’: Hear the Duo’s New Song With Tame Impala, SZA & More",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkxmME5RbGJGUU9CQUFSUktPT2pJbzZSUWh0TmNXdmxrcTZwRzJnWTlkNlIwZjhWekYybFE5alZGNTRmTWlZaUFqU2xxOU42ZkxBc2J0UFkyOGItOHI4emp5RFFzTUtMbDNQTWxUWmpwSlNFcExLdGowQ0hwb0taN0RxcldaSTR1QklKZ0g1WW15Zw?oc=5",
+     "published": "2026-10-15T15:43:24+00:00",
+     "summary": "Justice Created the Score for ‘Grand Theft Auto VI’: Hear the Duo’s New Song With Tame Impala, SZA & More Billboard"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Justice Recruit Tame Impala, SZA for ‘GTA 6’ Song ‘Flower in a Hurricane’",
+     "link": "https://www.rollingstone.com/music/music-news/justice-tame-impala-sza-gta-6-song-flower-in-a-hurricane-1235643111/",
+     "published": "2026-10-15T15:05:04+00:00",
+     "summary": "French duo also composed entire original score for much-anticipated video game"
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "Justice compose GTA 6 original score",
+     "link": "https://djmag.com/news/justice-compose-gta-6-original-score",
+     "published": "2026-10-15T14:44:59+00:00",
+     "summary": "Check out the official launch trailer for the game now"
+    },
+    {
+     "outlet": "EDM.com",
+     "title": "Justice Is Composing the Original Score for ‘Grand Theft Auto VI’",
+     "link": "https://edm.com/news/justice-composing-original-score-gta-6/",
+     "published": "2026-10-15T13:59:50+00:00",
+     "summary": "The iconic French duo also released a new single, 'Flowers In a Hurricane,' alongside Tame Impala, SZA and King Gizzard & The Lizard Wizard. The post Justice Is Composing the Original Score for ‘Grand Theft Auto VI’ appeared first on EDM ."
+    },
+    {
+     "outlet": "NME",
+     "title": "Justice are behind the ‘Grand Theft Auto 6’ soundtrack",
+     "link": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-soundtrack-justice-album-gta-rockstar-tame-impala-3973238?utm_source=rss&utm_medium=rss&utm_campaign=grand-theft-auto-6-soundtrack-justice-album-gta-rockstar-tame-impala",
+     "published": "2026-10-15T13:44:05+00:00",
+     "summary": "‘Flower In A Hurricane’, their collab with Tame Impala, SZA, and King Gizzard & The Lizard Wizard, can be heard on the new launch trailer The post Justice are behind the ‘Grand Theft Auto 6’ soundtrack appeared first on NME ."
+    }
+   ],
+   "chart": [
+    {
+     "id": "5dPwBWvmcbQ",
+     "title": "Justice - Flower In A Hurricane (ft Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+     "channel": "Justice",
+     "published": "2026-10-15T13:39:06Z",
+     "hours_since": 13,
+     "views": 909789,
+     "url": "https://www.youtube.com/watch?v=5dPwBWvmcbQ",
+     "region": "GB",
+     "rank": 17
+    },
+    {
+     "id": "5dPwBWvmcbQ",
+     "title": "Justice - Flower In A Hurricane (ft Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+     "channel": "Justice",
+     "published": "2026-10-15T13:39:06Z",
+     "hours_since": 13,
+     "views": 909789,
+     "url": "https://www.youtube.com/watch?v=5dPwBWvmcbQ",
+     "region": "US",
+     "rank": 27
+    }
+   ],
+   "video": {
+    "id": "5dPwBWvmcbQ",
+    "title": "Justice - Flower In A Hurricane (ft Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+    "channel": "Justice",
+    "published": "2026-10-15T13:39:06Z",
+    "hours_since": 13,
+    "views": 909789,
+    "url": "https://www.youtube.com/watch?v=5dPwBWvmcbQ",
+    "region": "GB",
+    "rank": 17
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Chappell Roan, Olivia Rodrigo collab on 'expectations' remix",
+   "artists": [
+    "Olivia Rodrigo",
+    "Chappell Roan"
+   ],
+   "genre": "POP",
+   "kind": "collab",
+   "outlets": [
+    "Billboard",
+    "Consequence",
+    "Pitchfork",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 5,
+   "score": 5,
+   "latest": "2026-10-16T02:04:49+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Chappell Roan Talks Bringing Her Perspective to Olivia Rodrigo’s ‘Expectations’: ‘I Love Making Things a Little Gay’",
+     "link": "https://www.billboard.com/music/pop/chappell-roan-olivia-rodrigo-zane-lowe-expectations-1236361689/",
+     "published": "2026-10-16T02:04:49+00:00",
+     "summary": "The pop stars shared their inspiration behind their new collaboration with Zane Lowe, including the dating stories that inspired Roan's verse."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Olivia Rodrigo Drops New “expectations” Remix with Chappell Roan, Plus David Byrne-Starring Video",
+     "link": "https://consequence.net/2026/10/olivia-rodrigo-chappell-roan-expectations-remix/",
+     "published": "2026-10-16T00:43:38+00:00",
+     "summary": "It marks Rodrigo's first-ever remix. Olivia Rodrigo Drops New “expectations” Remix with Chappell Roan, Plus David Byrne-Starring Video Karan Singh"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Olivia Rodrigo and Chappell Roan Compete on Game Shows Hosted by David Byrne in the Retro Video for ‘Expectations’ Remix",
+     "link": "https://variety.com/2026/music/news/olivia-rodrigo-chappell-roan-expectations-video-david-byrne-1236913618/",
+     "published": "2026-10-16T00:25:33+00:00",
+     "summary": "Olivia Rodrigo and Chappell Roan appear on vintage game shows in the retro music video for the “Expectations” remix, featuring appearances from musician David Byrne and producer Dan Nigro. The clip, directed by Bardia Zeinali, shows Rodrigo"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Olivia Rodrigo Taps Chappell Roan (and David Byrne) for Retro ‘Expectations’ Remix",
+     "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-chappell-roan-expectations-remix-1235642153/",
+     "published": "2026-10-16T00:17:12+00:00",
+     "summary": "Rodrigo's first-ever remix gets a delightfully campy video featuring the Talking Heads frontman"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Olivia Rodrigo and Chappell Roan Compete on David Byrne’s Gameshow in “Expectations” Video",
+     "link": "https://pitchfork.com/story/olivia-rodrigo-and-chappell-roan-play-david-byrnes-gameshow-in-expectations-video/",
+     "published": "2026-10-16T00:05:41+00:00",
+     "summary": "The You Seem Pretty Sad for a Girl So in Love song gets a remix in Roan’s hands"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Olivia Rodrigo & Chappell Roan Exceed ‘Expectations’ on New Remix: Watch the David Byrne-Starring Video",
+     "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-chappell-roan-expectations-remix-video-watch-1236361458/",
+     "published": "2026-10-16T00:00:00+00:00",
+     "summary": "Only Rodrigo has ever collaborated with another artist in the past, and only once."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "4tVHhojDTEs",
+    "title": "Olivia Rodrigo COLLAB with Chappell Roan",
+    "channel": "wigconic",
+    "published": "2026-10-12T20:05:16Z",
+    "hours_since": 79,
+    "views": 519172,
+    "url": "https://www.youtube.com/watch?v=4tVHhojDTEs",
+    "views_per_hour": 6572
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "U2 release 'The Greatest Show on Earth', announce 2027 tour",
+   "artists": [
+    "U2"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "outlets": [
+    "Consequence",
+    "NME",
+    "Rolling Stone",
+    "Variety",
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 5,
+   "latest": "2026-10-15T18:11:43+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "U2 Share New Song ‘The Greatest Show on Earth,’ Announce 2027 World Tour",
+     "link": "https://www.rollingstone.com/music/music-news/u2-new-song-the-greatest-show-on-earth-2027-world-tour-1235643257/",
+     "published": "2026-10-15T18:11:43+00:00",
+     "summary": "Band’s tour in support of Carnaval de Luz , named after Bono’s favorite song on the LP, begins February 2027 in Mexico City"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "U2 Leave Chile Off Latin American Tour for First Time After Negotiations Reportedly Fall Through",
+     "link": "https://consequence.net/2026/10/u2-leave-chile-off-latin-american-tour-2027/",
+     "published": "2026-10-15T17:50:25+00:00",
+     "summary": "Chilean promoters reportedly spent months trying to secure a Santiago concert, but the discussions failed to produce a date. U2 Leave Chile Off Latin American Tour for First Time After Negotiations Reportedly Fall Through Pedro Camacho"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "U2 Announce First Dates for 2027 World Tour",
+     "link": "https://consequence.net/2026/10/u2-announce-first-dates-for-2027-world-tour/",
+     "published": "2026-10-15T16:30:41+00:00",
+     "summary": "\"The Greatest Show On Earth World Tour\" will begin with shows in Mexico City, São Paulo, and Buenos Aires, with support from Beck. U2 Announce First Dates for 2027 World Tour Alex Young"
+    },
+    {
+     "outlet": "Variety",
+     "title": "U2 Announces ‘Greatest Show on Earth’ Global Stadium Tour for 2027, Kicking Off in Latin America",
+     "link": "https://variety.com/2026/music/news/u2-announces-tour-global-2027-greatest-show-on-earth-1236913138/",
+     "published": "2026-10-15T16:28:33+00:00",
+     "summary": "U2 will be playing in stadiums around the globe next year, the group announced Thursday, with a tour dubbed “Carnaval De Luz presents: The Greatest Show On Earth” kicking off Feb. 23 in Mexico City and set to continue through 2027 “and beyo"
+    },
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "U2、9年ぶりの新作から新曲「The Greatest Show On Earth」を公開。スタジアムツアーも発表",
+     "link": "https://www.udiscovermusic.jp/news/u2-unveils-new-song-the-greatest-show-on-earth-from-their-first-new-album-in-9-years",
+     "published": "2026-10-15T16:05:47+00:00",
+     "summary": "結成からちょうど50周年を迎えた2026年9月25日、U2が故郷ダブリンで2度のサプライズ・ライヴを行った。このライヴのオフィシャルレポートを公開します。 The post U2、9年ぶりの新作から新曲「The Greatest Show On Earth」を公開。スタジアムツアーも発表 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    },
+    {
+     "outlet": "NME",
+     "title": "U2 share epic new single ‘The Greatest Show On Earth’ and first dates of 2027 world tour",
+     "link": "https://www.nme.com/news/music/u2-release-new-single-the-greatest-show-on-earth-announce-first-dates-2027-world-tour-buy-tickets-3973242?utm_source=rss&utm_medium=rss&utm_campaign=u2-release-new-single-the-greatest-show-on-earth-announce-first-dates-2027-world-tour-buy-tickets",
+     "published": "2026-10-15T16:01:52+00:00",
+     "summary": "\"A bit of showman, a bit of shaman, a riot of colour, unreasonable guitar, bass and drums, and tunes you can hold onto,\" the band said of their upcoming gigs. \"Because if people are gonna show up, we certainly are\" The post U2 share epic ne"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s26",
+   "label": "Blondie announce first album in nine years, 'High Noon'",
+   "artists": [
+    "Blondie"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "outlets": [
+    "Billboard",
+    "Pitchfork",
+    "Rolling Stone",
+    "The Fader"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 4,
+   "latest": "2026-10-15T15:12:07+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Blondie Announce 'High Noon' Album, Drop 'Spectral Eyes' Single: Listen",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWRBckoyelBUQ2ZIMnJvaWdSN2c4WlJXd1h2eE9VdnJfTzY2Z2lsSFdpSXh1eVN1NU52Z1BFa0ZhM0pTOHVFeXJJaVgya2VTV0pUYUprR1VMLUg3SWtNeHdSNjB2ZWlXTEFUQUI0UFZjM0I3NVBPelpaMzJTOEVGVm5lTzYzQ1VxUWVhZ1puYzVfYUU5aXYydG5fMXk1Q3NKZEE?oc=5",
+     "published": "2026-10-15T15:12:07+00:00",
+     "summary": "Blondie Announce 'High Noon' Album, Drop 'Spectral Eyes' Single: Listen Billboard"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Blondie Announce First Album in Nine Years",
+     "link": "https://pitchfork.com/story/blondie-announce-first-album-in-nine-years/",
+     "published": "2026-10-15T13:51:05+00:00",
+     "summary": "Johnny Marr, Sex Pistols’ Glen Matlock, and Beirut’s Zach Condon feature on High Noon, led by “Spectral Eyes”"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "Blondie announce first album since 2017 with “Spectral Eyes”",
+     "link": "https://www.thefader.com/2026/10/15/blondie-new-album-announce-spectral-eyes",
+     "published": "2026-10-15T13:47:14-04:00",
+     "summary": "High Noon will be the rock band’s first new music since Pollinator ."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Blondie Announce New Album ‘High Noon,’ Clem Burke’s Final Recording",
+     "link": "https://www.rollingstone.com/music/music-news/blonde-new-album-high-noon-clem-burke-final-recording-1235642952/",
+     "published": "2026-10-15T12:04:46+00:00",
+     "summary": "“This album is classic Blondie — an amalgamation of all our different influences and eras into something new,” Debbie Harry said"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Diddy disputes prison fight reports with 'Dudus'",
+   "artists": [
+    "Diddy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "AllHipHop",
+    "Billboard",
+    "XXL"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-15T23:07:26+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Diddy’s Family Denies Reports About Alleged Prison Fight With Shower Posse Leader: ‘There Was Not a Fight at All’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/diddy-family-denies-reports-prison-fight-shower-posse-1236361550/",
+     "published": "2026-10-15T23:07:26+00:00",
+     "summary": "The Harlem entertainer & businessman was reported to have gotten into beef with the leader of the infamous Shower Posse."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Prison Officials Deny Diddy Fight With Drug Lord - Report",
+     "link": "https://www.xxlmag.com/diddy-officials-deny-prison-fight/",
+     "published": "2026-10-15T19:54:08+00:00",
+     "summary": "Initial reports said his head injury was the result of a fight with the inmate. Continue reading…"
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Diddy’s “Dudus” Prison Fight Story Hit With Flat Denial",
+     "link": "https://allhiphop.com/news/diddys-dudus-prison-fight-story-hit-with-flat-denial/",
+     "published": "2026-10-15T18:07:00+00:00",
+     "summary": "Sources close to Dudus denied Diddy's alleged prison fight, saying the men had never crossed paths at the New Jersey facility."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s44",
+   "label": "Pop Smoke murder conviction: Blockstar apologizes to rapper's mother",
+   "artists": [
+    "Pop Smoke"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "HotNewHipHop",
+    "XXL"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-16T00:38:24+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Man Convicted In Pop Smoke Case Wants To Apologize To His Mom",
+     "link": "https://www.hotnewhiphop.com/1013235-pop-smoke-blockstar-apology-mom-murder",
+     "published": "2026-10-16T00:38:24+00:00",
+     "summary": "Blockstar says an apology cannot change what happened, but he still wishes he had spoken directly to Pop Smoke’s mother. The post Man Convicted In Pop Smoke Case Wants To Apologize To His Mom appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Man Convicted in Pop Smoke's Murder Apologizes to Rapper's Mother",
+     "link": "https://www.xxlmag.com/pop-smoke-killer-apology/",
+     "published": "2026-10-15T15:29:02+00:00",
+     "summary": "Blockstar was 17 at the time of the shooting. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "Meek Mill suggests he could sell out Madison Square Garden",
+   "artists": [
+    "Meek Mill"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "Billboard",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-15T23:38:48+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Meek Mill Suggests He Can Sell Out Madison Square Garden or Barclays ‘With 45 Days of Promo’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/meek-mill-sell-out-madison-square-garden-barclays-1236361551/",
+     "published": "2026-10-15T23:38:48+00:00",
+     "summary": "The fans in Meek's mentions seem to be split on this proclamation."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Meek Mill Suggests He Could Sell Out Madison Square Garden 'With 45 Days of Promo'",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXg3S1BBckNmLUVnU0kybUNOU0JZRFRPSHlld1FFV1d2UnNqNVRyUi1SeXZ5Q1JmM1RVVHd2bHRVMVZwLU1WM29Mb21lYTZxMFN6cnhPYWlfeU05Q0xLOHg2dzBjWDFWdkZwU1ViekR5SXd2QjQwYy11bU44OTJqX0x5c2tndkxPeG9KT1Zra3BpYS1VYkE3cV9GMFlDQ1NFNTZ5S0Zn?oc=5",
+     "published": "2026-10-15T20:14:16+00:00",
+     "summary": "Meek Mill Suggests He Could Sell Out Madison Square Garden 'With 45 Days of Promo' Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "Nino Paid and Warhol.SS arrested on felony murder charges",
+   "artists": [
+    "Nino Paid",
+    "Warhol.SS"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "Pitchfork",
+    "XXL"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-15T17:06:52+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Nino Paid and Warhol.SS Arrested on Felony Murder and Armed Robbery Charges",
+     "link": "https://pitchfork.com/story/nino-paid-and-warholss-arrested-on-felony-murder-and-armed-robbery-charges/",
+     "published": "2026-10-15T17:06:52+00:00",
+     "summary": "Authorities are investigating the rappers in connection with the April death of Keion Borders in Atlanta"
+    },
+    {
+     "outlet": "XXL",
+     "title": "Nino Paid and Warhol.SS Charged With Murder, Armed Robbery",
+     "link": "https://www.xxlmag.com/nino-paid-warhol-ss-charged-murder-armed-robbery-aggravated-assault-shooting-atlanta/",
+     "published": "2026-10-15T15:08:54+00:00",
+     "summary": "Nino and Warhol face serious charges. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s43",
+   "label": "Zara Larsson releases 'Blue Moon' fantasy music video",
+   "artists": [
+    "Zara Larsson"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "Complex",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-15T16:26:23+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Zara Larsson Transforms Into a Fairy, a Mermaid, and More in ‘Blue Moon’ Video",
+     "link": "https://www.rollingstone.com/music/music-news/zara-larsson-blue-moon-video-1235643152/",
+     "published": "2026-10-15T16:26:23+00:00",
+     "summary": "The Swedish pop star turns a dirt road and bus stop into fantastical, romantic settings in her latest Midnight Sun clip"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Zara Larsson Continues 'Midnight Sun' Streak With \"Blue Moon\" Video",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNajN1UHJkT3dTMDhHNHVkQ1BuTjJfckJ6cnFEMG1lRUxIX3NqbHdzZVllVDZjVWdWaVVCckJ6QTc3OFBUcXJ6RkhuTVoySmJnb2VZMmx0ekdDRXZnYTZQUlpPVWgtOFE1ckM3VkpvU0I4SUhZamtHWlFHMVEtT0tFd3V3a1I4c0YyOEE?oc=5",
+     "published": "2026-10-15T09:03:05+00:00",
+     "summary": "Zara Larsson Continues 'Midnight Sun' Streak With \"Blue Moon\" Video Complex"
+    }
+   ],
+   "chart": [
+    {
+     "id": "LB72Mbd88mU",
+     "title": "Zara Larsson - Blue Moon (Official Music Video)",
+     "channel": "ZaraLarssonMusicVEVO",
+     "published": "2026-10-15T04:00:10Z",
+     "hours_since": 23,
+     "views": 1873295,
+     "url": "https://www.youtube.com/watch?v=LB72Mbd88mU",
+     "region": "GB",
+     "rank": 4
+    },
+    {
+     "id": "LB72Mbd88mU",
+     "title": "Zara Larsson - Blue Moon (Official Music Video)",
+     "channel": "ZaraLarssonMusicVEVO",
+     "published": "2026-10-15T04:00:10Z",
+     "hours_since": 23,
+     "views": 1873295,
+     "url": "https://www.youtube.com/watch?v=LB72Mbd88mU",
+     "region": "US",
+     "rank": 10
+    }
+   ],
+   "video": {
+    "id": "LB72Mbd88mU",
+    "title": "Zara Larsson - Blue Moon (Official Music Video)",
+    "channel": "ZaraLarssonMusicVEVO",
+    "published": "2026-10-15T04:00:10Z",
+    "hours_since": 23,
+    "views": 1873295,
+    "url": "https://www.youtube.com/watch?v=LB72Mbd88mU",
+    "region": "GB",
+    "rank": 4
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s45",
+   "label": "Duane Davis sentenced to 40 years for orchestrating Tupac's murder",
+   "artists": [
+    "Tupac Shakur"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "Mixmag",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-15T10:00:52+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "トゥパック・シャクール、殺害事件で有罪の評決を受けた人物の量刑が明らかに",
+     "link": "https://nme-jp.com/news/173379/",
+     "published": "2026-10-15T10:00:52+00:00",
+     "summary": "トゥパック・シャクールの殺害事件で有罪の評決を受けたドゥエイン・“ケフィー・D”・デイヴィスは40年の禁固刑を言い渡されている。"
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "Duane Davis sentenced to 40 years in prison for orchestrating Tupac’s murder",
+     "link": "https://mixmag.net/read/duane-davis-sentenced-40-years-prison-orchestrating-tupac-murder-news",
+     "published": null,
+     "summary": "The sentencing comes three decades after the rapper was killed in a drive-by shooting in Las Vegas Continue reading..."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "kaXpf0l2gec",
+    "title": "LIVE: Duane ‘Keffe D’ Davis gets 40 years to life in prison for Tupac Shakur's murder",
+    "channel": "Associated Press",
+    "published": "2026-10-13T19:35:11Z",
+    "hours_since": 55,
+    "views": 159567,
+    "url": "https://www.youtube.com/watch?v=kaXpf0l2gec",
+    "views_per_hour": 2901
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Diddy challenges Clayton Howard's allegations in lawsuit",
+   "artists": [
+    "Diddy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-16T02:39:45+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Diddy Continues To Refute Clayton Howard’s Allegations, Wants Lawsuit Tossed",
+     "link": "https://www.hotnewhiphop.com/1013268-diddy-clayton-howard-allegations-tossed-hip-hop-news",
+     "published": "2026-10-16T02:39:45+00:00",
+     "summary": "Diddy is challenging Clayton Howard's allegations. The post Diddy Continues To Refute Clayton Howard’s Allegations, Wants Lawsuit Tossed appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Drakeo the Ruler's estate settles with Live Nation",
+   "artists": [
+    "Drakeo the Ruler"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-16T02:00:33+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Drakeo The Ruler’s Estate Reaches Settlement In Live Nation Battle",
+     "link": "https://allhiphop.com/news/drakeo-the-rulers-estate-reaches-settlement-in-live-nation-battle/",
+     "published": "2026-10-16T02:00:33+00:00",
+     "summary": "Drakeo The Ruler's family spent years fighting promoters over backstage security after his fatal 2021 festival stabbing."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Nas speaks on trend-chasing and artist compensation",
+   "artists": [
+    "Nas"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-16T01:11:27+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Nas Blasts Trend-Chasing In Music And Calls For Unity",
+     "link": "https://www.hotnewhiphop.com/1013241-nas-music-industry-message",
+     "published": "2026-10-16T01:11:27+00:00",
+     "summary": "Nas is questioning what the culture values when its biggest innovators are celebrated late or not compensated at all. The post Nas Blasts Trend-Chasing In Music And Calls For Unity appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Tyler, The Creator takes Barcelona campaign creative control",
+   "artists": [
+    "Tyler, The Creator"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "business",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-16T01:01:57+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Tyler, The Creator Takes Over FC Barcelona Campaign & Calls His Own Shots",
+     "link": "https://allhiphop.com/news/tyler-the-creator-takes-over-fc-barcelona-campaign-calls-his-own-shots/",
+     "published": "2026-10-16T01:01:57+00:00",
+     "summary": "Tyler, The Creator scored a Barcelona shirt takeover with creative control, limited GOLF jerseys and plans for a music event."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "BIGBANG, ENHYPEN set for 2026 MAMA Awards",
+   "artists": [
+    "BIGBANG",
+    "ENHYPEN",
+    "CORTIS"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-16T01:01:25+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "BIGBANG, ENHYPEN, CORTIS & More Set to Perform at 2026 MAMA Awards: Full List",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW5wU0hTbzNGU2x4eFlOb0dqWkd5UVM4VG84ck0xWnVnWFpnTGZiSEcyOGpuMU82QTl0alU1a2tqdENYa3J4WGJ1Q3M2cWVSSmVGWmZ1SkdmaVY4QTVCdnM2Q1o4U1Zib0xsTy1VT0RKRWFCTTRKUVA0aGF3N18zcGZESmFWNlhmVGI0LTBiV2NlZFA1NTk0NUxDNTJXeDFFYnpz?oc=5",
+     "published": "2026-10-16T01:01:25+00:00",
+     "summary": "BIGBANG, ENHYPEN, CORTIS & More Set to Perform at 2026 MAMA Awards: Full List Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "Chance the Rapper wins $1.5M against ex-manager",
+   "artists": [
+    "Chance the Rapper"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "XXL"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-16T00:53:16+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "Chance the Rapper Wins $1.5 Million in Trial Against Ex-Manager",
+     "link": "https://www.xxlmag.com/chance-the-rapper-wins-1-5-million-lawsuit-former-manager/",
+     "published": "2026-10-16T00:53:16+00:00",
+     "summary": "Chance wins again. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s62",
+   "label": "Madonna channels inner-Nicole Kidman with Adela's 'Pink Lipstick'",
+   "artists": [
+    "Madonna",
+    "Adela"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-16T00:50:29+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Watch Madonna Channel Her Inner-‘Nicole Kidman’ With Adela’s Viral Hit in New TikTok",
+     "link": "https://www.billboard.com/music/pop/madonna-adela-nicole-kidman-tiktok-video-1236361654/",
+     "published": "2026-10-16T00:50:29+00:00",
+     "summary": "The Slovak star's breakout track has already caught the attention of its Hollywood namesake, and now another legendary entertainer is joining the fun."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Nas confirms new music with 'BLAK MUSIC 2026' statement",
+   "artists": [
+    "Nas"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-16T00:29:05+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Nas Teases New Music With Powerful “BLAK MUSIC 2026” Statement",
+     "link": "https://allhiphop.com/rumors/nas-teases-new-music-with-powerful-blak-music-2026-statement/",
+     "published": "2026-10-16T00:29:05+00:00",
+     "summary": "Nas confirms he's working on music while delivering a powerful warning about exploitation, cultural amnesia and more!"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "Usher celebrates 48th birthday with Jay-Z, Mary J. Blige",
+   "artists": [
+    "Usher"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-16T00:15:27+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Usher Celebrates 48 With Jay-Z, Mary J. Blige, & A Night Of Magic",
+     "link": "https://www.hotnewhiphop.com/1013232-usher-birthday-mary-j-blige-jay-z",
+     "published": "2026-10-16T00:15:27+00:00",
+     "summary": "A New York magic show became Usher’s birthday playground, with Kevin Hart and Jermaine Dupro also joining the celebration. The post Usher Celebrates 48 With Jay-Z, Mary J. Blige, & A Night Of Magic appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "Tate McRae releases 'Housewife' music video",
+   "artists": [
+    "Tate McRae"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-16T00:09:44+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Tate McRae Isn’t Your ‘Housewife’ in Stunning New Visual: Watch",
+     "link": "https://www.billboard.com/music/pop/tate-mcrae-housewife-single-video-1236361592/",
+     "published": "2026-10-16T00:09:44+00:00",
+     "summary": "Tatiana's next era has begun."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Above & Beyond release propulsive new single 'Nights Like This'",
+   "artists": [
+    "Above & Beyond"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-15T20:02:42+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Listen to Above & Beyond’s Propulsive New Single, ‘Nights Like This’",
+     "link": "https://edm.com/music-releases/listen-to-above-beyonds-propulsive-new-single-nights-like-this/",
+     "published": "2026-10-15T20:02:42+00:00",
+     "summary": "The iconic trance trio's latest track balances dark, driving rhythms with sweeping melodic breakdowns. The post Listen to Above & Beyond’s Propulsive New Single, ‘Nights Like This’ appeared first on EDM ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s35",
+   "label": "Laidback Luke drops vintage rooftop DJ set in Manhattan",
+   "artists": [
+    "Laidback Luke"
+   ],
+   "genre": "Dance",
+   "kind": "other",
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-15T19:05:36+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Watch Laidback Luke Drop a Vintage DJ Set Against the Manhattan Skyline",
+     "link": "https://edm.com/news/laidback-luke-full-dj-set-superior-ingredients-brooklyn-continuum-tour/",
+     "published": "2026-10-15T19:05:36+00:00",
+     "summary": "Luke's two-hour rooftop set at Superior Ingredients was both a crate-digging masterclass and a reminder that he's still one of the scene's most respected DJs. The post Watch Laidback Luke Drop a Vintage DJ Set Against the Manhattan Skyline "
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s46",
+   "label": "Martin Garrix's STMPD RCRDS stages secret show at Amsterdam Airport",
+   "artists": [
+    "Martin Garrix"
+   ],
+   "genre": "Dance",
+   "kind": "other",
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-15T18:13:06+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Martin Garrix’s STMPD RCRDS to Stage Secret-Location Event in Amsterdam Airport",
+     "link": "https://edm.com/events/martin-garrix-stmpd-rcrds-secret-location-event-amsterdam-airport/",
+     "published": "2026-10-15T18:13:06+00:00",
+     "summary": "Schiphol is putting a new spin on the layover by teaming up with the superstar DJ's label for a three-hour show. The post Martin Garrix’s STMPD RCRDS to Stage Secret-Location Event in Amsterdam Airport appeared first on EDM ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s68",
+   "label": "Finn Wolfhard announces Japan tour debut February 2027",
+   "artists": [
+    "Finn Wolfhard"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "indienative",
+    "タワーレコード オンライン"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "indienative",
+    "タワーレコード オンライン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-15T11:20:00+00:00",
+   "articles": [
+    {
+     "outlet": "タワーレコード オンライン",
+     "title": "Finn Wolfhard（フィン・ウルフハード）、初の来日公演決定。来年2027年2月東阪で開催",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5QmY1aUZjOV9ndnhTRExnTmp2QUR0T1ZGVjJ6RW5STHU5dnlwN2Z3bGw2RDdzamM2TEs2VXpvYzk5SFI4aENwS0RQWXRjS2lmcGVwUGRvYWNvUQ?oc=5",
+     "published": "2026-10-15T11:20:00+00:00",
+     "summary": "Finn Wolfhard（フィン・ウルフハード）、初の来日公演決定。来年2027年2月東阪で開催 タワーレコード オンライン"
+    },
+    {
+     "outlet": "indienative",
+     "title": "Finn Wolfhard 来日公演",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SY0FlYlZ5V2tKS1pvVjM0cGllS0tiQ0hRU1ZJeE4xcmtObkQyZHNYTDJlMWh0LWo1Zl9UT25FWmpMQ3lDN3RkMGY0Z0Y4WmRCVWR1enlUQ3p4R3JB?oc=5",
+     "published": "2026-10-15T06:59:27+00:00",
+     "summary": "Finn Wolfhard 来日公演 indienative"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s70",
+   "label": "Diana Krall 'The Look of Love' 25th anniversary edition released",
+   "artists": [
+    "Diana Krall"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "outlets": [
+    "everythingjazz.jp",
+    "ウドー音楽事務所"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "everythingjazz.jp",
+    "ウドー音楽事務所"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-15T03:10:47+00:00",
+   "articles": [
+    {
+     "outlet": "ウドー音楽事務所",
+     "title": "【DIANA KRALL/ダイアナ・クラール】『ザ・ルック・オブ・ラヴ』25 周年エディションのリリースが決定",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHTTFTOFU1c2JEX2JmNkt0V3Bvblg2Mm5nSE1tc2E2M0JGR3hubUNZMk1xZ1VvUDg5M2g0YmRRb1BWdGNVMTBnWTJwd2I5R3dNZmc?oc=5",
+     "published": "2026-10-15T03:10:47+00:00",
+     "summary": "【DIANA KRALL/ダイアナ・クラール】『ザ・ルック・オブ・ラヴ』25 周年エディションのリリースが決定 ウドー音楽事務所"
+    },
+    {
+     "outlet": "everythingjazz.jp",
+     "title": "ダイアナ・クラール、12月来日ツアーを前に名盤『ザ・ルック・オブ・ラヴ』25周年エディションをリリース",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQjNUZUpvQTg5WjhCSkpsR2VhYU96VjhER2VybmF4QmhNTk9YWFZiS3k5QTRSMFJ0SmQ0Z19CZlJpUUlyVlZ2eXhyRW8yemhnNGFGYmJ0V1owNnZSODhvTzZRNmotUWdDeFkzRjZBY19wS3RsMU45aEdSbnB6aWpUM3J6MXdrbHdQOHc?oc=5",
+     "published": "2026-10-15T02:26:45+00:00",
+     "summary": "ダイアナ・クラール、12月来日ツアーを前に名盤『ザ・ルック・オブ・ラヴ』25周年エディションをリリース https://www.everythingjazz.jp/"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Mariah Carey 'Daydream' 30th anniversary reissue",
+   "artists": [
+    "Mariah Carey"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-16T11:45:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "マライア・キャリー『デイドリーム』30周年記念盤発売、東京ドーム公演音源など収録",
+     "link": "https://www.billboard-japan.com/d_news/detail/166550",
+     "published": "2026-10-16T11:45:00+09:00",
+     "summary": "マライア・キャリーのアルバム『デイドリーム』が今年発売30周年を迎えたことを記念し、本日アルバム『デイドリーム～30…"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s32",
+   "label": "Gia Margaret announces December Japan tour with special guests",
+   "artists": [
+    "Gia Margaret",
+    "Aoba Ichiko",
+    "Bunbu Esaki"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-15T17:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ジア・マーガレット、2026年12月にジャパン・ツアー決定 SPゲストは青葉市子／江﨑文武",
+     "link": "https://www.billboard-japan.com/d_news/detail/166533",
+     "published": "2026-10-15T17:00:00+09:00",
+     "summary": "ジア・マーガレットが、最新アルバム『シンギング』を携えたジャパン・ツアーを、2026年12月に開催する。東京公演には…"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s55",
+   "label": "Tedeschi Trucks Band discusses new album 'Future Soul'",
+   "artists": [
+    "Tedeschi Trucks Band"
+   ],
+   "genre": "Other",
+   "kind": "interview",
+   "outlets": [
+    "rockinon.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "rockinon.com"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-15T09:01:23+00:00",
+   "articles": [
+    {
+     "outlet": "rockinon.com",
+     "title": "最強ロック夫婦率いるテデスキ・トラックス・バンド、新作『フューチャー・ソウル』に込めた想いや来日の意気込みを訊いた",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKTzRpVkRVUHFpbTFfOGVBb2ZocWFQS05NUUV6S3NMN2NyelppcG16RE1fS1BMQU9DejFfcnVEbGtGNzFzOW1yTE1XRHVFM3E0c1U0?oc=5",
+     "published": "2026-10-15T09:01:23+00:00",
+     "summary": "最強ロック夫婦率いるテデスキ・トラックス・バンド、新作『フューチャー・ソウル』に込めた想いや来日の意気込みを訊いた rockinon.com"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s71",
+   "label": "YOON SAN-HA special one-night Japan live December 5",
+   "artists": [
+    "YOON SAN-HA"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "Infoseek"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Infoseek"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-15T09:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Infoseek",
+     "title": "YOON SAN-HA（ユンサナ） 12月5日(土)、日本だけの一夜限りとなるスペシャルライブ開催が決定！｜Infoseekニュース",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xdm5DS0piNmNCWjVoNVhTUXFtSHBGTUdqWVBDRmFzRTRYN3Vza2x0Z1dGRGJiZ20xYzZLclRtaEtBR3I1Q0h0dTdJT09RMWxaTkZjYU9VYlBUU2FXdVZxLVRBMUdHM3JFNm5GTnJkR1RxUQ?oc=5",
+     "published": "2026-10-15T09:00:00+00:00",
+     "summary": "YOON SAN-HA（ユンサナ） 12月5日(土)、日本だけの一夜限りとなるスペシャルライブ開催が決定！｜Infoseekニュース Infoseek"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s67",
+   "label": "Beabadoobee announces Japan tour dates",
+   "artists": [
+    "Beabadoobee"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "indienative"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "indienative"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-15T07:09:38+00:00",
+   "articles": [
+    {
+     "outlet": "indienative",
+     "title": "beabadoobee 来日公演",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2MVRqUjFqYVRTS2hiU1QwXzUwMF95bWtzSDZ6UXNvdHNpZkNuMTRZNUpfM2x2U0d6TlNJSm5uZXVibE4tcTVpTGlPWmlfZ0JiYllramlwUS1fZw?oc=5",
+     "published": "2026-10-15T07:09:38+00:00",
+     "summary": "beabadoobee 来日公演 indienative"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s69",
+   "label": "Marcellus Pittman Japan tour announced",
+   "artists": [
+    "Marcellus Pittman"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "outlets": [
+    "ele-king"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "ele-king"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-15T06:29:34+00:00",
+   "articles": [
+    {
+     "outlet": "ele-king",
+     "title": "Marcellus Pittman ──デトロイト・ハウス珠玉の逸材、マーセラス・ピットマンの来日ツアーが開催 - ele-king",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83eG16Vmh1ZVhMSUtTTWpXaG1CNHh1WlA1RG5NTW5rT0d4U2FlZlBnSHJsbVpsX1lvMDNEdHdaSFlrZDNrdTJSaHY1UURaZw?oc=5",
+     "published": "2026-10-15T06:29:34+00:00",
+     "summary": "Marcellus Pittman ──デトロイト・ハウス珠玉の逸材、マーセラス・ピットマンの来日ツアーが開催 ele-king"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s66",
+   "label": "A Perfect Circle prepares for Japan tour, releases 'Starless' MV",
+   "artists": [
+    "A Perfect Circle"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "激ロック"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "激ロック"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-15T04:45:00+00:00",
+   "articles": [
+    {
+     "outlet": "激ロック",
+     "title": "来日公演控えるA PERFECT CIRCLE、5月にリリースした「Starless」MV公開！",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vSGJ4U2ZlbkRWTTZQWkJMUEQtUjZzM1BwS3V2WWN0X0x3LVlZUTFNVnVVRFVnel94Q2N5Vnc0dkxEZmRYVmYtTlptYXYxcENwYWh0NURCc3J2YTlwUzhJblVUb0Q5aVQySlVWckVEUkdPVGx2?oc=5",
+     "published": "2026-10-15T04:45:00+00:00",
+     "summary": "来日公演控えるA PERFECT CIRCLE、5月にリリースした「Starless」MV公開！ 激ロック"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s65",
+   "label": "Arch Enemy announces Japan tour with new vocalist Lauren Hart",
+   "artists": [
+    "Arch Enemy"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "山陽新聞"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-15T02:12:38+00:00",
+   "articles": [
+    {
+     "outlet": "山陽新聞",
+     "title": "アーチ・エネミー、新ボーカリストのローレン・ハートを迎えた来日公演を放送",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpSlBqNE9xSkcwYnlnZzNmSzFCNmVNczVFVjg4eHlMN2NyWjgzalNGVnBvTnA5SXBIY2VmdG4zWEpUdnV5bm5hQUp4cmJHa25DWVBjdG44RVBtWGc?oc=5",
+     "published": "2026-10-15T02:12:38+00:00",
+     "summary": "アーチ・エネミー、新ボーカリストのローレン・ハートを迎えた来日公演を放送 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s72",
+   "label": "EVAN 9-year comeback Japan performance November",
+   "artists": [
+    "EVAN"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "韓流エンターテインメント"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "韓流エンターテインメント"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-15T02:03:56+00:00",
+   "articles": [
+    {
+     "outlet": "韓流エンターテインメント",
+     "title": "Click-B出身EVAN(ユ・ホソク)、9年ぶりの日本公演が11月東京で開催決定",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoSTFKRGhZcDNOR3BoT0lVZ1lPQkNDQm1WMFVHSV9qaURSQURwZ1hyaGNnSC03ZkEzUmdhbVVKTm5HcHRCUDBtOTJWcw?oc=5",
+     "published": "2026-10-15T02:03:56+00:00",
+     "summary": "Click-B出身EVAN(ユ・ホソク)、9年ぶりの日本公演が11月東京で開催決定 韓流エンターテインメント"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Neil Young praises 'Digger' film",
+   "artists": [
+    "Neil Young"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "Consequence",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-15T19:55:57+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Neil Young Praises ‘Digger’: ‘The Best Film I Have Ever Seen’",
+     "link": "https://www.rollingstone.com/music/music-news/neil-young-praises-digger-best-film-i-have-ever-seen-1235643401/",
+     "published": "2026-10-15T19:55:57+00:00",
+     "summary": "Rocker criticizes the critics of the box office flop, “None of the reviews I have read describe this film adequately, in my opinion. They seem to miss the overall effect”"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Neil Young Says Digger Is “The Best Movie I Have Ever Seen”",
+     "link": "https://consequence.net/2026/10/neil-young-loves-digger-tom-cruise/",
+     "published": "2026-10-15T17:18:22+00:00",
+     "summary": "The artist urged his fans to \"see it with an open mind.\" Neil Young Says Digger Is “The Best Movie I Have Ever Seen” Liz Shannon Miller"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s8",
+   "label": "Joni Mitchell releases new political paintings book",
+   "artists": [
+    "Joni Mitchell"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "Consequence"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-16T01:53:10+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Joni Mitchell Releasing New Book of Political Paintings",
+     "link": "https://consequence.net/2026/10/joni-mitchell-releasing-paintings-collection/",
+     "published": "2026-10-16T01:53:10+00:00",
+     "summary": "The visual works by the singer-songwriter tackle power and the 24-hour news cycle. Joni Mitchell Releasing New Book of Political Paintings Travis Bland"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s64",
+   "label": "Ben Gibbard discusses Death Cab for Cutie's mainstream breakthrough via The O.C.",
+   "artists": [
+    "Ben Gibbard",
+    "Death Cab for Cutie"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "Consequence"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-15T21:45:10+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Ben Gibbard Says The O.C. Was Death Cab for Cutie’s Ticket from Bleach to Nevermind Status",
+     "link": "https://consequence.net/2026/10/ben-gibbard-death-cab-for-cutie-the-oc-nevermind/",
+     "published": "2026-10-15T21:45:10+00:00",
+     "summary": "The comparison to Nirvana's career trajectory extends to a rift between indie loyalists and a new wave of fans drawn in by the TV series. Ben Gibbard Says The O.C. Was Death Cab for Cutie’s Ticket from Bleach to Nevermind Status Karan Singh"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s75",
+   "label": "Ride reunion discussed by band",
+   "artists": [
+    "Ride"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "rockinon.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "rockinon.com"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-15T03:55:53+00:00",
+   "articles": [
+    {
+     "outlet": "rockinon.com",
+     "title": "ライドの再結成インタヴュー、読みましたか？ 適当にビデオを集めてみました",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJNW1Wb210YmZGb0JmZTIybG9CaWJhVHFHVUxZamNiWElFLUNRSXUzVnpMSzFYRE0yX3BXQjM4WldfZ25ZZGNSRlg1OTAwdTVmRmVv?oc=5",
+     "published": "2026-10-15T03:55:53+00:00",
+     "summary": "ライドの再結成インタヴュー、読みましたか？ 適当にビデオを集めてみました rockinon.com"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s39",
+   "label": "Kid Rock adds Lil Wayne to Christian album, moves Eminem",
+   "artists": [
+    "Kid Rock",
+    "Lil Wayne",
+    "Eminem"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "outlets": [
+    "Complex",
+    "Consequence"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-15T16:34:03+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Kid Rock Adds Lil Wayne to Christian Album, Moves Eminem to Different Song",
+     "link": "https://consequence.net/2026/10/kid-rock-lil-wayne-eminem-christian-album/",
+     "published": "2026-10-15T16:34:03+00:00",
+     "summary": "Wayne now appears on \"7 Sins,\" with Eminem moved to newly added song \"Heal My Faith.\" Kid Rock Adds Lil Wayne to Christian Album, Moves Eminem to Different Song Eddie Fu"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Kid Rock Says Reaction to Eminem Joining Him for New Song Is 'Confirming the Problem to Us'",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0hqblQ5dlg2VC1OSHpFbmR5dllGZEp1dG51V3JUMTZTVGRYY2JjUng4LXRrZkpobllMMWM5RHJmdkVHM3haOVFsTzdYa2tZdm1ETUpVNHIwRHd2N3VpLUlvRHQ4LTBQMm5EdktzSDJhakVpMjh2b2picWlyZE40ZGtHVkVTZW51UXd3?oc=5",
+     "published": "2026-10-15T15:03:30+00:00",
+     "summary": "Kid Rock Says Reaction to Eminem Joining Him for New Song Is 'Confirming the Problem to Us' Complex"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Kid Rock Moves Eminem Collab From “7 Sins” to “Heal My Faith,” Replaced by Lil Wayne",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaTzkxN2liWURpMzEtcHdYYmpld0xJQ1ZtNGgxcm1hOEF6WW1jRDB5SC00YVdsMW8tYndWV1B1QmtOdjMtUjdyZUZFTXh0ZktNWGs3ZVAydURhR0hwb2VEWUZmdVFIVlhtZ21DdnlvcGJkRWZtc0ZpdUVVdGN1SXc?oc=5",
+     "published": "2026-10-15T01:55:05+00:00",
+     "summary": "Kid Rock Moves Eminem Collab From “7 Sins” to “Heal My Faith,” Replaced by Lil Wayne Complex"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s30",
+   "label": "Neil Young praises 'Digger' film",
+   "artists": [
+    "Neil Young"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "Consequence",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-15T19:55:57+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Neil Young Praises ‘Digger’: ‘The Best Film I Have Ever Seen’",
+     "link": "https://www.rollingstone.com/music/music-news/neil-young-praises-digger-best-film-i-have-ever-seen-1235643401/",
+     "published": "2026-10-15T19:55:57+00:00",
+     "summary": "Rocker criticizes the critics of the box office flop, “None of the reviews I have read describe this film adequately, in my opinion. They seem to miss the overall effect”"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Neil Young Says Digger Is “The Best Movie I Have Ever Seen”",
+     "link": "https://consequence.net/2026/10/neil-young-loves-digger-tom-cruise/",
+     "published": "2026-10-15T17:18:22+00:00",
+     "summary": "The artist urged his fans to \"see it with an open mind.\" Neil Young Says Digger Is “The Best Movie I Have Ever Seen” Liz Shannon Miller"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 19
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 11
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 24
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 2,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 74,
+   "kept": 17
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 6
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 5
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 24
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 6
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 30
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 1
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 32,
+   "kept": 10
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 24,
+   "kept": 6
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 2
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 28
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 1,
+   "kept": 1
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 0
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 29,
+   "kept": 10
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 50,
+   "kept": 9
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 27,
+   "kept": 11
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 13,
+   "kept": 8
+  }
+ ],
+ "cost": {
+  "usd": 0.2378,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 24686,
+    "output_tokens": 8498
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 16615,
+    "output_tokens": 5210
+   }
+  ]
+ }
+}
