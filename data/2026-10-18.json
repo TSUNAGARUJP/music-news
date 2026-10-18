@@ -1,0 +1,1738 @@
+{
+ "date": "2026-10-18",
+ "generated_at": "2026-10-18T02:54:39.810050+00:00",
+ "article_count": 177,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "Harry StylesのLiam Payne追悼曲、EminemとKid Rockのコラボ、Miley Cyrusのステージ復帰など、ポップ界の大物の話題が中心の一日。Dance系のニュースは少なめで、来日情報ではThe WeekndとTomoko Aranの新録が日本とつながる話題。",
+  "top": [
+   {
+    "id": "s2",
+    "title_ja": "Harry Styles、亡きLiam Payneへの新曲を初披露",
+    "genre": "POP",
+    "summary_ja": "Harry StylesがNYのMadison Square Gardenでのレジデンシー公演で、未発表曲「What Is Enough」を初披露した。Liam Payneの死去から2年の命日に、彼を偲んで書いた曲と報じられている。演奏の前には、Payneへの感動的な追悼の言葉を述べたという。",
+    "why_ja": "Billboard、Rolling Stone、NME、Varietyなど海外音楽メディア6媒体が報じた。One Directionの元メンバー同士の絆が伝わる話題で、日本の1Dファンにも届きやすい。",
+    "line_point": "Harry Styles、Liam Payneの命日に追悼の新曲「What Is Enough」初披露",
+    "reels": [
+     {
+      "hook": "1Dファン、ハンカチ用意して",
+      "angle": "命日という日付、MSGでの追悼の言葉、初披露までを時系列で紹介。静かなトーンで事実を丁寧に伝え、最後に一言メッセージで締める"
+     },
+     {
+      "hook": "Harryが2年越しに届けた曲",
+      "angle": "曲名「What Is Enough」に込められた思いをファン目線で想像しつつ、報じられた追悼の言葉を字幕で紹介。コメント欄で1Dの思い出の曲を募集"
+     }
+    ]
+   },
+   {
+    "id": "s1",
+    "title_ja": "Eminem、Kid Rockのクリスチャン・アルバムに参加",
+    "genre": "Hip-Hop",
+    "summary_ja": "Eminemが、Kid Rockの信仰をテーマにした新作『Halfway 2 Jesus』の収録曲「Heal My Faith」に参加した。この共演について、Eminemは古い友人と音楽を作ることを選んだだけで、どちらかの側を選ぶことではないと説明したと報じられている。",
+    "why_ja": "Rolling Stone、Complex、Consequenceの3媒体が報じ、関連のYouTube動画も約4.7万回再生されている。意外な組み合わせと、Eminem本人による説明が注目を集めている。",
+    "line_point": "Eminem、Kid Rockの信仰がテーマの新作に参加。側を選ぶ話ではないと説明",
+    "reels": [
+     {
+      "hook": "あのEminemがゴスペル？",
+      "angle": "意外性でつかみ、アルバム『Halfway 2 Jesus』と曲「Heal My Faith」を紹介。Eminemのコメントを字幕で見せ、二人の長年の友人関係にも触れる"
+     },
+     {
+      "hook": "Eminemが共演を説明した理由",
+      "angle": "なぜ側を選ぶという言葉が出たのか、報道をもとに背景を整理。断定は避け、Eminem本人の言葉を中心に構成する"
+     }
+    ]
+   },
+   {
+    "id": "s3",
+    "title_ja": "Miley Cyrus、4年ぶり本格公演でDolly Partonに涙の追悼",
+    "genre": "POP",
+    "summary_ja": "Miley CyrusがHollywood Bowlで、約4年ぶりとなる本格的なコンサートを開催した。ステージでは、亡き名付け親でカントリー界のアイコン、Dolly Partonに涙ながらに追悼を捧げたと報じられている。レビューでは『Bass Persuades』と題した公演の初日として紹介された。",
+    "why_ja": "Billboard、Variety、Consequenceの3媒体が報じた。日本でも知名度の高いMileyの復帰ステージで、名付け親Dollyとの絆というエモーショナルな物語がある。",
+    "line_point": "Miley Cyrus、4年ぶりのフル公演で名付け親Dolly Partonに涙の追悼",
+    "reels": [
+     {
+      "hook": "Mileyの名付け親、知ってる？",
+      "angle": "MileyとDollyの名付け親という関係を豆知識として紹介し、公演での涙の追悼シーンへつなぐ。報じられた言葉を字幕で見せる"
+     },
+     {
+      "hook": "Miley、4年ぶりにステージ復帰",
+      "angle": "復帰ライブのレポート形式。会場のHollywood Bowl、公演名『Bass Persuades』、海外メディアの反響を報道ベースで30秒にまとめる"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [],
+   "POP": [
+    {
+     "id": "s40",
+     "title_ja": "Michael Jacksonの伝記映画、Gotham Awardsで表彰へ",
+     "note": "興収10億ドル規模の伝記映画が、2026年Gotham Awardsで表彰される。"
+    },
+    {
+     "id": "s10",
+     "title_ja": "Cardi B、Billboard Canada初の新設賞を受賞",
+     "note": "初のGlobal Woman of the Yearに選ばれ、授賞のためトロントを再訪する。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s0",
+     "title_ja": "Lil Baby、新作『Fresh』の曲目公開　Future、Young Thug参加",
+     "note": "新アルバム『Fresh』の曲目を公開し、FutureとYoung Thugの参加が判明した。"
+    },
+    {
+     "id": "s21",
+     "title_ja": "Chad Hugo、Pharrellの訴え却下要求に反論",
+     "note": "PharrellがNeptunesの歴史から自分を消そうとしていると主張した。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s37",
+     "title_ja": "Florence Road、高校の仲良し4人組が世界へ",
+     "note": "小さな町出身の高校時代の友人4人組が、サマソニ来日に至るまでの成り立ちがネタになる。"
+    },
+    {
+     "id": "s31",
+     "title_ja": "Meagan Good、Busta Rhymesの電話を逃し50 CentのMVへ",
+     "note": "Busta Rhymesの連絡を逃し、50 Cent「21 Questions」を選んで転機になった裏話。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s35",
+    "title_ja": "The Weeknd、来日記念盤発売　Tomoko Aranとの新録も",
+    "note": "アートワークはYoshitaka Amanoが担当。Tomoko Aranを迎えた新録「Out Of Time」も配信決定。"
+   },
+   {
+    "id": "s34",
+    "title_ja": "DJ SMACK、11月に渋谷で来日公演決定",
+    "note": "覆面DJ。11月14日(土)、渋谷TK NIGHTCLUBで開催。"
+   },
+   {
+    "id": "s36",
+    "title_ja": "ERIK GRÖNWALL、11月来日公演のオープニング・アクト決定",
+    "note": "11月の来日公演に出演するオープニング・アクトが発表された。"
+   },
+   {
+    "id": "s38",
+    "title_ja": "Luca Sabata、11月に来日決定",
+    "note": "Jim Jarmusch監督作『ファーザー マザー シスター ブラザー』の出演者として来日。本編映像も公開。"
+   }
+  ],
+  "tour_candidates": 4
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s2",
+   "label": "Harry Styles debuts unreleased song 'What Is Enough' for Liam Payne",
+   "artists": [
+    "Harry Styles",
+    "Liam Payne"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "Consequence",
+    "NME",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 6,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 6,
+   "score": 6,
+   "latest": "2026-10-17T17:02:16+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Harry Styles Debuts Unreleased Song He Wrote in Memory of Liam Payne, ‘What Is Enough,’ on Second Anniversary of Ex-Bandmate’s Death",
+     "link": "https://variety.com/2026/music/news/harry-styles-liam-payne-song-debut-what-is-enough-msg-1236914863/",
+     "published": "2026-10-17T17:02:16+00:00",
+     "summary": "The mood was typically celebratory at Harry Styles’ residency show at New York’s Madison Square Garden Friday night, but Harry Styles was not about to let the second anniversary of the death of former One Direction bandmate Liam Payne go un"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Harry Styles Debuts New Song Written for Liam Payne on Second Anniversary of His Death",
+     "link": "https://consequence.net/2026/10/harry-styles-debuts-new-song-written-for-liam-payne-on-second-anniversary-of-his-death/",
+     "published": "2026-10-17T15:04:21+00:00",
+     "summary": "Styles introduced “What Is Enough” with a moving tribute to Payne before performing the song at Madison Square Garden. Harry Styles Debuts New Song Written for Liam Payne on Second Anniversary of His Death Alex Krinsky"
+    },
+    {
+     "outlet": "NME",
+     "title": "Harry Styles pays tribute to Liam Payne on anniversary of One Direction star’s death with moving new song ‘What Is Enough’",
+     "link": "https://www.nme.com/news/music/harry-styles-pays-tribute-to-liam-payne-on-anniversary-of-one-direction-stars-death-with-moving-new-song-what-is-enough-3973408?utm_source=rss&utm_medium=rss&utm_campaign=harry-styles-pays-tribute-to-liam-payne-on-anniversary-of-one-direction-stars-death-with-moving-new-song-what-is-enough",
+     "published": "2026-10-17T08:00:57+00:00",
+     "summary": "“There are so many people in my life, friends and people that I’ve worked with that I wouldn’t have been able to do this without. And two years ago today, I lost one of those friends” The post Harry Styles pays tribute to Liam Payne on anni"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Harry Styles Performs Unreleased Song Dedicated to Liam Payne at Madison Square Garden",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1JUbHRwRnlkdkZzZ3FGd25Ba1hzWk9YTy0tYUoxdGlWMUVQYmFwWmVGYmg3ZkMtYnhjanExRGsxWFZMRHZHekVYcXhaY3c2N0hFMVdwM1h4cmJLbTZCdnhUaFpKZTZpX0R2V2M0LVh6a20xSjZkLTlILUtXalctSG5BRjRBS0ZsMWFWRQ?oc=5",
+     "published": "2026-10-17T06:12:16+00:00",
+     "summary": "Harry Styles Performs Unreleased Song Dedicated to Liam Payne at Madison Square Garden Complex"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Harry Styles Pays Tribute to Liam Payne With Unreleased Song on Anniversary of His Death",
+     "link": "https://www.billboard.com/music/music-news/harry-styles-dedicates-song-to-liam-payne-1236362307/",
+     "published": "2026-10-17T05:07:06+00:00",
+     "summary": "Styles premiered the unreleased tribute “What Is Enough” on the second anniversary of his former One Direction bandmate’s death."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Harry Styles Performs New Song Written for Liam Payne on Anniversary of His Death",
+     "link": "https://www.rollingstone.com/music/music-news/harry-styles-liam-payne-new-song-msg-1235644335/",
+     "published": "2026-10-17T03:46:48+00:00",
+     "summary": "The singer debuted the unreleased song \"What Is Enough\" in honor of his former One Direction bandmate"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Eminem collaborates with Kid Rock on Christian album 'Heal My Faith'",
+   "artists": [
+    "Eminem",
+    "Kid Rock"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "collab",
+   "outlets": [
+    "Complex",
+    "Consequence",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-17T20:01:03+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Eminem Defends New Collaboration With ‘Old Friend’ Kid Rock: ‘Not About Choosing Sides’",
+     "link": "https://www.rollingstone.com/music/music-news/eminem-defends-kid-rock-collaboration-1235644386/",
+     "published": "2026-10-17T20:01:03+00:00",
+     "summary": "\"Just choosing to make music,\" rapper says of appearing on \"Heal My Faith\" off Rock's faith-based LP"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Eminem Defends Kid Rock Collab: “Just Choosing to Make Music with My Old Friend”",
+     "link": "https://consequence.net/2026/10/emimen-defends-kid-rock-collab/",
+     "published": "2026-10-17T15:34:06+00:00",
+     "summary": "Eminem is standing by his decision to appear on Kid Rock's new Christian music album, Halfway 2 Jesus. Eminem Defends Kid Rock Collab: “Just Choosing to Make Music with My Old Friend” Alex Young"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Eminem Shares New Kid Rock Collab, Says It's 'Not About Choosing Sides'",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUhMMjRBTFdDdk9Mak1wVS0tc0ZxWXJrX0d1RkJtbEdCUE1zTm0taVdZMno1YS00aXBjbGlpbnNSdmFUWkZsdXNXNWFGaG1Sd1hOYkZKNzFOMkhSMzA3d20zNGNVN1RjU1hCbWg3UmRrdUg4QWNkendEUGctbnhkY1hQaXBZSWpfeHBOVzFCMS1DODkx?oc=5",
+     "published": "2026-10-17T15:27:19+00:00",
+     "summary": "Eminem Shares New Kid Rock Collab, Says It's 'Not About Choosing Sides' Complex"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Eminem and Kid Rock’s Relationship, Explained: How “Heal My Faith” Happened",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQmVaNmV3djdyYm11alRHQ2xfTDBldVFBRzItM2cyWUhKbTdqWF9wSkxZVkNreGFKMjhIZWFuSDBzcUVQM3JmTWNmNzF6TEhnSEdHR0NqYnFoazBJU1F5Z21mdzlhRkgyeTN2NHVXWkdlRlBTTVpPOUIteE55MnctMm90bw?oc=5",
+     "published": "2026-10-17T15:03:00+00:00",
+     "summary": "Eminem and Kid Rock’s Relationship, Explained: How “Heal My Faith” Happened Complex"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Kid Rock Drops Christian Music Album with Eminem Collaboration “Heal My Faith”",
+     "link": "https://consequence.net/2026/10/kid-rock-christian-album-eminem/",
+     "published": "2026-10-17T13:28:30+00:00",
+     "summary": "Eminem says of their track: \"Not about choosing sides, just choosing to make music with my old friend. Praying for all of us.\" Kid Rock Drops Christian Music Album with Eminem Collaboration “Heal My Faith” Alex Young"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "nsVlguKJeWE",
+    "title": "Kid Rock and Eminem Gospel Album! Halfway to Jesus Meets Highway to Hell!",
+    "channel": "Spencer Smith",
+    "published": "2026-10-12T18:23:09Z",
+    "hours_since": 129,
+    "views": 47097,
+    "url": "https://www.youtube.com/watch?v=nsVlguKJeWE",
+    "views_per_hour": 365
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Miley Cyrus returns to stage with Hollywood Bowl concerts, honors Dolly Parton",
+   "artists": [
+    "Miley Cyrus",
+    "Dolly Parton"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "outlets": [
+    "Billboard",
+    "Consequence",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-17T16:51:16+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Miley Cyrus Tears Up While Honoring Dolly Parton During Hollywood Bowl Show: ‘Nothing In This Life Could Ever Tear Us Apart’",
+     "link": "https://variety.com/2026/music/news/miley-cyrus-tears-up-honoring-dolly-parton-hollywood-bowl-1236914884/",
+     "published": "2026-10-17T16:51:16+00:00",
+     "summary": "Miley Cyrus paid tribute to her late godmother and country icon Dolly Parton onstage at the Hollywood Bowl Friday as she performed her first major show in years. The “Bass Persuades” singer began by sharing memories with Parton, telling the"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Miley Cyrus Pays Tribute to Dolly Parton at Hollywood Bowl Comeback Concert",
+     "link": "https://consequence.net/2026/10/miley-cyrus-pays-tribute-to-dolly-parton-at-hollywood-bowl-comeback-concert/",
+     "published": "2026-10-17T14:25:58+00:00",
+     "summary": "The Hollywood Bowl show marked Cyrus' full public concert in four years. Miley Cyrus Pays Tribute to Dolly Parton at Hollywood Bowl Comeback Concert Alex Young"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "‘I’m Experiencing Everything I’ve Ever Wanted’: Recapping Miley’s Live Return, On Her Own Terms",
+     "link": "https://www.billboard.com/lists/miley-hollywood-bowl-live-return-recap/",
+     "published": "2026-10-17T08:09:27+00:00",
+     "summary": "Here's what went down during Miley's first of two sold-out nights at the iconic Hollywood Bowl."
+    },
+    {
+     "outlet": "Variety",
+     "title": "Miley Cyrus Embraces Being the Anti-Pop Pop Star With Her First ‘Bass Persuades’ Show at Hollywood Bowl: Concert Review",
+     "link": "https://variety.com/2026/music/news/miley-cyrus-bass-persuades-hollywood-bowl-concert-review-1236914661/",
+     "published": "2026-10-17T07:53:16+00:00",
+     "summary": "After she descended from a B-stage in the middle of the stands at the Hollywood Bowl on Friday night, Miley Cyrus sat hunched over on the main stage, visibly sapped by the 200-foot trek back to the spotlight. “You guys gave me so much energ"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Miley Cyrus Setlist: Every Song Played at ‘Bass Persuades – Live at the Hollywood Bowl’",
+     "link": "https://variety.com/2026/music/news/miley-cyrus-setlist-hollywood-bowl-los-angeles-1236914492/",
+     "published": "2026-10-17T03:37:30+00:00",
+     "summary": "Miley Cyrus kicked off her “Miley: Bass Persuades – Live at the Hollywood Bowl” shows on Friday night at the famed Los Angeles venue, giving her first headlining performance in years. The pop star, who is going mononomously as just Miley fo"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Lil Wayne Charleston concert postponed hours before showtime",
+   "artists": [
+    "Lil Wayne"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "tour",
+   "outlets": [
+    "AllHipHop",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-17T20:10:12+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Lil Wayne Concert In Charleston Postponed Hours Before Its Scheduled Start",
+     "link": "https://www.hotnewhiphop.com/1013562-lil-wayne-concert-postponed-hours-before-start",
+     "published": "2026-10-17T20:10:12+00:00",
+     "summary": "Lil Wayne has often faced issues with canceled or postponed concerts before, and a lack of clear explanation led to questions from fans. The post Lil Wayne Concert In Charleston Postponed Hours Before Its Scheduled Start appeared first on H"
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Lil Wayne Concert Derailed Three Hours Before Showtime",
+     "link": "https://allhiphop.com/news/lil-wayne-concert-derailed-three-hours-before-showtime/",
+     "published": "2026-10-17T19:00:22+00:00",
+     "summary": "Lil Wayne's Charleston concert was postponed hours before showtime after weather and travel delays, with no new date announced."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Drake sued over 'Janice STFU' chorus from Beyoncé's 'Heated'",
+   "artists": [
+    "Drake",
+    "Beyoncé"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "AllHipHop",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-17T20:00:21+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Drake Sued Over “Janice STFU” By Songwriter Behind Beyoncé’s “Heated”",
+     "link": "https://allhiphop.com/news/drake-sued-over-janice-stfu-by-songwriter-behind-beyonces-heated/",
+     "published": "2026-10-17T20:00:21+00:00",
+     "summary": "Drake’s former collaborator took a dispute over demo files, songwriting credit and the chorus of “Janice STFU” to federal court."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Drake Responds to “Janice STFU” Lawsuit After Being Accused of Stealing Song’s Hook",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZF9LdWxLSDF4Wno4enN6OW9VNTM4MXAtSWo5WmI1TlJqb1VDZGFNbGFzVmJITUV0N01PSktvNDZpVHM4TnFSdFVtNWhGTDNtOFNEcHEtUzI3YldOc1pLZG92RVhwbG9LQXd2WmUwa2diMXB3R3ZBazNQUC1rX19YNVZVRFZvWVVmMm1zQkltVEZwMXB0?oc=5",
+     "published": "2026-10-17T01:27:56+00:00",
+     "summary": "Drake Responds to “Janice STFU” Lawsuit After Being Accused of Stealing Song’s Hook Complex"
+    }
+   ],
+   "chart": [
+    {
+     "id": "vBk30V8AukM",
+     "title": "Drake, Don Toliver - Solar Eclipse",
+     "channel": "DrakeVEVO",
+     "published": "2026-10-06T15:08:34Z",
+     "hours_since": 276,
+     "views": 4322825,
+     "url": "https://www.youtube.com/watch?v=vBk30V8AukM",
+     "region": "US",
+     "rank": 22
+    }
+   ],
+   "video": {
+    "id": "vBk30V8AukM",
+    "title": "Drake, Don Toliver - Solar Eclipse",
+    "channel": "DrakeVEVO",
+    "published": "2026-10-06T15:08:34Z",
+    "hours_since": 276,
+    "views": 4322825,
+    "url": "https://www.youtube.com/watch?v=vBk30V8AukM",
+    "region": "US",
+    "rank": 22
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "DDG and PlaqueBoyMax compete for Best Music Streamer at 2026 Awards",
+   "artists": [
+    "DDG",
+    "PlaqueBoyMax"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "award",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-18T02:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "DDG & PlaqueBoyMax Face Off For Best Music Streamer At 2026 Streamer Awards",
+     "link": "https://allhiphop.com/news/ddg-plaqueboymax-face-off-for-best-music-streamer-at-2026-streamer-awards/",
+     "published": "2026-10-18T02:00:00+00:00",
+     "summary": "DDG and PlaqueBoyMax joined a four-way music race, with fans holding most of the vote before the November ceremony."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Lil Baby plans charity shift toward jobs and schools",
+   "artists": [
+    "Lil Baby"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T23:00:25+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Lil Baby Plans Charity Shift Toward Jobs And Schools After Millions In Giveaways",
+     "link": "https://allhiphop.com/news/lil-baby-plans-charity-shift-toward-jobs-and-schools-after-millions-in-giveaways/",
+     "published": "2026-10-17T23:00:25+00:00",
+     "summary": "Lil Baby's next charity plans focus on jobs and schools, building on years of giveaways and a $150,000 scholarship fund."
+    }
+   ],
+   "chart": [
+    {
+     "id": "Zb3H_W6z9Ak",
+     "title": "Lil Baby, Bally Baby, Fatt Smaxk - Coast 2 Coast",
+     "channel": "LilBabyVEVO",
+     "published": "2026-10-07T16:00:27Z",
+     "hours_since": 251,
+     "views": 1385627,
+     "url": "https://www.youtube.com/watch?v=Zb3H_W6z9Ak",
+     "region": "US",
+     "rank": 30
+    }
+   ],
+   "video": {
+    "id": "Zb3H_W6z9Ak",
+    "title": "Lil Baby, Bally Baby, Fatt Smaxk - Coast 2 Coast",
+    "channel": "LilBabyVEVO",
+    "published": "2026-10-07T16:00:27Z",
+    "hours_since": 251,
+    "views": 1385627,
+    "url": "https://www.youtube.com/watch?v=Zb3H_W6z9Ak",
+    "region": "US",
+    "rank": 30
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Diddy's lawyers seek to withdraw from rape case over unpaid fees",
+   "artists": [
+    "Diddy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T22:00:26+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "EXCLUSIVE: Diddy’s Lawyers Want Out After Seven Months Without A Payment",
+     "link": "https://allhiphop.com/news/exclusive-diddys-lawyers-want-out-after-seven-months-without-a-payment/",
+     "published": "2026-10-17T22:00:26+00:00",
+     "summary": "Diddy's law firm sought to leave another rape case, citing seven months without payment amid his documentary and prison disputes."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Joe Budden questions Elliott Wilson's moves after DJ Vlad fallout",
+   "artists": [
+    "Joe Budden",
+    "Elliott Wilson",
+    "DJ Vlad"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T21:58:14+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Joe Budden Goes After Elliott Wilson Amid Elliott’s Fallout With DJ Vlad",
+     "link": "https://www.hotnewhiphop.com/1013574-joe-budden-goes-after-elliott-wilson-fallout-dj-vlad",
+     "published": "2026-10-17T21:58:14+00:00",
+     "summary": "DJ Vlad and Elliott Wilson were going to work together more, but after that dynamic soured, Joe Budden is questioning Wilson's moves. The post Joe Budden Goes After Elliott Wilson Amid Elliott’s Fallout With DJ Vlad appeared first on HotNew"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Chad Hugo responds to Pharrell lawsuit over Neptunes history",
+   "artists": [
+    "Chad Hugo",
+    "Pharrell Williams",
+    "The Neptunes"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T21:27:49+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "The Neptunes’ Chad Hugo Responds To Pharrell Trying To Dismiss Lawsuit",
+     "link": "https://www.hotnewhiphop.com/1013570-neptunes-chad-hugo-responds-pharrell-trying-dismiss-lawsuit",
+     "published": "2026-10-17T21:27:49+00:00",
+     "summary": "Chad Hugo and his legal team argued Pharrell Williams is trying to erase Hugo as a part of the Neptunes' history. The post The Neptunes’ Chad Hugo Responds To Pharrell Trying To Dismiss Lawsuit appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Lil Baby unveils 'Fresh' album tracklist with Future and Young Thug",
+   "artists": [
+    "Lil Baby",
+    "Future",
+    "Young Thug"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T21:03:06+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Lil Baby Unveils 'Fresh' Tracklist That Includes Future and Young Thug Feature",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEJtZFEwT1J5TVBPYmxjSU50M1hKZXc1V1VfMDdBM3lvSjd5R0Fzc0xYYmdkZnpmTGhGbk95bmZmSzBENjhGUExLc3FjVDBTNzIwRnF0UVE2Z3NnRU9lX3F6eTNnZkR0WkVDaWJPWXJFVnE1aW9NZ0RpVzR4SmVaQVNTWFNQU1pvaWpkNk43RDFiUVY3bXlReThiRGU?oc=5",
+     "published": "2026-10-17T21:03:06+00:00",
+     "summary": "Lil Baby Unveils 'Fresh' Tracklist That Includes Future and Young Thug Feature Complex"
+    }
+   ],
+   "chart": [
+    {
+     "id": "Zb3H_W6z9Ak",
+     "title": "Lil Baby, Bally Baby, Fatt Smaxk - Coast 2 Coast",
+     "channel": "LilBabyVEVO",
+     "published": "2026-10-07T16:00:27Z",
+     "hours_since": 251,
+     "views": 1385627,
+     "url": "https://www.youtube.com/watch?v=Zb3H_W6z9Ak",
+     "region": "US",
+     "rank": 30
+    }
+   ],
+   "video": {
+    "id": "Zb3H_W6z9Ak",
+    "title": "Lil Baby, Bally Baby, Fatt Smaxk - Coast 2 Coast",
+    "channel": "LilBabyVEVO",
+    "published": "2026-10-07T16:00:27Z",
+    "hours_since": 251,
+    "views": 1385627,
+    "url": "https://www.youtube.com/watch?v=Zb3H_W6z9Ak",
+    "region": "US",
+    "rank": 30
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "Stoic discusses selective boom-bap taste and studio process",
+   "artists": [
+    "Stoic",
+    "Doechii"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T21:00:20+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Doechii Producer Stoic Isn’t Sold On ’90s Boom-Bap",
+     "link": "https://allhiphop.com/news/doechii-producer-stoic-isnt-sold-on-90s-boom-bap/",
+     "published": "2026-10-17T21:00:20+00:00",
+     "summary": "Stoic connected his selective boom-bap taste with a simpler studio process and a stronger voice when guiding artists through songs."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s32",
+   "label": "YK Osiris and DDG almost brawl before boxing event",
+   "artists": [
+    "YK Osiris",
+    "DDG",
+    "Deshae Frost"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T20:40:24+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "YK Osiris & DDG Almost Brawl Before Osiris’ Boxing Match With Deshae Frost",
+     "link": "https://www.hotnewhiphop.com/1013566-yk-osiris-ddg-brawl-boxing-match-deshae-frost",
+     "published": "2026-10-17T20:40:24+00:00",
+     "summary": "Adin Ross' Brand Risk Promotions event featuring Deshae Frost almost got physical before the match thanks to DDG and YK Osiris. The post YK Osiris & DDG Almost Brawl Before Osiris’ Boxing Match With Deshae Frost appeared first on HotNewHipH"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "LXXg5dITRNY",
+    "title": "YK Osiris Almost P*nched Deshae Frost at Brand Risk #16: Weigh-Ins",
+    "channel": "Adin Live",
+    "published": "2026-10-15T18:43:02Z",
+    "hours_since": 56,
+    "views": 134878,
+    "url": "https://www.youtube.com/watch?v=LXXg5dITRNY",
+    "views_per_hour": 2409
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "Drake recording new music at Toronto mansion 'The Embassy'",
+   "artists": [
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T19:23:02+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Drake Is Already Recording New Music Amid A Massive Year",
+     "link": "https://www.hotnewhiphop.com/1013551-drake-recording-new-music-2",
+     "published": "2026-10-17T19:23:02+00:00",
+     "summary": "A new photo of Drake recording at what seems to be his mansion in Toronto, \"The Embassy,\" has sent fans into a frenzy. The post Drake Is Already Recording New Music Amid A Massive Year appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [
+    {
+     "id": "vBk30V8AukM",
+     "title": "Drake, Don Toliver - Solar Eclipse",
+     "channel": "DrakeVEVO",
+     "published": "2026-10-06T15:08:34Z",
+     "hours_since": 276,
+     "views": 4322825,
+     "url": "https://www.youtube.com/watch?v=vBk30V8AukM",
+     "region": "US",
+     "rank": 22
+    }
+   ],
+   "video": {
+    "id": "vBk30V8AukM",
+    "title": "Drake, Don Toliver - Solar Eclipse",
+    "channel": "DrakeVEVO",
+    "published": "2026-10-06T15:08:34Z",
+    "hours_since": 276,
+    "views": 4322825,
+    "url": "https://www.youtube.com/watch?v=vBk30V8AukM",
+    "region": "US",
+    "rank": 22
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s39",
+   "label": "Harry Styles 'Together, Together' tour doc coming from director John Wilson",
+   "artists": [
+    "Harry Styles"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "outlets": [
+    "Variety"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T19:00:20+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Harry Styles ‘Together, Together’ Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)",
+     "link": "https://variety.com/2026/film/news/harry-styles-john-wilson-tour-documentary-universal-1236914875/",
+     "published": "2026-10-17T19:00:20+00:00",
+     "summary": "Harry Styles has invited one of the buzziest documentary filmmakers on the market behind the curtain of his historic Madison Square Garden residency. John Wilson, the director behind indie box-office surprise “The History of Concrete” and H"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s25",
+   "label": "50 Cent speculates feds will target Diddy for Tupac murder",
+   "artists": [
+    "50 Cent",
+    "Diddy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T18:50:16+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "50 Cent Thinks The Feds Will Target Diddy For Tupac Murder After Keefe D’s Sentence",
+     "link": "https://www.hotnewhiphop.com/1013544-50-cent-feds-target-diddy-tupac-murder-keefe-d-sentence",
+     "published": "2026-10-17T18:50:16+00:00",
+     "summary": "Diddy and Keefe D have both denied the former's involvement in the murder of Tupac, but 50 Cent is still peddling conspiracy theories. The post 50 Cent Thinks The Feds Will Target Diddy For Tupac Murder After Keefe D’s Sentence appeared fir"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Gunna and Walmart pledge $10,000 in FAMU student scholarships",
+   "artists": [
+    "Gunna"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T18:00:29+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Gunna And Walmart Pledge $10,000 In FAMU Student Scholarships",
+     "link": "https://allhiphop.com/news/gunna-and-walmart-pledge-10000-in-famu-student-scholarships/",
+     "published": "2026-10-17T18:00:29+00:00",
+     "summary": "Gunna’s run club will join FAMU’s homecoming 5K as five students in health-related majors receive $2,000 scholarships."
+    }
+   ],
+   "chart": [
+    {
+     "id": "48rRv5ISfrg",
+     "title": "Gunna - pop it [Official Video]",
+     "channel": "Gunna",
+     "published": "2026-10-09T15:00:08Z",
+     "hours_since": 204,
+     "views": 3357192,
+     "url": "https://www.youtube.com/watch?v=48rRv5ISfrg",
+     "region": "US",
+     "rank": 14
+    }
+   ],
+   "video": {
+    "id": "48rRv5ISfrg",
+    "title": "Gunna - pop it [Official Video]",
+    "channel": "Gunna",
+    "published": "2026-10-09T15:00:08Z",
+    "hours_since": 204,
+    "views": 3357192,
+    "url": "https://www.youtube.com/watch?v=48rRv5ISfrg",
+    "region": "US",
+    "rank": 14
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Cardi B wins Billboard Canada's first Global Woman of the Year Award",
+   "artists": [
+    "Cardi B"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T17:05:33+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Cardi B Lands Billboard Canada’s First Global Woman Of The Year Award",
+     "link": "https://allhiphop.com/news/cardi-b-lands-billboard-canadas-first-global-woman-of-the-year-award/",
+     "published": "2026-10-17T17:05:33+00:00",
+     "summary": "Cardi B will return to Toronto for a new global honor after an arena run that put her among the world's top touring acts."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Bette Midler accepts 2026 Woody Guthrie Prize, sings protest song",
+   "artists": [
+    "Bette Midler"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T16:15:17+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Bette Midler Accepts 2026 Woody Guthrie Prize, Sings Protest Classic: ‘My Small Contribution to the Resistance’",
+     "link": "https://www.billboard.com/music/awards/bette-midler-woody-guthrie-prize-2026-accepts-performs-1236362345/",
+     "published": "2026-10-17T16:15:17+00:00",
+     "summary": "Yep, she's woke. And proud of it."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s40",
+   "label": "Michael Jackson biopic to be honored at 2026 Gotham Awards",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-17T15:09:57+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Michael Jackson's Billion-Dollar Biopic to Be Honored at 2026 Gotham Awards",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTN6aGsta0szYWpubVFoOHN1NExSTXI5REpLakpPeE9PanFmcUY5YTJaNURJMjVOdjdwRnlmNGoxbk9NRVRBN0x2THBBT1pLaHM0eEZSQkJUN3ViSWh4eUtJU1F5Y1VuLU5FT1JmS2VHWFhIME5lRTNCS1k4OFFGZm5HbWkyTUJKQWZDaFNpRkJMSlM0TENyQ0E4OXM?oc=5",
+     "published": "2026-10-17T15:09:57+00:00",
+     "summary": "Michael Jackson's Billion-Dollar Biopic to Be Honored at 2026 Gotham Awards Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s38",
+   "label": "Luca Sabata from Jim Jarmusch film announces November Japan appearance",
+   "artists": [
+    "Luca Sabata"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "outlets": [
+    "Fan's Voice",
+    "T COM（アットティーコム）",
+    "ニコニコニュース",
+    "リアルサウンド",
+    "ｄメニューニュース"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [
+    "Fan's Voice",
+    "T COM（アットティーコム）",
+    "ニコニコニュース",
+    "リアルサウンド",
+    "ｄメニューニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-17T04:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "T COM（アットティーコム）",
+     "title": "ジム・ジャームッシュ監督作出演のルカ・サバト、11月来日決定 『ファーザー マザー シスター ブラザー』本編映像公開",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FNENUVl8zR1lqWkNGRVpzUUVMTEZneGhhWkRxWGlxcWhqWHBUeHpvXy1rYnFKTVRJMWlHWWVTTURYVWNuRVc5N0dXb3RXb3hqWjhrVUtsRHhFR1N0?oc=5",
+     "published": "2026-10-17T04:00:00+00:00",
+     "summary": "ジム・ジャームッシュ監督作出演のルカ・サバト、11月来日決定 『ファーザー マザー シスター ブラザー』本編映像公開 T COM（アットティーコム）"
+    },
+    {
+     "outlet": "ニコニコニュース",
+     "title": "ジャームッシュ「ファーザー マザー シスター ブラザー」ルカ・サバト来日決定＆本編映像公開",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IdHE2UkVWb1hvMDRWclZHLVVqbVpRYm5YWkpaQTg1RG11a2NaUzFuZlNJa3VYdUFfRHltVk5sdkFfeDkzSWdKRU5WZzl2TXBvbjNUTDJCZ0tyYTZCRXRVeUZ4RTZrek9WS0FUOXFPbw?oc=5",
+     "published": "2026-10-17T03:18:01+00:00",
+     "summary": "ジャームッシュ「ファーザー マザー シスター ブラザー」ルカ・サバト来日決定＆本編映像公開 ニコニコニュース"
+    },
+    {
+     "outlet": "リアルサウンド",
+     "title": "『ファーザー マザー シスター ブラザー』ルカ・サバト来日決定 新場面写真＆本編映像も",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EclE5Tk5MZzgyT0MyQkRZdWFRRS1LdUpIS2E5VmdiMlE0Tlg2SmlmcDVWVzNYcXRpb3lzaXdMUmh1bXJ5c21rTHRsdHM0WHZyWFc2aEY5U3JjYXg1RVotYnpn0gFnQVVfeXFMTXF3WHoweDdDSmlOaEgxSmF6MjdNbjhRYWtZMEQtYXQzMVFIM0VlelMtM3ZzUXBONUt6dlBGam1NYjRta1dZTVEtdENKZlJyOHpTbTl3VzY4d2l6c25WMk9PRVFLR0IzUQ?oc=5",
+     "published": "2026-10-17T03:00:36+00:00",
+     "summary": "『ファーザー マザー シスター ブラザー』ルカ・サバト来日決定 新場面写真＆本編映像も リアルサウンド"
+    },
+    {
+     "outlet": "Fan's Voice",
+     "title": "『ファーザー マザー シスター ブラザー』ルカ・サバト来日決定！本編シーン映像が解禁！",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSOGN4eHNSUzE5U0RIbWNLV0FuQXhTTDF2ZUJISy02NzQ4WWNYQllWYU9IMnh0bnZwRE0tbG1DWmZ6aExIMmdxNVJmUmNpck8yUV9jNWI2elBvclJtZkFUMWRoQ0NmcmZ1bHFzMmNXeVhlOTczWlhyYXp3?oc=5",
+     "published": "2026-10-17T03:00:00+00:00",
+     "summary": "『ファーザー マザー シスター ブラザー』ルカ・サバト来日決定！本編シーン映像が解禁！ Fan's Voice"
+    },
+    {
+     "outlet": "ｄメニューニュース",
+     "title": "『ファーザー マザー シスター ブラザー』「SISTER BROTHER」篇で主演を務めるルカ・サバトの来日決定！新場面写真＆本編映像が公開",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNG9LbDU2SG53N0ZGOEF6UFBtSFZIQkZQMThZci1pdmZrbVFXUVFfY0RhMGdrOUtYM0x6LVFuVnFZLU5mQ1JxWTlHdC1DUlRIRW4zMjM3aDI0ZG13MnZrZ0RIWkxvbWU2LTluZ25xcEI4LVUyc2s4aTB5ZFRKSnNNNk9xajBPWmlON0FRNzN1Uk1wMU3SAZMBQVVfeXFMUDRvS2w1NkhudzdGRjhBelBQbUhWSEJGUDE4WXItaXZma21RV1FRX2NEYTBnazlLWDNMei1RblZxWS1OZkNScVk5R3QtQ1JUSEVuMzIzN2gyNGRtdzJ2a2dESFpMb21lNi05bmducXBCOC1VMnNrOGkweWRUSkpzTTZPcWowT1ppTjdBUTczdVJNcDFN?oc=5",
+     "published": "2026-10-17T03:00:00+00:00",
+     "summary": "『ファーザー マザー シスター ブラザー』「SISTER BROTHER」篇で主演を務めるルカ・サバトの来日決定！新場面写真＆本編映像が公開 ｄメニューニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "DJ SMACK announces November Japan concert in Shibuya",
+   "artists": [
+    "DJ SMACK"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "outlets": [
+    "EDM MAXX"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "EDM MAXX"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-17T11:13:10+00:00",
+   "articles": [
+    {
+     "outlet": "EDM MAXX",
+     "title": "覆面 DJ SMACK, 11月14日(土) 渋谷 TK NIGHTCLUB にて来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9HVmxIUE1sM2k3RnBNYkE5NWs0Si0waGJNX2s4dTQ3YXVWWmF0QkVFYkNET0paeGlxVWt1elJlbS02Y3VU?oc=5",
+     "published": "2026-10-17T11:13:10+00:00",
+     "summary": "覆面 DJ SMACK, 11月14日(土) 渋谷 TK NIGHTCLUB にて来日公演決定 EDM MAXX"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s36",
+   "label": "ERIK GRÖNWALL Japan concert opening act announced for November",
+   "artists": [
+    "ERIK GRÖNWALL"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-17T08:57:02+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "ERIK GRÖNWALL、11月の来日公演に出演するオープニング・アクトが決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9hbnU1TndkLVFXZDQ0YUp1MDJlMndZaWJlV1luRXU4SmJwQUc3NzNzMDExWlJDdmFXSjRiT2d2MmJLUm1uc0Zr?oc=5",
+     "published": "2026-10-17T08:57:02+00:00",
+     "summary": "ERIK GRÖNWALL、11月の来日公演に出演するオープニング・アクトが決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s35",
+   "label": "The Weeknd announces Japan commemorative edition with Abe Tomoko collab",
+   "artists": [
+    "The Weeknd",
+    "Abe Tomoko"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "outlets": [
+    "山陽新聞"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-17T08:09:04+00:00",
+   "articles": [
+    {
+     "outlet": "山陽新聞",
+     "title": "ザ・ウィークエンドの来日記念盤発売、アートワークを天野喜孝が担当 亜蘭知子を迎えた新録「Out Of Time」も配信決定",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yMTdqSFdyY1BWT1FObVh0QkE1N28yd2FIc2FvUERrUnNDN0hlcTdqd19keTdpb1NjV3p0QnUyUGpYZEZ5S2lZX2tGMlJMdjNyUVE?oc=5",
+     "published": "2026-10-17T08:09:04+00:00",
+     "summary": "ザ・ウィークエンドの来日記念盤発売、アートワークを天野喜孝が担当 亜蘭知子を迎えた新録「Out Of Time」も配信決定 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s37",
+   "label": "Florence + The Machine noted as girl band performing at Summersonic",
+   "artists": [
+    "Florence + The Machine"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "Yahoo!ニュース",
+    "madameFIGARO.jp"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Yahoo!ニュース",
+    "madameFIGARO.jp"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-17T10:40:06+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "サマソニにも来日したガールズバンド、「フローレンス・ロード」に注目（フィガロジャポン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rRWhqVlRfckxBZ1k4R1hJVndVSGxtS3JwMVFjNGw1T1JvY0YwX2h5eW5IcG9tbFlkcGdPeS1nQ0JWVmVxSjBIc05SdjMyMkQxbFUyZk1neUpSbFMxU2lSWU5hUWdaOUdQQl9vOFYwRkhOZllhYWNBZmp6YlJDc2s?oc=5",
+     "published": "2026-10-17T10:40:06+00:00",
+     "summary": "サマソニにも来日したガールズバンド、「フローレンス・ロード」に注目（フィガロジャポン） Yahoo!ニュース"
+    },
+    {
+     "outlet": "madameFIGARO.jp",
+     "title": "高校時代の仲良し4人組、小さな町から世界へ！ サマソニにも来日したガールズバンド、フローレンス・ロードに注目。",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSQnZCYnVNYmhjU2RXeDZfQXJQV2Y0S1J1U2xFV0ktTHlPa09vVVEzbTZYREpBMll0NmJldE9pa0FmSlhFMTQ0cFk2T2FzNnpPTWFpd3dBWkRTdFRpSEdkOVpJUW9teVNKd1BjQkNWSQ?oc=5",
+     "published": "2026-10-17T04:00:00+00:00",
+     "summary": "高校時代の仲良し4人組、小さな町から世界へ！ サマソニにも来日したガールズバンド、フローレンス・ロードに注目。 madameFIGARO.jp"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s31",
+   "label": "Meagan Good recalls choosing 50 Cent's '21 Questions' over Busta Rhymes",
+   "artists": [
+    "Meagan Good",
+    "50 Cent",
+    "Busta Rhymes"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-18T01:01:30+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Meagan Good Bet On 50 Cent After Missing Busta Rhymes’ Call",
+     "link": "https://allhiphop.com/news/meagan-good-bet-on-50-cent-after-missing-busta-rhymes-call/",
+     "published": "2026-10-18T01:01:30+00:00",
+     "summary": "Meagan Good recalled missing a Busta Rhymes video call before choosing 50 Cent's \"21 Questions\" to reshape her career."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "Method Man reacts to hearing Wu-Tang Clan's 'Once Upon a Time in Shaolin'",
+   "artists": [
+    "Method Man",
+    "Wu-Tang Clan"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-16T23:47:52+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Method Man Reacts to Hearing Wu-Tang Clan's 'Once Upon a Time in Shaolin' for First Time",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVhCVnJEOXNPZlNvUTlwVFo1MDhMaVZETTNvUlNBdlZVYW9xd0VFNEQ5eDBrMElQZThhcy05NlkweEJHNHVMMGtsRUhNN2lIeGVhcWhEUWxQMTNVQUcxajJVWF9OWEtsSGwzWVpkS0xwcWJpMWNTdTdMWkRoajhrRmFNQWZMRlVN?oc=5",
+     "published": "2026-10-16T23:47:52+00:00",
+     "summary": "Method Man Reacts to Hearing Wu-Tang Clan's 'Once Upon a Time in Shaolin' for First Time Complex"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Iron Maiden announces surprise 2027 North American tour dates",
+   "artists": [
+    "Iron Maiden"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "outlets": [
+    "Billboard",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-17T17:52:08+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Iron Maiden Announce 2027 Run for Your Lives North American Tour: See the Dates",
+     "link": "https://www.billboard.com/music/rock/iron-maiden-2027-north-american-tour-dates-1236362365/",
+     "published": "2026-10-17T17:52:08+00:00",
+     "summary": "The third and final leg of the metal legends’ 50th-anniversary trek launches in April."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Iron Maiden Announce Surprise 2027 North American Tour",
+     "link": "https://www.rollingstone.com/music/music-news/iron-maiden-surprise-2027-north-american-tour-1235644371/",
+     "published": "2026-10-17T16:34:08+00:00",
+     "summary": "Heavy metal legends were \"planning on taking a break\" next year, but will instead play final 16 shows of their 50th anniversary tour"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s37",
+   "label": "Florence + The Machine noted as girl band performing at Summersonic",
+   "artists": [
+    "Florence + The Machine"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "outlets": [
+    "Yahoo!ニュース",
+    "madameFIGARO.jp"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Yahoo!ニュース",
+    "madameFIGARO.jp"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-17T10:40:06+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "サマソニにも来日したガールズバンド、「フローレンス・ロード」に注目（フィガロジャポン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rRWhqVlRfckxBZ1k4R1hJVndVSGxtS3JwMVFjNGw1T1JvY0YwX2h5eW5IcG9tbFlkcGdPeS1nQ0JWVmVxSjBIc05SdjMyMkQxbFUyZk1neUpSbFMxU2lSWU5hUWdaOUdQQl9vOFYwRkhOZllhYWNBZmp6YlJDc2s?oc=5",
+     "published": "2026-10-17T10:40:06+00:00",
+     "summary": "サマソニにも来日したガールズバンド、「フローレンス・ロード」に注目（フィガロジャポン） Yahoo!ニュース"
+    },
+    {
+     "outlet": "madameFIGARO.jp",
+     "title": "高校時代の仲良し4人組、小さな町から世界へ！ サマソニにも来日したガールズバンド、フローレンス・ロードに注目。",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSQnZCYnVNYmhjU2RXeDZfQXJQV2Y0S1J1U2xFV0ktTHlPa09vVVEzbTZYREpBMll0NmJldE9pa0FmSlhFMTQ0cFk2T2FzNnpPTWFpd3dBWkRTdFRpSEdkOVpJUW9teVNKd1BjQkNWSQ?oc=5",
+     "published": "2026-10-17T04:00:00+00:00",
+     "summary": "高校時代の仲良し4人組、小さな町から世界へ！ サマソニにも来日したガールズバンド、フローレンス・ロードに注目。 madameFIGARO.jp"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 4
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 21
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 5,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 64,
+   "kept": 8
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 0
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 8
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 0
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 17
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 0
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 10
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 26,
+   "kept": 8
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 23,
+   "kept": 1
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 1
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 28
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 1
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 7,
+   "kept": 1
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 22,
+   "kept": 4
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 27,
+   "kept": 6
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 48,
+   "kept": 14
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 10,
+   "kept": 5
+  }
+ ],
+ "cost": {
+  "usd": 0.23,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 13710,
+    "output_tokens": 4617
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 14561,
+    "output_tokens": 6750
+   }
+  ]
+ }
+}
