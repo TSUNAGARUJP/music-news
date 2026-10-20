@@ -225,7 +225,11 @@ def build_payload(result: dict, wcfg: dict, start: str, end: str) -> dict:
             if first:
                 embed["url"] = first
             embeds.append(embed)
-    content = f"## {wcfg['title']}（{_jd(start)}〜{_jd(end)}）\n{result['intro']}"
+    content = f"## {wcfg['title']}（{_jd(start)}〜{_jd(end)}）\n"
+    subtitle = str(wcfg.get("subtitle", "")).strip()
+    if subtitle:
+        content += f"{subtitle}\n"
+    content += result["intro"]
     mention = str(wcfg.get("mention", "")).strip()
     if mention:
         content = f"{mention}\n{content}"
