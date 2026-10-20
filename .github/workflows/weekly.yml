@@ -1,0 +1,51 @@
+name: 今週の音楽話題（Discord）
+
+on:
+  schedule:
+    - cron: "50 8 * * 6"   # 毎週土曜 17:50（日本時間）に起動 → 18時ごろ投稿
+  workflow_dispatch:        # 手動実行ボタン
+    inputs:
+      post:
+        description: "Discordに投稿する（外すと内容の確認だけ）"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: 今週の話題を選んでDiscordに投稿
+        run: python3 weekly.py
+        env:
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && !inputs.post }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
+
+      - name: 結果を保存
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          [ -d data/weekly ] || exit 0
+          cp -r data/weekly /tmp/new-weekly
+          git fetch origin main
+          git reset --hard origin/main
+          mkdir -p data/weekly
+          cp -r /tmp/new-weekly/. data/weekly/
+          git add data/weekly
+          git diff --cached --quiet || git commit -m "週まとめ $(TZ=Asia/Tokyo date +%F)"
+          git push origin HEAD:main
