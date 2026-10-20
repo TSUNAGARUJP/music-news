@@ -12,6 +12,7 @@ dj_count = 2                   # DJ・クラブの話題の件数
 model = "claude-opus-5-5"      # 選定と執筆に使うモデル
 effort = ""                    # 空欄＝標準
 username = "今週の音楽話題"     # Discordに表示される投稿者名
+mention = "@everyone"          # 投稿の先頭に付けるメンション（"@here" も可。通知しないときは ""）
 
 audience = """
 読者は、DJスクールに通う生徒（DJを学んでいる初心者〜中級者）。

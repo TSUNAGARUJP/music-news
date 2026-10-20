@@ -226,8 +226,13 @@ def build_payload(result: dict, wcfg: dict, start: str, end: str) -> dict:
                 embed["url"] = first
             embeds.append(embed)
     content = f"## {wcfg['title']}（{_jd(start)}〜{_jd(end)}）\n{result['intro']}"
+    mention = str(wcfg.get("mention", "")).strip()
+    if mention:
+        content = f"{mention}\n{content}"
+    # @everyone / @here を書いたときだけ、その通知を有効にする（本文中の誤ったメンションは飛ばさない）
+    parse = ["everyone"] if mention in ("@everyone", "@here") else []
     return {"username": wcfg.get("username", "今週の音楽話題"), "content": content[:2000],
-            "embeds": embeds[:10], "allowed_mentions": {"parse": []}}
+            "embeds": embeds[:10], "allowed_mentions": {"parse": parse}}
 
 
 def post_discord(payload: dict) -> None:
