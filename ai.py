@@ -158,10 +158,14 @@ Rules:
 - kind: one of japan_tour, evergreen, release, announcement, tour, festival, chart, award, collab, beef, legal, health, death, business, interview, other.
   Use japan_tour when an overseas artist or DJ announces concerts, club shows or festival appearances in Japan (来日公演, 来日決定, 初来日, ticket sales for Japan shows), including festivals or events held in Japan that feature overseas acts. Concerts held outside Japan are NOT japan_tour, even if the article is in Japanese.
 - label: a short, specific English description of the event (max 12 words).
+- talk: how much the story invites discussion or analysis among fans, 0-2.
+  2 = opinions are likely to split or there is something to analyze: criticism and responses, controversy, beefs, surprising statements or confessions, artists speaking on social issues, industry or rule changes (streaming payouts, AI in music, ticket prices, chart or award rules, label and contract disputes, new technology changing how music is made, played or booked), records or trends that raise a "why?".
+  1 = has some angle to talk about (an unusual background, a meaningful comeback, a notable collaboration).
+  0 = a plain announcement or report with nothing to debate: new single or video, tour dates, lineup, TV or event appearance, tracklist.
 - artists: the main artist or DJ names in their original (usually English) spelling.
 
 Reply with JSON only, no other text:
-{"stories":[{"label":"...","artists":["..."],"genre":"POP","kind":"release","origin":"overseas","ids":[3,17]}],"excluded":[5,9]}
+{"stories":[{"label":"...","artists":["..."],"genre":"POP","kind":"release","origin":"overseas","talk":0,"ids":[3,17]}],"excluded":[5,9]}
 
 Articles (id, outlet, genre the outlet usually covers, JP = Japanese outlet, headline — summary):
 """
@@ -188,27 +192,33 @@ def cluster_articles(articles: list[dict], model: str, costs: list) -> list[dict
             excluded.update(ids)
             continue
         genre = s.get("genre") if s.get("genre") in GENRES + ("Other",) else "Other"
+        try:
+            talk = max(0, min(2, int(s.get("talk", 0))))
+        except (TypeError, ValueError):
+            talk = 0
         stories.append({"label": str(s.get("label", ""))[:160], "artists": [str(x) for x in s.get("artists", [])][:5],
-                        "genre": genre, "kind": str(s.get("kind", "other")), "article_ids": ids})
+                        "genre": genre, "kind": str(s.get("kind", "other")), "talk": talk, "article_ids": ids})
     # AIが振り分け忘れた記事は、1記事だけの話題として残す
     for i, a in enumerate(articles):
         # 日本の媒体の記事でAIが振り分けなかったものは、ほぼ日本のアーティストの話題なので残さない
         if i not in used and i not in excluded and a.get("region") != "JP":
             hint = a["genre_hint"] if a["genre_hint"] in GENRES else "Other"
             stories.append({"label": a["title"][:160], "artists": [], "genre": hint,
-                            "kind": "other", "article_ids": [i]})
+                            "kind": "other", "talk": 0, "article_ids": [i]})
     return stories
 
 
 # ---------- 段階2：選定と執筆 ----------
 
 SELECT_SYSTEM = """あなたは、日本の洋楽インフルエンサーの専属リサーチャーです。
-海外の音楽ニュースの候補から、Instagramリールのネタとして使える話題を選び、日本語でまとめます。
+海外の音楽ニュースの候補から、Instagramリールで「考察」や「議論」ができる話題を選び、日本語でまとめます。
+ただ事実を伝えるだけのニュースより、視聴者が自分の意見を言いたくなる話題を重視します。
 
 守ること：
 - 書くのは、渡された見出し・概要・数字から言えることだけ。推測を事実のように書かない。
   不確かなことは「〜と報じられている」「〜の可能性」と書く。数字は渡されたものだけを使う。
 - アーティスト名・曲名・アルバム名は英語表記のまま書く。
+- 論点を書くときは、対立をあおる言い方や個人攻撃をしない。政治・事件・病気の話題は、事実と複数の見方を示す。
 - 返答はJSONのみ。前置きや説明は書かない。
 - JSONの文字列の中では半角の二重引用符（"）を使わない。曲名やアルバム名は「」や『』で囲む。"""
 
@@ -222,9 +232,12 @@ SELECT_TEMPLATE = """# 視聴者と選定基準
 - coverage.mainstream：CNN・BBCなど一般メディアが報じている＝音楽ファン以外にも届く大きな話題。マニアックになりすぎないよう重視する。
 - youtube_music_chart の JP：日本のYouTube音楽チャートに入っている＝日本でいま聴かれている。
 - 海外の音楽メディアだけが報じている話題は、日本で知名度があるか、これから来る根拠があるかを慎重に見る。
+- talk：考察・議論のしやすさ（2＝賛否が分かれる・考察の余地が大きい、1＝語れる切り口がある、0＝ただのニュース）。下ごしらえの段階で付けた目安なので、最終的には自分で判断する。
 
 # 選び方
-- 「top」：ジャンルを問わず、今日いちばんリールにする価値がある話題を{top_n}件。重要度（報じた媒体の数、関連動画の再生数と伸び）と、日本の視聴者にとっての伸びやすさの両方で判断する。
+- 「top」：ジャンルを問わず、今日いちばん「考察・議論のネタになる」話題を{top_n}件。重視する順に、(1) 考察・議論の余地、(2) 日本の視聴者にとっての知名度や身近さ、(3) 話題の大きさ（報じた媒体の数、関連動画の再生数）。
+- 新曲・MVの公開、ツアー発表、番組やイベントへの出演、ラインナップ発表のような「ただのニュース」は、記録的な数字、賛否、意外な背景など、語れる切り口があるときだけtopに入れる。
+- 次点（runners_up）のDance・POP・Hip-Hopも、同じ考え方で考察・議論の余地がある話題を優先する。
 - topのうち genre が "Other"（ロック・カントリーなど）のものは最大1件まで。
 - 「runners_up」：topに入らなかったものから、Dance・POP・Hip-Hopそれぞれ最大{runners}件。過去7日に取り上げた話題を除いて、そのジャンルの候補が残っていれば必ず埋める（空にするのは、そうした候補が1件もないときだけ）。
 - Danceの次点は、DJ・プロデューサーの新曲、DJランキングの発表、大型フェスなど、ダンスミュージックの話題から選ぶ。
@@ -238,8 +251,11 @@ SELECT_TEMPLATE = """# 視聴者と選定基準
 - title_ja：何が起きたかが一目で分かる見出し。40字以内。
 - summary_ja：何が起きたか。2〜3文。
 - why_ja：なぜ話題か。根拠（媒体数、再生数、チャート順位など）を1つ以上含めて1〜2文。
+- debate_ja：論点。視聴者に投げかける問いを1文で（50字以内）。例：「〜はアリ？ナシ？」「なぜ〜なのか？」「あなたは〜派？」
 - line_point：LINE通知用の要点。60字以内。
-- reels：リール案を2つ。hook＝冒頭3秒で言うひとこと（30字以内）、angle＝構成や見せ方（80字以内）。2案は切り口を変える。
+- reels：リール案を2つ。hook＝冒頭3秒で言うひとこと（30字以内）、angle＝構成や見せ方（80字以内）。
+  1案目は考察型：hookは問いかけか、はっきりした意見（例：「これ、正直アリだと思う？」）。angleは「事実→論点→自分の見解→コメントで意見を募る」の流れ。
+  2案目は別の切り口（背景の解説、過去の似た事例との比較、数字の読み解きなど）。
   一般の洋楽ファンに向けた切り口にする。DJ目線、DJの技術やプレイの解説、DJスクールやスクール生に向けた切り口にはしない（話題の主役がDJでも同じ）。
 - どの項目でも、DJスクールやスクール生には触れない。
 - runners_upの note：何が起きたか1文（50字以内）。Otherでは、何がネタになるか（どんな雑学・裏話か）を1文で。
@@ -247,7 +263,7 @@ SELECT_TEMPLATE = """# 視聴者と選定基準
 - overview：今日の全体の傾向を1〜2文。
 
 # 返答の形（JSONのみ）
-{{"overview":"...","top":[{{"id":"s3","title_ja":"...","genre":"Hip-Hop","summary_ja":"...","why_ja":"...","line_point":"...","reels":[{{"hook":"...","angle":"..."}},{{"hook":"...","angle":"..."}}]}}],"runners_up":{{"Dance":[{{"id":"s8","title_ja":"...","note":"..."}}],"POP":[],"Hip-Hop":[],"Other":[]}},"japan_tours":[{{"id":"s12","title_ja":"...","note":"..."}}]}}
+{{"overview":"...","top":[{{"id":"s3","title_ja":"...","genre":"Hip-Hop","summary_ja":"...","why_ja":"...","debate_ja":"...","line_point":"...","reels":[{{"hook":"...","angle":"..."}},{{"hook":"...","angle":"..."}}]}}],"runners_up":{{"Dance":[{{"id":"s8","title_ja":"...","note":"..."}}],"POP":[],"Hip-Hop":[],"Other":[]}},"japan_tours":[{{"id":"s12","title_ja":"...","note":"..."}}]}}
 
 # 過去7日に取り上げた話題
 {recent}
@@ -268,7 +284,7 @@ def _candidate_brief(c: dict, light: bool = False) -> dict:
     light=True（来日情報・雑学ネタの候補）は、見出し中心のさらに軽い形にする。"""
     brief = {
         "id": c["id"], "label": c["label"], "artists": c["artists"], "genre": c["genre"],
-        "kind": c["kind"], "outlets_count": c["n_outlets"],
+        "kind": c["kind"], "talk": c.get("talk", 0), "outlets_count": c["n_outlets"],
         "headlines": [a["title"] for a in c["articles"][:3 if light else 4]],
         "summaries": [a["summary"][:160] for a in c["articles"][:1 if light else 2] if a["summary"]],
     }

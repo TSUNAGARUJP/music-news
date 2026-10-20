@@ -66,6 +66,7 @@ a:hover{text-decoration-thickness:2px}
 .pick h2{margin:6px 0 0;font-size:21px;line-height:1.5;font-weight:700}
 .summary{margin:16px 0 0}
 .why{margin:10px 0 0;color:var(--ink-soft)}
+.debate{margin:10px 0 0;font-weight:700}
 .label{font-weight:700;color:var(--ink);margin-right:.5em}
 .reels{margin:20px 0 0;padding:14px 16px;background:var(--well);border-radius:6px}
 .reels h3{margin:0 0 6px;font-size:13px;font-weight:700;color:var(--ink-soft)}
@@ -207,6 +208,7 @@ def _pick_html(n: int, t: dict, c: dict) -> str:
 <div><div class="meta">{''.join(meta)}</div><h2>{escape(t.get('title_ja', ''))}</h2></div></div>
 <p class="summary">{escape(t.get('summary_ja', ''))}</p>
 <p class="why"><span class="label">なぜ話題か</span>{escape(t.get('why_ja', ''))}</p>
+{f'<p class="debate"><span class="label">論点</span>{escape(t["debate_ja"])}</p>' if t.get("debate_ja") else ''}
 <div class="reels"><h3>リール案</h3><ul>{reels}</ul></div>
 {_sources_html(c)}
 </article>"""

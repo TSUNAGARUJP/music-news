@@ -117,7 +117,7 @@ def build_stories(articles: list[dict], clusters: list[dict]) -> list[dict]:
         is_tour = _looks_like_tour(cl["kind"], cl["label"], arts, visit_source)
         stories.append({
             "id": f"s{n}", "label": cl["label"], "artists": cl["artists"], "genre": cl["genre"],
-            "kind": cl["kind"], "outlets": outlets, "n_outlets": len(outlets),
+            "kind": cl["kind"], "talk": cl.get("talk", 0), "outlets": outlets, "n_outlets": len(outlets),
             "jp_outlets": jp, "mainstream_outlets": mainstream,
             "visit_source": visit_source, "is_tour": is_tour,
             "n_overseas": len(outlets) - len(jp),
@@ -149,8 +149,15 @@ def pick_candidates(stories: list[dict], cfg: dict) -> list[dict]:
     pool = [s for s in stories
             if s["kind"] != "evergreen" and not s["is_tour"] and s["n_overseas"] >= 1
             and (s["genre"] in GENRES or s["n_outlets"] >= 3)]
+    # 考察・議論しやすい話題（talk）を、報じた媒体の多さと同じくらい重く見て並べ替える
+    pool.sort(key=lambda s: (s["score"] + 2 * s.get("talk", 0), s["score"], s["latest"]), reverse=True)
     chosen = pool[: g["candidate_count"]]
     ids = {s["id"] for s in chosen}
+    # 媒体数が少なくても、議論になりやすい話題（talk=2）は候補に必ず入れる
+    for s in pool:
+        if s.get("talk", 0) >= 2 and s["id"] not in ids and len(chosen) < g["candidate_count"] + 6:
+            chosen.append(s)
+            ids.add(s["id"])
     for genre in GENRES:  # 次点を選べるよう、各ジャンル最低限の候補を確保する
         have = sum(1 for s in chosen if s["genre"] == genre)
         for s in pool:

@@ -49,6 +49,8 @@ def build_digest(day: dict, page_url: str) -> str:
         lines.append(f"【{n}】{t['title_ja']}")
         lines.append("｜".join(m for m in meta if m))
         lines.append(f"要点：{t.get('line_point', '')}")
+        if t.get("debate_ja"):
+            lines.append(f"論点：{t['debate_ja']}")
         if t.get("reels"):
             lines.append(f"リール案：{t['reels'][0].get('hook', '')}")
         lines.append("")

@@ -11,6 +11,15 @@
 5. Claude Opus 5.5 がトップ3・来日情報・次点を選び、日本語のまとめとリール案を書く
 6. 閲覧サイトを更新し、LINEに通知する（12時前後に届きます）
 
+## 週1のDiscord投稿（スクール生向け）
+
+毎週土曜の18時ごろ、1週間分の毎日のまとめから「洋楽ニュース3件＋DJ・クラブの話題2件」を選び、Discordに投稿します（`weekly.py`）。記事の集め直しはせず、`data/` にたまった結果を使います。
+
+- 設定（件数・選び方・読者像）：`weekly.toml`
+- 投稿先：GitHubのSecretsの `DISCORD_WEBHOOK_URL`（投稿先を変えるときは、このURLを差し替える）
+- 今すぐ実行：「Actions」→「今週の音楽話題（Discord）」→「Run workflow」（「Discordに投稿する」を外すと、内容をログで確認するだけ）
+- 投稿した内容は `data/weekly/` に記録され、次の週に同じ話題を選ばないために使われます
+
 ## よく使う操作
 
 - **今すぐ実行する**：「Actions」タブ →「洋楽ネタ デイリー」→「Run workflow」
@@ -31,6 +40,7 @@
 | `ai.py` | Claudeへの指示（グループ化、選定と執筆） |
 | `notify.py` | LINE通知 |
 | `site_builder.py` | 閲覧サイトの生成 |
+| `weekly.py` / `weekly.toml` | 週1のDiscord投稿と、その設定 |
 | `data/` | 毎日の結果（自動で増えていきます） |
 
 ## 注意
