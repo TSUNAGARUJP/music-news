@@ -1,0 +1,2044 @@
+{
+ "date": "2026-10-21",
+ "generated_at": "2026-10-21T02:59:17.825154+00:00",
+ "article_count": 227,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日はSpotifyのAI量産曲の排除やAIリミックス機能のライセンス契約など、AIと音楽配信をめぐる業界の動きが目立つ。Hip-Hopでは、ビーフの線引きやSNS時代の数字至上主義を問う話題も出ている。",
+  "top": [
+   {
+    "id": "s13",
+    "title_ja": "Spotify、AI量産曲など5000万曲超を排除と報道",
+    "genre": "POP",
+    "summary_ja": "Spotifyが今年、AIで量産された低品質な曲（いわゆるAI slop）やスパム曲を5000万曲以上、削除またはおすすめから除外したと報じられている。2025年にも同様の曲を7500万曲削除していたとされる。人間のアーティストによる音楽を優先する姿勢と報じられている。",
+    "why_ja": "Rolling Stone、Complex、Consequenceの3媒体が報じた。AIと音楽配信の関係を象徴する、業界の仕組みに関わる話題。",
+    "debate_ja": "AI生成曲の排除はアリ？どこからがAI slop？",
+    "line_point": "Spotifyが今年、AI量産曲やスパム曲を5000万曲超排除と報道。昨年は7500万曲を削除。",
+    "reels": [
+     {
+      "hook": "5000万曲が消えた理由、知ってる？",
+      "angle": "排除の数字を紹介→AIを使った曲とslopの線引きという論点→自分の見解→AI曲はどこまでOKかをコメントで募集"
+     },
+     {
+      "hook": "去年7500万、今年5000万超の意味",
+      "angle": "2年分の数字を並べ、AI量産曲がどれだけ配信に流れ込んでいるかを解説。リスナーのおすすめ欄への影響を読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s15",
+    "title_ja": "LL Cool J、数字を追うラッパーに苦言",
+    "genre": "Hip-Hop",
+    "summary_ja": "ベテランラッパーのLL Cool Jが、本物のファンよりクリック数を追いかけるラッパーたちを批判した。SNSで音楽への向き合い方が変わり、数字を生まなければという圧力が創造性を損なう可能性があると語ったと報じられている。",
+    "why_ja": "HotNewHipHopが報じたインタビュー発言。SNS時代のヒットの作られ方という、ジャンルを超えて語れるテーマ。",
+    "debate_ja": "バズ狙いの曲づくりは悪？それとも時代の正解？",
+    "line_point": "LL Cool J、クリック数を追うラッパーを批判。数字の圧力が創造性を損なうと指摘。",
+    "reels": [
+     {
+      "hook": "バズ狙いの曲、あなたは好き？",
+      "angle": "発言の要点→バズと作品性は両立するかという論点→自分の見解→最近バズで知った曲をコメントで募集"
+     },
+     {
+      "hook": "レジェンドが見たSNS時代の音楽",
+      "angle": "SNS発のヒットが増えた最近の流れと、アルバム中心だった時代を比べ、ヒットの作られ方の変化を解説"
+     }
+    ]
+   },
+   {
+    "id": "s43",
+    "title_ja": "Spotify、AIリミックス機能へ向けBelieveと契約",
+    "genre": "POP",
+    "summary_ja": "Spotifyが、導入を予定しているAIを使ったリミックス機能に向けて、フランスの独立系音楽企業Believeとコンテンツのライセンス契約を結んだ。ユーザーがAIで曲をリミックスできる機能になる可能性がある。",
+    "why_ja": "Varietyが報じた。権利者と契約したうえでAIを活用する動きで、同時期に報じられたAI量産曲の排除と合わせてSpotifyのAIへの姿勢が見えてくる。",
+    "debate_ja": "好きな曲をAIでリミックスできたら使う？",
+    "line_point": "Spotify、AIリミックス機能に向け仏Believeとライセンス契約を締結。",
+    "reels": [
+     {
+      "hook": "推しの曲、AIでいじれたら使う？",
+      "angle": "契約の事実→ファンの楽しみ方か、作品への介入かという論点→自分の見解→使う派・使わない派をコメントで募集"
+     },
+     {
+      "hook": "AI曲は消すのにAIリミックスは推す？",
+      "angle": "5000万曲超の排除と今回の契約を並べ、権利者の許可があるAIとないAIの線引きを解説"
+     }
+    ]
+   },
+   {
+    "id": "s23",
+    "title_ja": "50 CentとRick Rossの確執、息子の事件めぐり激化",
+    "genre": "Hip-Hop",
+    "summary_ja": "Rick Rossの息子が銃で脅されたとされる事件で、20歳の男が逮捕されたと報じられている。この件について50 Centが冗談を投稿し、容疑者を助けると申し出たとも報じられた。Rossの息子の母親Tia Kempが反発するなど、確執が家族を巻き込む形になっている。",
+    "why_ja": "XXL、HotNewHipHop、AllHipHopの3媒体が報じた。XXLは、ヒップホップの暗黙のルールを越えたのではないかと問題提起している。",
+    "debate_ja": "ビーフに家族を持ち込むのはアウト？",
+    "line_point": "Rick Rossの息子の事件をめぐり50 Centが冗談を投稿、母親が反発。確執が家族に波及。",
+    "reels": [
+     {
+      "hook": "ビーフに家族はアリ？ナシ？",
+      "angle": "事件と逮捕の事実を淡々と伝える→ビーフの暗黙のルールという論点→被害者を茶化さない姿勢で自分の見解→コメントで意見を募集"
+     },
+     {
+      "hook": "ヒップホップの暗黙のルールとは",
+      "angle": "XXLの問題提起を軸に、過去のビーフで家族が話題になった事例と比べ、どこに線が引かれてきたかを解説"
+     }
+    ]
+   },
+   {
+    "id": "s34",
+    "title_ja": "Beatles体験施設、2028年にリバプールで拡大オープン",
+    "genre": "Other",
+    "summary_ja": "リバプールで長く続く展示『The Beatles Story』が、2028年に約10万平方フィートの広い施設へ移る。Apple Corpsによる大規模な没入型のファン体験施設になり、Paul McCartneyも素晴らしいと評価したと報じられている。",
+    "why_ja": "AP通信、BBC、The Guardianなど一般メディアを含む6媒体が報じた。関連動画は公開12時間で約5.9万回再生されている。",
+    "debate_ja": "なぜ今もBeatles人気は高まり続けるのか？",
+    "line_point": "Beatlesの没入型体験施設が2028年にリバプールで開業。約10万平方フィートに拡大。",
+    "reels": [
+     {
+      "hook": "今さらBeatles？いや、今こそBeatles",
+      "angle": "新施設の事実→なぜ人気が再燃しているのかという論点→自分の見解→若い世代も聴いているかをコメントで募集"
+     },
+     {
+      "hook": "音楽の聖地巡り、行ってみたい？",
+      "angle": "展示から没入型の体験へという流れを背景に、音楽ファンの楽しみ方の変化を解説"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s56",
+     "title_ja": "Daft Punkが『GTA VI』の劇伴を断ったとの噂、根拠なし",
+     "note": "予算無制限のオファーを断ったという噂が拡散したが、裏付けはないと報じられた。"
+    },
+    {
+     "id": "s45",
+     "title_ja": "Amelie Lens、第2子妊娠中もDJを続けるインタビュー",
+     "note": "第2子を妊娠中も世界の大舞台でプレイを続けるAmelie Lensの最新インタビュー。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s29",
+     "title_ja": "米最大の音楽家組合、メジャーにAIからの保護を要求",
+     "note": "米国音楽家連盟が、AIからの保護と報酬を盛り込んだ契約をメジャーに求めた。"
+    },
+    {
+     "id": "s20",
+     "title_ja": "Leon Bridges、新サウンドでファン離れの可能性を認める",
+     "note": "Jungleのプロデューサーと組んだダンス寄りの新作と、デビュー作の間で揺れる心境を語る。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s21",
+     "title_ja": "Busta Rhymes、J Dillaとの作品でグラミー獲得を目指す",
+     "note": "『Dillagence II』での受賞はJ Dillaの存在ゆえに特別な意味を持つと語った。"
+    },
+    {
+     "id": "s16",
+     "title_ja": "Doechii、「CATWOMAN」MVで砂漠で自爆する演出",
+     "note": "Swamp Sessionsの新作として公開。デビューアルバムを控える中での新作。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s39",
+     "title_ja": "Frank Sinatra「Strangers In The Night」大復活の軌跡",
+     "note": "1966年に各国のチャートを制覇し、グラミー賞も獲得したシナトラ再ブレイクの裏話。"
+    },
+    {
+     "id": "s14",
+     "title_ja": "Alice Cooper、3冊目の自伝が1位　今回は9割が実話",
+     "note": "過去2冊と違い、今回は90%が本当の話と本人が語る、ロックスターの自伝の裏話。"
+    },
+    {
+     "id": "s47",
+     "title_ja": "Amsterdam Dance Event、30周年",
+     "note": "30年で、電子音楽業界が毎年集まる最大級のイベントに成長した歴史。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s2",
+    "title_ja": "William Tyler、11月4日の初来日公演に岡田拓郎",
+    "note": "2026年11月4日に南青山で開催。スペシャルゲストとして岡田拓郎が出演。"
+   },
+   {
+    "id": "s3",
+    "title_ja": "Freya Sky、来年2月に初来日公演",
+    "note": "17歳の新星。SpotifyのホリデーシーズンのカバーでThe Pretenders「2000 Miles」を歌う。"
+   },
+   {
+    "id": "s8",
+    "title_ja": "Wolf Alice、11月の来日時にサイン会開催決定",
+    "note": "タワーレコード梅田NU茶屋町店でサイン会を開催。"
+   },
+   {
+    "id": "s71",
+    "title_ja": "AKMU、初の日本公演の会場が明らかに",
+    "note": "デビュー13年目で初の日本公演。会場も発表されたと報じられている。"
+   }
+  ],
+  "tour_candidates": 5
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s34",
+   "label": "Beatles immersive experience opening in Liverpool 2028",
+   "artists": [
+    "The Beatles"
+   ],
+   "genre": "Other",
+   "kind": "business",
+   "talk": 1,
+   "outlets": [
+    "AP通信",
+    "BBC",
+    "NME",
+    "Rolling Stone",
+    "The Guardian",
+    "Variety"
+   ],
+   "n_outlets": 6,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "AP通信",
+    "BBC",
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 6,
+   "score": 9,
+   "latest": "2026-10-20T20:07:17+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "‘The Beatles Story’ Exhibit Is Getting a Bigger and Better Showcase in Liverpool",
+     "link": "https://www.rollingstone.com/music/music-news/the-beatles-experience-moving-bigger-liverpool-location-1235645640/",
+     "published": "2026-10-20T20:07:17+00:00",
+     "summary": "The long-running exhibit will move to a more expansive venue spanning 100,000 square feet in 2028"
+    },
+    {
+     "outlet": "AP通信",
+     "title": "A new Beatles attraction is coming to Liverpool as interest in the Fab Four surges",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTUtUGVFMDlCVmtneTliVXZtR215QW1pWDVSOUI3OVhUOTZfbml3MzFrdzJZcERlUk9vRFc0SV9iRTZ0cDdVWWhRajNYV3RvbTlkeUJPZWFpVmNWM3BMYndNVzZlZ0lPOEZrc3h2YmVrTk1MVDRORzFDa3AwNmZnaVVvOExPMldxR0FOOWVTaU1lRUdpbkRVUlhPTQ?oc=5",
+     "published": "2026-10-20T17:30:38+00:00",
+     "summary": "A new Beatles attraction is coming to Liverpool as interest in the Fab Four surges AP News"
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Vast Beatles museum, hailed as ‘extraordinary’ by Paul McCartney, to open in Liverpool in 2028",
+     "link": "https://www.theguardian.com/music/2026/oct/20/vast-beatles-museum-hailed-as-extraordinary-by-paul-mccartney-to-open-in-liverpool-in-2028",
+     "published": "2026-10-20T15:00:38+00:00",
+     "summary": "City’s Beatles Story museum to move to 100,000 sq ft new home and official ownership, along with Yellow Submarine makeover of Liverpool’s second-tallest building Liverpool is to unveil a new 100,000 sq ft visitor attraction about the Beatle"
+    },
+    {
+     "outlet": "NME",
+     "title": "The Beatles Story: Apple Corps announce huge new immersive fan experience in Liverpool",
+     "link": "https://www.nme.com/news/music/the-beatles-story-apple-corps-announce-huge-new-immersive-fan-experience-in-liverpool-3973615?utm_source=rss&utm_medium=rss&utm_campaign=the-beatles-story-apple-corps-announce-huge-new-immersive-fan-experience-in-liverpool",
+     "published": "2026-10-20T15:00:31+00:00",
+     "summary": "The new 100,000 square foot site in the heart of the city has been compared to Graceland and Dollywood and will also repurpose the iconic St Johns Beacon into a viewing tower The post The Beatles Story: Apple Corps announce huge new immersi"
+    },
+    {
+     "outlet": "Variety",
+     "title": "The Beatles Immersive Experience, Featuring Sets and Props From Sam Mendes’ Biopics, Set for Liverpool",
+     "link": "https://variety.com/2026/film/global/the-beatles-experience-biopics-sets-and-props-liverpool-1236917321/",
+     "published": "2026-10-20T15:00:00+00:00",
+     "summary": "Once the cameras stop rolling on Sam Mendes’ epic four-part biopic series about the members of the Beatles, many of the sets and props are going to have a new life celebrating the band in their native home. A 100,000 sq. ft Beatles experien"
+    },
+    {
+     "outlet": "BBC",
+     "title": "McCartney and Starr back new Beatles attraction",
+     "link": "https://www.bbc.co.uk/news/articles/cr3wv555ew6lo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-10-20T14:58:48+00:00",
+     "summary": "The surviving Beatles have welcomed plans for an immersive visitor experience in Liverpool."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "ZBqLAMX-4bk",
+    "title": "We're on our way home. #TheBeatlesLiverpool28",
+    "channel": "The Beatles",
+    "published": "2026-10-20T14:56:11Z",
+    "hours_since": 12,
+    "views": 58763,
+    "url": "https://www.youtube.com/watch?v=ZBqLAMX-4bk",
+    "views_per_hour": 4897
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Jay-Z to headline 2027 Super Bowl halftime show",
+   "artists": [
+    "Jay-Z"
+   ],
+   "genre": "POP",
+   "kind": "announcement",
+   "talk": 1,
+   "outlets": [
+    "Billboard JAPAN",
+    "Complex",
+    "Consequence",
+    "HotNewHipHop",
+    "XXL"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 5,
+   "latest": "2026-10-21T11:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ジェイ・Z、2027年【スーパーボウル】ハーフタイム・ショーのヘッドライナーに自身を推薦か",
+     "link": "https://www.billboard-japan.com/d_news/detail/166704",
+     "published": "2026-10-21T11:30:00+09:00",
+     "summary": "現地時間2026年10月23日、ジェイ・ZがSoFiスタジアムのステージに立つのを前に、彼が来年開催される【第61回…"
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Jay-Z’s Super Bowl Confirmation Draws Shade From Akademiks",
+     "link": "https://www.hotnewhiphop.com/1013861-jay-z-akademiks-super-bowl-halftime-shade",
+     "published": "2026-10-20T20:58:29+00:00",
+     "summary": "Questions about possible guest appearances have already surfaced, with Akademiks suggesting Jay-Z needs more than famous friends. The post Jay-Z’s Super Bowl Confirmation Draws Shade From Akademiks appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "JAY-Z at SoFi Stadium: How to Get Last-Minute Tickets",
+     "link": "https://consequence.net/2026/10/jay-z-sofi-stadium-how-to-get-last-minute-tickets/",
+     "published": "2026-10-20T19:56:36+00:00",
+     "summary": "Jay's pair of 30th anniversary shows in Los Angeles go down on October 23rd and 24th. Learn how to get last-minute tickets. JAY-Z at SoFi Stadium: How to Get Last-Minute Tickets Consequence Staff"
+    },
+    {
+     "outlet": "XXL",
+     "title": "Jay-Z to Perform at 2027 Super Bowl Halftime Show - Report",
+     "link": "https://www.xxlmag.com/jay-z-super-bowl-halftime-2027/",
+     "published": "2026-10-20T17:05:53+00:00",
+     "summary": "Tell the NFL we in stadiums too. Continue reading…"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Jay-Z Reportedly Set to Perform at 2027 Super Bowl Halftime Show",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZTAzWngtajZOalJZZjctb28teEdxdzdYU2FJVUhkdVdTdHlTZG5BcFZsVDhQTlVGeDhLUEhjUjBfVllCdWpnYVNOY3M2YUhETDFXQVRBU1BHck9pSHFrQ3hCSjlUbW1oSTBkSHRpcWliSEFJVlFDUzN2a1ZwSEJ5eEc2SGthOUJoVEYwN1RlUQ?oc=5",
+     "published": "2026-10-20T12:48:10+00:00",
+     "summary": "Jay-Z Reportedly Set to Perform at 2027 Super Bowl Halftime Show Complex"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "rfnTlecsA3g",
+    "title": "Clayface Review Embargo Drama, Netflix Fired Everyone, Jay-Z Super Bowl 2027",
+    "channel": "Beyond The Trailer",
+    "published": "2026-10-21T00:58:27Z",
+    "hours_since": 2,
+    "views": 18941,
+    "url": "https://www.youtube.com/watch?v=rfnTlecsA3g",
+    "views_per_hour": 9470
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "50 Cent and Rick Ross feud escalates over son assault",
+   "artists": [
+    "50 Cent",
+    "Rick Ross"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop",
+    "HotNewHipHop",
+    "XXL"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-21T01:01:07+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Tia Kemp & 50 Cent’s Feud Gets Personal Over Son With Rick Ross",
+     "link": "https://www.hotnewhiphop.com/1013881-50-cent-tia-kemp-rick-ross-son-assault-mocking",
+     "published": "2026-10-21T01:01:07+00:00",
+     "summary": "Once friendly with her longtime rival's enemy, Tia Kemp isn't holding back after 50 Cent made jokes about her son's alleged assault. The post Tia Kemp & 50 Cent’s Feud Gets Personal Over Son With Rick Ross appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Rick Ross’ Son’s Assault Case Takes Petty Turn As 50 Cent Offers To Help Suspect",
+     "link": "https://www.hotnewhiphop.com/1013866-rick-ross-son-pistol-whipped-50-cent-mocked",
+     "published": "2026-10-20T21:55:08+00:00",
+     "summary": "Police arrested a 20-year-old accused of threatening Rick Ross' son with a gun, prompting another round of jokes from 50 Cent. The post Rick Ross’ Son’s Assault Case Takes Petty Turn As 50 Cent Offers To Help Suspect appeared first on HotNe"
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Did 50 Cent’s Rick Ross Beef Just Cross An Unwritten Rule Of Hip-Hop",
+     "link": "https://allhiphop.com/rumors/did-50-cents-rick-ross-beef-just-cross-an-unwritten-rule-of-hip-hop/",
+     "published": "2026-10-20T21:54:28+00:00",
+     "summary": "50 Cent reportedly offers to bail out the man accused of pistol-whipping Rick Ross' son, bringing their longstanding Hip-Hop feud into troubling territory."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Man Arrested for Allegedly Pistol Whipping Rick Ross' Son",
+     "link": "https://www.xxlmag.com/man-arrested-pistol-whipping-threatening-rick-ross-son/",
+     "published": "2026-10-20T21:51:26+00:00",
+     "summary": "50 Cent weighs in. Continue reading…"
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "50 Cent Mocks Rick Ross’ Prison-Guard Past After Son Reports Gun Attack",
+     "link": "https://allhiphop.com/news/50-cent-mocks-rick-ross-prison-guard-past-after-son-reports-gun-attack/",
+     "published": "2026-10-20T20:03:18+00:00",
+     "summary": "50 Cent used news of an alleged gun attack on Rick Ross' son to mock his rival's past work as a correctional officer."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "Spotify removes 50 million AI slop and spam tracks",
+   "artists": [],
+   "genre": "POP",
+   "kind": "business",
+   "talk": 2,
+   "outlets": [
+    "Complex",
+    "Consequence",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-21T00:49:35+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Spotify Removed More Than 50 Million AI “Slop and Spam” Tracks This Year",
+     "link": "https://consequence.net/2026/10/spotify-pulls-ai-tracks/",
+     "published": "2026-10-21T00:49:35+00:00",
+     "summary": "The streaming service previously removed 75 million such tracks in 2025 Spotify Removed More Than 50 Million AI “Slop and Spam” Tracks This Year Travis Bland"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Spotify Removes 75 Million Songs Identified as ‘AI-Generated Slop or Spam’",
+     "link": "https://www.rollingstone.com/music/music-news/spotify-removes-50-million-spam-songs-1235645433/",
+     "published": "2026-10-20T17:20:35+00:00",
+     "summary": "The streaming service cut the slop tracks in favor of “more music made by authentic, human artists,” with 50 million more being filtered from recommendations made to listeners"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Spotify Says It Has Taken Over 50 Million AI Slop and Spam Tracks Out of Recommendations in 2026",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGplc2x4NjREYlB5Q2tBVUVWMnRTXzhPb0t4SWpjbDhCRG1QRWhTQ3MzUjBqNDNtUVBYTmF5VnZ5Q3VyaGNVMjIwMzJ5c05PeUJRWF9zSzBSa1ZQU292S0pfXzVXVW5uanJRbEVNcUJSSEJ6eHJRMm01TmlJQmI1UWRISlZFSnN5dUJmOFBLdw?oc=5",
+     "published": "2026-10-20T14:32:27+00:00",
+     "summary": "Spotify Says It Has Taken Over 50 Million AI Slop and Spam Tracks Out of Recommendations in 2026 Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "Drake accused of stealing hook for Janice STFU",
+   "artists": [
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "Pitchfork",
+    "The Fader"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-20T17:57:33+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Did Drake Steal “Janice STFU”?",
+     "link": "https://pitchfork.com/story/did-drake-steal-janice-stfu/",
+     "published": "2026-10-20T17:57:33+00:00",
+     "summary": "Songwriter Aviel Hirschfield claims his reference track is a smoking gun. Now you can hear the audio that he says proves it"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "Drake accused of stealing hook for “Janice STFU”",
+     "link": "https://www.thefader.com/2026/10/20/drake-lawsuit-janice-stfu-demo",
+     "published": "2026-10-20T13:44:17-04:00",
+     "summary": "Listen to the alleged demo recording at the center of a new lawsuit by producer Aviel Hirschfield."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "4w7grErrF0M",
+    "title": "Drake EXPOSED by Ghostwriter After “Janice STFU” Lawsuit?",
+    "channel": "THE VILL",
+    "published": "2026-10-17T00:43:52Z",
+    "hours_since": 98,
+    "views": 35395,
+    "url": "https://www.youtube.com/watch?v=4w7grErrF0M",
+    "views_per_hour": 361
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Macklemore faces backlash over Palestine tour beneficiary",
+   "artists": [
+    "Macklemore"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-21T01:00:37+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Macklemore Faces Backlash Over Palestine Tour Beneficiary’s October 7 Remarks",
+     "link": "https://allhiphop.com/news/macklemore-faces-backlash-over-palestine-tour-beneficiarys-october-7-remarks/",
+     "published": "2026-10-21T01:00:37+00:00",
+     "summary": "Macklemore's Palestinian benefit tour drew demands for Live Nation to explain its vetting of a group over October 7 remarks."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "LL Cool J criticizes rappers chasing clicks over real fans",
+   "artists": [
+    "LL Cool J"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-21T00:24:17+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "LL Cool J Calls Out Rappers For Chasing Clicks Instead Of Real Fans",
+     "link": "https://www.hotnewhiphop.com/1013878-ll-cool-j-rappers-chasing-trends-clicks",
+     "published": "2026-10-21T00:24:17+00:00",
+     "summary": "Social media has changed how artists approach music, but LL Cool J says the pressure to generate numbers can compromise creativity. The post LL Cool J Calls Out Rappers For Chasing Clicks Instead Of Real Fans appeared first on HotNewHipHop "
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "AFM demands AI protections and compensation for musicians",
+   "artists": [],
+   "genre": "POP",
+   "kind": "business",
+   "talk": 2,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-20T17:15:32+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "‘Human Made, Human Paid’: The Largest U.S. Musicians Union Is Demanding AI Protections",
+     "link": "https://www.rollingstone.com/music/music-news/human-made-human-paid-musicians-union-afm-labor-agreement-1235645099/",
+     "published": "2026-10-20T17:15:32+00:00",
+     "summary": "American Federation of Musicians asking major labels to give artists a contract with AI protections and compensation"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s63",
+   "label": "Nastia cancels US tour over Ukraine government policy",
+   "artists": [
+    "Nastia"
+   ],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-20T15:21:55+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "Nastia cancels US tour dates, will not return until “fundamental change” in government policy toward Ukraine",
+     "link": "https://djmag.com/news/nastia-cancels-us-tour-dates-will-not-return-until-fundamental-change-government-policy-toward",
+     "published": "2026-10-20T15:21:55+00:00",
+     "summary": "\"Music has never existed outside politics for me. And being an artist does not mean remaining silent when fundamental principles are being violated\""
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s43",
+   "label": "Spotify inks AI remixing tool licensing deal",
+   "artists": [],
+   "genre": "POP",
+   "kind": "business",
+   "talk": 2,
+   "outlets": [
+    "Variety"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-20T14:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Spotify Inks Licensing Deal With Believe Music for AI Remixing Tool",
+     "link": "https://variety.com/2026/music/news/spotify-inks-licensing-deal-believe-music-ai-remixing-tool-1236917404/",
+     "published": "2026-10-20T14:00:00+00:00",
+     "summary": "Spotify has struck a content licensing deal with the France-based independent music company Believe ahead of its forthcoming AI-powered remixing tool, an agreement that also covers Believe’s digital distribution division TuneCore. The deal "
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s48",
+   "label": "IAMDDB accuses Israel of AI identity theft",
+   "artists": [
+    "IAMDDB"
+   ],
+   "genre": "Dance",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "IAMDDB accuses Israel of \"stealing her identity\" in AI propaganda video",
+     "link": "https://mixmag.net/read/iamddb-accuses-israeli-government-stealing-identity-for-ai-propaganda-video-news",
+     "published": null,
+     "summary": "The now-deleted clip, which was posted across Israel's official social media profiles last week, was captioned: \"'GO BACK WHERE YOU CAME FROM!' We did\" Continue reading..."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Charli xcx cancels Arizona show due to illness",
+   "artists": [
+    "Charli xcx"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-21T01:24:44+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Charli xcx Cancels Arizona Concert, Says ‘It Breaks Me’ to Miss It",
+     "link": "https://www.billboard.com/music/pop/charli-xcx-arizona-concert-canceled-1236364200/",
+     "published": "2026-10-21T01:24:44+00:00",
+     "summary": "\"I have been fighting sickness throughout this run of shows and have now completely lost my voice,\" she tells her fans ahead of Wednesday show."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Charli XCX Cancels ‘Music, Fashion, Film’ Show in Arizona: ‘Completely Lost My Voice’",
+     "link": "https://www.rollingstone.com/music/music-news/charli-xcx-cancels-music-fashion-film-show-arizona-illness-1235645838/",
+     "published": "2026-10-21T01:08:10+00:00",
+     "summary": "The star said that she has been fighting an illness and had to cut her performance on Wednesday"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Charli xcx Cancels ‘Music, Fashion, Film’ Show in Arizona Due to Illness: ‘It Breaks Me That I Can’t Be With You’",
+     "link": "https://variety.com/2026/music/news/charli-xcx-cancels-arizona-show-due-to-illness-1236918156/",
+     "published": "2026-10-20T23:21:31+00:00",
+     "summary": "Charli xcx has announced that she has canceled tomorrow night’s “Music, Fashion, Film” performance in Arizona due to illness. The pop singer is currently on her “Music, Fashion, Film” tour across North America and, after two shows in Los An"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Wiz Khalifa appeals Romanian prison sentence",
+   "artists": [
+    "Wiz Khalifa"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-21T02:00:26+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Wiz Khalifa Gets New Shot At Fighting Nine-Month Prison Sentence",
+     "link": "https://allhiphop.com/news/wiz-khalifa-gets-new-shot-at-fighting-nine-month-prison-sentence/",
+     "published": "2026-10-21T02:00:26+00:00",
+     "summary": "Wiz Khalifa cleared a court hurdle in his fight against a nine-month Romanian prison sentence, with a new hearing set for October 29."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Jack Avery faces court over ex-girlfriend accusations",
+   "artists": [
+    "Jack Avery"
+   ],
+   "genre": "POP",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-21T01:36:22+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Singer Jack Avery Faces Off in Court With Influencer Ex Accused of Dark Web Plot to Kill Him",
+     "link": "https://www.rollingstone.com/music/music-news/jack-avery-why-dont-we-tiktok-gabbie-gonzalez-murder-plot-1235645682/",
+     "published": "2026-10-21T01:36:22+00:00",
+     "summary": "Gabbie Gonzalez’s ex-boyfriend testified that \"she was freaking out\" after an FBI raid, wanted to leave the country, and told him \"that if they opened up her phone, that she would be in prison\""
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Leon Bridges discusses new dance-influenced sound",
+   "artists": [
+    "Leon Bridges"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-20T22:00:49+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Leon Bridges Admits His New Sound May Have Driven Fans Away",
+     "link": "https://allhiphop.com/news/leon-bridges-admits-his-new-sound-may-have-driven-fans-away/",
+     "published": "2026-10-20T22:00:49+00:00",
+     "summary": "Leon Bridges weighed the pull of his debut as his latest album with Jungle's producers took his sound toward the dance floor."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Busta Rhymes aims for Grammy with J Dilla album",
+   "artists": [
+    "Busta Rhymes",
+    "J Dilla"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-20T21:00:39+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Busta Rhymes Aims To Break Grammy Drought On J Dilla’s Birthday",
+     "link": "https://allhiphop.com/news/busta-rhymes-wants-first-grammy-to-honor-j-dilla-on-his-birthday/",
+     "published": "2026-10-20T21:00:39+00:00",
+     "summary": "Busta Rhymes explained why a Grammy win with J Dilla would carry special weight as voters weigh their \"Dillagence II\" album."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "B Jones shares cancer update with resilience",
+   "artists": [
+    "B Jones"
+   ],
+   "genre": "Dance",
+   "kind": "health",
+   "talk": 1,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-20T14:14:45+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "B Jones shares update amid return of cancer: “I still have hope, a will to live, and so much to fight for”",
+     "link": "https://djmag.com/news/b-jones-shares-update-amid-return-of-cancer-i-still-have-hope-will-live-and-so-much-fight",
+     "published": "2026-10-20T14:14:45+00:00",
+     "summary": "The Spanish DJ and producer shared a difficult but resilient update in her lymphatic cancer battle"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s53",
+   "label": "Superfan at 21 on transformation and new direction",
+   "artists": [
+    "Superfan"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "The Fader"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-20T12:39:28-04:00",
+   "articles": [
+    {
+     "outlet": "The Fader",
+     "title": "Superfan’s ‘My Piledriver Heart’ is an ode to transformation",
+     "link": "https://www.thefader.com/2026/10/20/superfan-my-piledriver-heart-interview",
+     "published": "2026-10-20T12:39:28-04:00",
+     "summary": "At just 21, Superfan (Kali Flanagan) has already changed his artist name, moved cities, and re-set his career. He feels like he’s just beginning."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s45",
+   "label": "Amelie Lens interview at peak career power",
+   "artists": [
+    "Amelie Lens"
+   ],
+   "genre": "Dance",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-20T11:36:02+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "Amelie Lens: labour of love",
+     "link": "https://djmag.com/cover-features/amelie-lens-labour-of-love",
+     "published": "2026-10-20T11:36:02+00:00",
+     "summary": "Pregnant with her second daughter and still DJing to the world’s biggest dancefloors, Amelie Lens is at the peak of her powers, and is determined to change how the industry views women and motherhood in the process. Here, in her most open i"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "Doechii releases explosive CATWOMAN music video",
+   "artists": [
+    "Doechii"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-21T00:15:14+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Doechii Detonates Herself in the Desert in Explosive ‘CATWOMAN’ Video: Watch",
+     "link": "https://www.billboard.com/music/rb-hip-hop/doechii-catwoman-video-swamp-sessions-1236364134/",
+     "published": "2026-10-21T00:15:14+00:00",
+     "summary": "The Florida rapper returned with another installment of Swamp Sessions ."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "CATWOMAN (Swamp Sessions) – Song by Doechii",
+     "link": "https://www.hotnewhiphop.com/1013859-catwoman-doechii",
+     "published": "2026-10-20T20:45:50+00:00",
+     "summary": "Doechii is looking to drop her debut album, but first, she is blessing fans with her \"Swamp Sessions\" and next up is \"CATWOMAN.\" The post CATWOMAN (Swamp Sessions) – Song by Doechii appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s56",
+   "label": "Daft Punk GTA 6 soundtrack rumor debunked",
+   "artists": [
+    "Daft Punk"
+   ],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex",
+    "EDM.com"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-20T18:44:33+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Daft Punk at Center of Unsubstantiated 'Grand Theft Auto VI' Rumor: What to Know",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tUVhUdFFSdDNsRGJNbG5pREtzQ1B0bGc1emM2OURuRTUtRlRoV1RMblNHY0E3ckNuY1dBWElEcTd0M1pzUVc5UlVMQUI3Mi1GZEhmOFJMQy05R1B1MnNqcHVSNFItMTZrZU9IMnFHLTZVTnkwbG1fTGNKdlY?oc=5",
+     "published": "2026-10-20T18:44:33+00:00",
+     "summary": "Daft Punk at Center of Unsubstantiated 'Grand Theft Auto VI' Rumor: What to Know Complex"
+    },
+    {
+     "outlet": "EDM.com",
+     "title": "Viral Rumor Claims Daft Punk Turned Down Offer to Score ‘GTA 6’",
+     "link": "https://edm.com/news/viral-rumor-daft-punk-turned-down-offer-gta-iv/",
+     "published": "2026-10-20T13:26:14+00:00",
+     "summary": "The unfounded claim alleges Rockstar Games pitched Daft Punk with an \"unlimited budget.\" The post Viral Rumor Claims Daft Punk Turned Down Offer to Score ‘GTA 6’ appeared first on EDM ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s59",
+   "label": "Blueface arrested after swatting incident",
+   "artists": [
+    "Blueface"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "Vibe",
+    "XXL"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-20T16:45:30+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "Blueface Arrested in Los Angeles Following Swatting, Gun Reports",
+     "link": "https://www.vibe.com/news/entertainment/blueface-arrested-los-angeles-swatting-gun-reports-1235199857/",
+     "published": "2026-10-20T16:45:30+00:00",
+     "summary": "The rapper was charged with suspicion of delaying or obstructing deputies in the performance of their duties"
+    },
+    {
+     "outlet": "XXL",
+     "title": "Blueface Arrested at Gunpoint While On Livestream",
+     "link": "https://www.xxlmag.com/blueface-arrested-gunpoint-livestream-obstructing-police-investigation/",
+     "published": "2026-10-20T15:38:20+00:00",
+     "summary": "Blueface gets arrested in front of Chrisean and their son. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "Ovrkast discusses becoming Drake's trusted collaborator",
+   "artists": [
+    "Ovrkast",
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-21T01:01:43+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Ovrkast Says He’s ‘Still Processing’ Becoming One of Drake’s ‘Trusted Collaborators’",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORWdwVzVMa2NFSXJYVEJfWHFORnpZX0lYYkpwT2FOcXdodVkyWVVtVno5RDVoRnNYbUZoeWc0eG1STkJGQW1rVGVsZVQ5Nm5rd2FCQTBQUzNvZGFjd2pHS0hrUW55OXBXdTRvVDEtdkM4eW0tZGltV2Z6ZEpUT3RCVTVaMEZ5SUd0aXowRHVfMmlYUQ?oc=5",
+     "published": "2026-10-21T01:01:43+00:00",
+     "summary": "Ovrkast Says He’s ‘Still Processing’ Becoming One of Drake’s ‘Trusted Collaborators’ Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "TUNEXX named K-Pop Up & Comer of the month",
+   "artists": [
+    "TUNEXX"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-21T00:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "TUNEXX Is Billboard’s K-Pop Up & Comer of the Month for October: Exclusive Photos",
+     "link": "https://www.billboard.com/photos/tunexx-kpop-up-comer-october-photos-1236363572/",
+     "published": "2026-10-21T00:00:00+00:00",
+     "summary": "Ready to make fresh waves in the global music scene through constant experimentation, TUNEXX share their story in their own words."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "William Tyler announces Japan debut show",
+   "artists": [
+    "William Tyler"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース",
+    "エンタメOVO"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース",
+    "エンタメOVO"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-21T10:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ウィリアム・タイラー初来日公演11/4開催、SPゲストとして岡田拓郎出演",
+     "link": "https://www.billboard-japan.com/d_news/detail/166697",
+     "published": "2026-10-21T10:30:00+09:00",
+     "summary": "米ナッシュビルを拠点に活動するギタリスト／作曲家、ウィリアム・タイラーの初来日公演が、2026年11月4日に南青山・…"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "ウィリアム・タイラー初来日公演11/4開催、SPゲストとして岡田拓郎出演",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qYkNtUEFRdVNXblhxX3dmRkdTOFZhaE5fT1dMSGR1LVpBRnFhYUpmbkE0NkJFbzBXazV6bE04dXlzY0l5Y3NqbksxNm9TWm9TbnFmQmpuZE5TVzBPaF9xUEtKQjEtQ1NMdTJidU10SWlwS1RnRGhxNzBMYUh1VzA?oc=5",
+     "published": "2026-10-21T01:35:06+00:00",
+     "summary": "ウィリアム・タイラー初来日公演11/4開催、SPゲストとして岡田拓郎出演 Yahoo!ニュース"
+    },
+    {
+     "outlet": "エンタメOVO",
+     "title": "ウィリアム・タイラー初来日公演11/4開催、SPゲストとして岡田拓郎出演",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45bjJIRTN1eTNFX2pPVTNJd2swc29jR2dwX0RPZkNiVU4yR0h2VTFDcm90Y3F4eVZ3dURLNERWRXAtd3VpYU92a1h2VHdGaHFwRlc0NzQxRTZjU2NBTF93?oc=5",
+     "published": "2026-10-21T01:30:00+00:00",
+     "summary": "ウィリアム・タイラー初来日公演11/4開催、SPゲストとして岡田拓郎出演 エンタメOVO"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Freya Sky covers Pretenders ahead of Japan debut",
+   "artists": [
+    "Freya Sky",
+    "The Pretenders"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース",
+    "千葉テレビ放送株式会社"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース",
+    "千葉テレビ放送株式会社"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-21T10:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "初来日公演を控えるフレイヤ・スカイ、Spotifyホリデー企画で プリテンダーズ「2000 Miles」カバー",
+     "link": "https://www.billboard-japan.com/d_news/detail/166696",
+     "published": "2026-10-21T10:00:00+09:00",
+     "summary": "来年2月に初来日公演が決定している17歳の新星ポップ・スター、フレイヤ・スカイがSpotifyのホリデー企画『Spo…"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "初来日公演を控えるフレイヤ・スカイ、Spotifyホリデー企画で プリテンダーズ「2000 Miles」カバー",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LMW1QZ2wxNnJLU3A0Y1BZTWtsd1E0Y0JVSW1vLUVTTFlFX2pzMjVycnFmMS1neHdBUlRWeVhaR2sxcnhDVUFNeUVyclB6M3VQN0t3enRubnUySWFXNVhjTWt6LVFXcUw0U1dwTTNNNERkeFpsd2xRcFppWVNPYnc?oc=5",
+     "published": "2026-10-21T01:05:02+00:00",
+     "summary": "初来日公演を控えるフレイヤ・スカイ、Spotifyホリデー企画で プリテンダーズ「2000 Miles」カバー Yahoo!ニュース"
+    },
+    {
+     "outlet": "千葉テレビ放送株式会社",
+     "title": "初来日公演を控えるフレイヤ・スカイ、Spotifyホリデー企画で プリテンダーズ「2000 Miles」カバー",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBibFJaZlRmSHNFQnFQeVJHWEFFbVc2NWZ4aU9XckpkRFg5RkFxODJfWTFMUzNRc1oxbFBjVEVuS3d4WEFodXJ6ZXdrMlhzR0hBWlRMVDc2NEdaVVpFT1NR?oc=5",
+     "published": "2026-10-21T01:01:29+00:00",
+     "summary": "初来日公演を控えるフレイヤ・スカイ、Spotifyホリデー企画で プリテンダーズ「2000 Miles」カバー 千葉テレビ放送株式会社"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "Wolf Alice announces Japan tour signing event",
+   "artists": [
+    "Wolf Alice"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-21T01:52:30+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "Wolf Alice、11月の来日公演時にタワーレコード梅田NU茶屋町店でのサイン会の開催が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBxeHZPOGhGUkU4anR6R29tMEdSOTFnQVhpS0UtREJ3dno1U1ExOWF4Z1pyMnNIOW0wR0tjZ3d1eFI5TDh3WHE4?oc=5",
+     "published": "2026-10-21T01:52:30+00:00",
+     "summary": "Wolf Alice、11月の来日公演時にタワーレコード梅田NU茶屋町店でのサイン会の開催が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s70",
+   "label": "TOTO adds 50th anniversary tour dates in Japan",
+   "artists": [
+    "TOTO"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Yahoo!ニュース"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Yahoo!ニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-20T05:24:23+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "ＴＯＴＯ、結成５０周年のベストヒットツアー追加公演決定 来年３月２４日に東京・有明アリーナで 全３公演に (スポーツ報知)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUl9iTGRaWHcydFFYb24tdFJvZGF5Ti1mRzNTT2szZVQ3MlVjU0FKNE5waFJTNmJBUWdTT2wyWlg0TEQ4WFU3QUJheDl3cFVNSnZiVWg2dVlkU1dHeVFlZzR4LW5nUGJSTWpNSHpBMWJLcmRFTWdsZXdlQjVidHZOeXlrQ3FNNUhYYmFnaHRB?oc=5",
+     "published": "2026-10-20T05:24:23+00:00",
+     "summary": "ＴＯＴＯ、結成５０周年のベストヒットツアー追加公演決定 来年３月２４日に東京・有明アリーナで 全３公演に (スポーツ報知) Yahoo!ニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s71",
+   "label": "AKMU announces first-ever Japan concert",
+   "artists": [
+    "AKMU"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Kstyle"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Kstyle"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-20T04:04:50+00:00",
+   "articles": [
+    {
+     "outlet": "Kstyle",
+     "title": "AKMU、デビュー13年目にして初！ファン待望の日本公演が決定…会場も明らかに",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40QVYxRGxRb3V5Um5feGxWdG5QZlJTbUtFekZGbXFfbUFKRFhsblFNUHZVanZIQkRIWHIzLTcxc1o3Unh6YVgxTFhVQnk2c3E2X0RjQkRVTm9xVktU?oc=5",
+     "published": "2026-10-20T04:04:50+00:00",
+     "summary": "AKMU、デビュー13年目にして初！ファン待望の日本公演が決定…会場も明らかに Kstyle"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Alice Cooper's third memoir becomes bestseller",
+   "artists": [
+    "Alice Cooper"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-21T00:46:35+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Alice Cooper’s Third Memoir Becomes No. 1 Bestseller as the Most Accurate Account of the Rock Star’s Life",
+     "link": "https://www.billboard.com/culture/product-recommendations/alice-cooper-memoir-devil-on-my-shoulder-shop-online-1236364058/",
+     "published": "2026-10-21T00:46:35+00:00",
+     "summary": "Released Oct. 6, the “Poison” singer says 90% of the stories in his 2026 memoir are true, unlike his two earlier books."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s39",
+   "label": "Frank Sinatra Strangers In The Night retrospective",
+   "artists": [
+    "Frank Sinatra"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-20T14:16:29+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "フランク・シナトラ「Strangers In The Night」： 世界的大復活の軌跡",
+     "link": "https://www.udiscovermusic.jp/stories/frank-sinatra-strangers-in-the-night-song",
+     "published": "2026-10-20T14:16:29+00:00",
+     "summary": "1966年、フランク・シナトラは「Strangers In The Night」で世界各国のチャートを制覇。同名アルバムと『Sinatra At The Sands』の成功、楽曲誕生の背景、グラミー賞での栄冠をたどる。 The post フランク・シナトラ「Strangers In The Night」： 世界的大復活の軌跡 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s55",
+   "label": "Sample viral in DMV crank music production",
+   "artists": [],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "The Fader"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-20T13:38:59-04:00",
+   "articles": [
+    {
+     "outlet": "The Fader",
+     "title": "This sample is all over DMV crank: 7 songs using the ride shot",
+     "link": "https://www.thefader.com/2026/10/20/dmv-crank-songs-ride-shot-sample",
+     "published": "2026-10-20T13:38:59-04:00",
+     "summary": "A viral post on X has led to many new ears being introduced to crank music."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s47",
+   "label": "ADE celebrates 30 years as electronic music industry hub",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-20T13:24:16+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "30 years of ADE, electronic music's essential annual gathering",
+     "link": "https://djmag.com/features/30-years-of-ade-electronic-musics-essential-annual-gathering",
+     "published": "2026-10-20T13:24:16+00:00",
+     "summary": "Three decades since it began, Amsterdam Dance Event has become an electronic music industry behemoth, with thousands of artists, industry bods and ravers descending on the Dutch capital for five days of knowledge sharing, partying and netwo"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s50",
+   "label": "D-EDGE Brazil nightclub history and evolution",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "The history of D-EDGE, Brazil’s most enduring nightclub",
+     "link": "https://mixmag.net/feature/history-of-d-edge-brazil-most-enduring-nightclub-renato-dj-marky-blancah",
+     "published": null,
+     "summary": "From its humble beginnings in Campo Grande to the multi-site club empire standing today, D-EDGE has blossomed alongside the ever-changing dance music culture in Brazil for more than a quarter century. We speak to the DJs, programmers, archi"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Rolling Stones deluxe edition features Courtney Pine",
+   "artists": [
+    "The Rolling Stones",
+    "Courtney Pine"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "NME"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-21T09:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ザ・ローリング・ストーンズ、最新作DX版よりコートニー・パイン参加の「フー・ユー・コーリン・クレイジー」公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/166694",
+     "published": "2026-10-21T09:00:00+09:00",
+     "summary": "ザ・ローリング・ストーンズが、2027年11月27日発売のデラックス・エディション『フォーリン・タングス、ルース・リ…"
+    },
+    {
+     "outlet": "NME",
+     "title": "The Rolling Stones surprise release breezy new single ‘Who You Callin’ Crazy’",
+     "link": "https://www.nme.com/news/music/the-rolling-stones-surprise-release-breezy-new-single-who-you-callin-crazy-3973619?utm_source=rss&utm_medium=rss&utm_campaign=the-rolling-stones-surprise-release-breezy-new-single-who-you-callin-crazy",
+     "published": "2026-10-20T14:51:40+00:00",
+     "summary": "The playful single features jazz saxophonist Courtney Pine and is the latest preview of the deluxe edition of ‘Foreign Tongues’ The post The Rolling Stones surprise release breezy new single ‘Who You Callin’ Crazy’ appeared first on NME ."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s27",
+   "label": "They Are Gutting a Body of Water's Doug Dulgarian diagnosed with cancer",
+   "artists": [
+    "They Are Gutting a Body of Water"
+   ],
+   "genre": "Other",
+   "kind": "health",
+   "talk": 1,
+   "outlets": [
+    "Consequence",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-20T17:27:50+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "They Are Gutting a Body of Water’s Doug Dulgarian Reveals Cancer Diagnosis",
+     "link": "https://consequence.net/2026/10/they-are-gutting-a-body-of-water-doug-dulgarian-cancer/",
+     "published": "2026-10-20T17:27:50+00:00",
+     "summary": "TAGABOW have thus canceled their upcoming US tour except for three December dates. They Are Gutting a Body of Water’s Doug Dulgarian Reveals Cancer Diagnosis Eddie Fu"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "They Are Gutting a Body of Water’s Doug Dulgarian Diagnosed With Cancer",
+     "link": "https://pitchfork.com/story/they-are-gutting-a-body-of-waters-doug-dulgarian-diagnosed-with-cancer/",
+     "published": "2026-10-20T16:02:37+00:00",
+     "summary": "The band have canceled a forthcoming tour but are currently keeping December dates in New York and Philadelphia"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s31",
+   "label": "Gram Parsons tribute concert at Troubadour",
+   "artists": [
+    "Gram Parsons",
+    "Emmylou Harris",
+    "Elvis Costello",
+    "The Black Crowes",
+    "Margo Price"
+   ],
+   "genre": "Other",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-20T17:00:15+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Gram Parsons Tribute Concert at Troubadour to Feature Emmylou Harris, Elvis Costello, Black Crowes, Margo Price and More",
+     "link": "https://variety.com/2026/music/news/gram-parsons-tribute-troubadour-emmylou-harris-rock-hall-1236917615/",
+     "published": "2026-10-20T17:00:15+00:00",
+     "summary": "The “Grievous Angel” will be getting a salute from a lot of grateful angels when an all-star tribute concert honoring the late Gram Parsons takes place at the Troubadour on Nov. 11, three nights before the country-rock pioneer is inducted i"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Emmylou Harris, Elvis Costello, the Black Crowes, and More to Play Gram Parsons Tribute Concert",
+     "link": "https://www.rollingstone.com/music/music-news/gram-parsons-troubadour-tribute-concert-1235640737/",
+     "published": "2026-10-20T16:14:49+00:00",
+     "summary": "A Song for Gram at Los Angeles’ the Troubadour takes place days before Parsons’ Rock & Roll Hall of Fame induction"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s42",
+   "label": "1001Tracklists announces Top 101 Producers 2026",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "chart",
+   "talk": 0,
+   "outlets": [
+    "EDM MAXX",
+    "Howl.link"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "EDM MAXX",
+    "Howl.link"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-20T14:07:53+00:00",
+   "articles": [
+    {
+     "outlet": "EDM MAXX",
+     "title": "1001Tracklists 世界のDJが支持するプロデューサー番付「Top 101 Producers 2026」発表",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5VeEd6SGZLa1ozaXg2QXViOUk1ZTZTclNKMXIyQy15T0Y4QTEycXhCdmFJcHRndjVaNzhKLXJ1YlBDUDl6?oc=5",
+     "published": "2026-10-20T14:07:53+00:00",
+     "summary": "1001Tracklists 世界のDJが支持するプロデューサー番付「Top 101 Producers 2026」発表 EDM MAXX"
+    },
+    {
+     "outlet": "Howl.link",
+     "title": "クラブミュージックのプロデューサーランキング?! 1001Tracklistsが今年のベストプロデューサーを選ぶTop Producer101の2026を公開｜DJ NECO",
+     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5Fb0xqRWJTaEowbTEwRGdQcWxXbUhSMVVxMGZXcGNsZVFpeGpwR2x4NFJTTi00MGRuU3Bz?oc=5",
+     "published": "2026-10-20T11:37:21+00:00",
+     "summary": "クラブミュージックのプロデューサーランキング?! 1001Tracklistsが今年のベストプロデューサーを選ぶTop Producer101の2026を公開｜DJ NECO Howl.link"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 3
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 5
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 17
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 7
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 5,
+   "kept": 4
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 91,
+   "kept": 13
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 7
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 7
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 5
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 14
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 6
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 17
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 2
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 30,
+   "kept": 7
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 22,
+   "kept": 6
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 2
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 20
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 0
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 24,
+   "kept": 2
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 1
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 32,
+   "kept": 5
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 29,
+   "kept": 11
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 14,
+   "kept": 3
+  }
+ ],
+ "cost": {
+  "usd": 0.3201,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 17046,
+    "output_tokens": 6897
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 16484,
+    "output_tokens": 10134
+   }
+  ]
+ }
+}
