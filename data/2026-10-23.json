@@ -1,0 +1,2459 @@
+{
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23T03:05:01.224331+00:00",
+ "article_count": 293,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "Rayeのマーキュリー賞受賞やEminemの未発表曲流出事件など、アーティストの独立性や作品の権利をめぐる話題が目立つ一日。Billboard Latin Music Awards関連の報道も多く、Daft PunkとLEGOの提携やAmy Winehouseのトリビュート公演など、過去の名作を今どう受け継ぐかも語れる切り口になっている。",
+  "top": [
+   {
+    "id": "s14",
+    "title_ja": "Raye、2026年マーキュリー賞を受賞　Paul McCartneyらを抑える",
+    "genre": "POP",
+    "summary_ja": "Rayeがアルバム『This Music May Contain Hope』で2026年のマーキュリー賞を受賞し、賞金2万5000ポンドを手にした。候補にはPaul McCartney、Suede、Jade Thirlwallらがいた。受賞後の取材では、粘り強く続けること、メンタルヘルス、インディペンデントでいることについて語ったと報じられている。",
+    "why_ja": "BBCやThe Guardianを含む5媒体が報道。ポップ作品がPaul McCartneyらを抑えての受賞で、音楽ファン以外にも届いている。",
+    "debate_ja": "インディペンデントでも頂点に立てる時代になったと思う？",
+    "line_point": "Rayeがマーキュリー賞受賞。Paul McCartneyらを抑え、独立を貫く姿勢やメンタルヘルスについても語った",
+    "reels": [
+     {
+      "hook": "Paul McCartneyに勝ったのは、Rayeでした",
+      "angle": "受賞と候補の顔ぶれを紹介→独立して活動する道は報われるのかを問う→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "音楽は薬、Rayeが受賞で語った言葉",
+      "angle": "Hope is just something that we all need. Music is medicineという受賞コメントを軸に、アルバムタイトルに込めた希望の意味を読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s17",
+    "title_ja": "Eminemの元スタッフ、未発表曲を盗み販売した罪を認める",
+    "genre": "Hip-Hop",
+    "summary_ja": "Eminemの元スタッフJoseph Strangeが、未発表曲を盗んで販売した件で有罪を認めた。判決は1月に言い渡される予定で、最大5年の禁錮刑の可能性があると報じられている。",
+    "why_ja": "Rolling Stone、Variety、Complexなど5媒体が報道。世界的なスターの身近な人物による流出事件として注目されている。",
+    "debate_ja": "流出した未発表曲、ファンが聴くのはアリ？ナシ？",
+    "line_point": "Eminemの元スタッフが未発表曲を盗み販売した罪を認めた。判決は1月、最大5年の禁錮刑の可能性",
+    "reels": [
+     {
+      "hook": "流出した未発表曲、あなたは聴く派？",
+      "angle": "事件の概要→リーク曲を聴くことの是非という論点→自分の見解→コメントでリーク曲への考えを募る"
+     },
+     {
+      "hook": "犯人はEminemのすぐ近くにいた",
+      "angle": "元スタッフが有罪を認めるまでの報道を整理し、判決が1月であること、最大5年の刑の可能性など数字で事件の重さを解説"
+     }
+    ]
+   },
+   {
+    "id": "s26",
+    "title_ja": "Daft Punk、LEGOと提携　『Alive 2007』のピラミッドを製品化",
+    "genre": "Dance",
+    "summary_ja": "Daft PunkがLEGOと提携し、ライブ『Alive 2007』の象徴的なピラミッド型ステージのセットを発表した。提携は製品、コンテンツ、ブランド体験にまたがるものだとされている。",
+    "why_ja": "Billboard、Rolling Stone、Pitchfork、Mixmagなど7媒体が報道し、今日の候補で最多。ダンスミュージック以外のファンにも届く話題になっている。",
+    "debate_ja": "なぜ『Alive 2007』のステージが今LEGOになるのか？",
+    "line_point": "Daft PunkがLEGOと提携し、『Alive 2007』のピラミッド型ステージをセット化。製品以外の展開も予定",
+    "reels": [
+     {
+      "hook": "Daft PunkのLEGO化、正直欲しい？",
+      "angle": "発表内容を紹介→名作ライブのグッズ化はファンへの贈り物か商業化かを問う→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "このピラミッド、何がそんなに伝説なの？",
+      "angle": "『Alive 2007』のステージがなぜ象徴的とされるのかを背景から解説し、LEGOで再現される意味を考える"
+     }
+    ]
+   },
+   {
+    "id": "s50",
+    "title_ja": "Mark Ronsonら、Amy Winehouse『Back to Black』20周年公演",
+    "genre": "POP",
+    "summary_ja": "『Back to Black』の20周年を記念して、ロンドンのRoundhouseでトリビュート公演が開かれた。Mark Ronson、Salaam Remi、Corinne Bailey Rae、Jessie Reyez、Jorja Smithらが、Amy Winehouseのバンドとともに出演した。Billboardは見事な公演と伝えた一方、The Guardianは多くの歌い手が本人の記憶にかすんだと評している。",
+    "why_ja": "The Guardian、Billboard、Rolling Stone、NMEの4媒体が報道。メディアによって評価が分かれているところが議論の起点になる。",
+    "debate_ja": "亡きアーティストのトリビュート公演、本人を超えられなくても意味はある？",
+    "line_point": "『Back to Black』20周年でAmy Winehouseのトリビュート公演。称賛と厳しい批評で評価が分かれている",
+    "reels": [
+     {
+      "hook": "Amyの曲を他の人が歌う、あなたはアリ派？",
+      "angle": "公演の内容と出演者を紹介→称賛と厳しい批評の両方を紹介→トリビュートの意味について自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "『Back to Black』、発売から20年",
+      "angle": "制作に関わったMark RonsonとSalaam Remiが今回の公演に出演した意味を軸に、アルバムを支えた人々の視点から20周年を振り返る"
+     }
+    ]
+   },
+   {
+    "id": "s16",
+    "title_ja": "Charli xcx、Martin Scorsese監督の新作ホラー映画に出演",
+    "genre": "POP",
+    "summary_ja": "Charli xcxが、Martin Scorsese監督の新作映画『What Happens at Night』にカメオ出演すると報じられている。Peter Cameronの小説をもとにしたゴシック映画で、Leonardo DiCaprioとJennifer Lawrenceが出演する。",
+    "why_ja": "Variety、Rolling Stone、Pitchforkの3媒体が報道。巨匠監督の作品への出演で、音楽ファン以外の関心も集めそう。",
+    "debate_ja": "ミュージシャンの俳優挑戦、あなたは応援派？",
+    "line_point": "Charli xcxがScorsese監督の新作ホラー『What Happens at Night』にカメオ出演と報道。DiCaprioらが出演",
+    "reels": [
+     {
+      "hook": "Charli xcxがScorsese作品に出るってマジ？",
+      "angle": "報道内容を紹介→ミュージシャンが映画に出ることの是非を問う→自分の見解→コメントで俳優挑戦への意見を募る"
+     },
+     {
+      "hook": "DiCaprioと同じ映画にCharli xcx",
+      "angle": "共演者の顔ぶれと原作がゴシック小説であることを紹介し、カメオ出演がどんな役になるかを分かる範囲で整理"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s57",
+     "title_ja": "Getter、メンタルヘルスと向き合った日々を語る",
+     "note": "自分と向き合った末にルーマニアへ旅し、婚約者にプロポーズしたと明かした"
+    },
+    {
+     "id": "s58",
+     "title_ja": "InsomniacとADE、ラスベガスで新たな業界サミット開催へ",
+     "note": "5月にラスベガスで3日間のMap Point Summitを共同開催すると発表"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s6",
+     "title_ja": "Rosalía、Billboard Hall of Fame Awardを受賞",
+     "note": "2026年のBillboard Latin Music Awardsで殿堂入りの賞を受け取った"
+    },
+    {
+     "id": "s5",
+     "title_ja": "Becky G、新作の制作過程と俳優業について語る",
+     "note": "Billboard Latin Music Awardsで『BARAJA BENDITA』の制作過程を語った"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s20",
+     "title_ja": "Kevin Gates、元妻Drekaへ100万ドル超の支払いを命じられる",
+     "note": "楽曲カタログの売却益から支払うよう命じられたが、Gates本人は法的な結婚ではなかったと主張"
+    },
+    {
+     "id": "s40",
+     "title_ja": "Dame Dashの人生の映像化権、約50万ドルで落札",
+     "note": "Everlasting Filmsが50万〜55万ドルで落札したと報じられている"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s29",
+     "title_ja": "Lady Gaga『Joanne』10周年、全曲ランキング",
+     "note": "10周年を迎えた『Joanne』の全曲をBillboardが順位付け。どの曲が1位かで盛り上がれる"
+    },
+    {
+     "id": "s46",
+     "title_ja": "1997年、なぜThe Prodigyはロックの未来と呼ばれたのか",
+     "note": "The Prodigyがロックの未来と期待された理由と、その予想が外れた理由を振り返る裏話"
+    },
+    {
+     "id": "s81",
+     "title_ja": "MC Lyte、ロックの殿堂入りとキャリアを語る",
+     "note": "Queen Latifahとの共通点や、LL Cool Jに刺激されて音楽活動に戻った話が聞ける"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s77",
+    "title_ja": "Feeble Little Horse、2027年3月の来日公演に追加公演",
+    "note": "東京で追加公演が決定。主催はCREATIVEMAN PRODUCTIONS"
+   },
+   {
+    "id": "s70",
+    "title_ja": "Death Cab for Cutie、11月の来日公演を前にメッセージ",
+    "note": "主催のCREATIVEMAN PRODUCTIONSがメッセージを公開"
+   },
+   {
+    "id": "s0",
+    "title_ja": "5 Seconds of Summer、11月の東京公演でVIP券の一部が完売",
+    "note": "11/21東京公演のVIP NO.1券は完売。11/22東京追加公演のチケットは販売中"
+   },
+   {
+    "id": "s9",
+    "title_ja": "Berlin Philharmonic Orchestra、2027年6・7月に来日公演",
+    "note": "来日70周年記念の特別公演と、ヴァルトビューネ河口湖を開催"
+   },
+   {
+    "id": "s84",
+    "title_ja": "GudとSHLOHMO、渋谷のハロウィンパーティーで初来日",
+    "note": "sabukaru主催。渋谷MIDNIGHT EASTで、VMOやTamanaramenらと共演"
+   },
+   {
+    "id": "s87",
+    "title_ja": "Alex Lustig、Ambient Hours Tokyo 2026で来日",
+    "note": "約50名限定で、音・映像・空間が交差するリスニング体験"
+   }
+  ],
+  "tour_candidates": 8
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s14",
+   "label": "Raye wins 2026 Mercury Prize for This Music May Contain Hope",
+   "artists": [
+    "Raye"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 1,
+   "outlets": [
+    "BBC",
+    "NME",
+    "Pitchfork",
+    "The Guardian",
+    "Variety"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "BBC",
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 5,
+   "score": 7,
+   "latest": "2026-10-23T00:14:08+00:00",
+   "articles": [
+    {
+     "outlet": "BBC",
+     "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
+     "link": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss",
+     "published": "2026-10-23T00:14:08+00:00",
+     "summary": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize."
+    },
+    {
+     "outlet": "NME",
+     "title": "Raye on the “best birthday present” of her Mercury Prize win: “I just feel seriously seen”",
+     "link": "https://www.nme.com/news/music/raye-mercury-prize-interview-winners-room-music-hope-birthday-royal-albert-hall-3973906?utm_source=rss&utm_medium=rss&utm_campaign=raye-mercury-prize-interview-winners-room-music-hope-birthday-royal-albert-hall",
+     "published": "2026-10-23T00:03:04+00:00",
+     "summary": "Check out what Raye had to say in the winners room about perseverance, mental health and staying independent after she scored Mercury Prize gold for 'This Music May Contain Hope' The post Raye on the “best birthday present” of her Mercury P"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Raye Wins 2026 Mercury Prize",
+     "link": "https://pitchfork.com/story/raye-wins-2026-mercury-prize/",
+     "published": "2026-10-22T23:09:47+00:00",
+     "summary": "She beat out Sir Paul McCartney, Olivia Dean, Jade, Nia Archives, and more"
+    },
+    {
+     "outlet": "NME",
+     "title": "Raye wins the Mercury Prize 2026: “Hope is just something that we all need. Music is medicine”",
+     "link": "https://www.nme.com/news/music/mercury-prize-2026-winner-announced-raye-speech-performance-watch-3973848?utm_source=rss&utm_medium=rss&utm_campaign=mercury-prize-2026-winner-announced-raye-speech-performance-watch",
+     "published": "2026-10-22T22:30:34+00:00",
+     "summary": "The ceremony took place in Newcastle tonight (Thursday October 22) with 'This Music May Contain Hope' beating records by the likes of Olivia Dean, Jade, Suede and more The post Raye wins the Mercury Prize 2026: “Hope is just something that "
+    },
+    {
+     "outlet": "Variety",
+     "title": "Raye Wins Mercury Prize for Album of the Year",
+     "link": "https://variety.com/2026/music/news/raye-wins-mercury-prize-album-of-the-year-1236921858/",
+     "published": "2026-10-22T21:40:16+00:00",
+     "summary": "Singer-songwriter and Variety Hitmakers 2024 honoree Raye has won the 2026 Mercury prize for her epic second studio album, “This Music May Contain Hope,” beating out Olivia Dean, Paul McCartney and others for the prize. The Mercury Prize ha"
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Raye wins 2026 Mercury prize for This Music May Contain Hope",
+     "link": "https://www.theguardian.com/music/2026/oct/22/raye-wins-2026-mercury-prize-for-this-music-may-contain-hope",
+     "published": "2026-10-22T21:24:17+00:00",
+     "summary": "Singer who has had record-breaking Brit awards success adds to haul thanks to massively ambitious big-band album Raye is the winner of the 2026 Mercury prize, for her second studio album, This Music May Contain Hope. Her win – for a hugely "
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s26",
+   "label": "Daft Punk partners with LEGO for Alive 2007 pyramid stage set",
+   "artists": [
+    "Daft Punk"
+   ],
+   "genre": "Dance",
+   "kind": "collab",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "DJ Mag",
+    "EDM.com",
+    "Mixmag",
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 7,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 7,
+   "score": 7,
+   "latest": "2026-10-22T20:08:05+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Daft Punk Partner With LEGO for Iconic 'Alive 2007' Stage Collaboration",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmVSQjZXa1RUeUdlbDZPWXNjZExZREZmbFNvbkFYX3BzX1p6R3M0Z05QWEQ0alhMVkt1My1rWmY3VXFOWGtaUnhka0hxM0h6bVpERGdxSzBHWElka0pqRzdJS0RFQUVkRWZmaEd3N3FLWXpENm54Mk9YYjhtRTFVc0VkMVJnVTJsdWdPMg?oc=5",
+     "published": "2026-10-22T20:08:05+00:00",
+     "summary": "Daft Punk Partner With LEGO for Iconic 'Alive 2007' Stage Collaboration Complex"
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "Daft Punk’s ALIVE 2007 pyramid LEGO set officially announced",
+     "link": "https://djmag.com/news/daft-punks-alive-2007-pyramid-lego-set-officially-announced",
+     "published": "2026-10-22T15:42:11+00:00",
+     "summary": "It’s part of a newly announced partnership between LEGO and Daft Punk spanning “product, content and brand experiences”"
+    },
+    {
+     "outlet": "EDM.com",
+     "title": "Daft Punk and LEGO Partner to Release Official Pyramid Stage Set",
+     "link": "https://edm.com/news/daft-punk-lego-partnership-official-pyramid-stage-set/",
+     "published": "2026-10-22T14:53:48+00:00",
+     "summary": "When Patrick Harboun and his son began snapping together a model of Daft Punk’s storied pyramid stage, they had no idea the project would end up in the robots' metallic hands. The post Daft Punk and LEGO Partner to Release Official Pyramid "
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Daft Punk Team With Lego for Set Based on Classic Pyramid Stage",
+     "link": "https://www.rollingstone.com/music/music-news/daft-punk-lego-pyramid-stage-set-1235646469/",
+     "published": "2026-10-22T14:17:39+00:00",
+     "summary": "French duo drop teaser video ahead of 2027 collaboration with toymakers"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Daft Punk Are (Brick) Builders After All in New Collab With Classic Toy Brand",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzFoVmgwZlhtTHJiTmdQcmRPY1dwSFE3WEhMc1FsQnFHZS1PcFpLUUs5d1I2T2docXc1dUtteWJheWtNbGphSkdrSnBfV1ZoMk8xM0hGVFVNcTE5ajhjcThxamlQT09CYzZUSXRRUHhsM21HdkM3dnVuYkxCbzdwb3pkX0pGeTFlYV9udXdwVERUdWhiWEZDNTdmbm8td3ly?oc=5",
+     "published": "2026-10-22T14:05:21+00:00",
+     "summary": "Daft Punk Are (Brick) Builders After All in New Collab With Classic Toy Brand Billboard"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Daft Punk Are Now Lego",
+     "link": "https://pitchfork.com/story/daft-punk-are-now-lego/",
+     "published": "2026-10-22T14:01:08+00:00",
+     "summary": "And so is the Alive 2007 pyramid"
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "Daft Punk announce official partnership with LEGO",
+     "link": "https://mixmag.net/read/daft-punk-announce-first-ever-official-partnership-with-lego-news",
+     "published": null,
+     "summary": "The robots will become \"LEGO After All\" with plans for an Alive Tour 2007-inspired set Continue reading..."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Eminem's former employee pleads guilty to stealing unreleased songs",
+   "artists": [
+    "Eminem"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop",
+    "Complex",
+    "Rolling Stone",
+    "Variety",
+    "XXL"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 5,
+   "score": 5,
+   "latest": "2026-10-22T23:50:11+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "Eminem's Former Employee Pleads Guilty to Stealing Rapper's Songs",
+     "link": "https://www.xxlmag.com/eminem-former-employee-guilty-stealing-songs/",
+     "published": "2026-10-22T23:50:11+00:00",
+     "summary": "Em gets closure in song theft case. Continue reading…"
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Eminem’s Ex-Employee Pleads Guilty Over Stolen Music",
+     "link": "https://allhiphop.com/news/eminems-ex-employee-pleads-guilty-over-stolen-music/",
+     "published": "2026-10-22T21:02:41+00:00",
+     "summary": "Joseph Strange pleaded guilty in Eminem's stolen-music case and faces sentencing in January after selling unreleased recordings."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Eminem’s Former Employee Pleads Guilty to Leaking Rapper’s Unreleased Music",
+     "link": "https://www.rollingstone.com/music/music-news/eminem-former-employee-guilty-leaking-unreleased-music-1235646780/",
+     "published": "2026-10-22T18:33:20+00:00",
+     "summary": "Joseph Strange, who worked for rapper for 14 years, faces five years in prison on charge of criminal infringement of a copyright"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Ex-Eminem Employee Pleads Guilty After Stealing and Selling Songs, Faces Up to 5 Years in Prison",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdUtuMGNRV2toZlRWUmhaY3hRdkpwMnBscnQ5WXZKTGh1VkxiSFAybnlSMFhGd1Qwa25OY2NzbENFSFRCMTVYU3laNUZEUDY4emxyLV9aS291Wkk0Y3AxUnNCRnpIZFhla1h0U3AzODVUZEF3Y3d3a3Y4aUNaajVBMU5UVV91eDh0My1ObTJjWWhRejk0QVQzSQ?oc=5",
+     "published": "2026-10-22T18:24:38+00:00",
+     "summary": "Ex-Eminem Employee Pleads Guilty After Stealing and Selling Songs, Faces Up to 5 Years in Prison Complex"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Former Eminem Employee Pleads Guilty to Stealing and Selling Unreleased Music",
+     "link": "https://variety.com/2026/music/news/former-eminem-employee-pleads-guilty-stealing-selling-music-1236921612/",
+     "published": "2026-10-22T17:20:20+00:00",
+     "summary": "A man who was charged with stealing and selling unreleased Eminem music that leaked to the web last year has pleaded guilty to criminal infringement of copyright. In March 2025, former Eminem employee Joseph Strange was charged with copyrig"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s50",
+   "label": "Mark Ronson leads all-star Amy Winehouse Back to Black tribute concert",
+   "artists": [
+    "Amy Winehouse",
+    "Mark Ronson",
+    "Jessie Reyez",
+    "Corinne Bailey Rae",
+    "Salaam Remi"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "NME",
+    "Rolling Stone",
+    "The Guardian"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 5,
+   "latest": "2026-10-22T15:47:12+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Mark Ronson, Jessie Reyez, Corinne Bailey Rae Lead All-Star Amy Winehouse Tribute Concert",
+     "link": "https://www.rollingstone.com/music/music-news/mark-ronson-jessie-reyez-amy-winehouse-tribute-concert-1235646567/",
+     "published": "2026-10-22T15:47:12+00:00",
+     "summary": "Twentieth-anniversary celebration of Back to Black in London also featured Salaam Remi, Yebba, Lianne La Havas, the Amy Winehouse Band and more"
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Amy Winehouse: Back to Black 20 review – trying an all-star Amy tribute show is a losing game",
+     "link": "https://www.theguardian.com/music/2026/oct/22/amy-winehouse-back-to-black-20-review-bbc-roundhouse-london",
+     "published": "2026-10-22T14:22:15+00:00",
+     "summary": "(Roundhouse, London) With Jorja Smith, Mark Ronson and others reinterpreting Back to Black for its 20th anniversary, most of the singers are eclipsed by the memory of Winehouse It’s 20 years since Amy Winehouse released her masterpiece Back"
+    },
+    {
+     "outlet": "NME",
+     "title": "Watch Mark Ronson, Salaam Remi, Corinne Bailey Rae, Jessie Reyez and more celebrate 20 years of ‘Back To Black’ with Amy Winehouse’s band at London’s Roundhouse",
+     "link": "https://www.nme.com/news/music/watch-mark-ronson-salaam-remi-corinne-bailey-rae-jessie-reyez-and-more-celebrate-20-years-of-back-to-black-with-amy-winehouses-band-at-londons-roundhouse-3973831?utm_source=rss&utm_medium=rss&utm_campaign=watch-mark-ronson-salaam-remi-corinne-bailey-rae-jessie-reyez-and-more-celebrate-20-years-of-back-to-black-with-amy-winehouses-band-at-londons-roundhouse",
+     "published": "2026-10-22T11:22:06+00:00",
+     "summary": "The night also featured performances from FLO, Jorja Smith and more The post Watch Mark Ronson, Salaam Remi, Corinne Bailey Rae, Jessie Reyez and more celebrate 20 years of ‘Back To Black’ with Amy Winehouse’s band at London’s Roundhouse ap"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Amy Winehouse Honored With Stunning All-Star Tribute Concert Celebrating 20 Years of ‘Back to Black’: Best Moments",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTFJqZlNPb0RiY1pZeTJWT3g3M0J6dXpQcGVaelA3aHA0OC10OWsySmpwSlhHNnBFT3Z3VzFOdWZxTnJZNEFpY2ZiR1ZlcENfTW40aVJGWEthVXNJUUM1ZHBvSklhaXA3aThhSDczSS1qTjZhU0dqVGU2bXFVU3g5dWNwalVvdDE0V0cxVDhvcEtNQ28?oc=5",
+     "published": "2026-10-22T10:16:44+00:00",
+     "summary": "Amy Winehouse Honored With Stunning All-Star Tribute Concert Celebrating 20 Years of ‘Back to Black’: Best Moments Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Kevin Gates court orders $1M payout to Dreka from music catalog",
+   "artists": [
+    "Kevin Gates"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop",
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-22T22:23:21+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Kevin Gates Claims He Was Never Legally Married To Dreka, But Judge Still Orders $1M Payout",
+     "link": "https://allhiphop.com/rumors/kevin-gates-claims-he-was-never-legally-married-to-dreka-but-judge-still-orders-1m-payout/",
+     "published": "2026-10-22T22:23:21+00:00",
+     "summary": "Kevin Gates says his marriage to Dreka Gates was never legally official in the first place. Wait a second. The Baton Rouge rapper has maintained that his longtime relationship with Dreka never resulted in a legally recognized marriage. He s"
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Kevin Gates Must Fork Over $1M From Music Catalog Sales To Dreka Gates",
+     "link": "https://www.hotnewhiphop.com/1014062-kevin-gates-dreka-1-million-music-catalog-split",
+     "published": "2026-10-22T17:46:06+00:00",
+     "summary": "Kevin Gates will have to give Dreka a significant portion of the proceeds from his music catalogue sales. The post Kevin Gates Must Fork Over $1M From Music Catalog Sales To Dreka Gates appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Kevin Gates Ordered to Give Over $1 Million to Ex Dreka in Music Catalog Sale",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMWROdU5zVXBJWFhqd05QSExUSXJXQXlMRENKeTJzb0FYcmlGWDV5eHp2a09pa3RhQU1Tb2psbERVb3JJZU8zTGtYOHB6ZllibEl2UVd0VTNLdkE0bHdnVWQyYjhGNWdxZ1Y5WUhMb2hkNkpXX0RMVHBpN2FDcHVGV0g2akdMblhYN2dqU2thaHYxNkdZMXpV?oc=5",
+     "published": "2026-10-22T03:01:46+00:00",
+     "summary": "Kevin Gates Ordered to Give Over $1 Million to Ex Dreka in Music Catalog Sale Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Pharrell Williams faces accusations from Chad Hugo over Neptunes",
+   "artists": [
+    "Pharrell Williams",
+    "Chad Hugo"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-23T02:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Pharrell Williams Facing Wild Creative Accusations From Chad Hugo Over Neptunes Legacy",
+     "link": "https://allhiphop.com/news/pharrell-williams-facing-wild-creative-accusations-from-chad-hugo-over-neptunes-legacy/",
+     "published": "2026-10-23T02:30:00+00:00",
+     "summary": "Pharrell Williams faces fierce opposition from former Neptunes pal Chad Hugo."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s44",
+   "label": "IAMDDB on Israel AI video using her image without consent",
+   "artists": [
+    "IAMDDB"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-22T16:31:36+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "IAMDDB on Israel Sharing AI Video Using Her Image Without Consent: ‘I Stand for Humanity’",
+     "link": "https://www.rollingstone.com/music/music-news/israel-sharing-ai-video-iamddb-image-without-consent-1235645765/",
+     "published": "2026-10-22T16:31:36+00:00",
+     "summary": "“I do not support genocide, the killing of innocent people, or the suffering of women, children, and families,” singer writes"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "Roger Goodell won't confirm Jay-Z Super Bowl halftime show report",
+   "artists": [
+    "Jay-Z"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T20:45:28+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Roger Goodell Responds To Jay-Z Super Bowl Halftime Show Reports",
+     "link": "https://www.hotnewhiphop.com/1014079-roger-goodell-jay-z-super-bowl-halftime-show",
+     "published": "2026-10-22T20:45:28+00:00",
+     "summary": "Roger Goodell is currently in the midst of a Super Bowl Halftime Show debacle as Jay-Z has been leaked as this year's performer. The post Roger Goodell Responds To Jay-Z Super Bowl Halftime Show Reports appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Carmelo Anthony Defends Jay-Z As Kazeem Claims He Can’t Carry A Super Bowl",
+     "link": "https://www.hotnewhiphop.com/1014073-carmelo-anthony-jay-z-kazeem-7-pm-in-brooklyn",
+     "published": "2026-10-22T19:15:10+00:00",
+     "summary": "On \"7 PM In Brooklyn,\" Carmelo Anthony, Monica McNutt, and Kazeem Famuyide had a debate about Jay-Z and the Super Bowl. The post Carmelo Anthony Defends Jay-Z As Kazeem Claims He Can’t Carry A Super Bowl appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Roger Goodell Won’t Confirm Jay-Z Super Bowl Report",
+     "link": "https://allhiphop.com/news/roger-goodell-wont-confirm-jay-z-super-bowl-report/",
+     "published": "2026-10-22T19:01:54+00:00",
+     "summary": "Roger Goodell declined to confirm Jay-Z's reported Super Bowl booking, saying the NFL had not made an announcement."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "Charli XCX cameo in Martin Scorsese horror film What Happens at Night",
+   "artists": [
+    "Charli XCX"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Pitchfork",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-22T23:58:03+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Charli XCX to Cameo in Martin Scorsese’s New Horror Film With Leonardo DiCaprio, Jennifer Lawrence",
+     "link": "https://www.rollingstone.com/music/music-news/charli-xcx-martin-scorsese-horror-film-1235646987/",
+     "published": "2026-10-22T23:58:03+00:00",
+     "summary": "The artist will feature in the gothic film based on Peter Cameron's novel, What Happens at Night"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Charli XCX Will Appear in a Martin Scorsese Film",
+     "link": "https://pitchfork.com/story/charli-xcx-will-appear-in-a-martin-scorsese-film/",
+     "published": "2026-10-22T21:47:19+00:00",
+     "summary": "She reportedly makes a cameo in What Happens At Night with Leonardo DiCaprio and Jennifer Lawrence"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Charli xcx Joins Martin Scorsese’s ‘What Happens at Night’ With Leonardo DiCaprio and Jennifer Lawrence (EXCLUSIVE)",
+     "link": "https://variety.com/2026/film/global/charli-xcx-martin-scorsese-what-happens-at-night-1236919507/",
+     "published": "2026-10-22T20:12:35+00:00",
+     "summary": "Charli xcx and Martin Scorsese’s collaboration is extending beyond the cover for her new album “Music, Fashion, Film.” Sources tell Variety that the pop star has a cameo in the Oscar-winning director’s upcoming movie “What Happens at Night”"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "Fleetwood Mac documentary set for January 2027 premiere on Apple TV",
+   "artists": [
+    "Fleetwood Mac"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-22T17:14:03+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Fleetwood Mac Documentary Sets January 2027 Premiere on Apple TV",
+     "link": "https://consequence.net/2026/10/fleetwood-mac-the-chain-documentary-apple-tv-release-date/",
+     "published": "2026-10-22T17:14:03+00:00",
+     "summary": "The fully authorized documentary, directed by Frank Marshall, features never-before-seen footage and exclusive new interviews. Fleetwood Mac Documentary Sets January 2027 Premiere on Apple TV Eddie Fu"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Fleetwood Mac Set Authorized Documentary Tied to ‘Rumours’ 50th Anniversary",
+     "link": "https://www.rollingstone.com/music/music-news/fleetwood-mac-apple-tv-documentary-1235646500/",
+     "published": "2026-10-22T16:13:58+00:00",
+     "summary": "Frank Marshall’s Fleetwood Mac: The Chain arrives in January on Apple TV"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Fleetwood Mac Announce Fleetwood Mac Documentary",
+     "link": "https://pitchfork.com/story/fleetwood-mac-announces-fleetwood-mac-documentary/",
+     "published": "2026-10-22T15:40:56+00:00",
+     "summary": "Fleetwood Mac: The Chain hits Apple TV in January"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Nuri Muhammad praises Jay-Z's cultural impact on Club Shay Shay",
+   "artists": [
+    "Jay-Z"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-23T02:03:41+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Nuri Muhammad Puts Jay-Z’s Pen Above A Billion-Dollar Check",
+     "link": "https://allhiphop.com/news/nuri-muhammad-puts-jay-zs-pen-above-a-billion-dollar-check/",
+     "published": "2026-10-23T02:03:41+00:00",
+     "summary": "Nuri Muhammad argued that Jay-Z's music could do more for Black communities than a billion-dollar check during \"Club Shay Shay.\""
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s57",
+   "label": "Getter opens up about mental health journey after Romania proposal",
+   "artists": [
+    "Getter"
+   ],
+   "genre": "Dance",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-22T15:51:39+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Getter Opens Up About Mental Health Journey: I’ll Work Every Day to Make Sure I Don’t Lose This Feeling”",
+     "link": "https://edm.com/news/getter-opens-up-mental-health-journey/",
+     "published": "2026-10-22T15:51:39+00:00",
+     "summary": "The electronic music virtuoso said a stretch of self-work led to a spontaneous trip to Romania, where he proposed to his fiancée. The post Getter Opens Up About Mental Health Journey: I’ll Work Every Day to Make Sure I Don’t Lose This Feeli"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Shawty Dred indicted in $42M federal SNAP fraud sweep",
+   "artists": [
+    "Shawty Dred"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "Rolling Stone",
+    "Vibe"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T21:45:14+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "Atlanta Rapper Shawty Dred Indicted in $42M Federal SNAP Fraud Sweep",
+     "link": "https://www.vibe.com/news/national/atlanta-rapper-shawty-dred-indicted-federal-snap-fraud-1235200056/",
+     "published": "2026-10-22T21:45:14+00:00",
+     "summary": "The rapper and social media personality is allegedly connected to over 500 EBT fraud incidents in Georgia"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Atlanta Rapper Shawty Dred Indicted in $42M Federal SNAP Fraud Sweep",
+     "link": "https://www.rollingstone.com/music/music-news/atlanta-rapper-shawty-dred-indicted-federal-snap-fraud-1235646825/",
+     "published": "2026-10-22T21:24:57+00:00",
+     "summary": "The rapper and social media personality is allegedly connected to over 500 EBT fraud incidents in Georgia"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "Westside Gunn announces new album HEELMATIC with lead single Zilla",
+   "artists": [
+    "Westside Gunn"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T20:00:26+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Westside Gunn Makes His Mass Appeal Move With “HEELMATIC”",
+     "link": "https://allhiphop.com/news/westside-gunn-makes-his-mass-appeal-move-with-heelmatic/",
+     "published": "2026-10-22T20:00:26+00:00",
+     "summary": "Westside Gunn set \"HEELMATIC\" for November 13 and launched his Mass Appeal rollout with the Denny LaFlare-produced \"ZILLA.\""
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Westside Gunn Announces New Album Heelmatic",
+     "link": "https://pitchfork.com/story/westside-gunn-announces-new-album-heelmatic/",
+     "published": "2026-10-22T19:44:52+00:00",
+     "summary": "Lead single “Zilla” features rapping on a camel in front of the Great Pyramid"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Sammy Virji drops surprise album Open Late",
+   "artists": [
+    "Sammy Virji"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "EDM.com",
+    "Your EDM"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T19:13:48+00:00",
+   "articles": [
+    {
+     "outlet": "Your EDM",
+     "title": "Sammy Virji Drops Surprise Album ‘Open Late’",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2R5Ry0xOWJDbHhjSmVTR3FUb3kyNm9fcEpnRE1CWHdRdG11eDhfZTBHTjI3bHhmajU4Ujh2dFZoQlNEUGZCSGszQV9xSXViUkdmVVZjVGs2TW56MmJXclFhZVE0SlJIZ084ZDFTeFlNR3NqNVRDRUZfVm5jcE5IX0lQRUI?oc=5",
+     "published": "2026-10-22T19:13:48+00:00",
+     "summary": "Sammy Virji Drops Surprise Album ‘Open Late’ Your EDM"
+    },
+    {
+     "outlet": "EDM.com",
+     "title": "Sammy Virji Surprises Fans With New Album, ‘Open Late’: Listen",
+     "link": "https://edm.com/music-releases/sammy-virji-new-album-open-late/",
+     "published": "2026-10-22T15:15:08+00:00",
+     "summary": "A countdown page turned into a live listening room as Virji's third album dropped. The post Sammy Virji Surprises Fans With New Album, ‘Open Late’: Listen appeared first on EDM ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s62",
+   "label": "Funk Flex addresses heated altercation at New York Knicks game",
+   "artists": [
+    "Funk Flex"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Rolling Stone",
+    "Vibe"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T18:02:43+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "Funk Flex Addresses Heated Altercation With Music Executive at New York Knicks Game",
+     "link": "https://www.vibe.com/news/entertainment/funk-flex-heated-altercation-new-york-knicks-game-1235200004/",
+     "published": "2026-10-22T18:02:43+00:00",
+     "summary": "Flex denied being assaulted, accusing Shadow Stokes of attempting to \"bait\" him into a lawsuit"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Funk Flex Addresses Heated Altercation With Music Executive at New York Knicks Game",
+     "link": "https://www.rollingstone.com/music/music-news/funk-flex-fight-new-york-knicks-game-1235646120/",
+     "published": "2026-10-22T16:23:07+00:00",
+     "summary": "Flex denied being assaulted, accusing Shadow Stokes of attempting to “bait” him into a lawsuit"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s58",
+   "label": "Insomniac and ADE launch new dance music summit in Las Vegas",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "EDM.com"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T17:17:27+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Insomniac & ADE Partnering on New Dance Music Summit Coming to Las Vegas in May",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORTFSQ2U4M041WS1La201blp3a3JfVTdsWUhUck8zNS15a2tXaWVMS1VfblZtdG95Rm9aVGR1T0tJaWxqd1hESzN4Z1NKOEZvQ2lOQi1sQWRLNm9haXY4THd1cmgtLU9MLVQtYXRYa0ZVellUdDFMWnJ2LVA4ZnlUMHhSZlRLekQ1ZGZsZmgxbw?oc=5",
+     "published": "2026-10-22T17:17:27+00:00",
+     "summary": "Insomniac & ADE Partnering on New Dance Music Summit Coming to Las Vegas in May Billboard"
+    },
+    {
+     "outlet": "EDM.com",
+     "title": "Insomniac Partners With Amsterdam Dance Event to Launch Las Vegas Conference for Rave Culture",
+     "link": "https://edm.com/news/insomniac-amsterdam-dance-event-launching-las-vegas-conference-rave-culture/",
+     "published": "2026-10-22T15:36:24+00:00",
+     "summary": "ADE is taking its time-tested conference playbook to Sin City, where it will co-produce a three-day industry event with Insomniac called Map Point Summit. The post Insomniac Partners With Amsterdam Dance Event to Launch Las Vegas Conference"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s40",
+   "label": "Dame Dash's life rights auctioned off for $500K-$550K",
+   "artists": [
+    "Dame Dash"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T17:12:48+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Dame Dash’s Life Rights Have Been Auctioned Off For $500K",
+     "link": "https://www.hotnewhiphop.com/1014055-dame-dash-life-rights-sold",
+     "published": "2026-10-22T17:12:48+00:00",
+     "summary": "Everlasting Films, LLC have been eyeing the life rights to Dame Dash's story for a while. The post Dame Dash’s Life Rights Have Been Auctioned Off For $500K appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Dame Dash's Life Rights Auctioned Off for $550,000",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUFhZ1JESGY0cmdOZUNsVnVHbERLMGR5djlXaV9BeHhTUmRSRUlyTFVYcjFvNXlwNW5OaFRGMzU3dkg1R1UxNFUyaGl6UXdhVUdnbGVVQTlqMmhDcmdzdXRTVzRnU09rTWxYNGNOQkxPVk5MRUctSVlva1pOMUp2b0VLQWZHZ29Z?oc=5",
+     "published": "2026-10-22T03:01:46+00:00",
+     "summary": "Dame Dash's Life Rights Auctioned Off for $550,000 Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Ryan Castro performs at Billboard Latin Music Awards 2026",
+   "artists": [
+    "Ryan Castro"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-23T02:28:17+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Ryan Castro Explains Why He Thinks “LA VILLA” is Huge, Performing at Madison Square Garden | Billboard Latin Music Awards 2026",
+     "link": "https://www.billboard.com/video/ryan-castro-explains-why-he-thinks-la-villa-is-huge/",
+     "published": "2026-10-23T02:28:17+00:00",
+     "summary": "Ryan Castro chatted with Billboard’s Ingrid Fajardo & Jessica Roiz on the red carpet of 2026 Billboard’s Latin Music Awards."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Paola Jara & Jessi Uribe Juan Gabriel tribute at Billboard Latin",
+   "artists": [
+    "Paola Jara",
+    "Jessi Uribe"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-23T02:25:08+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Paola Jara & Jessi Uribe On Their Homage to Juan Gabriel, Their Relationship & More | Billboard Latin Music Awards 2026",
+     "link": "https://www.billboard.com/video/paola-jara-jessi-uribe-on-their-homage-to-juan-gabriel/",
+     "published": "2026-10-23T02:25:08+00:00",
+     "summary": "Paola Jara & Jessi Uribe chatted with Billboard’s Ingrid Fajardo & Jessica Roiz on the red carpet of 2026 Billboard’s Latin Music Awards."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Becky G discusses creative process at Billboard Latin Music Awards",
+   "artists": [
+    "Becky G"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-23T01:53:54+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Becky G Shares Her Creative Process With ‘BARAJA BENDITA,’ & Talks Acting In ‘House of Guerrero’ | Billboard Latin Music Awards 2026",
+     "link": "https://www.billboard.com/video/becky-g-shares-her-creative-process-with-baraja-bendita/",
+     "published": "2026-10-23T01:53:54+00:00",
+     "summary": "Becky G chatted with Billboard’s Ingrid Fajardo & Jessica Roiz on the red carpet of 2026 Billboard’s Latin Music Awards."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Rosalía honored with 2026 Billboard Hall of Fame Award",
+   "artists": [
+    "Rosalía"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-23T01:45:46+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Rosalía Honored With 2026 Billboard Hall of Fame Award at Billboard Latin Music Awards: ‘I Will Never Forget This Moment’",
+     "link": "https://www.billboard.com/music/latin/rosalia-hall-of-fame-speech-billboard-latin-music-awards-1236366165/",
+     "published": "2026-10-23T01:45:46+00:00",
+     "summary": "The Spanish artist received the award at the 2026 Billboard Latin Music Awards on Thursday (Oct. 22)."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Fuerza Regida accept Vanguard Award at Billboard Latin Awards",
+   "artists": [
+    "Fuerza Regida"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-23T01:34:44+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Fuerza Regida Accept Vanguard Award at 2026 Billboard Latin Music Awards: ‘We’re Going to Conquer the World’",
+     "link": "https://www.billboard.com/music/latin/fuerza-regida-billboard-vanguard-award-2026-latin-billboards-1236366612/",
+     "published": "2026-10-23T01:34:44+00:00",
+     "summary": "The trailblazing música Mexicana group also performed at the ceremony, airing live on Telemundo."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "Cristian Castro honored with Billboard Lifetime Achievement Award",
+   "artists": [
+    "Cristian Castro"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-23T01:30:56+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Cristian Castro On Being Honored With Billboard Lifetime Achievement Award, Talks Touring & More | Billboard Latin Music Awards 2026",
+     "link": "https://www.billboard.com/video/cristian-castro-on-being-honored-with-lifetime-achievement/",
+     "published": "2026-10-23T01:30:56+00:00",
+     "summary": "Cristian Castro chatted with Billboard’s Ingrid Fajardo & Jessica Roiz on the red carpet of 2026 Billboard’s Latin Music Awards."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s77",
+   "label": "Feeble Little Horse Japan tour sold out, adds second show",
+   "artists": [
+    "Feeble Little Horse"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "CREATIVEMAN PRODUCTIONS",
+    "NME Japan",
+    "Skream!",
+    "amass",
+    "クリエイティブマン"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [
+    "CREATIVEMAN PRODUCTIONS",
+    "NME Japan",
+    "Skream!",
+    "amass",
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-22T03:38:24+00:00",
+   "articles": [
+    {
+     "outlet": "CREATIVEMAN PRODUCTIONS",
+     "title": "feeble little horse 追加公演決定！",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4bVFfUmhyaTV3RFNtRlZlSWhnNWZEU1VNNUJkQlV4ZXdlTDFUYzlPNjJTdEpINVFaLXdjT2ZaLTF0RHJRUG5DNFNQRWcwOThoR1llVzRIcTJobTQ5?oc=5",
+     "published": "2026-10-22T03:38:24+00:00",
+     "summary": "feeble little horse 追加公演決定！ CREATIVEMAN PRODUCTIONS"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "フィーブル・リトル・ホース、2027年3月の来日公演に追加公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sWDJXdXdTVC1uQk5xMmJKdXVPNDVDdmRFMkpORkI1TDlrSjZpQTFfcENEa2RFZGJCNGFPVjNfa0V5ZEdoeXc?oc=5",
+     "published": "2026-10-22T03:06:54+00:00",
+     "summary": "フィーブル・リトル・ホース、2027年3月の来日公演に追加公演が決定 NME Japan"
+    },
+    {
+     "outlet": "amass",
+     "title": "フィーブル・リトル・ホース 東京追加公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE0xeUNlWWQ4QlVOQTBaTTIzd2hNbUdfZ21nT3ZxNjdUR3RyVDY0OWk4eWkxZkJ4dWl3LWlLUw?oc=5",
+     "published": "2026-10-22T03:06:00+00:00",
+     "summary": "フィーブル・リトル・ホース 東京追加公演決定 amass"
+    },
+    {
+     "outlet": "Skream!",
+     "title": "米ノイズ・ポップ・バンド FEEBLE LITTLE HORSE、初来日公演ソールド・アウトで3/11追加公演決定",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84VGozMy1NNHdZd25tc0ljVDRjSkxYNzBoQ3JVMW1KQVp6T3hVc0dDX1htd1JER2h1ZnU3YzRubXE1QWtTaFdXYmxBNnNlb3pqQlRDeHFMaEV6X21JTFByb1ZpUndIWDdXUXBB?oc=5",
+     "published": "2026-10-22T03:05:00+00:00",
+     "summary": "米ノイズ・ポップ・バンド FEEBLE LITTLE HORSE、初来日公演ソールド・アウトで3/11追加公演決定 Skream!"
+    },
+    {
+     "outlet": "クリエイティブマン",
+     "title": "feeble little horse 追加公演決定！",
+     "link": "https://www.creativeman.co.jp/2026/10/22/108629/",
+     "published": "2026-10-22T03:01:00+00:00",
+     "summary": "feeble little horse、初来日公演3/12(金)がソールドアウト！ 追加公演が決定！ 公演詳細はこちら The post feeble little horse 追加公演決定！ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s70",
+   "label": "Death Cab for Cutie sends message ahead of November Japan shows",
+   "artists": [
+    "Death Cab for Cutie"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "CREATIVEMAN PRODUCTIONS",
+    "クリエイティブマン"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "CREATIVEMAN PRODUCTIONS",
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-22T04:54:31+00:00",
+   "articles": [
+    {
+     "outlet": "CREATIVEMAN PRODUCTIONS",
+     "title": "DEATH CAB FOR CUTIEからメッセージが到着！",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yNHlUMVBfMTNTMTBSRk9KR1ZsVEc0WWRXODZmY2RCQVE4eTZhbU9wWERSNEdOZjI3Um1WWXZ4c1Q5YnZRTHRsckZEUUhJY0pfZVVMQ013bFVqa3FX?oc=5",
+     "published": "2026-10-22T04:54:31+00:00",
+     "summary": "DEATH CAB FOR CUTIEからメッセージが到着！ CREATIVEMAN PRODUCTIONS"
+    },
+    {
+     "outlet": "クリエイティブマン",
+     "title": "DEATH CAB FOR CUTIEからメッセージが到着！",
+     "link": "https://www.creativeman.co.jp/2026/10/22/108736/",
+     "published": "2026-10-22T04:46:39+00:00",
+     "summary": "いよいよ来月に来日公演が迫ったDEATH CAB FOR CUTIEからメッセージ動画が到着！ 東京、大阪公演ともにチケットは残りわずかとなっていますので、お求めはお早めに！ 11/8(日) 松下IMPホール 11/9( […] The post DEATH CAB FOR CUTIEからメッセージが到着！ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "5 Seconds of Summer Japan concerts VIP tickets selling",
+   "artists": [
+    "5 Seconds of Summer"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "クリエイティブマン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-23T02:40:02+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "5 Seconds of Summer 11/21（土）東京公演 VIPアップグレードチケット、【VIP NO.1 OBSESSION EXPERIENCE】SOLD OUT!!",
+     "link": "https://www.creativeman.co.jp/2026/10/23/108766/",
+     "published": "2026-10-23T02:40:02+00:00",
+     "summary": "以下チケットは絶賛販売中！ ●11/22（日）東京追加公演 ・公演チケット ・VIPアップグレードチケット ●11/21（土）東京公演 ・VIPアップグレードチケット【UPGRADE BITE THE APPLE】 公演 […] The post 5 Seconds of Summer 11/21（土）東京公演 VIPアップグレードチケット、【VIP NO.1 OBSESSION EXPERIENCE】SOLD OUT!! first appeared on CREATIVE"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Berlin Philharmonic Orchestra Japan 70th anniversary concerts 2027",
+   "artists": [
+    "Berlin Philharmonic Orchestra"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "PR TIMES"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "PR TIMES"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-23T01:01:39+00:00",
+   "articles": [
+    {
+     "outlet": "PR TIMES",
+     "title": "ベルリン・フィルハーモニー管弦楽団来日70周年記念公演「特別公演」＆「ヴァルトビューネ河口湖」2027年６・７月開催決定！",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4RjUyZ3N5VFZrVnZjZU14R3dDc1o0Sm1SMVVWYlRGUlhnZ0lVUk91akI3RWF3MDRSd0c4RkMyWlZyS3FBOVNJX1QwazE3eFBqUjlvOWQzVFREejlyYURzcHhwYS16TE8wdnc?oc=5",
+     "published": "2026-10-23T01:01:39+00:00",
+     "summary": "ベルリン・フィルハーモニー管弦楽団来日70周年記念公演「特別公演」＆「ヴァルトビューネ河口湖」2027年６・７月開催決定！ PR TIMES"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s69",
+   "label": "Radiohead 2027 Japan concerts completely sold out",
+   "artists": [
+    "Radiohead"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "djplumadventuretimes.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "djplumadventuretimes.com"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-22T12:37:06+00:00",
+   "articles": [
+    {
+     "outlet": "djplumadventuretimes.com",
+     "title": "Radiohead 2027年来日公演、全5公演が完売！",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQU5jaW9SWW5QOTlVVjJqTXhDenpZZnMzajdUaVJFWGdDMGtJYXNBcGxjSF9Mb3lFaVRVc05mbDJ0NGxGNXlsY093cUlBTGNqOEcteEUzNzZTejJJaUdIb3BpVWVJUjE5YXJNeXpCTVJ6OUpCczUyQk5rdXh6S1FhZnUxQ3poX3BDVVFkZGhhcXh4UkItY2hoMVQ3bmI0cW1YV2JMU3MweENycEIyd09XUEV3?oc=5",
+     "published": "2026-10-22T12:37:06+00:00",
+     "summary": "Radiohead 2027年来日公演、全5公演が完売！ https://djplumadventuretimes.com/"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s84",
+   "label": "Gud and SHLOMO make debut Japan appearance at Halloween party",
+   "artists": [
+    "Gud",
+    "SHLOMO"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Pointed"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Pointed"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-22T12:09:20+00:00",
+   "articles": [
+    {
+     "outlet": "Pointed",
+     "title": "sabukaru主催のハロウィンパーティーが渋谷MIDNIGHT EASTで開催！Gud、SHLOHMOが初来日し、VMOやTamanaramenらと共演",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fMTUwZFNtMmdjblNJdThzZ3ZKdTVOTndZSzBsVURyM2o4NlF5RWZ2YUFSdG1QSEthNVlGVTdOeTdzb2p3cWJLcXVHcWNQRGFPSXp2R1FLaVBFd19fWDUtNzFfMA?oc=5",
+     "published": "2026-10-22T12:09:20+00:00",
+     "summary": "sabukaru主催のハロウィンパーティーが渋谷MIDNIGHT EASTで開催！Gud、SHLOHMOが初来日し、VMOやTamanaramenらと共演 Pointed"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s87",
+   "label": "Alex Lustig performs Ambient Hours Tokyo 2026 limited listening experience",
+   "artists": [
+    "Alex Lustig"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Pointed"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Pointed"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-22T12:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Pointed",
+     "title": "Alex Lustigが来日！「Ambient Hours Tokyo 2026」開催。約50名限定、音・映像・空間が交差するリスニング体験",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CbzBONXZ3Vm5LTGVvcldrNEdjbFliaWt6V2N4M3lCc0w3bnJER2ozUUFGYWpLUEx3cjNUTkMyekdOR2VBWjd0TmVVdGkzRWRXTXNkSW1xeE5yM0FvdWtWWEpaelhoWGx3cmNOTnNnbG1EeElES1E?oc=5",
+     "published": "2026-10-22T12:00:00+00:00",
+     "summary": "Alex Lustigが来日！「Ambient Hours Tokyo 2026」開催。約50名限定、音・映像・空間が交差するリスニング体験 Pointed"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s78",
+   "label": "Matt Bianco announces December Japan concert",
+   "artists": [
+    "Matt Bianco"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "NME Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-22T10:30:14+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "マット・ビアンコ、12月に来日公演が決定",
+     "link": "https://nme-jp.com/news/173647/",
+     "published": "2026-10-22T10:30:14+00:00",
+     "summary": "マット・ビアンコは12月に来日公演を行うことが決定している。"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s47",
+   "label": "Leonard Cohen's greatest songs ranked and analyzed",
+   "artists": [
+    "Leonard Cohen"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-22T14:53:35+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "Heartbreak, hope and human imperfection: Leonard Cohen’s greatest songs – ranked!",
+     "link": "https://www.theguardian.com/music/2026/oct/22/leonard-cohen-best-songs-ranked",
+     "published": "2026-10-22T14:53:35+00:00",
+     "summary": "A decade after his final album, and his death, we rate the best of the Canadian singer-songwriter who brought a deep, spiritual wisdom to love and grief The synth-heavy production on 1988’s I’m Your Man has always been divisive – even Leona"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s71",
+   "label": "Shovel Dance Collective reviews new album Everything in Readiness",
+   "artists": [
+    "Shovel Dance Collective"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-22T11:43:40+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "Shovel Dance Collective: Everything in Readiness review – ecstatic, dissonant folk music fighting for sonic and spiritual freedom",
+     "link": "https://www.theguardian.com/music/2026/oct/22/shovel-dance-collective-everything-in-readiness-album-review",
+     "published": "2026-10-22T11:43:40+00:00",
+     "summary": "(tak:til) The nine-piece London-based group take a radically fresh approach to traditional music, sounding raging, lo-fi and joyful as they link Britain’s violent past to its present Those thus far unaware of Shovel Dance Collective’s braci"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "Lady Gaga's Joanne album ranked track by track on 10th anniversary",
+   "artists": [
+    "Lady Gaga"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-22T19:54:41+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Lady Gaga’s ‘Joanne’ at 10: Every Track Ranked",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSklmeVpRRkpLTzFoUllxVU9BX1B2TU5TdFBPZS1KSVkza3Z1ZG9PdEN3SHc4ZEE1NXV4bWdhMmRzallaNDA4bzNkOWV2NDl3bjRtbTE4dWxqMXZUY2xhUkZ2cWRTLW92SkxibUJ0ZWNNRnd5Yk9oWmcydzZhR2RvRDBreXdydw?oc=5",
+     "published": "2026-10-22T19:54:41+00:00",
+     "summary": "Lady Gaga’s ‘Joanne’ at 10: Every Track Ranked Billboard"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s46",
+   "label": "The Prodigy retrospective on why they were future of rock in 1997",
+   "artists": [
+    "The Prodigy"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-22T16:40:48+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Why Did People Consider The Prodigy the Future of Rock in 1997 — And Why Didn’t It Quite Work Out Like That? (Greatest Pop Stars Podcast)",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXlHakJ0TlQ3VHNrc25ZTXMzT1R2emQySEM1VXp0Wl9jeGtNSmFiOWIxREV4anlSaW04YzRzbXlDMFRxSVlRTU1kUEZUaEc2cnVwdGpad2dtT0hhcUZVdUd3TG1hd0RIVmFWcUxLenhlbWZWamNTcGcwZmpHNXNmbWdBTFJHM2lDZy16VDdWTXBzeV9BRXc?oc=5",
+     "published": "2026-10-22T16:40:48+00:00",
+     "summary": "Why Did People Consider The Prodigy the Future of Rock in 1997 — And Why Didn’t It Quite Work Out Like That? (Greatest Pop Stars Podcast) Billboard"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s81",
+   "label": "MC Lyte's Rock & Roll Hall of Fame induction and career legacy",
+   "artists": [
+    "MC Lyte"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Vibe"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-22T14:00:51+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "MC Lyte’s Legacy is Rock Solid",
+     "link": "https://www.vibe.com/features/editorial/mc-lyte-legacy-rock-solid-1235199737/",
+     "published": "2026-10-22T14:00:51+00:00",
+     "summary": "The Brooklyn native opens up about her Rock & Roll Hall of Fame induction, career parallels with Queen Latifah, and how LL Cool J inspired her musical return"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s85",
+   "label": "The Sundayz greatest songs retrospective ranked",
+   "artists": [
+    "The Sundayz"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-22T06:51:15+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "【全曲試聴可】ザ・サンデイズの名曲ベスト10：ドリーム・ポップを彩る珠玉の楽曲",
+     "link": "https://www.udiscovermusic.jp/stories/the-sundays-best-songs-feature",
+     "published": "2026-10-22T06:51:15+00:00",
+     "summary": "ザ・サンデイズの名曲ベスト10を紹介。ハリエット・ウィーラーの透明感ある歌声と繊細なギターが彩る「Can’t Be Sure」「Summertime」「Here’s Where the Story Ends」などを解説する。 The post 【全曲試聴可】ザ・サンデイズの名曲ベスト10：ドリーム・ポップを彩る珠玉の楽曲 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s86",
+   "label": "Beatles Story museum relocating and expanding in Liverpool 2028",
+   "artists": [
+    "The Beatles"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-22T04:58:11+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "展示施設「ビートルズ・ストーリー」、2028年にリヴァプール市中心部へ移転し、4倍以上の規模に",
+     "link": "https://www.udiscovermusic.jp/news/the-beatles-story-liverpool",
+     "published": "2026-10-22T04:58:11+00:00",
+     "summary": "リヴァプールのザ・ビートルズ・ストーリーが2028年に市中心部へ移転。新施設は現施設の4倍以上で、歴史的な場所の再現や『イエロー・サブマリン』をテーマにした展望施設も設けられる。 The post 展示施設「ビートルズ・ストーリー」、2028年にリヴァプール市中心部へ移転し、4倍以上の規模に appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "John Mayer launches Sob Rock Records label with Mercury partnership",
+   "artists": [
+    "John Mayer"
+   ],
+   "genre": "Other",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T21:21:29+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "John Mayer Sets Up His Own Label, Sob Rock Records, in Partnership With Mercury to Release First New Solo Music in Five Years",
+     "link": "https://variety.com/2026/music/news/john-mayer-new-label-sob-rock-records-mercury-1236921812/",
+     "published": "2026-10-22T21:21:29+00:00",
+     "summary": "John Mayer has had his hands full with what felt like a hundred projects over the past few years — with putting out new music not among them. It takes a stretch of the memory to even recall that he announced a parting of ways with Sony Musi"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "John Mayer Launches New Label Sob Rock Records",
+     "link": "https://www.rollingstone.com/music/music-news/john-mayer-new-label-sob-rock-records-1235646820/",
+     "published": "2026-10-22T20:18:36+00:00",
+     "summary": "Musician will release “Tom and Jerry,” his first single since his 2021’s Sob Rock , on the his new label"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s36",
+   "label": "The Strokes and Phoebe Bridgers set for SNL with Gracie Abrams",
+   "artists": [
+    "The Strokes",
+    "Phoebe Bridgers",
+    "Gracie Abrams"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T18:57:35+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "The Strokes and Phoebe Bridgers to Play SNL",
+     "link": "https://pitchfork.com/story/the-strokes-and-phoebe-bridgers-to-play-snl/",
+     "published": "2026-10-22T18:57:35+00:00",
+     "summary": "Oh and also Gracie Abrams"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "SNL Sets New Episodes with The Strokes and Phoebe Bridgers",
+     "link": "https://consequence.net/2026/10/snl-new-episodes-the-strokes-and-phoebe-bridgers/",
+     "published": "2026-10-22T17:00:10+00:00",
+     "summary": "Bridgers will appear on the November 14th episode hosted by John Mulaney. SNL Sets New Episodes with The Strokes and Phoebe Bridgers Alex Young"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s39",
+   "label": "Interpol announces 2027 North American tour with Deafheaven",
+   "artists": [
+    "Interpol",
+    "Deafheaven"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T18:28:31+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Interpol Announce 2027 US Tour with Deafheaven",
+     "link": "https://consequence.net/2026/10/interpol-2027-us-tour-dates-deafheaven/",
+     "published": "2026-10-22T18:28:31+00:00",
+     "summary": "The nine-date run comes in support of their latest album, This Mirror Weighs a Ton. Interpol Announce 2027 US Tour with Deafheaven Eddie Fu"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Interpol Plot 2027 North American Tour With Deafheaven",
+     "link": "https://pitchfork.com/story/interpol-plot-2027-north-american-tour-with-deafheaven/",
+     "published": "2026-10-22T17:11:15+00:00",
+     "summary": "The two bands are linking up for a run through Mexico and the southern U.S."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s68",
+   "label": "2hollis announces 2027 tour with Lucy Bedroque and Conceal",
+   "artists": [
+    "2hollis",
+    "Lucy Bedroque",
+    "Conceal"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Pitchfork",
+    "The Fader"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T17:17:38-04:00",
+   "articles": [
+    {
+     "outlet": "The Fader",
+     "title": "2hollis announces 2027 tour with Lucy Bedroque, Conceal",
+     "link": "https://www.thefader.com/2026/10/22/2hollis-2027-tour-dates-tickets-opener",
+     "published": "2026-10-22T17:17:38-04:00",
+     "summary": "The run will be in support of his upcoming album, Pirouette ."
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "2Hollis Announces 2027 Tour",
+     "link": "https://pitchfork.com/story/2hollis-announces-2027-tour/",
+     "published": "2026-10-22T16:44:18+00:00",
+     "summary": "The rapper-producer is trekking between North America and Europe from the winter through spring"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s54",
+   "label": "Kacey Musgraves releases Middle of Nowhere Vol. 2 Tex Mex Tapes album",
+   "artists": [
+    "Kacey Musgraves"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Pitchfork",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T15:40:06+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Kacey Musgraves Reveals Middle of Nowhere Companion Album",
+     "link": "https://pitchfork.com/story/kacey-musgraves-reveals-middle-of-nowhere-companion-album/",
+     "published": "2026-10-22T15:40:06+00:00",
+     "summary": "She’ll unvault the 16-track Tex Mex Tapes on January 15"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Kacey Musgraves to Release New 16-Song Album, ‘Middle of Nowhere Vol. 2: Tex Mex Tapes’",
+     "link": "https://variety.com/2026/music/news/kacey-musgraves-middle-of-nowhere-vol-2-tex-mex-tapes-1236921504/",
+     "published": "2026-10-22T15:29:26+00:00",
+     "summary": "Kacey Musgraves will release a 16-song album of all-new material titled “Middle of Nowhere Vol. 2: Tex Mex Tapes” on January 15, 2027 via Lost Highway Records — just eight months after the release of Vol. 1. According to the announcement, t"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s49",
+   "label": "Queens of the Stone Age plot 2027 U.S. tour",
+   "artists": [
+    "Queens of the Stone Age"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "NME Japan",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-22T14:34:54+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Queens of the Stone Age Plot 2027 U.S. Tour",
+     "link": "https://pitchfork.com/story/queens-of-the-stone-age-plot-2027-us-tour/",
+     "published": "2026-10-22T14:34:54+00:00",
+     "summary": "Josh Homme and the band also gave “Where the Goth Girls At?” its live debut on Fallon"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "クイーンズ・オブ・ザ・ストーン・エイジ、米TV番組で“Where The Goth Girls At?”を披露した映像が公開",
+     "link": "https://nme-jp.com/news/173624/",
+     "published": "2026-10-22T09:30:40+00:00",
+     "summary": "クイーンズ・オブ・ザ・ストーン・エイジはアメリカのテレビ番組『ザ・トゥナイト・ショウ・スターリング・ジミー・ファロン』で“Where The Goth Girls At?”を披露した映像が公開されている。"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s67",
+   "label": "Noel Gallagher to appear on final season of Chicken Shop Date",
+   "artists": [
+    "Noel Gallagher"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "NME",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-22T12:01:21+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "ノエル・ギャラガー、『チキン・ショップ・デート』の最終シーズンに出演することが決定",
+     "link": "https://nme-jp.com/news/173644/",
+     "published": "2026-10-22T12:01:21+00:00",
+     "summary": "ノエル・ギャラガーはアメリア・ディモルデンバーグによるYouTubeインタヴュー番組『チキン・ショップ・デート』の最終シーズンに出演することが決定している。"
+    },
+    {
+     "outlet": "NME",
+     "title": "Noel Gallagher to appear on final season of ‘Chicken Shop Date’",
+     "link": "https://www.nme.com/news/music/noel-gallagher-to-appear-on-final-season-of-chicken-shop-date-3973817?utm_source=rss&utm_medium=rss&utm_campaign=noel-gallagher-to-appear-on-final-season-of-chicken-shop-date",
+     "published": "2026-10-22T09:36:53+00:00",
+     "summary": "Amelia Dimoldenberg confirmed last month that she would be bringing the hit interview series to an end The post Noel Gallagher to appear on final season of ‘Chicken Shop Date’ appeared first on NME ."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s80",
+   "label": "Glastonbury 2027 coach tickets oversold in admin error",
+   "artists": [],
+   "genre": "Other",
+   "kind": "festival",
+   "talk": 1,
+   "outlets": [
+    "Mixmag",
+    "NME"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-22T08:55:09+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Glastonbury 2027: coach tickets oversold in admin error",
+     "link": "https://www.nme.com/news/music/glastonbury-2027-coach-tickets-oversold-in-admin-error-3973811?utm_source=rss&utm_medium=rss&utm_campaign=glastonbury-2027-coach-tickets-oversold-in-admin-error",
+     "published": "2026-10-22T08:55:09+00:00",
+     "summary": "No customers will lose their tickets, but some may be swapped to general admission entry The post Glastonbury 2027: coach tickets oversold in admin error appeared first on NME ."
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "Oversold Glastonbury 2027 tickets will still be valid, festival confirms",
+     "link": "https://mixmag.net/read/oversold-glastonbury-2027-tickets-still-be-valid-festival-confirms-news",
+     "published": null,
+     "summary": "See Tickets admitted that more coach tickets for next year’s festival were sold than seats available Continue reading..."
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 5
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 5
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 25
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 8,
+   "kept": 4
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 87,
+   "kept": 18
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 11
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 14
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 6
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 21
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 6
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard-japan.com%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": false,
+   "fetched": 62,
+   "kept": 0
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 4
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 30,
+   "kept": 15
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 19,
+   "kept": 8
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 5
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 29
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 0
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 30,
+   "kept": 8
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 2,
+   "kept": 1
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 31,
+   "kept": 2
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 44,
+   "kept": 18
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 20,
+   "kept": 8
+  }
+ ],
+ "cost": {
+  "usd": 0.2679,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 22152,
+    "output_tokens": 8031
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 18520,
+    "output_tokens": 6577
+   }
+  ]
+ }
+}
