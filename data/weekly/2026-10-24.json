@@ -1,0 +1,40 @@
+{
+ "date": "2026-10-24",
+ "start": "2026-10-18",
+ "intro": "今週はHarry StylesやTaylor Swiftのライブ、JAY-Zの報道が話題に。DJ界ではDaft PunkとMartin Garrixが注目を集めました。",
+ "cost_usd": 0.1986,
+ "news": [
+  {
+   "ref": "10-18:s2",
+   "title_ja": "Harry Styles、Liam Payneに捧げる新曲を初披露",
+   "summary_ja": "Harry StylesがニューヨークのMadison Square Gardenでのレジデンシー公演で、未発表曲「What Is Enough」を初披露しました。元バンドメイトLiam Payneの死去から2年の日に、彼を偲んで書いた曲と報じられています。",
+   "point_ja": "6媒体が報じ、10月18日のまとめでトップに選ばれた話題です。"
+  },
+  {
+   "ref": "10-19:s1",
+   "title_ja": "Taylor Swift、アカデミー・ガラで4曲を披露",
+   "summary_ja": "Taylor Swiftが2026年のAcademy Museum Galaに出演し、4曲をパフォーマンスしました。「The Fate of Ophelia」はライブ初披露で、バンドを従えたステージはEras Tour以来と報じられています。",
+   "point_ja": "4媒体が報じ、関連動画は21,874,995回再生と大きな注目を集めました。"
+  },
+  {
+   "ref": "10-20:s11",
+   "title_ja": "JAY-Z、2027年スーパーボウルのハーフタイムショー出演と報道",
+   "summary_ja": "JAY-Zが2027年のスーパーボウル・ハーフタイムショーでヘッドライナーを務めると報じられています。Justin BieberやMiley Cyrusも検討されたとされ、Roger Goodell氏は報道を認めていないと伝えられています。",
+   "point_ja": "10月20日から3日にわたり報じられ、10月21日だけで5媒体が取り上げました。"
+  }
+ ],
+ "dj": [
+  {
+   "ref": "10-23:s26",
+   "title_ja": "Daft Punk×LEGO、『Alive 2007』のピラミッドセット発表",
+   "summary_ja": "Daft PunkがLEGOとのコラボを発表し、『Alive 2007』のステージで使われたピラミッドを再現したセットが正式に発表されました。今週の候補の中で最も多い7媒体が報じています。",
+   "dj_point_ja": "象徴的なライブ『Alive 2007』を聴き直し、展開や構成を研究するよい機会です。"
+  },
+  {
+   "ref": "10-22:s12",
+   "title_ja": "Martin Garrix、初のポップアルバム『MARTY』を発表",
+   "summary_ja": "Martin Garrixが初のポップアルバム『MARTY』を発表しました。Madonna、U2、Ed Sheeranが参加し、2027年3月にリリース予定と報じられています。",
+   "dj_point_ja": "トップDJとポップ界の大物の共演作は、ポップとダンスをつなぐ選曲の参考になります。"
+  }
+ ]
+}
