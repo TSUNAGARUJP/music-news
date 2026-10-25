@@ -1,0 +1,1980 @@
+{
+ "date": "2026-10-25",
+ "generated_at": "2026-10-25T02:58:05.518767+00:00",
+ "article_count": 144,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日は、John LegendとKanye Westの距離感や、ScHoolboy QのMac Millerをめぐる要望など、アーティストの発言や告白が中心です。SpotifyのAIエージェント転換やDrakeの史上初の記録など、業界の変化や数字の「なぜ」を語れる話題もそろっています。",
+  "top": [
+   {
+    "id": "s11",
+    "title_ja": "John Legend、Kanye Westとの対話には前向きも共作は否定",
+    "genre": "POP",
+    "summary_ja": "John Legendは、複雑な過去があるKanye Westについて、個人的に話すことには前向きだと語りました。一方で、Kanye Westにはまだ償うべきことがあると考えており、一緒に作品を作ることは否定したと報じられています。",
+    "why_ja": "ComplexとHotNewHipHopの2媒体が報道しています。複雑な関係にある2人の距離感について、本人がはっきり線を引いた点が注目されています。",
+    "debate_ja": "話はできても作品は別。この線引きにあなたは共感する？",
+    "line_point": "John Legend、Kanye Westと話すのはOKでも共作はしないと発言。まだ償いが必要との考えと報道",
+    "reels": [
+     {
+      "hook": "話すけど作品は作らない、これアリ？",
+      "angle": "発言の事実→対話と共作を分ける線引きは妥当かという論点→自分の見解→コメントで賛否を募る"
+     },
+     {
+      "hook": "償いはまだ、という言葉の重み",
+      "angle": "報道で伝えられた「償い」という言葉に注目し、アーティスト同士が距離を置くときの言葉選びや姿勢を解説"
+     }
+    ]
+   },
+   {
+    "id": "s16",
+    "title_ja": "Drake、RIAA認定3億5000万ユニットを史上初めて突破",
+    "genre": "Hip-Hop",
+    "summary_ja": "Billboardによると、Drakeが米国レコード協会（RIAA）の認定ユニット数で3億5000万を超えた初めてのアーティストになりました。今回、新たに30の認定を受けたと報じられています。40歳の誕生日が報じられたのと同じタイミングでの記録です。",
+    "why_ja": "Billboardが報道しています。新たに30の認定が加わって史上初の数字に到達し、同時期に40歳の誕生日も3媒体が報じています。",
+    "debate_ja": "なぜDrakeはここまで売れ続けるのか？",
+    "line_point": "Drake、史上初のRIAA認定3億5000万ユニット超え。今回新たに30の認定を獲得",
+    "reels": [
+     {
+      "hook": "3億5000万、なぜDrakeだけ？",
+      "angle": "記録の事実→なぜここまで数字が積み上がるのかという論点→自分の仮説→コメントで理由を募る"
+     },
+     {
+      "hook": "40歳のDrake、到達した数字",
+      "angle": "40歳の誕生日報道と合わせて、RIAA認定とは何かをかみ砕いて解説し、史上初の記録の重みを読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s38",
+    "title_ja": "Spotify、AIエージェントへ方針転換と共同CEOが明かす",
+    "genre": "Dance",
+    "summary_ja": "Resident Advisorによると、Spotifyの共同CEOが、同社がAIエージェントの方向へかじを切っていると明かしました。見出しからは具体的な中身は分からず、今後の詳細が注目されます。",
+    "why_ja": "Resident Advisorが報道しています。AI量産曲の排除やAIリミックス契約が話題になったSpotifyが、新たにAIエージェントを打ち出したことは、業界の大きな変化として注目されます。",
+    "debate_ja": "音楽アプリにAIエージェント、あなたは歓迎？不安？",
+    "line_point": "Spotify共同CEO、AIエージェントへの方針転換を明かす。音楽の聴き方が変わる可能性も",
+    "reels": [
+     {
+      "hook": "Spotifyが次に賭けるのはAI？",
+      "angle": "報道の事実→AIが音楽体験に入り込むことの是非→自分の見解→コメントで歓迎か不安かを募る"
+     },
+     {
+      "hook": "AI排除の次はAIエージェント",
+      "angle": "5000万曲超の排除報道やAIリミックス契約など、最近のSpotifyのAI関連の動きを時系列で並べ、今回の発表の位置づけを解説"
+     }
+    ]
+   },
+   {
+    "id": "s5",
+    "title_ja": "Macklemore、公演でパレスチナ支持を訴えICEを非難",
+    "genre": "Hip-Hop",
+    "summary_ja": "NMEによると、MacklemoreがEd Sheeranをめぐる一件以降で初めての公演で「free Palestine」と呼びかけ、米移民・関税執行局（ICE）を非難しました。本人は「政治的なことではない」「メッセージは常に愛だ」と語ったと報じられています。",
+    "why_ja": "NMEが報道しています。ステージ上での社会的な発言には支持と疑問の両方の声が出やすく、本人が政治ではなく愛だと説明した点も議論になりそうです。",
+    "debate_ja": "ライブで社会的なメッセージを発信すること、あなたはどう思う？",
+    "line_point": "Macklemore、Ed Sheeranの件以降初の公演でパレスチナ支持とICE非難を表明とNMEが報道",
+    "reels": [
+     {
+      "hook": "ライブで社会問題を語る、どう思う？",
+      "angle": "発言内容を事実として紹介→ステージで発信することへの賛否両方の見方→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "政治じゃなく愛、その言葉の意味",
+      "angle": "本人の「政治的ではない」という説明に注目し、音楽と社会的メッセージの関係を過去の似た事例と比べて解説"
+     }
+    ]
+   },
+   {
+    "id": "s21",
+    "title_ja": "ScHoolboy Q、亡き友Mac Millerについて聞かないでと要望",
+    "genre": "Hip-Hop",
+    "summary_ja": "親友のMac Millerを亡くして8年がたち、ScHoolboy Qがファンに対して、Mac Millerについて尋ねるのをやめてほしいと求めました。悲しみを公の場で振り返りたくないという姿勢をはっきり示したと報じられています。",
+    "why_ja": "HotNewHipHopが報道しています。8年たった今も話題にされ続ける故人との関係について、本人が線を引いた点が注目されています。",
+    "debate_ja": "ファンはアーティストの悲しみにどこまで踏み込んでいい？",
+    "line_point": "ScHoolboy Q、亡き友Mac Millerについて、ファンに質問を控えるよう求める",
+    "reels": [
+     {
+      "hook": "故人の話、聞くのはやめるべき？",
+      "angle": "要望の事実→ファンの思いと本人の心の負担という論点→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "8年たっても消えない悲しみ",
+      "angle": "2人の関係が今も語られ続けることに触れ、アーティストが私生活の悲しみとどう向き合うかを、ほかの事例と比べて解説"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s39",
+     "title_ja": "Ambrio、2027年発売予定の空間DJミキサーを公開",
+     "note": "Ambrioが、2027年発売予定の空間型DJミキサーを発表しました。"
+    },
+    {
+     "id": "s43",
+     "title_ja": "サンパウロのパーティー、次回は有権者のみ入場可に",
+     "note": "サンパウロのパーティーNovo Affairが、次回は有権者だけを入場させると発表しました。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s18",
+     "title_ja": "Doja Cat、SZAとの共作やLattoとの共演を語る",
+     "note": "Doja CatがBillboardで、SZAとの「Take Me Dancing」の制作などについて語りました。"
+    },
+    {
+     "id": "s1",
+     "title_ja": "Drakeの40歳誕生日会にBackstreet Boysが登場",
+     "note": "Drakeが40歳になり、誕生日パーティーでBackstreet Boysと共演しました。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s0",
+     "title_ja": "Jay-Z、『Reasonable Doubt』30周年LA公演にBlue Ivyら",
+     "note": "SoFi Stadium公演の初日に、Blue IvyやJohn Legendらが登場しました。"
+    },
+    {
+     "id": "s20",
+     "title_ja": "Burna BoyとDavido、Zlatanの独身最後のパーティーで握手",
+     "note": "ラゴスで行われたZlatanの独身最後のパーティーで、2人が握手を交わしました。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s24",
+     "title_ja": "なぜチャートもプレイリストも昔の曲だらけなのか",
+     "note": "旧譜がチャートやストリーミングで強い理由を考察できるネタです。"
+    },
+    {
+     "id": "s23",
+     "title_ja": "Taylor Swiftのデビュー作が発売20周年",
+     "note": "未公開だったQ&Aで「次の20年もここにいたい」と語っていた裏話です。"
+    },
+    {
+     "id": "s15",
+     "title_ja": "Michael JacksonがAlicia Keysに好意を寄せていた？",
+     "note": "Janet Jacksonが本人に伝えたと、Swizz Beatzがポッドキャストで明かした裏話です。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s2",
+    "title_ja": "Maroon 5、約2年ぶりの来日公演決定　東京ドーム3日間",
+    "note": "東京ドームで3日間開催。"
+   },
+   {
+    "id": "s31",
+    "title_ja": "BOL4、東京で来日公演決定",
+    "note": "2026-2027 BOL4 CONCERT TOUR〖Red Square〗in TOKYOとして開催。"
+   },
+   {
+    "id": "s29",
+    "title_ja": "La Dispute、キャリア初の日本ツアー開催決定",
+    "note": ""
+   }
+  ],
+  "tour_candidates": 5
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s11",
+   "label": "John Legend open to conversation with Kanye West but not collaborating",
+   "artists": [
+    "John Legend",
+    "Kanye West"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-24T23:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "John Legend Has Reservations About Reuniting With Kanye West",
+     "link": "https://www.hotnewhiphop.com/1014366-john-legend-kanye-west-reuniting-fallout",
+     "published": "2026-10-24T23:02:00+00:00",
+     "summary": "Despite their complicated history, John Legend is open to a private conversation but believes Kanye West has more amends to make. The post John Legend Has Reservations About Reuniting With Kanye West appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "John Legend Open to Conversation With Kanye West — Just Not 'Making Art With Him'",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbE9YUmVHN0lCUzY5RlVwd3Bxd0lMd3NPTWtPaGpwUTQ2R3BXRUJleGREejdvaXdUUWRDcG9paTNHVEFHWUNpOHJRdkZpWUE5MmdmZUFZYnc1QlY0cWEzNkx0aWNJdXpaQkpEM01tYkxSRUQ3NEFTVzBJUndnejBkV2tnU2hXN2ZhRTFuc2k2UDFuSzBVTHgweXRvaVExQXFiNmszUA?oc=5",
+     "published": "2026-10-24T19:16:35+00:00",
+     "summary": "John Legend Open to Conversation With Kanye West — Just Not 'Making Art With Him' Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Jay-Z celebrates 30 years of Reasonable Doubt with L.A. shows",
+   "artists": [
+    "Jay-Z"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "HotNewHipHop",
+    "Variety",
+    "Vibe"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 5,
+   "score": 5,
+   "latest": "2026-10-24T19:24:38+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Jay-Z Brings Out Blue Ivy, John Legend, DJ Khaled & Scarface in Los Angeles",
+     "link": "https://www.billboard.com/music/rb-hip-hop/jay-z-la-night-one-guests-blue-ivy-john-legend-scarface-1236367544/",
+     "published": "2026-10-24T19:24:38+00:00",
+     "summary": "Night one at SoFi Stadium featured a handful of special guests for his return to L.A."
+    },
+    {
+     "outlet": "Vibe",
+     "title": "JAŸ-Z30: Hov Shines (Mostly) Solo at SoFi Stadium Opener in Los Angeles",
+     "link": "https://www.vibe.com/music/reviews/jay-z30-shines-solo-at-sofi-stadium-night-one-los-angeles-1235200446/",
+     "published": "2026-10-24T19:17:23+00:00",
+     "summary": "For Hov’s first night in L.A., JAY-Z evangelists revel in the rap god’s greatest hits"
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Jay-Z’s L.A. Concert Has Destiny’s Child Dancing In VIP",
+     "link": "https://www.hotnewhiphop.com/1014350-jay-z-concert-destinys-child-crowd-vip",
+     "published": "2026-10-24T19:13:15+00:00",
+     "summary": "The former groupmates were spotted dancing in a suite while Jay-Z celebrated 30 years of Reasonable Doubt in Los Angeles. The post Jay-Z’s L.A. Concert Has Destiny’s Child Dancing In VIP appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Watch Blue Ivy Carter Play Piano for Dad Jay-Z on Night 1 of L.A. Tour Stops",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3Q2QUF3VndwSURrMzd6ZkZjcEk0TnBpODgzMU81aVpFOXMtQUlRUEl6Sm4xQ2owMGJ2MGNCVmpTMXVqQUlxZ2k3OUNkbkFHRmFhbU9IQll2TEhjTlZGY3E5SVJxN2pVYmdrOHZsTXhWb0ttU2RSOElDcnFNaFp3NlRMZDdlWnpiMjNScTIzRjFDQ2JUd3Zsc2N0TW1ESXJMc3hZQUFIQmlUZ0pVY0E?oc=5",
+     "published": "2026-10-24T15:16:56+00:00",
+     "summary": "Watch Blue Ivy Carter Play Piano for Dad Jay-Z on Night 1 of L.A. Tour Stops Complex"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Jay-Z at SoFi Stadium, Night 1: Scarface, John Legend and More Perform",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWDJ6T2tvd0thQnRSUnI1Rnd1UUI4WEpVdk1kdmlFbzIwNW5EZ1dGVFBTNC1CSkdFX3VIenpiNlVRR0pDTlVVYm1TRURDaEcyY3czbDR6RWdHS2ZiZWIybUg2aXl3RE56NmR6Qm42dmNLaWpUelRjV0c1ZEZYSXRnMHZPOFVNRnRfcm1NVERwSGcwMkVMVXlpWkppZXgtQjRmUlBmdWdOam9aRzg?oc=5",
+     "published": "2026-10-24T14:22:41+00:00",
+     "summary": "Jay-Z at SoFi Stadium, Night 1: Scarface, John Legend and More Perform Complex"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Jay-Z Brings Out Blue Ivy Carter, DJ Khaled and John Legend During the First of Two Nights at Los Angeles’ SoFi Stadium",
+     "link": "https://variety.com/2026/music/news/jay-z-brings-out-blue-ivy-dj-khaled-scarface-sofi-stadium-1236930075/",
+     "published": "2026-10-24T08:42:12+00:00",
+     "summary": "“Can I take you to my home for a second?” asked Jay-Z as he led into “Empire State of Mind” during the first of two headlining shows at Inglewood, California’s SoFi Stadium. Thus, he did, as he’d been doing for the past hour-and-a-half, bri"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s38",
+   "label": "Spotify pivots to AI agents technology advancement",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "business",
+   "talk": 2,
+   "outlets": [
+    "Resident Advisor"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T14:02:18+00:00",
+   "articles": [
+    {
+     "outlet": "Resident Advisor",
+     "title": "Spotify pivots to AI agents, co-CEO reveals · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9IVWFuU1dpaDloS25Pdm1aQXg4S1hOaUhhVGFLbmt0bEVSUkZ1NHl3TnhoWjF4NUhKN0c0Uw?oc=5",
+     "published": "2026-10-24T14:02:18+00:00",
+     "summary": "Spotify pivots to AI agents, co-CEO reveals · News ⟋ RA Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Macklemore calls for Palestine support at first post-Ed Sheeran show",
+   "artists": [
+    "Macklemore"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T10:03:29+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Macklemore calls for “free Palestine” and condemns ICE at first show since Ed Sheeran saga",
+     "link": "https://www.nme.com/news/music/macklemore-calls-for-free-palestine-condemns-ice-first-show-since-ed-sheeran-saga-3974113?utm_source=rss&utm_medium=rss&utm_campaign=macklemore-calls-for-free-palestine-condemns-ice-first-show-since-ed-sheeran-saga",
+     "published": "2026-10-24T10:03:29+00:00",
+     "summary": "\"It is not political [...] The message will always be love\" The post Macklemore calls for “free Palestine” and condemns ICE at first show since Ed Sheeran saga appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Drake turns 40 with celebrity guests and Backstreet Boys",
+   "artists": [
+    "Drake"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-24T23:00:22+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Drake Turns 40, Shares Personal Childhood Photos: ‘I Accept You for You’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/drake-i-want-it-that-way-backstreet-boys-40th-birthday-1236367560/",
+     "published": "2026-10-24T23:00:22+00:00",
+     "summary": "A flip through home photo albums and a duet with the Backstreet Boys marked Drake's 40th birthday."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Drake Gets A Ferrari From Loe Shimmy For His Birthday",
+     "link": "https://www.hotnewhiphop.com/1014353-drake-loe-shimmy-ferrari-birthday",
+     "published": "2026-10-24T20:30:00+00:00",
+     "summary": "The birthday surprise follows years of support from Drake, whom Loe Shimmy has credited with helping motivate him early in his career. The post Drake Gets A Ferrari From Loe Shimmy For His Birthday appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Watch Drake Deliver Sentimental 40th Birthday Speech: 'Tonight Is About Being Alive'",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlE1VXpudEQ5UWFrLV84MkRMRUJRY2tfZF84VmdwRU9NamRIdDdTVVp4dEFJRFR4Y0FMaVRWWUUzTHBDMzBnbjdqQ04wYjNRR2lfV2RITDdYaVNnVFlQUERpV1dobmpUVE0yVHBuek5RWXEtSEVMQjRxX0NCZG9TcUJ0aDQySC10ZkVPaks2NA?oc=5",
+     "published": "2026-10-24T15:35:05+00:00",
+     "summary": "Watch Drake Deliver Sentimental 40th Birthday Speech: 'Tonight Is About Being Alive' Complex"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Drake Surprised by Backstreet Boys at 40th Birthday Bash in New York",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmhpa2FXQll5ZW1laVVkbF9rVnVzY2J6Tk9vVTREU2dQbklEb3NMSzZSYnFuc2Mzbm8wVk5OeHRJY3FHZm1HVHNjeG1xa181eW1LSnhRZTlEQXI4RGRVbTVHeTI4b19pcW1wOFpBLXFsSXpwZGg0ekE5ajJJVkF2dXFMZlVaMEh0bkRVdmFqM0NlU2RQdC1TY2JNZFF3VmxxcS1FZkZn?oc=5",
+     "published": "2026-10-24T14:46:14+00:00",
+     "summary": "Drake Surprised by Backstreet Boys at 40th Birthday Bash in New York Complex"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Drake Sings ‘I Want It That Way’ With Backstreet Boys at 40th Birthday Bash",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGUxUFdINzVWWmRBZmdxMlZiSUhRYno4bjlJbHJkc2RBckhoa1hWTXNDWWFjYWktcEdMQnRyQXBuQmNBaUw5RGR0UWtXa2dMY01VQzQ0Z1d0eGtOajBTNnNiODJfWEd6emtJWU1USTFjcnl4VUJCbHlGVE0wVXhPT3ljY05zRktjd3VFOTJpNE1qWEZ5cHU4U1d5MDM0bkExVjF0WWdLZDdzNHJRWG5oOQ?oc=5",
+     "published": "2026-10-24T06:28:07+00:00",
+     "summary": "Drake Sings ‘I Want It That Way’ With Backstreet Boys at 40th Birthday Bash Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Burna Boy and Davido reconcile at Zlatan Ibile's bachelor party",
+   "artists": [
+    "Burna Boy",
+    "Davido"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T23:00:20+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Burna Boy & Davido Shake Hands At Zlatan’s Bachelor Party",
+     "link": "https://allhiphop.com/news/burna-boy-davido-shake-hands-at-zlatans-bachelor-party/",
+     "published": "2026-10-24T23:00:20+00:00",
+     "summary": "Burna Boy and Davido shook hands at Zlatan Ibile's bachelor party in Lagos ahead of the rapper's October 24 wedding."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "ScHoolboy Q asks fans to stop asking about late friend Mac Miller",
+   "artists": [
+    "ScHoolboy Q"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T21:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "ScHoolboy Q Wants Fans To Stop Asking About Late Friend Mac Miller",
+     "link": "https://www.hotnewhiphop.com/1014356-schoolboy-q-mac-miller-questions-concert",
+     "published": "2026-10-24T21:30:00+00:00",
+     "summary": "Eight years after losing his close friend, ScHoolboy Q is making it clear that his grief isn't something he wants to revisit publicly. The post ScHoolboy Q Wants Fans To Stop Asking About Late Friend Mac Miller appeared first on HotNewHipHo"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "Usher launches paid USC Fellowships for live entertainment students",
+   "artists": [
+    "Usher"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T01:00:41+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Usher Launches Paid USC Fellowships Beyond The Stage",
+     "link": "https://allhiphop.com/news/usher-launches-paid-usc-fellowships-beyond-the-stage/",
+     "published": "2026-10-25T01:00:41+00:00",
+     "summary": "Usher's New Look teamed with USC Thornton for paid fellowships that put five students behind the scenes of live entertainment."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s35",
+   "label": "Lil Durk warns about unauthorized business deals",
+   "artists": [
+    "Lil Durk"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T00:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Lil Durk Issues Warning About Unauthorized Business Deals",
+     "link": "https://www.hotnewhiphop.com/1014369-lil-durk-cryptic-message-business-deals",
+     "published": "2026-10-25T00:00:00+00:00",
+     "summary": "Anyone conducting financial transactions involving Lil Durk should confirm who they're dealing with, the rapper cautioned. The post Lil Durk Issues Warning About Unauthorized Business Deals appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "DaBaby and DaniLeigh settle child support and custody battle",
+   "artists": [
+    "DaBaby"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T20:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "DaBaby & DaniLeigh Settle Child Support And Custody Battle",
+     "link": "https://www.hotnewhiphop.com/1014347-dababy-danileigh-settlement-custody",
+     "published": "2026-10-24T20:00:00+00:00",
+     "summary": "After a contentious breakup and years of legal disagreements, DaBaby and DaniLeigh have reached an agreement concerning their daughter. The post DaBaby & DaniLeigh Settle Child Support And Custody Battle appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "Bhad Bhabie seeks $6.9 million for Boca Raton property",
+   "artists": [
+    "Bhad Bhabie"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T20:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Bhad Bhabie Wants $6.9 Million For Home She Bought In Cash",
+     "link": "https://allhiphop.com/news/bhad-bhabie-wants-6-9-million-for-home-she-bought-in-cash/",
+     "published": "2026-10-24T20:00:00+00:00",
+     "summary": "Bhad Bhabie seeks a buyer for her Boca Raton estate as her property portfolio, subscription income and latest music take focus."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "Too Short's Oakland street sign goes missing",
+   "artists": [
+    "Too $hort"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T18:00:52+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Too $hort’s Oakland Street Sign Goes Missing",
+     "link": "https://allhiphop.com/news/too-horts-oakland-street-sign-goes-missing/",
+     "published": "2026-10-24T18:00:52+00:00",
+     "summary": "Too $hort's Oakland street sign went missing nearly four years after the city honored the rap legend beside his former school."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s36",
+   "label": "Rick Ross explains decision to unload Wingstop franchises",
+   "artists": [
+    "Rick Ross"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T17:57:52+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Rick Ross Explains Unloading Wingstop Franchises After Business Filings Exposed",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT05MTk1NS2piZ2lkeC1pMV9iWFJxREtHTzRLYWRvQkhjYkhCV2tpeDE2cXFaWnZnY1k2Mnd6Ym1VTjczNU5VUU9fLXJILXFITmFVZm95dHhSVENDbHZhd1I1ajN6Wl9OdENia3Fmc3N5aE8ybG56aVFQX2h0d3dnNTJBTDliQQ?oc=5",
+     "published": "2026-10-24T17:57:52+00:00",
+     "summary": "Rick Ross Explains Unloading Wingstop Franchises After Business Filings Exposed Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Nicki Minaj's lawyers seek to withdraw from Jingle Ball lawsuit",
+   "artists": [
+    "Nicki Minaj"
+   ],
+   "genre": "POP",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T17:20:24+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "EXCLUSIVE: Nicki Minaj’s Lawyers Want To Dump Her In $275K Jingle Ball Fight After Relationship Became “Unreasonably Difficult”",
+     "link": "https://allhiphop.com/news/exclusive-nicki-minajs-lawyers-want-to-dump-her-in-275k-jingle-ball-fight-after-relationship-became-unreasonably-difficult/",
+     "published": "2026-10-24T17:20:24+00:00",
+     "summary": "Nicki Minaj's attorneys want out of a production lawsuit involving luxury stays, a nearly $2,000 dinner and disputed payments."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Doja Cat discusses collaborations with SZA and performing with Latto",
+   "artists": [
+    "Doja Cat",
+    "SZA",
+    "Latto"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T17:02:22+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Doja Cat Talks About What She Loves About Collaborating With SZA & Performing With Latto",
+     "link": "https://www.billboard.com/video/doja-cat-meta-interview/",
+     "published": "2026-10-24T17:02:22+00:00",
+     "summary": "Doja Cat talks about what she loves about collaborating with SZA on her last album “Vie” with “Take Me Dancing,” what she loves about performing with Latto and how she incorporates the Meta glasses into her everyday fashion."
+    }
+   ],
+   "chart": [
+    {
+     "id": "JWxoRY7AFSw",
+     "title": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+     "channel": "Justice - Topic",
+     "published": "2026-10-15T13:19:22Z",
+     "hours_since": 230,
+     "views": 4902579,
+     "url": "https://www.youtube.com/watch?v=JWxoRY7AFSw",
+     "region": "US",
+     "rank": 10
+    },
+    {
+     "id": "5dPwBWvmcbQ",
+     "title": "Justice - Flower In A Hurricane (ft Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+     "channel": "Justice",
+     "published": "2026-10-15T13:39:06Z",
+     "hours_since": 229,
+     "views": 8134397,
+     "url": "https://www.youtube.com/watch?v=5dPwBWvmcbQ",
+     "region": "GB",
+     "rank": 10
+    }
+   ],
+   "video": {
+    "id": "JWxoRY7AFSw",
+    "title": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+    "channel": "Justice - Topic",
+    "published": "2026-10-15T13:19:22Z",
+    "hours_since": 230,
+    "views": 4902579,
+    "url": "https://www.youtube.com/watch?v=JWxoRY7AFSw",
+    "region": "US",
+    "rank": 10
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Fuerza Regida wins most awards at 2026 Billboard Latin Music Awards",
+   "artists": [
+    "Fuerza Regida"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T16:17:56+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Fuerza Regida Bags Most Wins at 2026 Billboard Latin Music Awards",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1NwOVp4X0RnM3hORnB3aDF0V3JEV1IxRTc1WG8tQmVNdS1NdW1CTmlGOU84ZXRQMHhkZ1NJZ0w4N2lDckZzMHBON0RsMElWTTNrWGpQdUp1c1dyQlEyekozNDJ1SEJUQmFqeVl1eUVLRnpheGItSVVCLTZsU3hNTGFvbER6WnhqLVZIQlA0SjVObnFL?oc=5",
+     "published": "2026-10-24T16:17:56+00:00",
+     "summary": "Fuerza Regida Bags Most Wins at 2026 Billboard Latin Music Awards Complex"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "bVVIqC1sOHM",
+    "title": "Superstar Q&A con Fuerza Regida, Moderado Por Memo Ochoa | Billboard Latin Music Week 2026",
+    "channel": "Billboard Latin",
+    "published": "2026-10-21T00:30:19Z",
+    "hours_since": 98,
+    "views": 36366,
+    "url": "https://www.youtube.com/watch?v=bVVIqC1sOHM",
+    "views_per_hour": 371
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "Maluma opens up about therapy and finding balance at Billboard Latin Music Week",
+   "artists": [
+    "Maluma"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T14:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Maluma Opens Up About Therapy and Finding Balance at Billboard Latin Music Week & More Uplifting Moments",
+     "link": "https://www.billboard.com/music/latin/maluma-betterhelp-latin-music-week-2026-uplifting-moments-1236367482/",
+     "published": "2026-10-24T14:00:00+00:00",
+     "summary": "Plus, Pablo Alborán and RIZA turn a LMW songwriting sesh into a finished song, and Nanpa Básico and Nella bring hope to the 2026 BBLMAs."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Slayyyter cancels UK and European tour due to vocal injuries",
+   "artists": [
+    "Slayyyter"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T08:59:54+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Slayyyter cancels UK and European tour dates due to illness",
+     "link": "https://www.nme.com/news/music/slayyyter-cancels-uk-and-european-tour-dates-due-to-illness-3974102?utm_source=rss&utm_medium=rss&utm_campaign=slayyyter-cancels-uk-and-european-tour-dates-due-to-illness",
+     "published": "2026-10-24T08:59:54+00:00",
+     "summary": "\"I have laryngitis and vocal cord tears and have been ordered to go on medication and full vocal rest,\" she wrote, while her support act has been left stranded abroad The post Slayyyter cancels UK and European tour dates due to illness appe"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s39",
+   "label": "Ambrio unveils spatial DJ mixer for 2027 release",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "Resident Advisor"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T08:05:43+00:00",
+   "articles": [
+    {
+     "outlet": "Resident Advisor",
+     "title": "Ambrio unveils spatial DJ mixer ahead of 2027 release · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE95Z3c4TjBrQVJFUkYxTmw0VHdpOHA2Mzdxc0FYWldzeXNySEQwenZUcXNuY1pGOE1iTGl3Tg?oc=5",
+     "published": "2026-10-24T08:05:43+00:00",
+     "summary": "Ambrio unveils spatial DJ mixer ahead of 2027 release · News ⟋ RA Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s43",
+   "label": "São Paulo party Novo Affair to only admit voters at next event · News ⟋ RA",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Resident Advisor"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T08:05:43+00:00",
+   "articles": [
+    {
+     "outlet": "Resident Advisor",
+     "title": "São Paulo party Novo Affair to only admit voters at next event · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5XckVHSjNmSWxCbkx1NzVXZHZSYmxQNUUtMjlocXNoTHJfZF9GZXpXWTNuQzAwWml1QTBxZw?oc=5",
+     "published": "2026-10-24T08:05:43+00:00",
+     "summary": "São Paulo party Novo Affair to only admit voters at next event · News ⟋ RA Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s40",
+   "label": "Cardi B gifts herself pink sapphire Rolex Daytona worth $2.85 million",
+   "artists": [
+    "Cardi B"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T05:01:54+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Cardi B Gifts Herself a Pink Sapphire Rolex Daytona Worth $2.85 Million",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGxuektqMEZvYzN5Q2Z5eUpnZ2hRNGxGTnlBQmFlcXU3N2dpSHAwUDFqN1pqNUd0cGh4TTFIdDNvdGlDbmFyQ2RONGtTb2JmR0tIRmwxOEVlWU9VRlVpeDVoZ1dValQzMHRueG4zdlhvNW10SzZYcmpKeldOWERrSnM3dWpnb3M?oc=5",
+     "published": "2026-10-24T05:01:54+00:00",
+     "summary": "Cardi B Gifts Herself a Pink Sapphire Rolex Daytona Worth $2.85 Million Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s42",
+   "label": "Michael Jackson impersonator Looze Cannon raps against himself",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T04:32:53+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Michael Jackson Impersonator Looze Cannon Raps Against Himself to Mark One Million Followers",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1hPUDFMMmFRalVjOHJPaDJuaFg3Q0RmRzlaYjFuNHFDaG9ILUtEUFR3bFZMc3BCMVRMcFhYTGF0di1zM1Q4N2ZSaTQ1andhSkJkRGFRdEF5Y0RhX2ZBNkhoM00xLVZGakVHRXRKTkZyTHRuemxGdDFkeGtfYmxmWHBLV2xIN05UX1pfM1N6M1R0RTFpLXgw?oc=5",
+     "published": "2026-10-24T04:32:53+00:00",
+     "summary": "Michael Jackson Impersonator Looze Cannon Raps Against Himself to Mark One Million Followers Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "Drake becomes first artist to surpass 350 million RIAA-certified units",
+   "artists": [
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-23T22:43:36+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Drake Becomes First Act to Surpass 350 Million RIAA-Certified Units, With 30 New Certifications",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzRPVGY3ZUFyRXliMDFQcVRBV0Z1MGkwb1lfRm5PS1ZtSl9sczhrejc1Wm1KbGdmMy1fYkg0Qk45N2xSSXA0OW5SdXMxcjdYVGVJLXRyYmEtSlYyNWUtZFJSOGNRM0NsdWdQX2tSUDN5ekRZQ1VVNHluSkExQVptWHg3YVdBQzhGVGFxTXRzTUVQWTQwODQweHZsTDRacGNuOGRnX1hhb20wb3lkN0FzVQ?oc=5",
+     "published": "2026-10-23T22:43:36+00:00",
+     "summary": "Drake Becomes First Act to Surpass 350 Million RIAA-Certified Units, With 30 New Certifications Billboard"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s37",
+   "label": "DJ Envy's business partner Cesar Pina pleads guilty in fraud case",
+   "artists": [
+    "DJ Envy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-23T21:48:39+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "DJ Envy's Former Business Partner, Cesar Pina, Pleads Guilty in Fraud Case",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2REc0g3ZmtHMF84X0FDQUVaYzhVY18zR0pLd2Zyb3ozV09WTXR1VEhCaE5jdWRIY2I3azFwbFZyalBOQ1ljV3pKd1BGVFJBZ0EwWGtVdEhXWDVpNjRDWnIxeU1CRTQwVFl5TXliZzM2UW90VXVhRmsxbTBBVE94Um85eUpjSlhZaEtFbXBPUG9Gb0U?oc=5",
+     "published": "2026-10-23T21:48:39+00:00",
+     "summary": "DJ Envy's Former Business Partner, Cesar Pina, Pleads Guilty in Fraud Case Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s31",
+   "label": "BOL4 announces Tokyo concert dates for 2026-2027 tour",
+   "artists": [
+    "BOL4"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "OTOTOY",
+    "PR TIMES",
+    "ガジェット通信"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "OTOTOY",
+    "PR TIMES",
+    "ガジェット通信"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-24T08:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "OTOTOY",
+     "title": "BOL4（赤頬思春期）、東京来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1IVGp3NGpZVk1HbE82SUcxSXRkUUswVGdCc2hfdjA0RGpjczVVcC01Uy10X3JjdnZwSkZtcllYUDBlaU0?oc=5",
+     "published": "2026-10-24T08:00:00+00:00",
+     "summary": "BOL4（赤頬思春期）、東京来日公演決定 OTOTOY"
+    },
+    {
+     "outlet": "ガジェット通信",
+     "title": "BOL4（赤頬思春期）、東京来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wMzRsVmtTNlVnU21XUXFUb0pwMUZGUndsSWJ3SDlveUVZS1YtWEQtTS1QVmdlV2RXbW5TLUVERGFGWXo2cnZyNmNrMA?oc=5",
+     "published": "2026-10-24T08:00:00+00:00",
+     "summary": "BOL4（赤頬思春期）、東京来日公演決定 ガジェット通信"
+    },
+    {
+     "outlet": "PR TIMES",
+     "title": "【BOL4、東京公演開催決定！】2026-2027 BOL4 CONCERT TOUR 〖Red Square〗in TOKYO",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XaHV2dEtqanhIck1MdXo4dUpIRUFNOUVSa0ZJX1ZNNW02OEJ4dFNfMWc1Z0J0d3Nrbi1RUGZDYk1hNVRPaE1GbERibDJQdUZkTVcyd0ljeXpyNmFBVVdQZ1IxeC1vUC1ReHc?oc=5",
+     "published": "2026-10-24T03:00:01+00:00",
+     "summary": "【BOL4、東京公演開催決定！】2026-2027 BOL4 CONCERT TOUR 〖Red Square〗in TOKYO PR TIMES"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Chanpan releases new song speculations with December Japan debut show",
+   "artists": [
+    "Chanpan"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "ライブドアニュース",
+    "リアルサウンド"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "ライブドアニュース",
+    "リアルサウンド"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-24T06:29:00+00:00",
+   "articles": [
+    {
+     "outlet": "リアルサウンド",
+     "title": "Chanpan、新曲「speculations」リリース＆MV公開 12月には代官山UNITにて初来日公演も",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uUVBXTHNPTWpwaDlpNmx2RFl0MG9vUDdYZGUybm4walpGYmh0aXZCQVJOU1ktV3FsZXdQbG5UUGJEdkRXdG5VN3doSkptVWFfNzRFd2FBc1VqQdIBX0FVX3lxTE0yUXlibHAzT0tQVFBqMlFLLURKVWNsTDU5WktURVJXZzEyQjJELUFMSmtBNlZreUNCTmlOdW1kalMtMFFiWXYtVnlRWHdCb012OXg0RnBtVDh2MUx0UVdR?oc=5",
+     "published": "2026-10-24T06:29:00+00:00",
+     "summary": "Chanpan、新曲「speculations」リリース＆MV公開 12月には代官山UNITにて初来日公演も リアルサウンド"
+    },
+    {
+     "outlet": "ライブドアニュース",
+     "title": "Chanpan、新曲「speculations」リリース＆MV公開 12月には代官山UNITにて初来日公演も",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53VmJVR2FBcnJ6RkloanVVMEdYNFBYZllFNkZqa0NZcjV5LVdfb3NPQkRyWnRVM1E3YUxEeVZ0WkFud0ZSbUpvd0FXRnVwMUJhWVJabHBtZ3lCZVBzNDBJ?oc=5",
+     "published": "2026-10-24T06:29:00+00:00",
+     "summary": "Chanpan、新曲「speculations」リリース＆MV公開 12月には代官山UNITにて初来日公演も ライブドアニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Maroon 5 announces Japan tour dates at Tokyo Dome",
+   "artists": [
+    "Maroon 5"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "山陽新聞"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-24T10:04:30+00:00",
+   "articles": [
+    {
+     "outlet": "山陽新聞",
+     "title": "マルーン5、2年ぶり来日公演決定 東京ドームで3日間",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vQ0tzV0NVWngtN0RjSWxJX2hnTGxjUXdsQ0tYalUtZmJhRHBKSVFneFlUNjZGU2Rla3VJZ1dyTUJkRVR6Q1RudUgxTHJ6UFdpdkowNGpLOC1CbWFhZG8wc05SVndNWENwSDRMbW9WeVdTdkk?oc=5",
+     "published": "2026-10-24T10:04:30+00:00",
+     "summary": "マルーン5、2年ぶり来日公演決定 東京ドームで3日間 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "La Dispute announces first-ever Japan tour",
+   "artists": [
+    "La Dispute"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "ガジェット通信"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "ガジェット通信"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-24T10:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "ガジェット通信",
+     "title": "La Dispute、キャリア初の日本ツアー開催決定",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QMXpYeGtxb0xwb0t6LU5SUTliSkZSZVlsQ1ZYZjhEb1pQb3ozWDA0cXhnMEwxZC12d0VWb0JYdU1DYTQ2Y0lWQkNFUQ?oc=5",
+     "published": "2026-10-24T10:00:00+00:00",
+     "summary": "La Dispute、キャリア初の日本ツアー開催決定 ガジェット通信"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s32",
+   "label": "Erik Grönwall Japan tour special interview released",
+   "artists": [
+    "Erik Grönwall"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "YouTube"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "YouTube"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-24T09:30:34+00:00",
+   "articles": [
+    {
+     "outlet": "YouTube",
+     "title": "【ERIK GRÖNWALL／エリック・グロンウォール】来日公演開催迫る！スペシャル・インタビュー後編が公開！",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raHN1RnJNMl9hc0g1MWlSRWttQncwWnBzSzhWVzdsNHQ4U1dIa283a3oxRTR6US1xOE92MGNudlZYUjUxcEZoN0JsWExDYzR3ZXl6UFZXUTduQmFN?oc=5",
+     "published": "2026-10-24T09:30:34+00:00",
+     "summary": "【ERIK GRÖNWALL／エリック・グロンウォール】来日公演開催迫る！スペシャル・インタビュー後編が公開！ YouTube"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "Old songs dominating charts and streaming playlists",
+   "artists": [],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 2,
+   "outlets": [
+    "BBC"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-24T23:05:41+00:00",
+   "articles": [
+    {
+     "outlet": "BBC",
+     "title": "Why the charts are full of old songs - and so are your playlists",
+     "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
+     "published": "2026-10-24T23:05:41+00:00",
+     "summary": "The chart is full is full of old music and classic songs are dominating streaming services. But why?"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s25",
+   "label": "Rise of new black spaces in music culture",
+   "artists": [],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "BBC"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-24T16:03:25+00:00",
+   "articles": [
+    {
+     "outlet": "BBC",
+     "title": "The rise of new black spaces in music",
+     "link": "https://www.bbc.co.uk/news/articles/c35ynw9w07lpo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-10-24T16:03:25+00:00",
+     "summary": "Young black creatives are continuing a tradition of carving out spaces to dance, connect and belong."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "Swizz Beatz recalls Michael Jackson's crush on Alicia Keys",
+   "artists": [
+    "Michael Jackson",
+    "Alicia Keys"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T22:01:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Swizz Beatz Recalls Michael Jackson’s Crush On Alicia Keys",
+     "link": "https://www.hotnewhiphop.com/1014359-swizz-beatz-alicia-keys-michael-jackson-crush",
+     "published": "2026-10-24T22:01:00+00:00",
+     "summary": "Janet Jackson reportedly tipped Alicia Keys off about her brother's interest, according to a story Swizz Beatz shared on a podcast. The post Swizz Beatz Recalls Michael Jackson’s Crush On Alicia Keys appeared first on HotNewHipHop ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Taylor Swift's debut album turns 20 years old retrospective",
+   "artists": [
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Variety"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T20:22:39+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Happy 20th Birthday, ‘Debut’! A Revealing Look Back at Taylor Swift’s First Album, Via a Previously Unpublished Q&A: ‘I Want to Be Here for the Next 20 Years’",
+     "link": "https://variety.com/2026/music/news/taylor-swift-interview-debut-album-20th-anniversary-1236930352/",
+     "published": "2026-10-24T20:22:39+00:00",
+     "summary": "Today, Oct. 24, 2026, marks the 20th anniversary of the release of Taylor Swift’s self-titled debut album. It would take at least a few years before anyone really thought of this as a monumental or transformative event — for country music, "
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Pusha T believes Clipse's Let God Sort Em Out is better than Hell Hath No Fury",
+   "artists": [
+    "Pusha T",
+    "Clipse"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T15:57:34+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Pusha T Believes Clipse's 'Let God Sort Em Out' Is Better Than 'Hell Hath No Fury'",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY0dkRXFRc1E4TXRkdmZub0psczI3cE44NGxaMnloOEpKQnJuTkVZM0pUSXFBX3dKUkhGdHBEc0t2MThNT1IzbDlrbkw3QzlvTHlIMjFEY1gyeWRPdzVrTVd4cTN4SEJ6QkN1Mm1YQlE0VEdHMnRnLXJiaF9IcDV4VTY1WGtuVkZuT3ItMG1XU3VUcGlxbzAtUUtlRWJwZElkel9uVUZsLWpSQQ?oc=5",
+     "published": "2026-10-24T15:57:34+00:00",
+     "summary": "Pusha T Believes Clipse's 'Let God Sort Em Out' Is Better Than 'Hell Hath No Fury' Complex"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s26",
+   "label": "Drake's 40 best songs ranked retrospective",
+   "artists": [
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Vibe"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T14:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "Drake’s 40 Best Songs, Ranked",
+     "link": "https://www.vibe.com/lists/drakes-40-best-songs-ranked/",
+     "published": "2026-10-24T14:00:00+00:00",
+     "summary": "We’ve got hits, cult classics, fan-favorite deep cuts, and everything in between."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Sam Fender criticizes ticket prices for 2027 stadium tour",
+   "artists": [
+    "Sam Fender"
+   ],
+   "genre": "Other",
+   "kind": "announcement",
+   "talk": 2,
+   "outlets": [
+    "BBC",
+    "NME"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-10-24T12:15:29+00:00",
+   "articles": [
+    {
+     "outlet": "BBC",
+     "title": "Sam Fender calls out ticket prices ahead of tour",
+     "link": "https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-10-24T12:15:29+00:00",
+     "summary": "The Geordie singer says on Instagram he is \"not happy\" with the reported ticket prices."
+    },
+    {
+     "outlet": "NME",
+     "title": "Sam Fender says he’s “not happy” with prices for 2027 stadium tour and they’re “getting changed”",
+     "link": "https://www.nme.com/news/music/sam-fender-not-happy-with-prices-for-2027-stadium-tour-getting-changed-3974129?utm_source=rss&utm_medium=rss&utm_campaign=sam-fender-not-happy-with-prices-for-2027-stadium-tour-getting-changed",
+     "published": "2026-10-24T11:16:40+00:00",
+     "summary": "He also criticised split standing sections at big shows: \"It’s bollocks and it won’t be happening on this tour\" The post Sam Fender says he’s “not happy” with prices for 2027 stadium tour and they’re “getting changed” appeared first on NME "
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s8",
+   "label": "Stevie Wonder sues to evict ex-fiancée after 38 rent-free years",
+   "artists": [
+    "Stevie Wonder"
+   ],
+   "genre": "Other",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "Consequence",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-24T22:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Stevie Wonder Sues To Evict Ex-Fiancée After 38 Rent-Free Years",
+     "link": "https://www.hotnewhiphop.com/1014362-stevie-wonder-evict-ex-40-years-lawsuit",
+     "published": "2026-10-24T22:30:00+00:00",
+     "summary": "An insurance inspection sparked the legal dispute, with Stevie Wonder claiming the woman refused to allow access to his property. The post Stevie Wonder Sues To Evict Ex-Fiancée After 38 Rent-Free Years appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Stevie Wonder Sues to Evict Ex-Fiancée Who Has Been Living At His Property Rent-Free for 38 Years",
+     "link": "https://consequence.net/2026/10/stevie-wonder-sues-fiancee-living-rent-free/",
+     "published": "2026-10-24T19:22:31+00:00",
+     "summary": "Carmen Efferson allegedly refused to allow Wonder's representatives to enter the property and sent his lawyer a contentious email. Stevie Wonder Sues to Evict Ex-Fiancée Who Has Been Living At His Property Rent-Free for 38 Years Alex Young"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s7",
+   "label": "Elvis Presley estate sues Anthropic AI for training on 274 songs",
+   "artists": [
+    "Elvis Presley"
+   ],
+   "genre": "Other",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "Billboard",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-24T18:28:26+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
+     "link": "https://www.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-1235647682/",
+     "published": "2026-10-24T18:28:26+00:00",
+     "summary": "\"The Elvis Plaintiffs are deeply protective of these iconic songs,\" lawyer states in $41 million lawsuit against AI company behind Claude"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’",
+     "link": "https://www.billboard.com/pro/elvis-presley-estate-sues-suno-anthropic/",
+     "published": "2026-10-24T14:34:54+00:00",
+     "summary": "The owners of The King's IP are cracking down on the tech giant, adding one of music's most legendary figures to the massive legal battle over AI music."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s6",
+   "label": "My Chemical Romance sued by Dallas Cowboys Cheerleaders over stage costumes",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "genre": "Other",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "Consequence",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-24T14:05:37+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Dallas Cowboys Cheerleaders Sue My Chemical Romance",
+     "link": "https://consequence.net/2026/10/dallas-cowboys-cheerleaders-sue-my-chemical-romance/",
+     "published": "2026-10-24T14:05:37+00:00",
+     "summary": "The band performed with dancers spoofing the Dallas Cowboys Cheerleaders' outfits. Dallas Cowboys Cheerleaders Sue My Chemical Romance Alex Young"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "My Chemical Romance Face Legal Action From Dallas Cowboys Cheerleaders Over Stage Costumes",
+     "link": "https://www.rollingstone.com/music/music-news/my-chemical-romance-legal-action-dallas-cowboys-cheerleaders-1235647551/",
+     "published": "2026-10-24T13:47:22+00:00",
+     "summary": "Owner of the cheerleader brand files injunction to stop band from having dancers wearing Cowboys-inspired outfits during violent \"Teenagers\" sequence"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 0
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 21
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 3,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 65,
+   "kept": 9
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 0
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 2
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 0
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 13
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 0
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 1
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 26,
+   "kept": 6
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 28,
+   "kept": 4
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 0
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 20
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 1,
+   "kept": 1
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 19,
+   "kept": 8
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 20,
+   "kept": 3
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 39,
+   "kept": 14
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 8,
+   "kept": 5
+  }
+ ],
+ "cost": {
+  "usd": 0.2602,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 11373,
+    "output_tokens": 4194
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 15928,
+    "output_tokens": 8209
+   }
+  ]
+ }
+}
