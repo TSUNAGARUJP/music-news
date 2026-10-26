@@ -1,0 +1,2040 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T03:02:26.807350+00:00",
+ "article_count": 224,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日はAI学習をめぐる巨額訴訟、リミックスで首位に返り咲いたOlivia Rodrigo、YouTubeで強さを見せたLISAなど、業界の仕組みやヒットの理由を考察できる話題が中心。Nicki Minajの政治イベント登場など、慎重に扱うべき議論ネタもある。",
+  "top": [
+   {
+    "id": "s31",
+    "title_ja": "Suno、ラップのプロデューサータグ学習で2億8500万ドル訴訟",
+    "genre": "Hip-Hop",
+    "summary_ja": "音楽出版社Reservoirが、SunoとAnthropicを相手取ったAI関連の訴訟で、2億8500万ドル超を求めたと報じられている。争点には楽曲や歌詞に加え、ラップのプロデューサータグも含まれているという。",
+    "why_ja": "現時点で報じているのはAllHipHopの1媒体のみ。それでも、AI学習と音楽の権利という業界全体の課題に、ヒップホップ特有のプロデューサータグが絡む点で注目される。",
+    "debate_ja": "AIがプロデューサータグまで学習するのは盗用だと思う？",
+    "line_point": "Reservoir、SunoとAnthropicに2億8500万ドル超を請求。ラップのプロデューサータグも争点と報道。",
+    "reels": [
+     {
+      "hook": "AIがプロデューサーの名札まで学習してた？",
+      "angle": "訴訟の概要と請求額→タグは作り手の署名かという論点→自分の見解→AI学習はどこまで許されるかコメントで募集"
+     },
+     {
+      "hook": "プロデューサータグって何か知ってる？",
+      "angle": "曲の冒頭で聞こえる名前入りの声の役割を有名な例で紹介し、それがAI訴訟の争点になった意味を解説"
+     }
+    ]
+   },
+   {
+    "id": "s0",
+    "title_ja": "Olivia Rodrigo、リミックス公開後に全米アルバム1位へ返り咲き",
+    "genre": "POP",
+    "summary_ja": "Chappell Roanとの「Expectations」リミックスの公開後、Olivia Rodrigoの『You Seem Pretty Sad for a Girl So in Love』がBillboard 200で1位に返り咲いた。Zach Bryanが初登場2位に入ったと報じられている。",
+    "why_ja": "Billboard、Variety、Billboard JAPANが報道。MVは公開から243時間で約2146万回再生され、YouTubeチャートでは英国3位、米国4位に入っている。",
+    "debate_ja": "豪華リミックスで首位奪還、戦略としてアリ？ナシ？",
+    "line_point": "Olivia Rodrigo、Chappell Roanとのリミックス公開後にBillboard 200で1位に返り咲き。",
+    "reels": [
+     {
+      "hook": "リミックスで1位奪還、これってアリ？",
+      "angle": "返り咲きの事実→リミックス戦略は正当な工夫かチャート対策かという論点→自分の見解→コメントで意見募集"
+     },
+     {
+      "hook": "MV約2146万回、数字で見る返り咲き",
+      "angle": "再生数、英米チャート順位、Zach Bryan初登場2位を並べ、今週のアルバム争いを数字で読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s20",
+    "title_ja": "LISA「Tarantino」MV、米英のYouTubeチャートで1位",
+    "genre": "POP",
+    "summary_ja": "LISAの「Tarantino」のMVが、米国と英国のYouTube音楽チャートで1位になっている。Billboardの読者投票では、最新ソロ作『Press Play』が87%の票を集め、今週のお気に入り新曲に選ばれた。",
+    "why_ja": "MVは公開から71時間で約5710万回再生され、米英のYouTubeチャートで1位。Billboardの投票でも87%を獲得している。",
+    "debate_ja": "LISAのソロが欧米でここまで強いのはなぜ？",
+    "line_point": "LISA「Tarantino」MVが71時間で約5710万回再生。米英YouTubeチャートで1位。",
+    "reels": [
+     {
+      "hook": "LISAのソロ、欧米で強すぎない？",
+      "angle": "再生数とチャート順位→なぜ欧米で支持されるのかという論点→自分の考察→コメントで理由を募集"
+     },
+     {
+      "hook": "71時間で5700万回超えの意味",
+      "angle": "再生数、米英1位、投票87%という3つの数字から、ソロとしての勢いを読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s35",
+    "title_ja": "Nicki Minaj、Trump氏のミシガンでのイベントに登場し波紋",
+    "genre": "Hip-Hop",
+    "summary_ja": "Nicki Minajがミシガン州でDonald Trump氏のイベントに参加し、Trump氏が演説中に彼女の容姿に言及したと報じられている。また、ホワイトハウス関係者がNickiを報道官の候補として話題にしたとも伝えられている。",
+    "why_ja": "AllHipHop、Consequence、HotNewHipHopの3媒体が報道。人気ラッパーの政治の場への登場と、公の場で女性の容姿に触れた発言という2つの点で注目されている。",
+    "debate_ja": "アーティストが政治の場に立つこと、どう受け止める？",
+    "line_point": "Nicki MinajがTrump氏のミシガンでのイベントに登場。報道官案も浮上と報道。",
+    "reels": [
+     {
+      "hook": "アーティストと政治、あなたはどう思う？",
+      "angle": "報じられた事実→表現の自由として尊重する見方と、ファンが距離を感じる見方を両方紹介→自分の見解→コメントで意見募集"
+     },
+     {
+      "hook": "報道官案まで出たって本当？",
+      "angle": "報道の中身を、確認できる事実と報じられている段階の話に分けて整理し、冷静に解説"
+     }
+    ]
+   },
+   {
+    "id": "s38",
+    "title_ja": "ポケモン30周年、MarshmelloらでEDMコンサート開催",
+    "genre": "Dance",
+    "summary_ja": "ポケモンの30周年を記念したEDMコンサートが、LAのIntuit Domeで開かれた。MarshmelloとAlison Wonderlandが出演し、レーザーやバトルの演出もあったと報じられている。",
+    "why_ja": "Varietyが報道。日本発の人気IPが、海外の大型EDMイベントと結びついた例として、日本の視聴者にも身近な話題。",
+    "debate_ja": "ゲームやアニメの世界観をEDMで楽しむのはアリ？",
+    "line_point": "ポケモン30周年EDMコンサートがLAで開催。MarshmelloとAlison Wonderlandが出演。",
+    "reels": [
+     {
+      "hook": "ポケモン×EDM、正直アリだと思う？",
+      "angle": "公演内容の紹介→ゲームの世界観とEDMは合うかという論点→自分の見解→コメントで意見募集"
+     },
+     {
+      "hook": "ポケモンがLAのドームでレイブに",
+      "angle": "30周年という節目と、Marshmelloの起用という背景から、日本のIPと海外の音楽シーンのつながりを解説"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s51",
+     "title_ja": "Floor.tips、コペンハーゲンで1周年イベント",
+     "note": "Floor.tipsの1周年イベントをコペンハーゲンで開催とResident Advisorが告知。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s42",
+     "title_ja": "Jack Antonoff、生存者の罪悪感と破局後の歌を語る",
+     "note": "Jack AntonoffがGuardianで、破局後もラブソングを歌うことなどを語った。"
+    },
+    {
+     "id": "s23",
+     "title_ja": "Cardi B、娘たちとKATSEYEのNY公演へ",
+     "note": "Cardi Bが娘たちと一緒に、KATSEYEのニューヨーク公演を訪れた。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s50",
+     "title_ja": "Jay-Z、ツアーへのネット上の批判にAIの時代を挙げて言及",
+     "note": "Jay-Zがツアーへの批判について、AIの時代はすべてを疑うべきだと発言。"
+    },
+    {
+     "id": "s22",
+     "title_ja": "Chris BrownとUsherのR&Bツアー、演出を評価",
+     "note": "VibeがChris BrownとUsherのツアーを、ショーマンシップの面から評価。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s41",
+     "title_ja": "Natasha Bedingfield、米国のヒット曲が英国で未発売だった過去",
+     "note": "米国でのヒット曲が母国の英国では未発売で、追放されたようだったと語る裏話。"
+    },
+    {
+     "id": "s40",
+     "title_ja": "Pulp、マーキュリー賞とBrian Enoの逸話",
+     "note": "Brian Enoが賞金を捨てかけた話や、Jarvis Cockerの新聞配達時代の裏話。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s5",
+    "title_ja": "BTS、特番『ARIRANG』をTBSで放送　東京ドーム公演も",
+    "note": "11月5日（木）にTBSテレビで放送。東京ドーム公演はテレビ初の独占放送。"
+   },
+   {
+    "id": "s28",
+    "title_ja": "London Symphony Orchestra、HIMARIを迎えて来日公演",
+    "note": "パッパーノ指揮。バイオリニストのHIMARIがソリストとして共演。"
+   },
+   {
+    "id": "s1",
+    "title_ja": "Ken Carson、VERDY主催の原宿ハロウィーンフェスに出演決定",
+    "note": "VERDY主催の原宿ハロウィーンフェスに出演。"
+   },
+   {
+    "id": "s4",
+    "title_ja": "CMDM、10月28日から来日公演　新曲も発表",
+    "note": "新曲のタイトルは『Our Lives Beyond』。来日公演ではイベントデーとリリースイベントを実施。"
+   },
+   {
+    "id": "s14",
+    "title_ja": "Blind Channel、活動再開と来日公演が決定",
+    "note": "BARKSの連載で、活動再開と来日公演の決定が紹介された。"
+   },
+   {
+    "id": "s8",
+    "title_ja": "SIX60、12月に来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s11",
+    "title_ja": "O Yunah、12月に初のソロファンミーティングを日本で",
+    "note": "UNIS出身。12月6日に東京で「First Letter」を開催。"
+   },
+   {
+    "id": "s29",
+    "title_ja": "Berlin Philharmonic、2027年特別公演の詳細が決定",
+    "note": "ハーディング指揮・樫本大進独奏。川崎・東京・河口湖で全5公演。来日70周年記念。"
+   },
+   {
+    "id": "s10",
+    "title_ja": "台湾のアイドルYo Lo、初来日ライブを開催",
+    "note": "初来日ライブでオリジナルソングなどを披露。"
+   },
+   {
+    "id": "s13",
+    "title_ja": "Red VelvetのIreneとSeulgi、日本ツアー愛知公演を終える",
+    "note": "日本ツアーの愛知公演を終え、韓国に到着したと報道。"
+   },
+   {
+    "id": "s12",
+    "title_ja": "ZEROBASEONEのKim Jiwoong、初の来日ファンミーティング決定",
+    "note": "近い距離感でのパフォーマンスやトークを予定。"
+   }
+  ],
+  "tour_candidates": 12
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s17",
+   "label": "Jay-Z caps Jay-Z 30 tour with West Coast all-stars",
+   "artists": [
+    "Jay-Z"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "Consequence",
+    "Pitchfork",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 6,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 6,
+   "score": 6,
+   "latest": "2026-10-25T19:42:24+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Dr. Dre, Snoop Dogg & Too $hort Electrify Jay-Z30 Tour’s Final Stop",
+     "link": "https://www.billboard.com/music/concerts/jay-z-la-night-2-dr-dre-snoop-dogg-too-short-guests-1236367642/",
+     "published": "2026-10-25T19:42:24+00:00",
+     "summary": "Night two at SoFi Stadium also paid tribute to Nipsey Hussle."
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Watch Jay-Z Bring Out Dr. Dre and Snoop Dogg at LA Tour Closer",
+     "link": "https://pitchfork.com/story/watch-jay-z-bring-out-dr-dre-and-snoop-dogg-at-la-tour-closer/",
+     "published": "2026-10-25T16:57:49+00:00",
+     "summary": "Too $hort, John Legend, Scarface, and Blue Ivy Carter also joined the final Jay-Z 30 shows at SoFi Stadium"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "JAY-Z Brings Out Dr. Dre, Snoop Dogg, and Too $hort at Final JAŸ-Z30 Show",
+     "link": "https://consequence.net/2026/10/jay-z-brings-out-dr-dre-snoop-dogg-and-too-hort-at-final-jay-z30-show/",
+     "published": "2026-10-25T15:53:14+00:00",
+     "summary": "The sold-out Los Angeles finale featured a run of West Coast classics and brought JAY-Z’s anniversary celebration to a close. JAY-Z Brings Out Dr. Dre, Snoop Dogg, and Too $hort at Final JAŸ-Z30 Show Alex Krinsky"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Jay-Z Caps Victory Lap Tour With West Coast Takeover Ft. Too $hort, Snoop Dogg, and Dr. Dre",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEh5M2xNRmY0T3d1N0dOb2xLaWc5RHJBcjBRLVhBaEpWUU4ySGVWZ1Vvc0NHUnllRmJVak0tUVkxMjdrQllzUUp0WVZJNUVSNkJ5V0tydXZoZWlxc01mTEpwa1lva2V0SFJ1ZG1YZVNUeWFMNy01VVYtWTNHMHJrMEFhbGtTRFZ0OGpXbGVSbw?oc=5",
+     "published": "2026-10-25T15:22:31+00:00",
+     "summary": "Jay-Z Caps Victory Lap Tour With West Coast Takeover Ft. Too $hort, Snoop Dogg, and Dr. Dre Complex"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "See Jay-Z Bring Out Snoop Dogg and Dr. Dre for Medley at Los Angeles Show",
+     "link": "https://www.rollingstone.com/music/music-news/jay-z-snoop-dogg-dr-dre-medley-los-angeles-show-1235647696/",
+     "published": "2026-10-25T13:41:44+00:00",
+     "summary": "Too Short also joined rapper onstage for \"Blow the Whistle\" at final gig of the Jay-Z 30 Tour"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Jay-Z Brings His ‘Jay-Z 30’ Concert Series to a Close in Los Angeles With Dr. Dre, Snoop Dogg and Too Short",
+     "link": "https://variety.com/2026/music/news/jay-z-30-closer-dr-dre-snoop-dogg-los-angeles-sofi-stadium-1236930554/",
+     "published": "2026-10-25T08:42:05+00:00",
+     "summary": "How does one measure their own legacy: In a series of shows, in the decades since a debut album, in an exhaustive eight-part docuseries breaking down the intricacies of rhymes laid down years ago? That seemed to be the existential question "
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s35",
+   "label": "Nicki Minaj at Trump campaign event draws attention",
+   "artists": [
+    "Nicki Minaj"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop",
+    "Consequence",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-25T23:08:49+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "White House Floats Nicki Minaj as New Press Secretary, Trump Marvels At Her Ass",
+     "link": "https://consequence.net/2026/10/nicki-minaj-press-secretary-trump-butt/",
+     "published": "2026-10-25T23:08:49+00:00",
+     "summary": "\"I looked at one hell of a beautiful ass... That's hard to miss.\" White House Floats Nicki Minaj as New Press Secretary, Trump Marvels At Her Ass Alex Young"
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Donald Trump Calls Nicki Minaj’s Ass Beautiful During Port Huron Speech – “That’s Hard To Miss”",
+     "link": "https://allhiphop.com/news/donald-trump-calls-nicki-minajs-ass-beautiful-during-port-huron-speech-thats-hard-to-miss/",
+     "published": "2026-10-25T21:01:00+00:00",
+     "summary": "Donald Trump praises Nicki Minaj's backside in Michigan while offering his explanation for sizing up Ohio Sen. Jon Husted."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Nicki Minaj Joins Donald Trump In Michigan, Gets Called Out For Her “Beautiful A**” On Stage",
+     "link": "https://www.hotnewhiphop.com/1014427-nicki-minaj-donald-trump-midterm-rally-speech-beautiful-hip-hop-news",
+     "published": "2026-10-25T20:52:39+00:00",
+     "summary": "President Trump acknowledges Nicki Minaj's appearance during his midterm rally speech. The post Nicki Minaj Joins Donald Trump In Michigan, Gets Called Out For Her “Beautiful A**” On Stage appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Nicki Minaj For White House Press Secretary? Trump Official Floats Wild Possibility",
+     "link": "https://allhiphop.com/rumors/nicki-minaj-for-white-house-press-secretary-trump-official-floats-wild-possibility/",
+     "published": "2026-10-25T20:05:00+00:00",
+     "summary": "Nicki Minaj's playful Air Force One interview with Steven Cheung has sparked a weird rumor of Trump's next White House press secretary."
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Nicki Minaj Praises Trump’s Work Ethic Aboard Air Force One",
+     "link": "https://allhiphop.com/news/nicki-minaj-praises-trumps-work-ethic-aboard-air-force-one/",
+     "published": "2026-10-25T18:47:10+00:00",
+     "summary": "Nicki Minaj praises Donald Trump's negotiating style and work ethic while explaining her support aboard Air Force One."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s31",
+   "label": "Suno sued over hip-hop producer tags in AI training",
+   "artists": [],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-26T00:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Suno Smacked With $285M Lawsuit Over Hip-Hop Producer Tags",
+     "link": "https://allhiphop.com/news/suno-smacked-with-285m-lawsuit-over-hip-hop-producer-tags/",
+     "published": "2026-10-26T00:00:00+00:00",
+     "summary": "Reservoir sought more than $285 million from Suno and Anthropic in AI lawsuits involving songs, lyrics and rap producer tags."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "Macklemore maintains Free Palestine stance at show",
+   "artists": [
+    "Macklemore"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T23:53:02+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Macklemore Doubles Down on ‘Free Palestine’ Stance at First Show Since Ed Sheeran Tour Removal",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWXR2Rk5KSmU5M1JIQnJYSUdfcmp0bWJkM1FGd2taQkU2N3M3OVNaQzhmMXBDX0NoX1lZbnpMMUd3UVRCaW55WDNBQWYxMEd4endzMkNaWllndE1TWDJOQnh6M0FsRlRzS3NfTnVVUUhLcDhLdUdrYjJTblRhajE5Q2l1U1NuVWhZYlJnZFB2WWdIZw?oc=5",
+     "published": "2026-10-25T23:53:02+00:00",
+     "summary": "Macklemore Doubles Down on ‘Free Palestine’ Stance at First Show Since Ed Sheeran Tour Removal Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s42",
+   "label": "Jack Antonoff discusses producer role and survivor guilt",
+   "artists": [
+    "Jack Antonoff"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-25T10:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "‘I’d rather live through something publicly than escape it privately’: Jack Antonoff on survivor’s guilt and still singing love songs after his breakup",
+     "link": "https://www.theguardian.com/music/2026/oct/25/jack-antonoff-bleachers-interview-producer-kendrick-springsteen-taylor-swift",
+     "published": "2026-10-25T10:00:00+00:00",
+     "summary": "Whether he’s playing the role of soul-baring artist or starry producer, the Bleachers frontman strives to keep his integrity intact. He weighs in on Ed Sheeran, his love of working on ‘high-stakes’ albums and why he’s standing by the songs "
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Olivia Rodrigo returns to No. 1 on Billboard 200",
+   "artists": [
+    "Olivia Rodrigo"
+   ],
+   "genre": "POP",
+   "kind": "chart",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Billboard JAPAN",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-10-26T11:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "【米ビルボード・アルバム・チャート】オリヴィア・ロドリゴが返り咲き首位獲得、ザック・ブライアンが初登場2位",
+     "link": "https://www.billboard-japan.com/d_news/detail/166788",
+     "published": "2026-10-26T11:30:00+09:00",
+     "summary": "今週（2026年10月31日付）の米ビルボード・アルバム・チャート“Billboard 200”は、オリヴィア・ロド…"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Olivia Rodrigo’s ‘You Seem Pretty Sad for a Girl So in Love’ Returns to No. 1 on Albums Chart Following ‘Expectations’ Remix",
+     "link": "https://variety.com/2026/music/news/olivia-rodrigo-you-seem-pretty-sad-returns-to-no-1-chart-1236930779/",
+     "published": "2026-10-25T19:28:19+00:00",
+     "summary": "Following the release of her “Expectations” remix with Chappell Roan, Olivia Rodrigo returns to the top of the Billboard 200 with “You Seem Pretty Sad for a Girl So in Love,” earning a third total week at No. 1. Rodrigo initially released “"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Olivia Rodrigo’s ‘You Seem Pretty Sad for a Girl So in Love’ Returns to No. 1 on Billboard 200",
+     "link": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-back-to-no1-billboard200-1236367607/",
+     "published": "2026-10-25T19:01:04+00:00",
+     "summary": "Plus, Zach Bryan’s Young Manhood and Other Donatable Organs debuts at No. 2."
+    }
+   ],
+   "chart": [
+    {
+     "id": "gsZauX8gwxo",
+     "title": "Olivia Rodrigo - expectations (feat. Chappell Roan) (Official Music Video)",
+     "channel": "OliviaRodrigoVEVO",
+     "published": "2026-10-16T00:00:10Z",
+     "hours_since": 243,
+     "views": 21463502,
+     "url": "https://www.youtube.com/watch?v=gsZauX8gwxo",
+     "region": "GB",
+     "rank": 3
+    },
+    {
+     "id": "gsZauX8gwxo",
+     "title": "Olivia Rodrigo - expectations (feat. Chappell Roan) (Official Music Video)",
+     "channel": "OliviaRodrigoVEVO",
+     "published": "2026-10-16T00:00:10Z",
+     "hours_since": 243,
+     "views": 21463502,
+     "url": "https://www.youtube.com/watch?v=gsZauX8gwxo",
+     "region": "US",
+     "rank": 4
+    }
+   ],
+   "video": {
+    "id": "gsZauX8gwxo",
+    "title": "Olivia Rodrigo - expectations (feat. Chappell Roan) (Official Music Video)",
+    "channel": "OliviaRodrigoVEVO",
+    "published": "2026-10-16T00:00:10Z",
+    "hours_since": 243,
+    "views": 21463502,
+    "url": "https://www.youtube.com/watch?v=gsZauX8gwxo",
+    "region": "GB",
+    "rank": 3
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "Lefty Gunplay recalls near-fatal car crash and recovery",
+   "artists": [
+    "Lefty Gunplay"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-26T01:03:48+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Lefty Gunplay Recalls Corvette Crash That Pushed Him Toward Sobriety",
+     "link": "https://allhiphop.com/news/lefty-gunplay-recalls-corvette-crash-that-pushed-him-toward-sobriety/",
+     "published": "2026-10-26T01:03:48+00:00",
+     "summary": "Lefty Gunplay recalled a near-fatal Corvette wreck and the work of rebuilding his life after spending nine months in rehab."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Cordae explores split from Naomi Osaka on new song",
+   "artists": [
+    "Cordae"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T23:00:09+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Cordae Revisits Naomi Osaka Split On “Helpless”",
+     "link": "https://allhiphop.com/news/cordae-revisits-naomi-osaka-split-on-helpless/",
+     "published": "2026-10-25T23:00:09+00:00",
+     "summary": "Cordae explored parenting and regret on \"Helpless,\" a new song that drew attention to his split from tennis star Naomi Osaka."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "Chris Brown and Usher R&B tour praised for showmanship",
+   "artists": [
+    "Chris Brown",
+    "Usher"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "tour",
+   "talk": 1,
+   "outlets": [
+    "Vibe"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T13:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "Chris Brown And Usher’s R&B Tour Was A Nostalgic Test In Showmanship",
+     "link": "https://www.vibe.com/music/reviews/chris-brown-usher-rnb-tour-nostalgic-showmanship-1235199740/",
+     "published": "2026-10-25T13:00:00+00:00",
+     "summary": "Their tour proves everything doesn't need to be a competition."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Cardi B attends KATSEYE New York concert",
+   "artists": [
+    "KATSEYE"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-25T22:29:07+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Cardi B Attends KATSEYE’s New York Concert With Daughters",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWVZEODF4c2F6OWlFaGFwZjBkeHpqLVpXeV93ZXhSeHdTeDlZWHJicU5tWWowMjk0SGNaeVY2RmlILUdXMmVLQ1QzNFQtaVhEMXpxdHZnOWpsM3RhbVgtOUM0RTZ5U2ZCcWFORFNSTzdpVUZDYk0zUjZBYWJLTmd5X2dibFNiV0VvcnpKcXFvX2tkMU00WlFwMGZ2WV9PVWNjUjN1YXVR?oc=5",
+     "published": "2026-10-25T22:29:07+00:00",
+     "summary": "Cardi B Attends KATSEYE’s New York Concert With Daughters Billboard"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Cardi B Attends KATSEYE Show With Her Daughters",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUtXQWV1eHUzQlBpTzdSeDB3ckRtczlyRUhPcjBMMG1FVVZyREdNWjA5WEZNeEl2eXBzdUdDX3M0WGdLZ0RiSTEtTlJVLUV3dmN0WkhQYWpSRkczNk9DWWdYZWlDZmtSMVo4YnZxMkFqWnF6bFFLd1g2b1JrSjBZSlFB?oc=5",
+     "published": "2026-10-25T04:39:32+00:00",
+     "summary": "Cardi B Attends KATSEYE Show With Her Daughters Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Gunna participates in FAMU homecoming 5K",
+   "artists": [
+    "Gunna"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-26T02:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Gunna Joins FAMU Homecoming 5K & Urges Students To Put Health First",
+     "link": "https://allhiphop.com/news/gunna-joins-famu-homecoming-5k-urges-students-to-put-health-first/",
+     "published": "2026-10-26T02:00:00+00:00",
+     "summary": "Gunna joined FAMU's homecoming 5K and urged students to watch their health as his run club backed a student scholarship effort."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "LISA's Press Play voted favorite new music",
+   "artists": [
+    "LISA"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T22:20:12+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Fans Choose LISA’s ‘Press Play’ as This Week’s Favorite New Music",
+     "link": "https://www.billboard.com/music/music-news/lisa-press-play-best-new-music-poll-results-1236367660/",
+     "published": "2026-10-25T22:20:12+00:00",
+     "summary": "The BLACKPINK singer's latest solo release brought in 87% of the vote."
+    }
+   ],
+   "chart": [
+    {
+     "id": "-5ZXrO_lYSA",
+     "title": "LISA - Tarantino (Official Music Video)",
+     "channel": "LISAOfficialVEVO",
+     "published": "2026-10-23T04:00:07Z",
+     "hours_since": 71,
+     "views": 57097115,
+     "url": "https://www.youtube.com/watch?v=-5ZXrO_lYSA",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "-5ZXrO_lYSA",
+     "title": "LISA - Tarantino (Official Music Video)",
+     "channel": "LISAOfficialVEVO",
+     "published": "2026-10-23T04:00:07Z",
+     "hours_since": 71,
+     "views": 57097115,
+     "url": "https://www.youtube.com/watch?v=-5ZXrO_lYSA",
+     "region": "GB",
+     "rank": 1
+    }
+   ],
+   "video": {
+    "id": "-5ZXrO_lYSA",
+    "title": "LISA - Tarantino (Official Music Video)",
+    "channel": "LISAOfficialVEVO",
+    "published": "2026-10-23T04:00:07Z",
+    "hours_since": 71,
+    "views": 57097115,
+    "url": "https://www.youtube.com/watch?v=-5ZXrO_lYSA",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "T.I. trial pushed to January 2027",
+   "artists": [
+    "T.I."
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T22:00:58+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "EXCLUSIVE: T.I. Trial Pushed To 2027 Despite Sabrina Peterson’s Plea To Move On",
+     "link": "https://allhiphop.com/news/exclusive-t-i-trial-pushed-to-2027-despite-sabrina-petersons-plea-to-move-on/",
+     "published": "2026-10-25T22:00:58+00:00",
+     "summary": "T.I.'s trial against Sabrina Peterson was moved to January 2027 despite her objections over costs and years of litigation."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s46",
+   "label": "Jay-Z displays iced-out Roc-A-Fella chain at SoFi Stadium",
+   "artists": [
+    "Jay-Z"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T21:41:16+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Jay-Z Shows Off Massive Iced-Out Roc-A-Fella Chain At SoFi Stadium",
+     "link": "https://www.hotnewhiphop.com/1014430-jay-z-roc-a-fella-chain-sofi-hip-hop-news",
+     "published": "2026-10-25T21:41:16+00:00",
+     "summary": "JAY-Z turned heads with an iced-out Roc-A-Fella chain during his SoFi Stadium concerts, celebrating his hip-hop legacy in style. The post Jay-Z Shows Off Massive Iced-Out Roc-A-Fella Chain At SoFi Stadium appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "Nicki Minaj lawyers seek to withdraw from lawsuit",
+   "artists": [
+    "Nicki Minaj"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T20:20:10+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Nicki Minaj’s Lawyers Are Attempting To Cut Ties",
+     "link": "https://www.hotnewhiphop.com/1014421-nicki-minaj-lawyers-attempt-to-cut-ties-hip-hop-news",
+     "published": "2026-10-25T20:20:10+00:00",
+     "summary": "Nicki Minaj’s lawyers ask a New York court to withdraw from her $275K Jingle Ball lawsuit. The post Nicki Minaj’s Lawyers Are Attempting To Cut Ties appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s45",
+   "label": "Eminem's Mom's Spaghetti opens permanent Ford Field location",
+   "artists": [
+    "Eminem"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T20:02:44+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Eminem’s Mom’s Spaghetti Opens At Ford Field As Lions Chase Fourth Win",
+     "link": "https://allhiphop.com/news/eminems-moms-spaghetti-opens-at-ford-field-as-lions-chase-fourth-win/",
+     "published": "2026-10-25T20:02:44+00:00",
+     "summary": "Eminem's Mom's Spaghetti has a permanent Ford Field home as the 3-2 Detroit Lions prepare to face the Green Bay Packers."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s47",
+   "label": "Drake gives Bow Wow recognition at birthday party",
+   "artists": [
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T19:11:01+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Drake Gives Bow Wow His Flowers at New York Birthday Party",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YbDk4SnBhQlN0a0xOODdFLWYwRUZ0MW9VNW1fOFFOYUlQXzU5cWNNdmVzS0U5ak9FdDYyaXl0VS03cDZ2YkVaUHc1b1hrLXBHalNoOTByXzhiMjk0MTlDd2V1Y1pNLTNQMXJTMnFuZXJZTzFrMDIzQ3pzRVdCZjg?oc=5",
+     "published": "2026-10-25T19:11:01+00:00",
+     "summary": "Drake Gives Bow Wow His Flowers at New York Birthday Party Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Harry Styles releasing new music video",
+   "artists": [
+    "Harry Styles"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T19:04:58+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Harry Styles Quietly Reveals He’s Releasing a New Music Video for a Fan-Favorite Song",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcVI2cDJDVDFsVXNnVEYzTlJWY3JURmM2UGxaRTROTmE2TlpscUpVYXdmVWszOG1WYy1RQ0w2UDMzSmw4NTQtQmhxQkt6X0U4OWZLbjkyRE1fLVBVdXRRV2ktTE5GNW1TMDduZTBGU0RacC1MY2NodHNlX09yOWdIbFZETmFXX0dHZURlNHdILUpDaS1oOFpVVFQ5bw?oc=5",
+     "published": "2026-10-25T19:04:58+00:00",
+     "summary": "Harry Styles Quietly Reveals He’s Releasing a New Music Video for a Fan-Favorite Song Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s36",
+   "label": "Offset delays GMFU album to November 13",
+   "artists": [
+    "Offset"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T18:00:20+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Offset Points To November 13 For GMFU After October 23 Plan",
+     "link": "https://allhiphop.com/news/offset-points-to-november-13-for-gmfu-after-october-23-plan/",
+     "published": "2026-10-25T18:00:20+00:00",
+     "summary": "Offset pointed to November 13 for GMFU in an Instagram post after his label had announced the album for October 23."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s38",
+   "label": "Pokemon 30th anniversary EDM concert with Marshmello",
+   "artists": [
+    "Marshmello"
+   ],
+   "genre": "Dance",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "Variety"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T17:08:29+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "DJ Pikachu: Pokémon Goes EDM With Lasers, Battles and Marshmello in 30th Anniversary Concert at Intuit Dome",
+     "link": "https://variety.com/2026/digital/news/pokemon-marshmello-concert-30th-anniversary-1236930618/",
+     "published": "2026-10-25T17:08:29+00:00",
+     "summary": "Gotta rave ’em all! Pokémon celebrated its 30th anniversary with an epic EDM concert at LA’s Intuit Dome with DJs Marshmello and Alison Wonderland on Saturday night. Billed as Pokémon Night Out, the show mixed together the creatures from th"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s50",
+   "label": "Jay-Z Addresses Online Tour Backlash: 'Question Everything in This World of AI'",
+   "artists": [],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T14:44:46+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Jay-Z Addresses Online Tour Backlash: 'Question Everything in This World of AI'",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnY1UVhUM1dSZ2RFM2lTSjdCV2hFZ1ZkSG1YcHNLcUQ0Mm14N0tZV29aM1BNblhRS1lRcExtTXdJdk1SRFVVM0NWZ0pvbWQ4T0xtNEQ0QXI1b0ZKd0Q0NXZrVEo1WkNiNVhVeDktNzdTckdDYVRFWHVxdUlkMGVOeENRYXNEYkU2Q1RBSU1JSQ?oc=5",
+     "published": "2026-10-25T14:44:46+00:00",
+     "summary": "Jay-Z Addresses Online Tour Backlash: 'Question Everything in This World of AI' Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s51",
+   "label": "Floor.tips 1 year anniversary a Pylonen - Frizonen Langebro, Copenhagen",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Resident Advisor"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T13:47:47+00:00",
+   "articles": [
+    {
+     "outlet": "Resident Advisor",
+     "title": "Floor.tips 1 year anniversary a Pylonen - Frizonen Langebro, Copenhagen",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DX1lXbmFWLXpNVEV1c1Bjd0owcWg0bVNPSGJtQk1LaVZBNktoM3ROQTZaY216WWZ3clRxU19VVGRaYU9ONFE?oc=5",
+     "published": "2026-10-25T13:47:47+00:00",
+     "summary": "Floor.tips 1 year anniversary a Pylonen - Frizonen Langebro, Copenhagen Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s48",
+   "label": "Too $hort's Oakland street sign replaced after theft",
+   "artists": [
+    "Too $hort"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-24T21:55:22+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Too $hort's Oakland Street Sign Replaced After Presumed Theft",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPemlaaTFyUk4weWRBcFlNSW10THI3dkRuZ0syVW9zMFN2UTIyaFlzYU9kTkhPM0hMZ1BxbVBKZzdzaVhzcDRYUjVpcEJmUHZXXzJTNjJ3SDhDWFJiZUFEVlNsamFYN0NBbFhHVVhiWHVHRmFDSmNnMFNQVUVkRXpjZ2JJeWdmZng3eEhRemVxTE0zcU15RzYxbUFn?oc=5",
+     "published": "2026-10-24T21:55:22+00:00",
+     "summary": "Too $hort's Oakland Street Sign Replaced After Presumed Theft Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "BTS special program ARIRANG to air on Japanese TV",
+   "artists": [
+    "BTS"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "CanCam.jp",
+    "TBSテレビ"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "CanCam.jp",
+    "TBSテレビ"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-26T02:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "CanCam.jp",
+     "title": "BTSの特別番組『ARIRANG』が放送決定！『BTS WORLD TOUR ‘ARIRANG’ IN JAPAN』東京ドーム公演テレビ初独占放送も",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wNGFIYmtlYVdHd3dxdVlVUjNjUXBwako0cVRyeDE4TkNFdkhwV2YzRW9qQk5sM3M3X3BTTXBiRWp4VU02a1F2LU9n?oc=5",
+     "published": "2026-10-26T02:00:00+00:00",
+     "summary": "BTSの特別番組『ARIRANG』が放送決定！『BTS WORLD TOUR ‘ARIRANG’ IN JAPAN』東京ドーム公演テレビ初独占放送も CanCam.jp"
+    },
+    {
+     "outlet": "TBSテレビ",
+     "title": "11月5日(木)TBSテレビにて、特別番組『BTS「ARIRANG」－再び7人で、世界へ－』テレビ初独占放送決定！",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyNHZzdmp5cGFkSEtKOEo3X2ZJOVBMUXd6Y25ad2hqU0oxd2NUSGQ2WEFaSDhNTnFEcTNuRmpnd2xCQ01aZWFoaW1vN2hWcVV2XzUxb081U1dSQW5mSVhTN2dfRjNyb3doT3QwaA?oc=5",
+     "published": "2026-10-26T01:59:46+00:00",
+     "summary": "11月5日(木)TBSテレビにて、特別番組『BTS「ARIRANG」－再び7人で、世界へ－』テレビ初独占放送決定！ TBSテレビ"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "London Symphony Orchestra Japan tour with violinist HIMARI",
+   "artists": [
+    "London Symphony Orchestra"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "下野新聞社",
+    "福井新聞社"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "下野新聞社",
+    "福井新聞社"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-25T21:37:51+00:00",
+   "articles": [
+    {
+     "outlet": "下野新聞社",
+     "title": "緊張と解放 美しく ロンドン交響楽団 来日公演 ＨＩＭＡＲＩ ソリストに｜朝刊・夕刊ニュース｜下野新聞デジタル",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFZGhCc2toU19RUTVwMEoxdDR1MlB3SG9lYXFiVUZ4UlZwYmZ6eFdXX05YSFRHZ19TVlZaSGZMQWdtSmNHLXl0UDBYRHgyQVBKMVhlcHNOaFFsM1k?oc=5",
+     "published": "2026-10-25T21:37:51+00:00",
+     "summary": "緊張と解放 美しく ロンドン交響楽団 来日公演 ＨＩＭＡＲＩ ソリストに｜朝刊・夕刊ニュース｜下野新聞デジタル 下野新聞社"
+    },
+    {
+     "outlet": "福井新聞社",
+     "title": "パッパーノ指揮 ロンドン響 来日公演 緊張と解放でドラマ描く バイオリニスト ＨＩＭＡＲＩ共演 エンタの森",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NNkdHZDFRSXBLcFc2YWg3eFZ4bUdHaE5BVjVqeDhaZFVwNTZZMm81b2hmRTVkRUxIeXM2SWVnWlRKRVZBRm51VlRSMFF6bjVKY2Q1dWVOanVXZEdNUmc?oc=5",
+     "published": "2026-10-25T20:00:00+00:00",
+     "summary": "パッパーノ指揮 ロンドン響 来日公演 緊張と解放でドラマ描く バイオリニスト ＨＩＭＡＲＩ共演 エンタの森 福井新聞社"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Ken Carson performs at VERDY's Harajuku Halloween Festival",
+   "artists": [
+    "Ken Carson"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "djplumadventuretimes.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "djplumadventuretimes.com"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-26T02:33:07+00:00",
+   "articles": [
+    {
+     "outlet": "djplumadventuretimes.com",
+     "title": "VERDY主催原宿ハロウィーンフェスにKen Carson出演決定！",
+     "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNZHdxUUJ6M1FpdXc2ZFRnaW5oazNYSEdpc040TTh5QWFyY2Q2d0FaUWtCVWZ5TmJxUUI0MG1zNVIwRW82WWJUUVdlSzh1YWJSdXo1djVQcDZQWVNHVlVIQ0x6dlBtTkZvT0QwU2FabGstUmhoVm9iOVo3c19rS3pEU1F6VzY5aUY0cGdhS3JLVmxYdUd6RnlrY1Zhclk1blhTWlRQLXB6SXppTk53NVpncHZ3Zmxsc2ExVVppQ0w4cjl6R2ZHdU5fSlR0WW5WTU5nWUdXNk9NR0taSDZxU0xMTHVkdDRhcml1MS11M1BHVG5TN3dnV1dOVm5VcGJoRGNmV0NFV25NdV9SY3VqeWoyMnk5OHhGTW9rRDhBMjFkNU5kT2ZMSGlQN25qeDdmbkVST0xpNERrbVNpSEtnSENseUNB?oc=5",
+     "published": "2026-10-26T02:33:07+00:00",
+     "summary": "VERDY主催原宿ハロウィーンフェスにKen Carson出演決定！ https://djplumadventuretimes.com/"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Korean group CMDM announces Japan concert dates and new song",
+   "artists": [
+    "CMDM"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Infoseek"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Infoseek"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-26T02:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Infoseek",
+     "title": "韓国グループCMDM、新曲タイトルは『Our Lives Beyond』10/28からの来日公演はイベントデー＆リリイベで期待値突破！会場へ駆けつけろ！｜Infoseekニュース",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YWklsN1BxVFB0Z3J1M3gwemJrN0lNTUxETmxKUFBraVJGS3JHbVhkMVNvUzNpYWJ0cWpPa0c2MHBEazFsTjFPTlR5NGRwd1NCNDF1bU1LeUplYkU2N0VCclFnd0JXR0QtcDRmVVAzdWdfZw?oc=5",
+     "published": "2026-10-26T02:00:00+00:00",
+     "summary": "韓国グループCMDM、新曲タイトルは『Our Lives Beyond』10/28からの来日公演はイベントデー＆リリイベで期待値突破！会場へ駆けつけろ！｜Infoseekニュース Infoseek"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Blind Channel announces return and Japan concert",
+   "artists": [
+    "Blind Channel"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "BARKS"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "BARKS"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-26T01:36:00+00:00",
+   "articles": [
+    {
+     "outlet": "BARKS",
+     "title": "【連載】Hiroのもいもいフィンランドvol.166「活動再開、来日公演が決定したBlind Channel」",
+     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE94eVRtRTFCckl0T0dldlJQT0ZJaGNUMk01Rnl5SVd0ZVBHUTZMczdKc1BIbEg0ZEVBMXBDVDlFSF9OYU0?oc=5",
+     "published": "2026-10-26T01:36:00+00:00",
+     "summary": "【連載】Hiroのもいもいフィンランドvol.166「活動再開、来日公演が決定したBlind Channel」 BARKS"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "SIX60 announces December Japan concert dates",
+   "artists": [
+    "SIX60"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-26T00:51:39+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "SIX60、12月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5U3hqcjVPdU45aV9xUDVTdllkMnJDLTZHOG1tNm5zeFNUX2pkbEVETEs0VDNpU1hRVjNBbG5US3lXM0hqMzFN?oc=5",
+     "published": "2026-10-26T00:51:39+00:00",
+     "summary": "SIX60、12月に来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "O Yunah announces first solo Japan fan meeting",
+   "artists": [
+    "O Yunah"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Infoseek"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Infoseek"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-25T23:58:12+00:00",
+   "articles": [
+    {
+     "outlet": "Infoseek",
+     "title": "「UNIS」出身オ・ユナ、初のソロファンミーティングを日本で開催！12月6日に東京で「First Letter」開催決定｜Infoseekニュース",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rczdabGRaOUNmZ212YkMwNG83WHFVR0ZZZmVremNzd19Yenp1Qmc3YUt0QVR1eWxsSGN3bGRpa2lLRWFLbWNZYTlwak4yenU4aXFCV3Bhb21hRm85MmVUVWZB?oc=5",
+     "published": "2026-10-25T23:58:12+00:00",
+     "summary": "「UNIS」出身オ・ユナ、初のソロファンミーティングを日本で開催！12月6日に東京で「First Letter」開催決定｜Infoseekニュース Infoseek"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Chanpan announces new song and first Japan tour",
+   "artists": [
+    "Chanpan"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Dellows News"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Dellows News"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-25T21:06:59+00:00",
+   "articles": [
+    {
+     "outlet": "Dellows News",
+     "title": "Chanpanが新曲発表とツアー日程を公表 12月に初の来日公演開催へ",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vSFlaUkg5VmFLcnJNcS1Qek4tTVZsQUNIXzBTM29QSm5qMUdicUhoOUlHOWk3X0pJdzBpSEMydlFYM3pQU2c?oc=5",
+     "published": "2026-10-25T21:06:59+00:00",
+     "summary": "Chanpanが新曲発表とツアー日程を公表 12月に初の来日公演開催へ Dellows News"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "Berlin Philharmonic special 2027 Japan performances",
+   "artists": [
+    "Berlin Philharmonic"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Dtimes"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Dtimes"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-25T17:08:05+00:00",
+   "articles": [
+    {
+     "outlet": "Dtimes",
+     "title": "ハーディング指揮・樫本大進独奏で川崎・東京・河口湖の全5公演！フジテレビジョン 来日70周年記念 龍角散presents ベルリン･フィルハーモニー管弦楽団 特別公演2027／ヴァルトビューネ河口湖2027",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRWExucDNteXdabmJva2drNUhBM2dZNzFWMGotSEJCMGdJZU9RQVl4TXlaSDZ2Y2VuNFBvRG9nejZIMnRsbXc?oc=5",
+     "published": "2026-10-25T17:08:05+00:00",
+     "summary": "ハーディング指揮・樫本大進独奏で川崎・東京・河口湖の全5公演！フジテレビジョン 来日70周年記念 龍角散presents ベルリン･フィルハーモニー管弦楽団 特別公演2027／ヴァルトビューネ河口湖2027 Dtimes"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Yo Lo performs first Japan live show",
+   "artists": [
+    "Yo Lo"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "YouTube"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "YouTube"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-25T09:56:38+00:00",
+   "articles": [
+    {
+     "outlet": "YouTube",
+     "title": "台湾から初来日でLIVEしたアイドル悠洛(Yo Lo)ちゃんはぴかの歌とオリジナルソング披露",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLUXNtdTBFV1VlZnByYkpwWUdlM0wycHVidmR1eWNRbUF3T0NtYTI2ZjhIb3BQUzJ0NTJYdTltT2hraWtfdk1OeGpleHJkU3dxQkJxcWgtOVViUWVl?oc=5",
+     "published": "2026-10-25T09:56:38+00:00",
+     "summary": "台湾から初来日でLIVEしたアイドル悠洛(Yo Lo)ちゃんはぴかの歌とオリジナルソング披露 YouTube"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "Red Velvet Irene & Seulgi complete Japan tour",
+   "artists": [
+    "Red Velvet"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Kstyle"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Kstyle"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-25T06:08:00+00:00",
+   "articles": [
+    {
+     "outlet": "Kstyle",
+     "title": "【PHOTO】Red Velvet アイリーン＆スルギ、日本ツアーの愛知公演を終えて韓国に到着",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xbnEwdXN6aEREV01FZTFvX3VaLWhDQ1gtaW9WcTk2WDAxUEd4UmlVNEI5MHM4UGdFQWQ1aFlLWmt6TE5vZUJUQTNrcU1RSFpzVzFPa05kS3JveEVC?oc=5",
+     "published": "2026-10-25T06:08:00+00:00",
+     "summary": "【PHOTO】Red Velvet アイリーン＆スルギ、日本ツアーの愛知公演を終えて韓国に到着 Kstyle"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "ZEROBASEONE Kim Jiwoong announces first Japan fan meeting",
+   "artists": [
+    "Kim Jiwoong"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "山陽新聞"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-25T05:37:48+00:00",
+   "articles": [
+    {
+     "outlet": "山陽新聞",
+     "title": "ZEROBASEONEキム・ジウン、初の来日ファンミーティング開催決定 近い距離感でのパフォーマンスやトークを予定",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKY2tITGlQYUR4Ykh4UHRpQ1NiX21nZmR1SmU2RzRaTFV0b25WNktMcDBSVWNGakc0RG9VMkZBOWtWNV9pNWltcHllbWM2Q281aXJ0VkE3SEJXREtIY0pVV1VPVDFKam1LMjV2bGlvMA?oc=5",
+     "published": "2026-10-25T05:37:48+00:00",
+     "summary": "ZEROBASEONEキム・ジウン、初の来日ファンミーティング開催決定 近い距離感でのパフォーマンスやトークを予定 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "Natasha Bedingfield on unconventional career path",
+   "artists": [
+    "Natasha Bedingfield"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-25T14:00:05+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "Natasha Bedingfield looks back: ‘I had hits in the US that weren’t released in England. It was like being banished’",
+     "link": "https://www.theguardian.com/lifeandstyle/2026/oct/25/natasha-bedingfield-singer-songwriter-looks-back-interview-new-single-dot-dot-dot",
+     "published": "2026-10-25T14:00:05+00:00",
+     "summary": "The singer-songwriter on her unconventional education, her brother Daniel, and her quest to write a classic like Purple Rain Born in London in 1981, Natasha Bedingfield is a singer and songwriter. Her 2004 debut album, Unwritten, sold more "
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s40",
+   "label": "Pulp discusses Mercury Prize and Brian Eno anecdote",
+   "artists": [
+    "Pulp"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-25T14:24:20+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Pulp on their full circle moment with the Mercury Prize and Brian Eno nearly throwing their prize money away",
+     "link": "https://www.nme.com/news/music/pulp-interview-mercury-prize-war-child-help-2-brian-eno-different-class-3974140?utm_source=rss&utm_medium=rss&utm_campaign=pulp-interview-mercury-prize-war-child-help-2-brian-eno-different-class",
+     "published": "2026-10-25T14:24:20+00:00",
+     "summary": "Jarvis Cocker tells us about what he spent his wages on back when he was a paper boy as the indie veterans also share the secret to a great album and what it was like to work on 'Help(2)' The post Pulp on their full circle moment with the M"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Elvis Presley catalog owners sue Anthropic over AI copyright",
+   "artists": [
+    "Elvis Presley"
+   ],
+   "genre": "Other",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "NME",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-25T18:06:26+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Elvis Presley Catalog Owners Sue AI Company Anthropic for Copyright Infringement",
+     "link": "https://pitchfork.com/story/elvis-presley-catalog-owners-sue-ai-company-anthropic-for-copyright-infringement/",
+     "published": "2026-10-25T18:06:26+00:00",
+     "summary": "The lawsuit claims Anthropic illegally used 274 songs by The King to train its AI model Claude"
+    },
+    {
+     "outlet": "NME",
+     "title": "Elvis Presley rightsholders sue AI company Anthropic over alleged copyright infringement of 274 songs",
+     "link": "https://www.nme.com/news/music/elvis-presley-rightsholders-sue-anthropic-copyright-infringement-274-songs-3974178?utm_source=rss&utm_medium=rss&utm_campaign=elvis-presley-rightsholders-sue-anthropic-copyright-infringement-274-songs",
+     "published": "2026-10-25T11:44:17+00:00",
+     "summary": "The company behind Claude could face more than $40million in damages over the alleged unauthorised use of the singer's catalogue The post Elvis Presley rightsholders sue AI company Anthropic over alleged copyright infringement of 274 songs "
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s21",
+   "label": "Turnstile draws 60,000 fans at Washington Monument benefit",
+   "artists": [
+    "Turnstile"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "Consequence",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-25T17:02:56+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Turnstile Draw 60,000 Fans to Washington Monument, Raise Over $220,000 for Humanitarian Aid",
+     "link": "https://consequence.net/2026/10/turnstile-draw-60000-fans-to-washington-monument-raise-over-220000-for-humanitarian-aid/",
+     "published": "2026-10-25T17:02:56+00:00",
+     "summary": "The Baltimore band’s massive hometown-area show raised money for relief efforts in Palestine, Sudan, and Lebanon. Turnstile Draw 60,000 Fans to Washington Monument, Raise Over $220,000 for Humanitarian Aid Alex Krinsky"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Turnstile Pack Out Washington Monument for Palestine, Sudan, and Lebanon Benefit Show",
+     "link": "https://pitchfork.com/story/turnstile-pack-out-washington-monument-for-palestine-sudan-and-lebanon-benefit-show/",
+     "published": "2026-10-25T14:34:59+00:00",
+     "summary": "The Baltimore hardcore band raised over $220,000 for Human Concern International’s relief efforts in the three regions"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 2
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 27
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 52,
+   "kept": 27
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 3
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 3
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 0
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 82,
+   "kept": 16
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 0
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 25
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 20,
+   "kept": 6
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 30,
+   "kept": 2
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 3
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 31
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 1,
+   "kept": 1
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 2,
+   "kept": 1
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 16,
+   "kept": 7
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 43,
+   "kept": 21
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 46,
+   "kept": 7
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 8,
+   "kept": 4
+  }
+ ],
+ "cost": {
+  "usd": 0.297,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 17435,
+    "output_tokens": 6500
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 17148,
+    "output_tokens": 8926
+   }
+  ]
+ }
+}
