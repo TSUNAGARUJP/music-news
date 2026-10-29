@@ -1,0 +1,2974 @@
+{
+ "date": "2026-10-29",
+ "generated_at": "2026-10-29T03:11:17.752441+00:00",
+ "article_count": 304,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "アーティストの本音や苦言に加え、AIボーカルの報酬、チケットの転売や手数料、ナイトライフの費用高騰など、業界の仕組みを問う話題が目立つ一日。",
+  "top": [
+   {
+    "id": "s10",
+    "title_ja": "J. Cole、Kendrick対Drakeの確執で難しい立場だったと告白",
+    "genre": "Hip-Hop",
+    "summary_ja": "J. Coleが、Kendrick LamarとDrakeの確執に反応するのが複雑だった理由を語ったと報じられている。すでにKendrickと『The Fall-Off』で関わっていたことが背景にあるという。最後のアルバムと語っていた『The Fall-Off』のあとも、「引退」という言葉は一切使わないと明言した。",
+    "why_ja": "Billboard、Complex、HotNewHipHop、XXLの海外音楽メディア4媒体が報道。ヒップホップ史に残る確執に近い立場にいた人物が本音を語った点が注目されている。",
+    "debate_ja": "友人同士の確執、周りのアーティストは黙るべき？発言すべき？",
+    "line_point": "J. Cole、Kendrick対Drakeの確執で難しい立場だったと語り、引退という言葉も否定。",
+    "reels": [
+     {
+      "hook": "J. Coleの沈黙、正直どう思う？",
+      "angle": "確執と難しい立場だったという発言を紹介→沈黙は誠実さか、逃げかを論点に→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "引退するんじゃなかったの？",
+      "angle": "『The Fall-Off』を最後のアルバムと語っていた過去と今回の発言を並べ、引退という言葉を避ける理由を読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s75",
+    "title_ja": "Jack Antonoff、Ed Sheeranに「立ち上がれ」と苦言",
+    "genre": "POP",
+    "summary_ja": "Jack Antonoffが、Ed Sheeranに向けて「億万長者に指図され続ける世界に生きているのだから、立ち上がるべきだ」という趣旨の発言をしたとNMEが報じた。さらに、Ed Sheeranはある論争をチャリティの資金集めに生かす大きなチャンスを逃したとも語ったという。",
+    "why_ja": "NMEが報道。日本でも知名度の高いEd Sheeranに、著名プロデューサーが公の場で苦言を呈した点が注目されている。",
+    "debate_ja": "アーティストは社会的な立場をはっきり示すべき？",
+    "line_point": "Jack Antonoff、Ed Sheeranに対し、論争をチャリティに生かす機会を逃したと発言。",
+    "reels": [
+     {
+      "hook": "アーティストに社会的な発言、必要？",
+      "angle": "発言内容を事実として紹介→発言すべき派と音楽に集中すべき派の両方の見方を示す→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "アーティスト同士の公開の苦言、実は多い",
+      "angle": "今回の発言の要点を整理し、アーティストが公の場で別のアーティストに意見する意味や影響を解説する"
+     }
+    ]
+   },
+   {
+    "id": "s44",
+    "title_ja": "Massive Attackの3D、ガザ医療チームの映画サントラを監修",
+    "genre": "Dance",
+    "summary_ja": "Massive AttackのRobert Del Najaが、ガザの医療チームを追うドキュメンタリー『Life Support』のサウンドトラックを共同キュレートした。Kneecap、Paul Wellerらが参加する全13曲で、10月28日にデジタルとレコードで発売される。収益はHealth Workers 4 Palestineの支援にあてられると報じられている。",
+    "why_ja": "NME、Pitchfork、Resident Advisor、DJ Magの海外4媒体に加え、日本のBillboard JAPANも報道。社会問題と音楽の関わり方を考えるきっかけになる話題。",
+    "debate_ja": "音楽で人道支援を訴える形、あなたはどう受け止める？",
+    "line_point": "Massive Attackの3Dがガザ医療チームの映画のサントラを監修。収益は医療従事者の支援へ。",
+    "reels": [
+     {
+      "hook": "音楽は人道支援の力になれる？",
+      "angle": "作品と寄付先の事実を紹介→音楽と社会問題の関わりについて、共感と慎重論の両方の見方を示す→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "豪華すぎる参加メンバーに注目",
+      "angle": "Kneecap、Paul Wellerら参加アーティストの顔ぶれと、映画のサントラというかたちで支援する仕組みを解説する"
+     }
+    ]
+   },
+   {
+    "id": "s11",
+    "title_ja": "Kanye West、AIボーカル作業の報酬めぐり提訴される",
+    "genre": "Hip-Hop",
+    "summary_ja": "『Vultures 2』と『Bully』でAIボーカルの作業をしたという人物が、報酬の支払いを求めてKanye Westを訴えていると報じられている。原告は身の安全への不安から匿名での訴訟を求めており、その判断を待っている状況だという。",
+    "why_ja": "AllHipHopが報道。AIを使った制作の裏方が、どう評価されて報酬を受け取るのかという業界のAI問題に直結する話題。",
+    "debate_ja": "AIボーカルの裏方、クレジットや報酬はどうあるべき？",
+    "line_point": "Kanye Westの作品でAIボーカルを担当したという人物が、報酬を求めて提訴と報道。",
+    "reels": [
+     {
+      "hook": "AIの声を作った人、誰が評価する？",
+      "angle": "訴訟の事実を紹介→AI制作に関わる人の報酬やクレジットを論点に→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "AIと音楽の訴訟、また増えてきた",
+      "angle": "今回の訴えの中身を整理し、AIを使った音楽制作で裏方の権利がどう扱われているかを解説する"
+     }
+    ]
+   },
+   {
+    "id": "s52",
+    "title_ja": "Alison Wonderland、転売ボットとチケット手数料を批判",
+    "genre": "Dance",
+    "summary_ja": "オーストラリア出身のAlison Wonderlandがデンバー公演を前に、転売業者とチケット手数料がファンの負担を押し上げていると批判した。一方で、自身は高い制作費のために赤字になっているとも語ったと報じられている。",
+    "why_ja": "EDM.comが報道。チケット価格の高騰の原因をアーティスト自身が語ったことで、ファンと業界の両方の視点から議論できる。",
+    "debate_ja": "チケット高騰、いちばんの原因は何だと思う？",
+    "line_point": "Alison Wonderland、転売と手数料がファンの負担を増やしていると批判し、自身は赤字と明かす。",
+    "reels": [
+     {
+      "hook": "チケット代が高いのは誰のせい？",
+      "angle": "発言の要点を紹介→転売、手数料、制作費のどこに問題があるかを論点に→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "ライブで赤字になるアーティストもいる",
+      "angle": "制作費の高さで赤字という発言を、チケット不振と費用の高さでツアーを中止したMNEKの例と比べて解説する"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s91",
+     "title_ja": "英国のナイトライフ費用、2020年から34%上昇",
+     "note": "業界団体NTIAが、夜遊びの価格は限界に達したと英国政府に警告した。"
+    },
+    {
+     "id": "s90",
+     "title_ja": "Portola Music Festival、EDM世代の交差を描く",
+     "note": "サンフランシスコのフェスで、世代の異なるダンスミュージックが交差したと報道。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s14",
+     "title_ja": "Merck Mercuriadis、新Hipgnosisで管理会社8社を統合",
+     "note": "新会社Hipgnosis Artist Partnershipsで、マネジメント会社8社を束ねる計画。"
+    },
+    {
+     "id": "s86",
+     "title_ja": "Xaviersobased、Sabrina Carpenterとのコラボを熱望",
+     "note": "「アルバム1枚まるごと作れる」と語り、Sabrina Carpenterとの共演を希望。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s13",
+     "title_ja": "50 Cent、Tia Kempへの一時的な接近禁止命令を獲得",
+     "note": "フロリダの判事が息子Sireへの接触を制限し、11月3日に審理が予定されている。"
+    },
+    {
+     "id": "s89",
+     "title_ja": "Jacquees、Ella Mai「Trip」リミックスの対立を振り返る",
+     "note": "過去の対立を振り返り、Ella Maiに「大きな成功を願っている」と語った。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s0",
+     "title_ja": "Brian Jones、Charlie WattsをStonesに誘った手紙が競売に",
+     "note": "1962年に加入を呼びかけた未公開の手紙がサザビーズに出品。バンド誕生の裏話になる。"
+    },
+    {
+     "id": "s2",
+     "title_ja": "Avicii、「Levels」初披露の2011年Tomorrowland映像公開",
+     "note": "「Levels」15周年記念で、名曲を初披露したTomorrowland初出演時のセットが初公開。"
+    },
+    {
+     "id": "s42",
+     "title_ja": "Dave Grohl、Taylor Hawkins加入の秘話を語る",
+     "note": "Alanis Morissetteのバンドから引き抜いた経緯と、親友になった瞬間の裏話。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s6",
+    "title_ja": "KATSEYE、2027年1月に横浜アリーナで来日公演決定",
+    "note": "会場は横浜アリーナ。世界各地で完売が続くツアーが日本に上陸。"
+   },
+   {
+    "id": "s64",
+    "title_ja": "sace6、2027年1月に初来日公演決定",
+    "note": "米ポップデュオ。CREATIVEMAN PRODUCTIONSが新規公演の決定を発表。"
+   },
+   {
+    "id": "s59",
+    "title_ja": "Benson Boone、来日公演の公式グッズと当日券情報を公開",
+    "note": "2026年来日公演の公式グッズが明らかに。当日券のお知らせも発表。"
+   },
+   {
+    "id": "s66",
+    "title_ja": "5 Seconds of Summer、来日公演に向け予習プレイリスト公開",
+    "note": "UNIVERSAL MUSIC JAPANが単独来日公演に向けた予習プレイリストを公開。"
+   },
+   {
+    "id": "s67",
+    "title_ja": "Aaron Chen、東京公演がソールドアウト",
+    "note": "会場は有楽町アイマショウ。当日券の販売予定はなし。"
+   },
+   {
+    "id": "s60",
+    "title_ja": "DJ Clent、緊急来日「LOWEND STYLE 2026」に出演",
+    "note": "ゲットー・ハウス、フットワークのパイオニアが急きょ来日。"
+   },
+   {
+    "id": "s65",
+    "title_ja": "Parkway DriveのWinston McCall、11月に来日し上映会に登壇",
+    "note": "11月25日に新宿で映画『HOME』のプレミア上映会。輸入盤音源は12月4日発売。"
+   },
+   {
+    "id": "s61",
+    "title_ja": "Nathan East、来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s62",
+    "title_ja": "Leaveourtears、約1年半ぶりの来日公演決定",
+    "note": "韓国のシューゲイズアーティスト。"
+   },
+   {
+    "id": "s5",
+    "title_ja": "Dionysus Now!、初来日アカペラ公演が開催間近",
+    "note": "ベルギーの男声アンサンブル。会場は北とぴあ さくらホール。"
+   }
+  ],
+  "tour_candidates": 12
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s10",
+   "label": "J. Cole reflects on Kendrick Lamar Drake beef pressure",
+   "artists": [
+    "J. Cole",
+    "Kendrick Lamar",
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "HotNewHipHop",
+    "XXL"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 4,
+   "latest": "2026-10-29T00:15:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "J. Cole Reveals Why Kendrick Lamar-Drake Beef Put Him In A Tough Spot",
+     "link": "https://www.hotnewhiphop.com/1014799-j-cole-kendrick-lamar-drake-beef-gq",
+     "published": "2026-10-29T00:15:00+00:00",
+     "summary": "Having already worked with Kendrick Lamar on The Fall-Off, J. Cole explains why responding to the feud felt complicated. The post J. Cole Reveals Why Kendrick Lamar-Drake Beef Put Him In A Tough Spot appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "J. Cole Reflects on Kendrick Lamar Feud & Confirms He’s Not Retiring: ‘I’m Not Using That Word at All’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/j-cole-kendrick-lamar-feud-not-retiring-1236369930/",
+     "published": "2026-10-28T23:04:20+00:00",
+     "summary": "Cole previously said The Fall-Off would be his final album."
+    },
+    {
+     "outlet": "XXL",
+     "title": "J. Cole Confirms He's Not Retiring, Reflects on Jay-Z Pressure",
+     "link": "https://www.xxlmag.com/j-cole-retirement-jay-z-pressure-gq-interview/",
+     "published": "2026-10-28T19:46:32+00:00",
+     "summary": "The pressure made diamonds. Continue reading…"
+    },
+    {
+     "outlet": "Complex",
+     "title": "J. Cole Recalls Past Hesitance to Work With 'Top Dogs' in Production",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TOHNYNm5qLUk2bUN3WHVhcEJWNmg0WDFERWVTSW00T3Bzd2l3STRSdUtLdUhJTGdmbUlHNjhCaERUdW5sXzJZMUNGbW1SRG5FNUxSQ0ltTlo5OVVTU29mNHB0VThtREFMQWFYa3hDZDhzcFc1QmJpWHhR?oc=5",
+     "published": "2026-10-28T18:49:03+00:00",
+     "summary": "J. Cole Recalls Past Hesitance to Work With 'Top Dogs' in Production Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s44",
+   "label": "Massive Attack Robert Del Naja Gaza documentary soundtrack",
+   "artists": [
+    "Massive Attack"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "talk": 1,
+   "outlets": [
+    "Billboard JAPAN",
+    "DJ Mag",
+    "NME",
+    "Pitchfork",
+    "Resident Advisor"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 5,
+   "latest": "2026-10-29T09:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ガザ医療チームを追うドキュメンタリー『ライフ・サポート』サントラ発売、マッシヴ・アタックの3Dが共同キュレート",
+     "link": "https://www.billboard-japan.com/d_news/detail/166910",
+     "published": "2026-10-29T09:00:00+09:00",
+     "summary": "ドキュメンタリー映画『ライフ・サポート』のオリジナル・サウンドトラック・アルバムがリリースされる。 本作は、映画のプ…"
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "Massive Attack’s Robert Del Naja curates soundtrack for new Gaza documentary, Life Support",
+     "link": "https://djmag.com/news/massive-attacks-robert-del-naja-curates-soundtrack-new-gaza-documentary-life-support",
+     "published": "2026-10-28T15:42:53+00:00",
+     "summary": "The 13-track soundtrack will be released digitally and on vinyl on 28th October via Battlebox"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Massive Attack’s Robert Del Naja Releases New Songs for Gaza Documentary",
+     "link": "https://pitchfork.com/story/massive-attacks-robert-del-naja-releases-new-songs-for-gaza-documentary/",
+     "published": "2026-10-28T13:14:55+00:00",
+     "summary": "The Life Support soundtrack includes his new remix of Kneecap’s “Palestine”"
+    },
+    {
+     "outlet": "NME",
+     "title": "Robert Del Naja releases ‘Life Support’ film soundtrack with Kneecap, Paul Weller, David Holmes, Yasmine Hamdan and more to benefit Health Workers 4 Palestine",
+     "link": "https://www.nme.com/news/film/robert-del-naja-massive-attack-life-support-film-soundtrack-kneecap-paul-weller-3974434?utm_source=rss&utm_medium=rss&utm_campaign=robert-del-naja-massive-attack-life-support-film-soundtrack-kneecap-paul-weller",
+     "published": "2026-10-28T11:42:55+00:00",
+     "summary": "“We hope the range of compositions go some way to travelling the emotional quagmire” The post Robert Del Naja releases ‘Life Support’ film soundtrack with Kneecap, Paul Weller, David Holmes, Yasmine Hamdan and more to benefit Health Workers"
+    },
+    {
+     "outlet": "Resident Advisor",
+     "title": "Massive Attack's Robert Del Naja soundtracks Gaza documentary Life Support · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9HZ2F3NUdvTzl0RE9yQm9UeEFxb1ZrenVNUkF2dmFIR3VlNER4TmJmc3JMUUJITm5pVmVoYg?oc=5",
+     "published": "2026-10-28T10:31:56+00:00",
+     "summary": "Massive Attack's Robert Del Naja soundtracks Gaza documentary Life Support · News ⟋ RA Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Lil Durk legal updates and bond hearing developments",
+   "artists": [
+    "Lil Durk"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "Complex",
+    "HotNewHipHop",
+    "Vibe",
+    "XXL"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 4,
+   "latest": "2026-10-29T00:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Lil Durk Gets Bail Support From Former Cook County Prosecutor Kim Foxx",
+     "link": "https://www.hotnewhiphop.com/1014808-lil-durk-bail-letter-kim-foxx",
+     "published": "2026-10-29T00:30:00+00:00",
+     "summary": "After serving eight years as Chicago's top prosecutor, Kim Foxx is urging a federal judge to reconsider Lil Durk's detention. The post Lil Durk Gets Bail Support From Former Cook County Prosecutor Kim Foxx appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Lil Durk's Lawyers Propose 'Robust' Bond Package Including Royalties, Publishing, Mom's Home, More",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aYlFYMGY3akE3dG1iTkpDSVg3QXZTb2NpZTVIX1lYWVJld3hDWHJSdjBMSDVNNzVzdzY5aTZQVW5hbDgzLXFTNkJFN2YzUllOS0w4WkFzOTlxdXRQcktxWnFVLWZoeFdPSXlVNlp6RnljR0phTWNPbW9mWQ?oc=5",
+     "published": "2026-10-28T18:37:18+00:00",
+     "summary": "Lil Durk's Lawyers Propose 'Robust' Bond Package Including Royalties, Publishing, Mom's Home, More Complex"
+    },
+    {
+     "outlet": "Vibe",
+     "title": "Jay-Z and J. Cole Back Lil Durk’s Latest Bid for Release: “Respectful and Focused”",
+     "link": "https://www.vibe.com/music/music-news/jay-z-j-cole-lil-durk-bond-quando-rondo-king-von-1235200694/",
+     "published": "2026-10-28T17:09:44+00:00",
+     "summary": "Lil Durk is seeking pretrial release by pledging all his future earnings as security for his appearance at a second trial scheduled for August 2027"
+    },
+    {
+     "outlet": "XXL",
+     "title": "Jaÿ-Z, J. Cole, Lul Pab’s Mom Write Letters to Lil Durk Judge",
+     "link": "https://www.xxlmag.com/jay-z-j-cole-lul-pab-mom-letters-lil-durk-bond/",
+     "published": "2026-10-28T15:19:53+00:00",
+     "summary": "Lil Durk's quest for a bond ahead of his second trial continues. Continue reading…"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Jay-Z and J. Cole Write Letters Supporting Lil Durk to the Judge Before His Bond Hearing",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNelk5U041eHBXdjVHZTJLYVdTcHFHSGM0R3N0V19GZEJiejZNUXdPNDE1VldUZ0ljRmx3c0xKVk0zRTZwelBFcTZ3NkpxTnpBTVVNemdRRm1ZRXV4Tlh3YjNGUjl4STMtSEx2aTZwTWZzX3ZDWmFZeEZEMFZzSjhPZVkxSGRZYTZMWndNb0RCRkhtZw?oc=5",
+     "published": "2026-10-27T22:28:07+00:00",
+     "summary": "Jay-Z and J. Cole Write Letters Supporting Lil Durk to the Judge Before His Bond Hearing Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "50 Cent restraining order against Tia Kemp",
+   "artists": [
+    "50 Cent"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop",
+    "HotNewHipHop",
+    "XXL"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-28T23:57:59+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Tia Kemp Calls 50 Cent A “Rat” After Restraining Order",
+     "link": "https://www.hotnewhiphop.com/1014802-50-cent-tia-kemp-restraing-order-response",
+     "published": "2026-10-28T23:57:59+00:00",
+     "summary": "A Florida judge ordered her to avoid contacting Sire, but Tia Kemp continued taking shots at 50 Cent through her Instagram Stories. The post Tia Kemp Calls 50 Cent A “Rat” After Restraining Order appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "50 Cent Wins Temporary Restraining Order Against Tia Kemp As Battle Over Sons Explodes",
+     "link": "https://allhiphop.com/news/50-cent-wins-temporary-restraining-order-against-tia-kemp-as-battle-over-sons-explodes/",
+     "published": "2026-10-28T23:12:22+00:00",
+     "summary": "50 Cent wins a temporary order against Tia Kemp, restricting her contact with Sire and setting a November 3 court hearing."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "50 Cent Granted Temporary Restraining Order Against Tia Kemp",
+     "link": "https://www.hotnewhiphop.com/1014785-50-cent-tia-kemp-restraining-order",
+     "published": "2026-10-28T22:34:46+00:00",
+     "summary": "After allegations of online harassment, a Florida judge granted 50 Cent's request for temporary protection for his son. The post 50 Cent Granted Temporary Restraining Order Against Tia Kemp appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "XXL",
+     "title": "50 Cent Files $6 Million Lawsuit Against Rick Ross' Ex Tia Kemp",
+     "link": "https://www.xxlmag.com/50-cent-libel-lawsuit-tia-kemp/",
+     "published": "2026-10-28T15:28:40+00:00",
+     "summary": "The suit accuses Kemp of libel, false light invasion of privacy and intentional infliction of emotional distress. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "359IStQ5ZIE",
+    "title": "Tia Kemp VIOLATES 50 CENT For BONDING OUT GOON That PISTOL-WHIPPED Her Son",
+    "channel": "Chigs Smooth",
+    "published": "2026-10-23T01:39:15Z",
+    "hours_since": 146,
+    "views": 53162,
+    "url": "https://www.youtube.com/watch?v=359IStQ5ZIE",
+    "views_per_hour": 364
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "AI vocal worker sues Kanye West over Vultures payments",
+   "artists": [
+    "Kanye West"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-29T02:00:45+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "AI Vocal Worker Suing Kanye Fears For His Safety, Asks To Remain Anonymous",
+     "link": "https://allhiphop.com/news/ai-vocal-worker-suing-kanye-fears-for-his-safety-asks-to-remain-anonymous/",
+     "published": "2026-10-29T02:00:45+00:00",
+     "summary": "Kanye West's accuser awaited a ruling on anonymity in a lawsuit seeking payment for AI vocal work on \"Vultures 2\" and \"Bully.\""
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s52",
+   "label": "Alison Wonderland blasts ticket bots fees Denver",
+   "artists": [
+    "Alison Wonderland"
+   ],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-28T16:53:13+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Alison Wonderland Blasts Ticket Bots and Fees Ahead of Denver Show",
+     "link": "https://edm.com/industry/alison-wonderland-blasts-ticket-bots-fees/",
+     "published": "2026-10-28T16:53:13+00:00",
+     "summary": "The Australian DJ says scalpers and ticketing fees are driving up costs for fans while she loses money due to high production spend. The post Alison Wonderland Blasts Ticket Bots and Fees Ahead of Denver Show appeared first on EDM ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s75",
+   "label": "Jack Antonoff to Ed Sheeran billionaires criticism",
+   "artists": [
+    "Jack Antonoff",
+    "Ed Sheeran"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-28T10:55:57+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Jack Antonoff to Ed Sheeran: “We all live in a world where billionaires are constantly telling us what to do – so stand the fuck up”",
+     "link": "https://www.nme.com/news/music/jack-antonoff-criticises-ed-sheeran-amid-macklemore-controversy-stand-the-fuck-up-3974423?utm_source=rss&utm_medium=rss&utm_campaign=jack-antonoff-criticises-ed-sheeran-amid-macklemore-controversy-stand-the-fuck-up",
+     "published": "2026-10-28T10:55:57+00:00",
+     "summary": "He also said that the ‘Shape Of You’ singer “missed a massive, beautiful opportunity” to use the controversy as a way to raise money for charity The post Jack Antonoff to Ed Sheeran: “We all live in a world where billionaires are constantly"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s91",
+   "label": "UK nightlife costs increased 34 percent since 2020",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "business",
+   "talk": 2,
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "UK nightlife costs have increased by 34% since 2020, new study finds",
+     "link": "https://mixmag.net/read/uk-nightlife-costs-increased-34-percent-since-2020-new-study-finds-news",
+     "published": null,
+     "summary": "The Night Time Industries Association has warned the UK government that the price of a night out has \"reached its limit\" Continue reading..."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Ozzy Osbourne Black Sabbath final concert film release",
+   "artists": [
+    "Ozzy Osbourne",
+    "Black Sabbath"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "NME",
+    "NME Japan",
+    "Rolling Stone",
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [
+    "NME Japan",
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-10-29T03:00:44+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "オジー・オズボーン＆ブラック・サバス、最後のライヴが映像商品として12月11日に発売決定",
+     "link": "https://nme-jp.com/news/173840/",
+     "published": "2026-10-29T03:00:44+00:00",
+     "summary": "オジー・オズボーンとブラック・サバスが最後に行ったライヴ『バック・トゥ・ザ・ビギニング』が12月11日に4K Ultra HD、ブルーレイ、CD、LP盤、およびデジタルなど、様々なフォーマットで発売される。"
+    },
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "オジー・オズボーン/ブラック・サバスのライヴ映画『Back to the Beginning』日本限定盤発売決定",
+     "link": "https://www.udiscovermusic.jp/news/the-japan-exclusive-edition-of-back-to-the-beginning-is-set-to-be-released-on-december-11",
+     "published": "2026-10-29T01:15:19+00:00",
+     "summary": "オジー・オズボーンの生涯最後のライヴとなった伝説の1日を記録した映画『Back to the Beginning』に、当日のオジーとブラック・サバスのステージ全編の映像・音声を加えた、ブルーレイ2枚＋CDの永久保存版が日本限定盤として12月11日に発売されることが決定した。先着購入者特典も発表されている。 The post オジー・オズボーン/ブラック・サバスのライヴ映画『Back to the Beginning』日本限定盤発売決定 appeared first on uD"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Sharon Osbourne Says ‘Back to the Beginning’ Concert Film Captured Ozzy’s ‘Every Pore, Every Expression’ Before His Death",
+     "link": "https://www.billboard.com/music/rock/ozzy-osbourne-back-to-the-beginning-concert-film-1236370014/",
+     "published": "2026-10-28T22:19:11+00:00",
+     "summary": "Ozzy & Black Sabbath: Back to the Beginning is an in-depth look at the rock icon's swan song."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Ozzy Osbourne’s Last Black Sabbath Concert Will Be Available On Vinyl",
+     "link": "https://www.rollingstone.com/music/music-news/ozzy-osbournes-back-to-the-beginning-film-soundtrack-1235649235/",
+     "published": "2026-10-28T16:52:33+00:00",
+     "summary": "Following its theatrical release, film and soundtrack versions of Back to the Beginning will be available on DVD, Blu-ray, CD, and vinyl with special bonus material"
+    },
+    {
+     "outlet": "NME",
+     "title": "Ozzy Osbourne and Black Sabbath’s ‘Back To The Beginning’ soundtrack and film set for release",
+     "link": "https://www.nme.com/news/music/ozzy-osbourne-black-sabbath-back-to-the-beginning-soundtrack-film-set-for-release-3974453?utm_source=rss&utm_medium=rss&utm_campaign=ozzy-osbourne-black-sabbath-back-to-the-beginning-soundtrack-film-set-for-release",
+     "published": "2026-10-28T14:58:21+00:00",
+     "summary": "The release features 4K footage from the iconic show, behind-the-scenes moments, video tributes from Dolly Parton and Ricky Gervais, and more The post Ozzy Osbourne and Black Sabbath’s ‘Back To The Beginning’ soundtrack and film set for rel"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "zkj3YmIzbUw",
+    "title": "Ozzy & Black Sabbath: Back To The Beginning comes exclusively to cinemas this Wednesday!",
+    "channel": "Trafalgar Releasing",
+    "published": "2026-10-26T16:42:18Z",
+    "hours_since": 58,
+    "views": 67348,
+    "url": "https://www.youtube.com/watch?v=zkj3YmIzbUw",
+    "views_per_hour": 1161
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s54",
+   "label": "Jay-Z Super Bowl LXI halftime show headliner 2027",
+   "artists": [
+    "Jay-Z"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "talk": 1,
+   "outlets": [
+    "XXL",
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-28T15:34:17+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "Jaÿ-Z Feels No Pressure Headlining 2027 Super Bowl Halftime Show",
+     "link": "https://www.xxlmag.com/jay-z-no-pressure-2027-super-bowl-halftime-show/",
+     "published": "2026-10-28T15:34:17+00:00",
+     "summary": "Hov is pressure. Continue reading…"
+    },
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "ジェイ・Z、2027年スーパーボウル・ハーフタイムショーのヘッドライナーに決定",
+     "link": "https://www.udiscovermusic.jp/news/jay-z-confirmed-as-headliner-for-2027-super-bowl-halftime-show",
+     "published": "2026-10-28T08:06:59+00:00",
+     "summary": "ジェイ・Zが2027年2月14日、ロサンゼルス近郊のSoFiスタジアムで開催される「第61回スーパーボウル（Super Bowl LXI）」のヘッドライナーを務める。 The post ジェイ・Z、2027年スーパーボウル・ハーフタイムショーのヘッドライナーに決定 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "XxMYacLARps",
+    "title": "JAY-Z Officially Named 2027 Super Bowl Halftime Headliner",
+    "channel": "Entertainment Tonight",
+    "published": "2026-10-27T16:30:05Z",
+    "hours_since": 35,
+    "views": 14729,
+    "url": "https://www.youtube.com/watch?v=XxMYacLARps",
+    "views_per_hour": 421
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s84",
+   "label": "Peven Everett house music legend documentary",
+   "artists": [
+    "Peven Everett"
+   ],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-28T12:00:02+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "‘I knead the audience, like a baker!’ House music legend Peven Everett on life after cancer and vanquishing the ‘Disco Sucks’ movement",
+     "link": "https://www.theguardian.com/music/2026/oct/28/interview-peven-everett-2026",
+     "published": "2026-10-28T12:00:02+00:00",
+     "summary": "A new documentary follows the Chicagoan from child trumpet prodigy to Gabriel-singing icon and DIY maverick. ‘Not everybody wants to see musical genius’, he says At We Out Here festival in Dorset in August, thousands of people could be hear"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Everything But the Girl announce album 'Blue Reservoir'",
+   "artists": [
+    "Everything But the Girl"
+   ],
+   "genre": "Other",
+   "kind": "announcement",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "NME",
+    "Pitchfork"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-10-28T19:51:37+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Everything But The Girl Announce New Album Blue Reservoir, Share “Young and Dumb”",
+     "link": "https://consequence.net/2026/10/everything-but-the-girl-young-and-dumb/",
+     "published": "2026-10-28T19:51:37+00:00",
+     "summary": "Tracey Thorn and Ben Watt follow 2023’s Fuse with a more stripped-back album inspired by their intimate MOTH Club residency. Everything But The Girl Announce New Album Blue Reservoir, Share “Young and Dumb” Alex Krinsky"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Everything But the Girl Ready New Album Blue Reservoir",
+     "link": "https://pitchfork.com/story/everything-but-the-girl-ready-new-album-blue-reservoir/",
+     "published": "2026-10-28T11:34:35+00:00",
+     "summary": "Watch the “Young and Dumb” video from Tracey Thorn and Ben Watt’s Fuse follow-up"
+    },
+    {
+     "outlet": "NME",
+     "title": "Everything But The Girl tell us about reflective new album ‘Blue Reservoir’ – inspired by the magic of Moth Club",
+     "link": "https://www.nme.com/news/music/everything-but-the-girl-interview-new-album-blue-reservoir-young-and-dumb-tour-moth-club-3974409?utm_source=rss&utm_medium=rss&utm_campaign=everything-but-the-girl-interview-new-album-blue-reservoir-young-and-dumb-tour-moth-club",
+     "published": "2026-10-28T11:30:09+00:00",
+     "summary": "Check out the Spanish guitar-driven new single 'Young And Dumb' as Tracey Thorn and Ben Watt tell NME about saving venues, returning to the music industry, and their new album \"caught between the past, present and future\" The post Everythin"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "Zs-N7b3e6P4",
+    "title": "Everything But The Girl - Young and Dumb (Official)",
+    "channel": "EBTGVEVO",
+    "published": "2026-10-28T11:30:04Z",
+    "hours_since": 16,
+    "views": 58468,
+    "url": "https://www.youtube.com/watch?v=Zs-N7b3e6P4",
+    "views_per_hour": 3654
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Merck Mercuriadis launches new Hipgnosis venture",
+   "artists": [],
+   "genre": "POP",
+   "kind": "business",
+   "talk": 1,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-28T23:52:24+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Merck Mercuriadis’ New Hipgnosis Is Rolling Eight Management Companies Into a ‘Juggernaut’",
+     "link": "https://www.billboard.com/pro/merck-mercuriadis-new-hipgnosis-eight-management-companies/",
+     "published": "2026-10-28T23:52:24+00:00",
+     "summary": "Mercuriadis detailed plans for his new venture, Hipgnosis Artist Partnerships, at the Music Tectonics conference in Santa Monica."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s89",
+   "label": "Jacquees revisits Ella Mai 'Trip' remix dispute",
+   "artists": [
+    "Jacquees",
+    "Ella Mai"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-28T23:33:36+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Jacquees Revisits Dispute With Ella Mai Over \"Trip\" Remix: 'I Wish Her Great Success'",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGRlSVhKVDJDVUVLc0JhRGxnbWgzMFJWejQ3MEhoUzFpT3hFWjBiYjdfRjJyb19jQ2lPc1FMVWwxamMyc05IWjdfSkdiMkRNY1U0M1hSUUExREk1b3NoQzhNc3hDUURUSC1scGljSUpBM1JTWXpla0w0Z3pmMzk3TTRkR2xpTXo5UEhIMkhPc0g3Y1NjU252OGdpdjk?oc=5",
+     "published": "2026-10-28T23:33:36+00:00",
+     "summary": "Jacquees Revisits Dispute With Ella Mai Over \"Trip\" Remix: 'I Wish Her Great Success' Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s53",
+   "label": "Slam Academy DJ school closes misconduct allegations",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "business",
+   "talk": 1,
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-28T19:12:49+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Slam Academy DJ School to Close Following Misconduct Allegations",
+     "link": "https://edm.com/news/dj-school-slam-academy-closes-misconduct-allegations/",
+     "published": "2026-10-28T19:12:49+00:00",
+     "summary": "Slam Academy is shuttering its Minneapolis studio after renewed reports of \"inappropriate behavior\" prompted the school to reassess its future. The post Slam Academy DJ School to Close Following Misconduct Allegations appeared first on EDM "
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s86",
+   "label": "Xaviersobased wants to collaborate with Sabrina Carpenter",
+   "artists": [
+    "Xaviersobased",
+    "Sabrina Carpenter"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "Pitchfork"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-28T18:38:43+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Xaviersobased Wants to Collab With Sabrina Carpenter",
+     "link": "https://pitchfork.com/story/xaviersobased-wants-to-collaborate-with-sabrina-carpenter/",
+     "published": "2026-10-28T18:38:43+00:00",
+     "summary": "“Bro, I’ll knock out a whole album with her”"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s92",
+   "label": "Helen Sun lo-fi pop lo-fi pop indie stardom",
+   "artists": [
+    "Helen Sun"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "The Fader"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-28T12:19:45-04:00",
+   "articles": [
+    {
+     "outlet": "The Fader",
+     "title": "Helen Sun’s lo-fi pop is all intuition",
+     "link": "https://www.thefader.com/2026/10/28/helen-sun-talk-with-your-teeth-album-interview",
+     "published": "2026-10-28T12:19:45-04:00",
+     "summary": "She found a mic in a friend’s trash can and recorded an EP that catapulted her to nascent indie stardom."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s93",
+   "label": "girlsweetvoiced Ottawa singer Joni Mitchell sample",
+   "artists": [
+    "girlsweetvoiced"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "The Fader"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-28T11:49:40-04:00",
+   "articles": [
+    {
+     "outlet": "The Fader",
+     "title": "GEN F: girlsweetvoiced is new to this",
+     "link": "https://www.thefader.com/2026/10/28/gen-f-girlsweetvoiced-lovesweet-joni-mitchell-interview",
+     "published": "2026-10-28T11:49:40-04:00",
+     "summary": "A Joni Mitchell sample and delicate song craft have paved the Ottawa singer’s path to the spotlight."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s90",
+   "label": "Portola Music Festival EDM landscape shift panel",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "festival",
+   "talk": 1,
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "At Portola Music Festival, the long shadow of EDM unravels",
+     "link": "https://mixmag.net/feature/portola-festival-2026-review-edm-dance-music-us-europe-connection",
+     "published": null,
+     "summary": "Generations of dance music collide at the San Francisco event, amid shifting tides in the global landscape Continue reading..."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Post Malone teases 'Bad Mood' from new album",
+   "artists": [
+    "Post Malone"
+   ],
+   "genre": "POP",
+   "kind": "announcement",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-29T09:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ポスト・マローン、ニューALから新曲「Bad Mood」の一部を公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/166911",
+     "published": "2026-10-29T09:30:00+09:00",
+     "summary": "ポスト・マローンが、リリースを控えるニュー・アルバム『エターナル・バズ』収録曲の一部をノリノリで聴く姿を公開した。 …"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Post Malone Teases New Song ‘Bad Mood’ That’ll Transport You Right Back to His ‘Beerbongs & Bentleys’ Era",
+     "link": "https://www.billboard.com/music/music-news/post-malone-new-song-bad-mood-1236369976/",
+     "published": "2026-10-28T22:23:08+00:00",
+     "summary": "\"eternal buzz coming soon,\" the musician teased of his upcoming album."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s78",
+   "label": "Maryland National Harbor mini Sphere venue approval",
+   "artists": [],
+   "genre": "POP",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-28T22:41:52+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Maryland Is Getting Its Own (Mini) Sphere",
+     "link": "https://pitchfork.com/story/maryland-is-getting-its-own-mini-sphere/",
+     "published": "2026-10-28T22:41:52+00:00",
+     "summary": "The Prince George’s County Council has authorized up to $215 million for a venue at the D.C. area National Harbor"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "National Harbor Sphere Gains Final Approval, Targets Early 2030 Opening",
+     "link": "https://consequence.net/2026/10/national-harbor-sphere-final-approval/",
+     "published": "2026-10-28T17:30:14+00:00",
+     "summary": "The Prince George's County Council in Maryland has given final approval for the construction of the new mini Sphere at National Harbor. National Harbor Sphere Gains Final Approval, Targets Early 2030 Opening Alex Young"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s45",
+   "label": "The Prodigy release wired earphones BLK.ANT platform",
+   "artists": [
+    "The Prodigy"
+   ],
+   "genre": "Dance",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag",
+    "EDM.com"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-28T18:33:03+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "The Prodigy and Flare Audio Release Innovative Wired Earphones",
+     "link": "https://edm.com/gear-tech/the-prodigy-wired-earphones-flare-audio/",
+     "published": "2026-10-28T18:33:03+00:00",
+     "summary": "Liam Howlett worked directly with the British audio company's co-founder to develop the earphones, the first product from The Prodigy's new BLK.ANT platform. The post The Prodigy and Flare Audio Release Innovative Wired Earphones appeared f"
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "The Prodigy unveil new wired earphones as part of BLK.ANT creative project",
+     "link": "https://djmag.com/news/prodigy-unveil-new-wired-earphones-part-of-blkant-creative-project",
+     "published": "2026-10-28T12:54:21+00:00",
+     "summary": "The new earphones are the first release from BLK.ANT, a new creative platform announced by the British group earlier this month"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s69",
+   "label": "Jennifer Lopez new single 'Proof of Love'",
+   "artists": [
+    "Jennifer Lopez"
+   ],
+   "genre": "POP",
+   "kind": "announcement",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-28T15:59:52+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Jennifer Lopez Looking For ‘Proof of Love’ on New Bonus Track From ‘Love?’ Vinyl Reissue",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2c2eUs5UmtHNWZ5Tzk3WFFmWDBGbXU3WF9ZcjgweFBrcF9GQWJhWXdrRmxmQTFfWnpjSWhmeXMwdjhvZU5URVdCXzBXbmJHbVJSdDZOY0l3VkRobEhzS1pBR3NPc1RyUDNPRXZLbVZZWEs0cW53dk1VaU9pVmM3dmY1eXV4U2RrZGdtakJqTUoyOUpmSXJneUVmb0VwNWoxbVNEX19DbG1yZw?oc=5",
+     "published": "2026-10-28T15:59:52+00:00",
+     "summary": "Jennifer Lopez Looking For ‘Proof of Love’ on New Bonus Track From ‘Love?’ Vinyl Reissue Billboard"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Jennifer Lopez to Release New Single ‘Proof of Love’: ‘It’s a Happy Dance Song’ That Also Addresses ‘Pain and Grief When Someone’s Gone’ (EXCLUSIVE)",
+     "link": "https://variety.com/2026/music/columns/jennifer-lopez-new-single-proof-of-love-song-1236932416/",
+     "published": "2026-10-28T12:00:00+00:00",
+     "summary": "Jennifer Lopez is getting close to releasing new music. The multi-hyphenate tells me she was inspired to write and record again when her kids, twins Max and Emme Muniz with ex-husband Marc Anthony, left for college. “They take up such a big"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s79",
+   "label": "BBC 6 Music Festival 2027 Newcastle",
+   "artists": [],
+   "genre": "POP",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "BBC"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-28T06:03:56+00:00",
+   "articles": [
+    {
+     "outlet": "BBC",
+     "title": "6 Music Festival 2027 heads to Newcastle",
+     "link": "https://www.bbc.co.uk/news/articles/cm62ygw1e99xo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-10-28T06:03:56+00:00",
+     "summary": "The station's flagship festival will return to Tyneside after 12 years."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s64",
+   "label": "sace6 US pop duo Japan debut tour January 2027",
+   "artists": [
+    "sace6"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "CREATIVEMAN PRODUCTIONS",
+    "NME Japan",
+    "amass"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "CREATIVEMAN PRODUCTIONS",
+    "NME Japan",
+    "amass"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-28T03:25:11+00:00",
+   "articles": [
+    {
+     "outlet": "CREATIVEMAN PRODUCTIONS",
+     "title": "sace6 新規公演決定！",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rZU92eTRMTVBtNnhCLWl6VVhNWkJsZjdIcTUzQmRXb2FZVDhwSXdzZkQ2TnJfOExKb2JBVS1naUl3ODE3XzZuVGdLWF9PemRZWDZNcGdDT0JzVGw2?oc=5",
+     "published": "2026-10-28T03:25:11+00:00",
+     "summary": "sace6 新規公演決定！ CREATIVEMAN PRODUCTIONS"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "サーチーシックス、2027年1月に来日公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ESEQ0Y2x4ZHRISmhiZV9tcHYzNVMzcUwtRGZ0WjRfcVE5SF9fYUZfQW1FTDVJbFJ0OW5kaUVNdjB0LVJNRVE?oc=5",
+     "published": "2026-10-28T03:09:55+00:00",
+     "summary": "サーチーシックス、2027年1月に来日公演が決定 NME Japan"
+    },
+    {
+     "outlet": "amass",
+     "title": "米ポップデュオsace6の初来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5jQTJFSkY3cl9URXQtTmpyVnY5YU41ZVliRUlhTXVJbTJfaElvWEdGeFR1eGI4Z2JJNURKWg?oc=5",
+     "published": "2026-10-28T03:06:00+00:00",
+     "summary": "米ポップデュオsace6の初来日公演決定 amass"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s59",
+   "label": "Benson Boone Japan tour merchandise and details",
+   "artists": [
+    "Benson Boone"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "djplumadventuretimes.com",
+    "クリエイティブマン"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "djplumadventuretimes.com",
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-28T14:39:39+00:00",
+   "articles": [
+    {
+     "outlet": "djplumadventuretimes.com",
+     "title": "ベンソンブーン、2026年来日公演の公式グッズが明らかに",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdXV0YkVfSjVyNEZCb2NVeFBEZjN0WmdXSUVKVFJNRjRxMjRFOU1kYkU4dzU0RTFoV1dTaXN3TVVMd2lZajhYSjB3MVMteWJFaXFPVFIyZWZLOHZYcm9yTWlFTHk4aEVYbHJ5MkV3cnJnLXVRemhEZVR1UThsV3ItRkt0UTRUZmtWdWZ6blpZV2ZXOFh1dlAyZnFjTDB3YndMdGg4NVFxZjk2alcyOHFQa0dnQ1ZfMWZ3OUpUQzVjdXlZMnN2WEtVVDVYV3JoeUhBOGdwWHdtX01ueXhWRHZoQ19scHlYMlhwQU9XVUh0Y0tmMklYaS1zb2lLZmJvb2lhTVFjdGx3dlY4bjJSVDlIaFRqNzFra2M4bTh6alF3?oc=5",
+     "published": "2026-10-28T14:39:39+00:00",
+     "summary": "ベンソンブーン、2026年来日公演の公式グッズが明らかに https://djplumadventuretimes.com/"
+    },
+    {
+     "outlet": "クリエイティブマン",
+     "title": "BENSON BOONE 当日券のお知らせ",
+     "link": "https://www.creativeman.co.jp/2026/10/28/108875/",
+     "published": "2026-10-28T05:08:14+00:00",
+     "summary": "10/29(木) TOYOTA ARENA TOKYO 公演の当日券を以下のように販売いたします。 18:00～会場当日券売場にて販売 当日券金額は前売金額＋￥1,000となります。 販売券種については当日券売場にてご確 […] The post BENSON BOONE 当日券のお知らせ first appeared on CREATIVEMAN PRODUCTIONS ."
+    },
+    {
+     "outlet": "クリエイティブマン",
+     "title": "BENSON BOONE公演にご来場いただく皆様へのお知らせ",
+     "link": "https://www.creativeman.co.jp/2026/10/28/108834/",
+     "published": "2026-10-28T03:59:52+00:00",
+     "summary": "BENSON BOONE来日公演では安全に公演を行うために、 手荷物検査の実施、場合によっては身体検査など、ご来場の皆様にご協力をお願いいたします。 会場内へは瓶、缶、食べ物、大きな荷物、その他運営上禁止と判断されるもの […] The post BENSON BOONE公演にご来場いただく皆様へのお知らせ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Dionysus Now a cappella ensemble Japan debut",
+   "artists": [
+    "Dionysus Now"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "PR TIMES",
+    "アットプレス"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "PR TIMES",
+    "アットプレス"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-29T03:00:02+00:00",
+   "articles": [
+    {
+     "outlet": "PR TIMES",
+     "title": "【開催間近】ディオニュソス・ナウ！初来日公演 話題のベルギー男声アンサンブル アカペラコンサート 北とぴあ さくらホールにて",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyc0dtSVpNaVFKZERiTmRLUHBtMDcxa0NRWkxIaXVHb3VJRk5lVWlKN3RKRmo0TmduSWZETG45MTg0U0Y0SG9KdEpPcWliUUFhQkp3TXk0WnVFMjl3cEtCRll4WnFQU1FqQmc?oc=5",
+     "published": "2026-10-29T03:00:02+00:00",
+     "summary": "【開催間近】ディオニュソス・ナウ！初来日公演 話題のベルギー男声アンサンブル アカペラコンサート 北とぴあ さくらホールにて PR TIMES"
+    },
+    {
+     "outlet": "アットプレス",
+     "title": "【開催間近】ディオニュソス・ナウ！初来日公演 話題のベルギー男声アンサンブル アカペラコンサート 北とぴあ さくらホールにて",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95d2RubUxsVGdCeUVTZEJqS0t1V1JSX0pnalppZjEzcXVJdFBnVGNaZnN1ekNOTmhVNnhaMzZwQXVLbWw0WXVHTTVrc251bHc?oc=5",
+     "published": "2026-10-29T03:00:00+00:00",
+     "summary": "【開催間近】ディオニュソス・ナウ！初来日公演 話題のベルギー男声アンサンブル アカペラコンサート 北とぴあ さくらホールにて アットプレス"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "KATSEYE announces Yokohama Arena show January 2027",
+   "artists": [
+    "KATSEYE"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "オリコンニュース",
+    "ナタリー"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "オリコンニュース",
+    "ナタリー"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-29T03:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "ナタリー",
+     "title": "KATSEYE、横浜アリーナで来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8yd2pDaGlDc2kzUTRmWGRCOUh0b0dESWt1SFdINUcyQU1sakFiSUpJb0pWVUExQUhwR3cwMWRhSGppcnlxRzVONlVXcmg?oc=5",
+     "published": "2026-10-29T03:00:00+00:00",
+     "summary": "KATSEYE、横浜アリーナで来日公演決定 ナタリー"
+    },
+    {
+     "outlet": "オリコンニュース",
+     "title": "KATSEYE、来年1月に横浜アリーナ公演決定 世界各地で完売続出のツアーが日本上陸",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tUTJVczRjUUxqNHdiRjNLQTNmZzJUU191R2wwQW1NNFZlbmZtU205dnJXZzZXQjJUVmpDb0ZyX2NVajNNUHVNaGpIcU5IamM?oc=5",
+     "published": "2026-10-29T03:00:00+00:00",
+     "summary": "KATSEYE、来年1月に横浜アリーナ公演決定 世界各地で完売続出のツアーが日本上陸 オリコンニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s60",
+   "label": "DJ Clent emergency Japan tour footwork pioneer",
+   "artists": [
+    "DJ Clent"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "AVYSS magazine",
+    "ele-king"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "AVYSS magazine",
+    "ele-king"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-28T14:18:29+00:00",
+   "articles": [
+    {
+     "outlet": "ele-king",
+     "title": "DJ Clent ──ゲットー・ハウス～フットワークの伝説、DJクレントが急遽来日 - ele-king",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kSFlNZGl0T3Q1VGFzbVdsTVZ6cXdKeURJQ1NuZUlKRE8zd0xWdUxIU2FMOTZYNndIWVRmZmxlSGJNWUtUcEpxQ1djZVZSZw?oc=5",
+     "published": "2026-10-28T14:18:29+00:00",
+     "summary": "DJ Clent ──ゲットー・ハウス～フットワークの伝説、DJクレントが急遽来日 ele-king"
+    },
+    {
+     "outlet": "AVYSS magazine",
+     "title": "フットワークパイオニアDJ CLENT緊急来日｜「LOWEND STYLE 2026」開催",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50Z1Y1U2NMb1BXN3dUXzk4NW84c0FwcC1obW9DZFNCWlY2UGNaMzhrYndOUERRNUFmcE52T3NtUzdIdmpZSFN2aHYwWlNLQmtYb0xJNzhSQQ?oc=5",
+     "published": "2026-10-28T09:01:05+00:00",
+     "summary": "フットワークパイオニアDJ CLENT緊急来日｜「LOWEND STYLE 2026」開催 AVYSS magazine"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s63",
+   "label": "Tinariwen Japan tour Hoggar album 4 years return",
+   "artists": [
+    "Tinariwen"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "CDJournal.com",
+    "au Webポータル"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "CDJournal.com",
+    "au Webポータル"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-28T04:25:51+00:00",
+   "articles": [
+    {
+     "outlet": "au Webポータル",
+     "title": "ティナリウェン、新作『Hoggar』を携え4年ぶりの来日公演を東京・大阪で開催",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yTVFNMnpRV0N4ZEJqRzBPbzNDTHNBVjJKYzl6MEgwRjk3ZnpNLVZFSmhxSmNwY0t2N0xYckFYdGR3cDhwMV9kLUpqY2QzdFkzS3dMU01qb3hiWjRxS1kwY05wR0lPVkdCeDdXSlZn?oc=5",
+     "published": "2026-10-28T04:25:51+00:00",
+     "summary": "ティナリウェン、新作『Hoggar』を携え4年ぶりの来日公演を東京・大阪で開催 au Webポータル"
+    },
+    {
+     "outlet": "CDJournal.com",
+     "title": "ティナリウェン、新作『Hoggar』を携え4年ぶりの来日公演を東京・大阪で開催",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jRVdxeG1UYWFnM2xxODB0bXBYTHM2MEVnbXNXR05JX3NFRmVKUWdOaVlIZ2RXV19pQ19CUHRfNG9OWElhLThLdXVIVTE5OFBDbjY5RUp4YzB3dFdMSEdqcEtR?oc=5",
+     "published": "2026-10-28T04:12:00+00:00",
+     "summary": "ティナリウェン、新作『Hoggar』を携え4年ぶりの来日公演を東京・大阪で開催 CDJournal.com"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "feeble little horse adds second Japan show March 2027",
+   "artists": [
+    "feeble little horse"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-29T02:53:36+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "feeble little horse、2027年3月の来日公演に追加公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16XzNGbEpwcFBwY2N1cmkybS1PRkRwZHh0MHFtVjRhT3E5b1ZwblBZMF9lck91YTRrSGdWQWtGN1pmazN3b0c4?oc=5",
+     "published": "2026-10-29T02:53:36+00:00",
+     "summary": "feeble little horse、2027年3月の来日公演に追加公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s61",
+   "label": "Nathan East Japan tour announced",
+   "artists": [
+    "Nathan East"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "amass"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "amass"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-28T09:13:00+00:00",
+   "articles": [
+    {
+     "outlet": "amass",
+     "title": "ネイザン・イーストの来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5qMldpczZ5c0RqSkcyd0s0V3RCc1E1SjR6UTdic01Xbkw5SjdjZkdPckE3b1Axc1FiOWVTeg?oc=5",
+     "published": "2026-10-28T09:13:00+00:00",
+     "summary": "ネイザン・イーストの来日公演決定 amass"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s62",
+   "label": "Leaveourtears Japan tour return 1.5 years later",
+   "artists": [
+    "Leaveourtears"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Spincoaster（スピンコースター）"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Spincoaster（スピンコースター）"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-28T09:12:31+00:00",
+   "articles": [
+    {
+     "outlet": "Spincoaster（スピンコースター）",
+     "title": "韓国シューゲイズアーティスト・Leaveourtears、およそ1年半ぶり来日公演が開催決定",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkOU91MzBfSmI2cTE4WGtFYjJ3VV9jakZnTGtqNXE3SnBPM01yZ05IckxtTmxORVJXYkU2SnduT0VDNHhMclN2QlVQdWVuWEFGQWdTY1lrT1FNN3BFcDlPa3hGQmVEOG9aS2c?oc=5",
+     "published": "2026-10-28T09:12:31+00:00",
+     "summary": "韓国シューゲイズアーティスト・Leaveourtears、およそ1年半ぶり来日公演が開催決定 Spincoaster（スピンコースター）"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s66",
+   "label": "5SOS Japan tour preparation playlist",
+   "artists": [
+    "5 Seconds of Summer"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "UNIVERSAL MUSIC JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "UNIVERSAL MUSIC JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-28T05:43:26+00:00",
+   "articles": [
+    {
+     "outlet": "UNIVERSAL MUSIC JAPAN",
+     "title": "5SOS、単独来日公演に向けた予習プレイリストが公開！",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lMGpOQVU4dUNlWWpOMnM0YXFoOHNtbzlfamVKeHE0c3lYSmdITXhERnE2LWhyeHllNUxmREFPMXhvaDZONFYwaWFlbEQ0R283ZE1mazFaNDFDajRZZXYydDVMY3lEQQ?oc=5",
+     "published": "2026-10-28T05:43:26+00:00",
+     "summary": "5SOS、単独来日公演に向けた予習プレイリストが公開！ UNIVERSAL MUSIC JAPAN"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s67",
+   "label": "Aaron Chen Tokyo show sold out",
+   "artists": [
+    "Aaron Chen"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "クリエイティブマン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-28T05:30:29+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "AARON CHEN東京公演がSOLD OUT!",
+     "link": "https://www.creativeman.co.jp/2026/10/28/108870/",
+     "published": "2026-10-28T05:30:29+00:00",
+     "summary": "本日、有楽町アイマショウにて開催されるAARON CHEN東京公演のチケットがソールドアウトとなりました。 会場での当日券販売の予定はありません。ご了承ください。 AARON CHEN’s Tokyo show is n […] The post AARON CHEN東京公演がSOLD OUT! first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s65",
+   "label": "Parkway Drive documentary 'HOME' premiere Tokyo November",
+   "artists": [
+    "Parkway Drive"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "激ロック"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "激ロック"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-28T03:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "激ロック",
+     "title": "PARKWAY DRIVEの挑戦と新章描く音楽ドキュメンタリー\"HOME\"、11/25新宿で一夜限りのプレミア上映会決定！Winston McCall（Vo）来日＆登壇も！輸入盤音源12/4リリース！",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pTnZGRUdGYV9Fc09OdDFzRHI5eHhMV3BhaWVxX1F6Ui1xcUhqOGZudGhLcFdlYjRzOTl0OWhJcVNhMkNMUmo3aWVHSWpwLWxiT2QzWUhkRFJHeTB0S3NCRFBiX1YxSEk?oc=5",
+     "published": "2026-10-28T03:00:00+00:00",
+     "summary": "PARKWAY DRIVEの挑戦と新章描く音楽ドキュメンタリー\"HOME\"、11/25新宿で一夜限りのプレミア上映会決定！Winston McCall（Vo）来日＆登壇も！輸入盤音源12/4リリース！ 激ロック"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Brian Jones letter inviting Charlie Watts to Stones",
+   "artists": [
+    "The Rolling Stones"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Billboard JAPAN",
+    "NME Japan",
+    "Rolling Stone",
+    "The Guardian"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "NME Japan"
+   ],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 4,
+   "latest": "2026-10-29T11:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ザ・ローリング・ストーンズ、故ブライアン・ジョーンズが故チャーリー・ワッツに加入を呼びかけた未公開の手紙がサザビーズに出品",
+     "link": "https://www.billboard-japan.com/d_news/detail/166916",
+     "published": "2026-10-29T11:30:00+09:00",
+     "summary": "ザ・ローリング・ストーンズのギタリストで共同創設者の故ブライアン・ジョーンズが、ドラマーの故チャーリー・ワッツにバン…"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ローリング・ストーンズのブライアン・ジョーンズ、チャーリー・ワッツをバンドに誘った手紙が競売に",
+     "link": "https://nme-jp.com/news/173838/",
+     "published": "2026-10-29T02:59:13+00:00",
+     "summary": "ザ・ローリング・ストーンズのブライアン・ジョーンズが1962年7月にチャーリー・ワッツをバンドに誘った手紙がオークションに出品されることが明らかになっている。"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Historic Brian Jones Letter Inviting Charlie Watts to Join Rolling Stones in 1962 Surfaces",
+     "link": "https://www.rollingstone.com/music/music-news/brian-jones-letter-charlie-watts-1962-1235648785/",
+     "published": "2026-10-28T13:00:00+00:00",
+     "summary": "“Our present drummer is atrocious!” Jones wrote to Watts in a letter headed to Sotheby’s with an estimated price between $70,000 and $80,000"
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "‘Dear Charlie’: letter revealing move to snare future Rolling Stones drummer up for auction",
+     "link": "https://www.theguardian.com/music/2026/oct/28/charlie-watts-brian-jones-letter-rolling-stones-auction",
+     "published": "2026-10-28T09:30:02+00:00",
+     "summary": "Brian Jones wrote to Charlie Watts in 1962 asking him to leave his R&B group and join his ‘far better’ band instead A handwritten letter from Brian Jones to Charlie Watts in which he attempts to recruit the drummer to join the band that wou"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s2",
+   "label": "Avicii 2011 Tomorrowland set released for 15th anniversary",
+   "artists": [
+    "Avicii"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Billboard JAPAN",
+    "DJ Mag",
+    "EDM.com"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-10-29T10:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "故アヴィーチー、「Levels」15周年を記念して2011年【トゥモローランド】出演映像を初公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/166912",
+     "published": "2026-10-29T10:00:00+09:00",
+     "summary": "2011年7月23日、アヴィーチーが【トゥモローランド】のメイン・ステージに初めて登場し、強烈なインパクトを残した。…"
+    },
+    {
+     "outlet": "EDM.com",
+     "title": "Watch Avicii’s Full Debut Tomorrowland Set From 2011, Including the Premiere of ‘Levels’",
+     "link": "https://edm.com/news/watch-avicii-full-debut-tomorrowland-set-2011-levels-premiere/",
+     "published": "2026-10-28T15:37:47+00:00",
+     "summary": "After 15 years of wallowing in shaky phone footage and bootleg audio, fans of the legendary DJ can now watch his first-ever performance at the world's largest EDM festival. The post Watch Avicii’s Full Debut Tomorrowland Set From 2011, Incl"
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "Avicii’s full 2011 Tomorrowland set released to mark 15 years of ‘Levels’",
+     "link": "https://djmag.com/news/aviciis-full-2011-tomorrowland-set-released-mark-15-years-of-levels",
+     "published": "2026-10-28T14:51:26+00:00",
+     "summary": "The 2011 set was the first time Avicii performed at Tomorrowland and the first festival play of his signature hit"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Avicii’s ‘Levels’ Was Released 15 Years Ago Today: Watch the Moment He Played It For the First Time at a Festival",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMENMRFRtYVB0YkR6Y2FPazl5bmh5elJlMUI2MDBpSUtxdTBMd0RXRGhfZDRGaGpuODhZTy1MNWs3LW1rU2ZCMUo0ME5xYThXRlBITW9PSVJYRnhtaVZjdTFYUzNjQXhSbTZ2aWlnajlQQXc1NUhRLXVRY011ckRUS2hKcENLUGpGT0F0LWhNRXZrY1JxNFBOdG9vNjlZcmRuRXRhWDVidWdHakhLOXYw?oc=5",
+     "published": "2026-10-28T13:30:16+00:00",
+     "summary": "Avicii’s ‘Levels’ Was Released 15 Years Ago Today: Watch the Moment He Played It For the First Time at a Festival Billboard"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s38",
+   "label": "Amy Winehouse 20th anniversary Back to Black",
+   "artists": [
+    "Amy Winehouse"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "NME Japan",
+    "The Fader",
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "NME Japan",
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-28T17:07:34-04:00",
+   "articles": [
+    {
+     "outlet": "The Fader",
+     "title": "We celebrated 20 years of Amy Winehouse and Back To Black",
+     "link": "https://www.thefader.com/2026/10/28/amy-winehouse-back-to-black-20-anniversary-event-photo",
+     "published": "2026-10-28T17:07:34-04:00",
+     "summary": "See photos from The FADER’s one-night photo exhibition celebrating Amy Winehouse."
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "エイミー・ワインハウス、“Rehab”のアコースティック・パフォーマンス映像が公開",
+     "link": "https://nme-jp.com/news/173815/",
+     "published": "2026-10-28T08:30:42+00:00",
+     "summary": "エイミー・ワインハウスは“Rehab”のアコースティック・パフォーマンス映像が公開されている。"
+    },
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "エイミー・ワインハウス『Back To Black』：発売20周年を迎えた名盤をその歌詞から紐解く",
+     "link": "https://www.udiscovermusic.jp/new-releases/amy-winehouse-back-to-black-lyrics",
+     "published": "2026-10-28T07:33:03+00:00",
+     "summary": "エイミー・ワインハウス（Amy Winehouse）の代表アルバム『Back To Black』が2026年10月27日に発売20周年を迎えた。このアルバムがなぜ名盤と呼ばれているのか？ 音楽ライターで翻訳家の池城美菜子さんに解説いただきました。 The post エイミー・ワインハウス『Back To Black』：発売20周年を迎えた名盤をその歌詞から紐解く appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s40",
+   "label": "David Bowie 1978 concert immersive arena tour",
+   "artists": [
+    "David Bowie"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Mixmag",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-28T11:30:24+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "デヴィッド・ボウイ、1978年に撮影された幻のコンサート・フィルムが上映される詳細が明らかに",
+     "link": "https://nme-jp.com/news/173835/",
+     "published": "2026-10-28T11:30:24+00:00",
+     "summary": "デヴィッド・ボウイは1978年に撮影された幻のコンサート・フィルムが2027年に上映されることが発表されていたが、その詳細が明らかになっている。"
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "David Bowie's 1978 concert to be subject of new \"immersive\" arena tour",
+     "link": "https://mixmag.net/read/david-bowie-1978-concert-subject-new-immersive-arena-tour-news",
+     "published": null,
+     "summary": "Stage, which is due to premiere in Berlin next year, consists of an unearthed recording of the late musician's Isolar II 'Heroes' world tour Continue reading..."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s72",
+   "label": "George Harrison Beatles photo book never-before-seen photos",
+   "artists": [
+    "George Harrison",
+    "The Beatles"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-28T23:44:42+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "New George Harrison Photo Book Reveals Never-Before-Seen Photos of The Beatles in Their Heyday",
+     "link": "https://www.billboard.com/culture/product-recommendations/george-harrison-photo-book-third-eye-early-photographs-buy-1236369410/",
+     "published": "2026-10-28T23:44:42+00:00",
+     "summary": "All of the photos were taken by Harrison between 1963 and 1970, with many being published for the first time in this collection."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s81",
+   "label": "New photobook East London queer club scene 2005-2015",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-28T16:43:23+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "New photobook documents East London’s queer club scene from 2005 to 2015",
+     "link": "https://djmag.com/news/new-photobook-documents-east-londons-queer-club-scene-2005-2015",
+     "published": "2026-10-28T16:43:23+00:00",
+     "summary": "Limited to just 350 copies, The East London Years is available exclusively via photographer Ralf Obergfell’s website"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s42",
+   "label": "Dave Grohl on Taylor Hawkins joining Foo Fighters",
+   "artists": [
+    "Dave Grohl",
+    "Taylor Hawkins",
+    "Foo Fighters"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-10-28T16:31:04+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Dave Grohl on poaching Taylor Hawkins from Alanis Morissette and the moment they became “best friends for the rest of our lives”",
+     "link": "https://www.nme.com/news/music/dave-grohl-on-poaching-taylor-hawkins-from-alanis-morissette-became-best-friends-for-rest-of-lives-3974468?utm_source=rss&utm_medium=rss&utm_campaign=dave-grohl-on-poaching-taylor-hawkins-from-alanis-morissette-became-best-friends-for-rest-of-lives",
+     "published": "2026-10-28T16:31:04+00:00",
+     "summary": "They got on so well that Morissette asked Hawkins what he “was going to do” when Grohl inevitably called up and “asks you to be the drummer” The post Dave Grohl on poaching Taylor Hawkins from Alanis Morissette and the moment they became “b"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s39",
+   "label": "The Cranberries 25th anniversary reissue 'Wake Up'",
+   "artists": [
+    "The Cranberries"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-10-28T08:12:09+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "クランベリーズ『Wake Up And Smell The Coffee』25周年記念盤が2027年1月発売",
+     "link": "https://www.udiscovermusic.jp/new-releases/cranberries-wake-up-and-smell-the-coffee-25th-anniversary",
+     "published": "2026-10-28T08:12:09+00:00",
+     "summary": "クランベリーズが『Wake Up And Smell The Coffee』25周年記念盤を2027年1月29日に発売。リマスター音源、新ミックス、B面曲、未発表ライヴ音源などが収録される。 The post クランベリーズ『Wake Up And Smell The Coffee』25周年記念盤が2027年1月発売 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Brian Jones letter inviting Charlie Watts to Stones",
+   "artists": [
+    "The Rolling Stones"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Billboard JAPAN",
+    "NME Japan",
+    "Rolling Stone",
+    "The Guardian"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "NME Japan"
+   ],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 4,
+   "latest": "2026-10-29T11:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ザ・ローリング・ストーンズ、故ブライアン・ジョーンズが故チャーリー・ワッツに加入を呼びかけた未公開の手紙がサザビーズに出品",
+     "link": "https://www.billboard-japan.com/d_news/detail/166916",
+     "published": "2026-10-29T11:30:00+09:00",
+     "summary": "ザ・ローリング・ストーンズのギタリストで共同創設者の故ブライアン・ジョーンズが、ドラマーの故チャーリー・ワッツにバン…"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ローリング・ストーンズのブライアン・ジョーンズ、チャーリー・ワッツをバンドに誘った手紙が競売に",
+     "link": "https://nme-jp.com/news/173838/",
+     "published": "2026-10-29T02:59:13+00:00",
+     "summary": "ザ・ローリング・ストーンズのブライアン・ジョーンズが1962年7月にチャーリー・ワッツをバンドに誘った手紙がオークションに出品されることが明らかになっている。"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Historic Brian Jones Letter Inviting Charlie Watts to Join Rolling Stones in 1962 Surfaces",
+     "link": "https://www.rollingstone.com/music/music-news/brian-jones-letter-charlie-watts-1962-1235648785/",
+     "published": "2026-10-28T13:00:00+00:00",
+     "summary": "“Our present drummer is atrocious!” Jones wrote to Watts in a letter headed to Sotheby’s with an estimated price between $70,000 and $80,000"
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "‘Dear Charlie’: letter revealing move to snare future Rolling Stones drummer up for auction",
+     "link": "https://www.theguardian.com/music/2026/oct/28/charlie-watts-brian-jones-letter-rolling-stones-auction",
+     "published": "2026-10-28T09:30:02+00:00",
+     "summary": "Brian Jones wrote to Charlie Watts in 1962 asking him to leave his R&B group and join his ‘far better’ band instead A handwritten letter from Brian Jones to Charlie Watts in which he attempts to recruit the drummer to join the band that wou"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s2",
+   "label": "Avicii 2011 Tomorrowland set released for 15th anniversary",
+   "artists": [
+    "Avicii"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Billboard JAPAN",
+    "DJ Mag",
+    "EDM.com"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-10-29T10:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "故アヴィーチー、「Levels」15周年を記念して2011年【トゥモローランド】出演映像を初公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/166912",
+     "published": "2026-10-29T10:00:00+09:00",
+     "summary": "2011年7月23日、アヴィーチーが【トゥモローランド】のメイン・ステージに初めて登場し、強烈なインパクトを残した。…"
+    },
+    {
+     "outlet": "EDM.com",
+     "title": "Watch Avicii’s Full Debut Tomorrowland Set From 2011, Including the Premiere of ‘Levels’",
+     "link": "https://edm.com/news/watch-avicii-full-debut-tomorrowland-set-2011-levels-premiere/",
+     "published": "2026-10-28T15:37:47+00:00",
+     "summary": "After 15 years of wallowing in shaky phone footage and bootleg audio, fans of the legendary DJ can now watch his first-ever performance at the world's largest EDM festival. The post Watch Avicii’s Full Debut Tomorrowland Set From 2011, Incl"
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "Avicii’s full 2011 Tomorrowland set released to mark 15 years of ‘Levels’",
+     "link": "https://djmag.com/news/aviciis-full-2011-tomorrowland-set-released-mark-15-years-of-levels",
+     "published": "2026-10-28T14:51:26+00:00",
+     "summary": "The 2011 set was the first time Avicii performed at Tomorrowland and the first festival play of his signature hit"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Avicii’s ‘Levels’ Was Released 15 Years Ago Today: Watch the Moment He Played It For the First Time at a Festival",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMENMRFRtYVB0YkR6Y2FPazl5bmh5elJlMUI2MDBpSUtxdTBMd0RXRGhfZDRGaGpuODhZTy1MNWs3LW1rU2ZCMUo0ME5xYThXRlBITW9PSVJYRnhtaVZjdTFYUzNjQXhSbTZ2aWlnajlQQXc1NUhRLXVRY011ckRUS2hKcENLUGpGT0F0LWhNRXZrY1JxNFBOdG9vNjlZcmRuRXRhWDVidWdHakhLOXYw?oc=5",
+     "published": "2026-10-28T13:30:16+00:00",
+     "summary": "Avicii’s ‘Levels’ Was Released 15 Years Ago Today: Watch the Moment He Played It For the First Time at a Festival Billboard"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s38",
+   "label": "Amy Winehouse 20th anniversary Back to Black",
+   "artists": [
+    "Amy Winehouse"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "NME Japan",
+    "The Fader",
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "NME Japan",
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-28T17:07:34-04:00",
+   "articles": [
+    {
+     "outlet": "The Fader",
+     "title": "We celebrated 20 years of Amy Winehouse and Back To Black",
+     "link": "https://www.thefader.com/2026/10/28/amy-winehouse-back-to-black-20-anniversary-event-photo",
+     "published": "2026-10-28T17:07:34-04:00",
+     "summary": "See photos from The FADER’s one-night photo exhibition celebrating Amy Winehouse."
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "エイミー・ワインハウス、“Rehab”のアコースティック・パフォーマンス映像が公開",
+     "link": "https://nme-jp.com/news/173815/",
+     "published": "2026-10-28T08:30:42+00:00",
+     "summary": "エイミー・ワインハウスは“Rehab”のアコースティック・パフォーマンス映像が公開されている。"
+    },
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "エイミー・ワインハウス『Back To Black』：発売20周年を迎えた名盤をその歌詞から紐解く",
+     "link": "https://www.udiscovermusic.jp/new-releases/amy-winehouse-back-to-black-lyrics",
+     "published": "2026-10-28T07:33:03+00:00",
+     "summary": "エイミー・ワインハウス（Amy Winehouse）の代表アルバム『Back To Black』が2026年10月27日に発売20周年を迎えた。このアルバムがなぜ名盤と呼ばれているのか？ 音楽ライターで翻訳家の池城美菜子さんに解説いただきました。 The post エイミー・ワインハウス『Back To Black』：発売20周年を迎えた名盤をその歌詞から紐解く appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s3",
+   "label": "KISS documentary 'End of the Road' premiere November",
+   "artists": [
+    "KISS"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "Consequence"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-29T10:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "KISS、最後のツアーに密着した2部構成ドキュメンタリー11月公開＆予告編解禁",
+     "link": "https://www.billboard-japan.com/d_news/detail/166914",
+     "published": "2026-10-29T10:30:00+09:00",
+     "summary": "KISSによる最後のツアーを記録した2部構成のドキュメンタリー『KISS: End of the Road』が公開さ…"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "KISS Announce Documentary End of the Road Chronicling Their Farewell Tour",
+     "link": "https://consequence.net/2026/10/kiss-documentary-end-of-the-road/",
+     "published": "2026-10-28T17:59:26+00:00",
+     "summary": "KISS: End of the Road will premiere on KISSOnline on November 19th. KISS Announce Documentary End of the Road Chronicling Their Farewell Tour Langdon Hickman"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s16",
+   "label": "My Chemical Romance settle Dallas Cowboys costume dispute",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "genre": "Other",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "NME Japan",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-28T22:56:24+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "My Chemical Romance Waves White Flag in Dallas Cowboys Cheerleader Flap: ‘Agreement Reached’",
+     "link": "https://www.rollingstone.com/music/music-news/my-chemical-romance-dallas-cowboys-cheerleaders-lawsuit-1235648369/",
+     "published": "2026-10-28T22:56:24+00:00",
+     "summary": "The rock band agreed to stop using costumes resembling the iconic cheer squad’s uniforms in a skit featuring backup dancers at its Hollywood Bowl shows"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "マイ・ケミカル・ロマンス、ダラス・カウボーイズ・チアリーダーズの衣装を使用しないことで合意",
+     "link": "https://nme-jp.com/news/173819/",
+     "published": "2026-10-28T09:00:08+00:00",
+     "summary": "マイ・ケミカル・ロマンスはハリウッド・ボウルでの残りの公演においてダラス・カウボーイズ・チアリーダーズの青と白のユニフォームに似た衣装をダンサーに着用させることを止めることで合意している。"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s56",
+   "label": "John Stamos California Sound Beach Boys replacement",
+   "artists": [
+    "John Stamos",
+    "The Beach Boys"
+   ],
+   "genre": "Other",
+   "kind": "announcement",
+   "talk": 1,
+   "outlets": [
+    "Consequence",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-28T20:48:28+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "John Stamos Unveils California Sound as Mike Love’s Health Issues Cloud The Beach Boys’ Future",
+     "link": "https://consequence.net/2026/10/john-stamos-california-sound-beach-boys-wo-mike-love/",
+     "published": "2026-10-28T20:48:28+00:00",
+     "summary": "The new billing arrives as Love rehabilitates from health issues and raises new questions about how The Beach Boys’ longtime touring operation could continue without him. John Stamos Unveils California Sound as Mike Love’s Health Issues Clo"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "The Beach Boys Canceled Another Show. A John Stamos Spinoff Group Is Taking Their Spot",
+     "link": "https://www.rollingstone.com/music/music-news/beach-boys-pull-out-john-stamos-california-sound-1235649359/",
+     "published": "2026-10-28T18:50:41+00:00",
+     "summary": "A new entity billing themselves as John Stamos and the California Sound have been formed to take the place of the Beach Boys at Disney World on November 11 and 12"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s19",
+   "label": "DIIV announce 2027 world tour release new single",
+   "artists": [
+    "DIIV"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-28T18:39:27+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Diiv Announce Massive 2027 World Tour",
+     "link": "https://pitchfork.com/story/diiv-announce-2027-world-tour/",
+     "published": "2026-10-28T18:39:27+00:00",
+     "summary": "The band will bring their new album ZIRP! across the U.S., Europe, Australia, and Japan"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "DIIV Announce 2027 World Tour, Share New Single “Dare Me”: Stream",
+     "link": "https://consequence.net/2026/10/diiv-2027-world-tour-new-single-dare-me/",
+     "published": "2026-10-28T18:32:00+00:00",
+     "summary": "ZIRP! is set to drop on October 30th via Fantasy Recordings, marking the group’s fifth studio album. DIIV Announce 2027 World Tour, Share New Single “Dare Me”: Stream Karan Singh"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s21",
+   "label": "Jim James announces memoir 'One Wonders'",
+   "artists": [
+    "Jim James"
+   ],
+   "genre": "Other",
+   "kind": "announcement",
+   "talk": 1,
+   "outlets": [
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-28T18:23:15+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Therapy Helped Jim James So Much, He Wrote a Book About His Breakthroughs",
+     "link": "https://www.rollingstone.com/music/music-news/my-morning-jacket-jim-james-memoir-one-wonders-1235649311/",
+     "published": "2026-10-28T18:23:15+00:00",
+     "summary": "The My Morning Jacket frontman will release his debut memoir One Wonders in April with reflections on his musical career and mental health journey"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Jim James Announces Memoir One Wonders",
+     "link": "https://pitchfork.com/story/jim-james-announces-memoir-one-wonders/",
+     "published": "2026-10-28T17:47:16+00:00",
+     "summary": "“I hope the main thing someone takes away from this book (aside from learning more about the joys and challenges of being a working artist and musician) is that it’s okay to ask for help.\""
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s22",
+   "label": "Kilby Block Party 2027 lineup announcement",
+   "artists": [
+    "Slayyyter",
+    "The Strokes",
+    "Fontaines D.C.",
+    "Deftones"
+   ],
+   "genre": "Other",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-28T17:42:10+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Slayyyter, the Strokes, and Fontaines D.C. Set for Kilby Block Party 2027",
+     "link": "https://pitchfork.com/story/slayyyter-the-strokes-and-fontaines-dc-set-for-kilby-block-party-2027/",
+     "published": "2026-10-28T17:42:10+00:00",
+     "summary": "Deftones, Spoon, Weyes Blood, Atlas Sound, Erika de Casier, and quite a few mystery artists fill out the bill"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Kilby Block Party 2027 Lineup Revealed with Deftones, The Strokes & Fontaines D.C.",
+     "link": "https://consequence.net/2026/10/kilby-block-party-2027-lineup-deftones-the-strokes-fontaines-d-c/",
+     "published": "2026-10-28T16:00:55+00:00",
+     "summary": "Slayyyter, Jungle, IDLES, Kim Gordon, Spoon, Wednesday, Lil Yachty, Julien Baker, and Atlas Sound are also confirmed the for the annual Salt Lake City music festival. Kilby Block Party 2027 Lineup Revealed with Deftones, The Strokes & Fonta"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s36",
+   "label": "Bono reflects on 'Songs of Innocence' iTunes giveaway",
+   "artists": [
+    "U2"
+   ],
+   "genre": "Other",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "NME",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-28T17:23:31+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Bono admits U2’s ‘Songs of Innocence’ iTunes album giveaway “went too far”",
+     "link": "https://www.nme.com/news/music/bono-admits-u2-songs-of-innocence-itunes-album-giveaway-went-too-far-3974486?utm_source=rss&utm_medium=rss&utm_campaign=bono-admits-u2-songs-of-innocence-itunes-album-giveaway-went-too-far",
+     "published": "2026-10-28T17:23:31+00:00",
+     "summary": "“We take risks,” said The Edge. “So you fail, you fall on your face at times? That’s part of the gig” The post Bono admits U2’s ‘Songs of Innocence’ iTunes album giveaway “went too far” appeared first on NME ."
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "U2のボノ、iTunesユーザーに対して自動的にアルバムを追加した騒動について振り返る",
+     "link": "https://nme-jp.com/news/173830/",
+     "published": "2026-10-28T12:00:34+00:00",
+     "summary": "U2のフロントマンであるボノはアルバム『ソングス・オブ・イノセンス』をiTunesユーザーに対して自動的にライブラリに追加した騒動について振り返っている。"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s27",
+   "label": "Worldpeace DMT announce 2027 North American tour",
+   "artists": [
+    "Worldpeace DMT"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-10-28T16:35:11+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Worldpeace DMT Announce 2027 North American Tour",
+     "link": "https://consequence.net/2026/10/worldpeace-dmt-2027-north-american-tour/",
+     "published": "2026-10-28T16:35:11+00:00",
+     "summary": "The 20-date North American tour arrives in support of the band's acclaimed new album, Stick Around for Tea. Worldpeace DMT Announce 2027 North American Tour Paolo Ragusa"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Worldpeace DMT Announce 2027 North American Tour",
+     "link": "https://pitchfork.com/story/worldpeace-dmt-announce-2027-north-american-tour/",
+     "published": "2026-10-28T16:11:30+00:00",
+     "summary": "The “laptop twee” duo will Stick Around for Tea in 20 cities throughout March and April"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s41",
+   "label": "Foo Fighters perform 'This Is A Call' on Kimmel",
+   "artists": [
+    "Foo Fighters"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "NME Japan",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-28T14:48:47+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Foo Fighters Go Back to the Start on ‘Kimmel’ With ‘This Is a Call’",
+     "link": "https://www.rollingstone.com/music/music-news/foo-fighters-perform-this-is-a-call-kimmel-1235649146/",
+     "published": "2026-10-28T14:48:47+00:00",
+     "summary": "The band's latest selection for their week of performances on the late-night series was first released as the lead single from their debut album Foo Fighters in 1995"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "フー・ファイターズ、米TV番組で“This Is A Call”を披露したパフォーマンス映像が公開",
+     "link": "https://nme-jp.com/news/173821/",
+     "published": "2026-10-28T10:30:06+00:00",
+     "summary": "フー・ファイターズはアメリカのテレビ番組『ジミー・キンメル・ライヴ』で“This Is A Call”を披露したパフォーマンス映像が公開されている。"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s40",
+   "label": "David Bowie 1978 concert immersive arena tour",
+   "artists": [
+    "David Bowie"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Mixmag",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-10-28T11:30:24+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "デヴィッド・ボウイ、1978年に撮影された幻のコンサート・フィルムが上映される詳細が明らかに",
+     "link": "https://nme-jp.com/news/173835/",
+     "published": "2026-10-28T11:30:24+00:00",
+     "summary": "デヴィッド・ボウイは1978年に撮影された幻のコンサート・フィルムが2027年に上映されることが発表されていたが、その詳細が明らかになっている。"
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "David Bowie's 1978 concert to be subject of new \"immersive\" arena tour",
+     "link": "https://mixmag.net/read/david-bowie-1978-concert-subject-new-immersive-arena-tour-news",
+     "published": null,
+     "summary": "Stage, which is due to premiere in Berlin next year, consists of an unearthed recording of the late musician's Isolar II 'Heroes' world tour Continue reading..."
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 5
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 8
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 20
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 7,
+   "kept": 3
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 64,
+   "kept": 18
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 13
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 6
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 17
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 6
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 29
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 4
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 82,
+   "kept": 28
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 26,
+   "kept": 10
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 3
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 21
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 1,
+   "kept": 1
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 2
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 29,
+   "kept": 10
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 28,
+   "kept": 3
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 22,
+   "kept": 4
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 19,
+   "kept": 5
+  }
+ ],
+ "cost": {
+  "usd": 0.3422,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 22656,
+    "output_tokens": 9765
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 20056,
+    "output_tokens": 9527
+   }
+  ]
+ }
+}
