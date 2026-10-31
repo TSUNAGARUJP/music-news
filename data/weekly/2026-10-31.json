@@ -1,0 +1,40 @@
+{
+ "date": "2026-10-31",
+ "start": "2026-10-25",
+ "intro": "今週はOlivia Rodrigoの首位返り咲きやJay-Zの30周年公演など、人気アーティストの話題が目立った1週間でした。",
+ "cost_usd": 0.2336,
+ "news": [
+  {
+   "ref": "10-26:s0",
+   "title_ja": "Olivia Rodrigo、Billboard 200で1位に返り咲き",
+   "summary_ja": "10月31日付の米Billboard 200で、Olivia Rodrigoの『You Seem Pretty Sad for a Girl So in Love』が1位に返り咲きました。「Expectations」のリミックス公開を受けての首位です。",
+   "point_ja": "3媒体が報じ、毎日のまとめでトップに選出。関連動画は約2,146万回再生されています。"
+  },
+  {
+   "ref": "10-26:s17",
+   "title_ja": "Jay-Z、30周年公演のLA2日間に豪華ゲスト集結",
+   "summary_ja": "『Reasonable Doubt』30周年の公演がSoFi Stadiumで2日間開催されました。初日はJohn Legendら、2日目はDr. DreやSnoop Doggが登場し、Nipsey Hussleへのトリビュートも行われました。",
+   "point_ja": "2日続けて5〜6媒体が報じ、豪華ゲストとの共演が注目を集めました。"
+  },
+  {
+   "ref": "10-29:s44",
+   "title_ja": "Massive Attackの3D、ガザ題材の映画サントラを担当",
+   "summary_ja": "Massive AttackのRobert Del Najaが、ガザの医療チームを追うドキュメンタリー映画『Life Support』のサウンドトラックを共同キュレートしました。サントラ・アルバムとしてリリースされます。",
+   "point_ja": "5媒体が報じて毎日のまとめでトップに選ばれ、翌日も続けて報じられました。"
+  }
+ ],
+ "dj": [
+  {
+   "ref": "10-30:s47",
+   "title_ja": "Justice×Gesaffelstein初共作、『GTA VI』スコアから公開",
+   "summary_ja": "JusticeとGesaffelsteinによる初のコラボ曲が、ゲーム『Grand Theft Auto VI』のスコアから公開されました。Justiceは新曲「Pusher」でスコアを先行披露したと報じられています。",
+   "dj_point_ja": "人気エレクトロ・アクト同士の注目曲で、関連動画は1,000万回超え。選曲候補としてチェックを。"
+  },
+  {
+   "ref": "10-27:s38",
+   "title_ja": "Boris Brejcha、2028年での引退とファイナルツアーを発表",
+   "summary_ja": "テクノのスター、Boris Brejcha（44歳）が、Amsterdam Dance Event 2026の期間中に音楽活動からの引退を発表しました。2028年にファイナルツアーを行うとしています。",
+   "dj_point_ja": "人気テクノDJの引退表明です。残りの期間にプレイを観て、選曲や展開を学んでおきたいところです。"
+  }
+ ]
+}
