@@ -1,0 +1,1713 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T03:15:34.740775+00:00",
+ "article_count": 196,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日は、Kid RockのAI聖歌隊の告白やJermaine DupriのSpotifyへの要求など、AIと音楽の関係を問う話題が目立ちます。My Chemical Romanceの20年越しの全米1位やHarry StylesのMSG30公演完走など、記録とハロウィン公演の話題も重なりました。",
+  "top": [
+   {
+    "id": "s13",
+    "title_ja": "Kid Rock、Eminemとの共作曲の聖歌隊はAIと告白",
+    "genre": "Hip-Hop",
+    "summary_ja": "Kid Rockが、Eminemとのコラボ曲「Heal My Faith」のゴスペル聖歌隊をAIで作ったと明かした。Eminemは長年Trump氏を批判してきた一方で、MAGA支持者として知られる友人Kid Rockとの共演にも反発が出ていたと報じられている。",
+    "why_ja": "Complex、Consequence、HotNewHipHopの3媒体が報じた。日本でも知名度の高いEminemが関わる曲で、制作でのAI利用の是非という業界全体の論点につながる。",
+    "debate_ja": "人間の聖歌隊の代わりにAIコーラスを使うのはアリ？ナシ？",
+    "line_point": "Kid Rock、Eminemとの「Heal My Faith」の聖歌隊はAI製と告白。AI利用の是非が話題に",
+    "reels": [
+     {
+      "hook": "Eminemの新曲、聖歌隊はAIだった",
+      "angle": "告白の事実を紹介→歌い手の仕事を奪うのか、表現の新しい道具かという論点→自分の見解→アリかナシかをコメントで募集"
+     },
+     {
+      "hook": "AIで作った声、あなたは気づける？",
+      "angle": "Kanye WestのAIボーカル報酬訴訟など、最近のAIと音楽の事例と並べて、どこまでが許されるラインかを整理する"
+     }
+    ]
+   },
+   {
+    "id": "s14",
+    "title_ja": "Jermaine Dupri、SpotifyのAIリミックスに報酬を要求",
+    "genre": "Hip-Hop",
+    "summary_ja": "プロデューサーのJermaine Dupriが、SpotifyのAIリミックス計画について、アーティストにも報酬を払うよう求めた。料金の決め方や、どの曲を使えるかについて、音楽家が団結して発言権を持つべきだと呼びかけたと報じられている。",
+    "why_ja": "報じたのはAllHipHopの1媒体だが、ストリーミングとAIという業界の仕組みに直結する論点で、Kid RockのAI告白とも重なる。",
+    "debate_ja": "AIリミックスで、元の曲の作者にお金が入らないのはおかしい？",
+    "line_point": "Jermaine Dupri、SpotifyのAIリミックス計画に「Cut Us In」と報酬と発言権を要求",
+    "reels": [
+     {
+      "hook": "AIリミックス、元の作者に分け前はある？",
+      "angle": "Dupriの要求を紹介→聴く側の楽しさと作り手の権利のどちらを優先するかという論点→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "Spotifyで何が起きようとしてる？",
+      "angle": "報じられている範囲でAIリミックス計画と、料金・使える曲の選択というDupriの要求を整理し、リスナーへの影響を解説する"
+     }
+    ]
+   },
+   {
+    "id": "s2",
+    "title_ja": "MCR『The Black Parade』、20年越しで初の全米1位",
+    "genre": "Other",
+    "summary_ja": "My Chemical Romanceが、『The Black Parade』の20周年記念再発盤でBillboard 200（2026年11月7日付）の1位を獲得した。バンドにとって初めての全米アルバム1位で、Olivia Rodrigoを上回った。",
+    "why_ja": "Billboard、Rolling Stone、Varietyに加えてBillboard JAPANも報じた。関連のアニメ短編は公開76時間で約106万回再生、英国のYouTubeチャートで23位に入っている。",
+    "debate_ja": "20年前の名盤がいま1位になったのは、なぜだと思う？",
+    "line_point": "MCR『The Black Parade』が20周年再発盤で初の全米1位。Olivia Rodrigoを上回る",
+    "reels": [
+     {
+      "hook": "20年前のアルバムが今1位って、なぜ？",
+      "angle": "1位獲得の事実→再発盤、アニメ短編、世代を超えたファンなど要因の論点→自分の見解→あなたの考える理由をコメントで募集"
+     },
+     {
+      "hook": "MCR、実は全米1位は今回が初めて",
+      "angle": "代表作でも届かなかった1位に20年後に届いた意外さを示し、アニメ短編の約106万回再生など数字から再評価の流れを読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s22",
+    "title_ja": "Harry Styles、MSGで30公演を完走　記念バナーも",
+    "genre": "POP",
+    "summary_ja": "Harry Stylesが、Madison Square Gardenでの30公演のレジデンシーをハロウィンの2公演で締めくくった。ElvisやNYの名物Pizza Ratに扮し、「Psycho Killer」もカバーした。Jalen Brunsonから30公演の記念バナーを贈られ、アリーナの記録も更新したと報じられている。",
+    "why_ja": "Billboard、Rolling Stoneなど4媒体が報じた。新曲「Coming Up Roses」のMVは約851万回再生で、YouTubeチャートは英国1位、米国3位。",
+    "debate_ja": "ツアーで各地を回るより、一か所で30公演のほうがいい？",
+    "line_point": "Harry Styles、MSGで30公演のレジデンシーを完走。記念バナーを贈られ、アリーナ記録も更新と報道",
+    "reels": [
+     {
+      "hook": "ツアーより一か所で30公演、アリ？",
+      "angle": "30公演完走の事実→アーティストの負担減と遠方ファンの不利という論点→自分の見解→どちらが嬉しいかコメントで募集"
+     },
+     {
+      "hook": "Pizza Ratって何？Harryの仮装を解説",
+      "angle": "NYで話題になった名物ネタやElvisへの仮装、記念バナーの演出を紹介し、地元ニューヨークへの愛を見せたラスト公演を振り返る"
+     }
+    ]
+   },
+   {
+    "id": "s18",
+    "title_ja": "Lizzo、批判の時期にDolly Partonが支えてくれたと明かす",
+    "genre": "POP",
+    "summary_ja": "Lizzoが、Dolly Partonに扮したハロウィンの機会に、Dollyとの思い出を振り返った。フルート演奏に誘われたこと、特別なクレジット、世間から反発を受けていた時期の支えについて語ったと報じられている。",
+    "why_ja": "報じたのはAllHipHopの1媒体だが、世代とジャンルを越えた大物同士の絆と、批判を受けた人をどう支えるかという語れる切り口がある。",
+    "debate_ja": "批判の渦中にいる後輩を、先輩は公に支えるべき？",
+    "line_point": "Lizzo、Dolly Partonの仮装で、批判を受けた時期にDollyが支えてくれたと回想",
+    "reels": [
+     {
+      "hook": "批判された時、Dollyは味方だった",
+      "angle": "Lizzoの回想を紹介→批判の渦中の人を公に支えることの意味という論点→自分の見解→あなたならどうするかコメントで募集"
+     },
+     {
+      "hook": "LizzoとDolly、フルートでつながる縁",
+      "angle": "報じられたエピソード（フルートへの誘い、特別なクレジット）を紹介し、ジャンルを越えた2人の交流を解説する"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s21",
+     "title_ja": "デトロイト・テクノの先駆者Juan Atkins、64歳で死去",
+     "note": "Cybotronの共同創設者でテクノの先駆者Juan Atkinsが64歳で死去"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s10",
+     "title_ja": "Gracie Abrams、『Daughter from Hell』デラックス版を発表",
+     "note": "11月20日発売。SNLで新曲「Here You Come, There You Go」を披露"
+    },
+    {
+     "id": "s16",
+     "title_ja": "Barbra Streisandの長年のマネージャーが97歳で死去",
+     "note": "Streisandを見出し60年以上支えたMarty Erlichmanが97歳で死去"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s17",
+     "title_ja": "Wu-Tang Clan、感謝祭のNFL戦ハーフタイムに出演",
+     "note": "11月26日のLions対Bears戦に出演。ショーの製作総指揮はEminem"
+    },
+    {
+     "id": "s20",
+     "title_ja": "Kanye West、ハロウィン公演にPlayboi CartiとNorth West",
+     "note": "ヒューストン公演に登場。会場ではDrakeやTravis Scottの姿も報じられた"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s7",
+     "title_ja": "Queen、公式の和訳MVを公開",
+     "note": "「Bohemian Rhapsody」など3曲に日本語訳付きの公式MV。名曲の歌詞の意味が分かるネタ"
+    },
+    {
+     "id": "s30",
+     "title_ja": "The Outfield「Your Love」MV、40年越しで10億回再生",
+     "note": "発表から40年後の10億回再生達成。昔の曲がいま聴かれる理由がネタに"
+    },
+    {
+     "id": "s1",
+     "title_ja": "Billboard、1894年の創刊号を振り返る",
+     "note": "創刊号のテーマは「ボード上の新しく鮮やかで興味深いすべて」。今のチャート誌との違いがネタに"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s11",
+    "title_ja": "Evanescence、来日東京公演を2027年1月にWOWOWで放送",
+    "note": "約14年ぶりの単独来日ツアーから東京公演を2027年1月にWOWOWで独占放送・配信"
+   },
+   {
+    "id": "s33",
+    "title_ja": "The Glenn Miller Orchestra、2027年ジャパン・ツアー開催",
+    "note": "オフィシャル2次先行受付がスタート。新潟公演の詳細も公開"
+   },
+   {
+    "id": "s34",
+    "title_ja": "Wiener Philharmoniker、Riccardo Muti指揮で2026年来日公演",
+    "note": "Riccardo Muti指揮による来日公演2026"
+   },
+   {
+    "id": "s19",
+    "title_ja": "Jay Chou、横浜中華街とのコラボキャンペーン開催",
+    "note": "10月31日から過去最大規模の85店舗が参加。限定ステッカー配布やサイン入りグッズの抽選も"
+   }
+  ],
+  "tour_candidates": 5
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s21",
+   "label": "Juan Atkins, Detroit techno pioneer, dies at 64",
+   "artists": [
+    "Juan Atkins"
+   ],
+   "genre": "Dance",
+   "kind": "death",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "DJ Mag",
+    "Pitchfork",
+    "Resident Advisor",
+    "Rolling Stone",
+    "The Guardian"
+   ],
+   "n_outlets": 7,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 7,
+   "score": 8,
+   "latest": "2026-11-01T19:54:43+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Juan Atkins, Techno Pioneer and Cybotron Co-Founder, Dies at 64",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkQtVXl6Ml9KSm5LRnF1UDRjVnZPcmdMZ0NPR2tMWkZ2UFEwWGhGeHZVMmxUc1RZSDhOTEFIYnVaWEZBNmYzLUlGcGhwQ0NxajZhb1hxc0VXTlhOSVN1Slk4UkJMajhCUkExZkdqRWF4WmhvQWVWeFZqSXZvaUtpWnBlckdtNE9qWG5hTW1WX0FQazk1aHF1Ni1QQXBpdW9pZVhCYzR3R1d4WEE?oc=5",
+     "published": "2026-11-01T19:54:43+00:00",
+     "summary": "Juan Atkins, Techno Pioneer and Cybotron Co-Founder, Dies at 64 Billboard"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Detroit Techno Pioneer Juan Atkins Dies at 64",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRmTllNRllKbHdLQmxrcTBhZE40am5UTGVWREtOVkFpYkQ1V1hVdFVXd1lVSzVOdml2TVhHQ3p0aDJ5c1N4QlNqNklobkRNWElEb1NHWTB2bEZ2NXRCalgxdnIwdkJwSjY2Q3k1UnphNHJXRDJ5ZEdhNHFXaEFTRndtZVNLQ0VzVFBvNFRn?oc=5",
+     "published": "2026-11-01T19:44:42+00:00",
+     "summary": "Detroit Techno Pioneer Juan Atkins Dies at 64 Complex"
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Juan Atkins, pioneer of Detroit techno sound, dies aged 64",
+     "link": "https://www.theguardian.com/music/2026/nov/01/juan-atkins-pioneer-of-detroit-techno-sound-dies-aged-64",
+     "published": "2026-11-01T18:31:22+00:00",
+     "summary": "US artist known as Model 500 and as one half of the duo Cybotron had huge influence on dance music worldwide Juan Atkins, one of the pioneers of Detroit techno and a huge influence on dance music more widely, has died aged 64. His agency, G"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Juan Atkins, Techno Music Pioneer, Dead at 64",
+     "link": "https://www.rollingstone.com/music/music-news/juan-atkins-techno-music-pioneer-cybotron-dead-obituary-1235651028/",
+     "published": "2026-11-01T17:17:49+00:00",
+     "summary": "The originator of Detroit techno, Atkins was a founding member of the pioneering electronic music duo Cybotron and released the influential \"No UFO's\" under his Model 500 moniker"
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "Juan Atkins, Detroit techno pioneer, has died",
+     "link": "https://djmag.com/news/juan-atkins-detroit-techno-pioneer-has-died",
+     "published": "2026-11-01T16:51:56+00:00",
+     "summary": "The visionary artist who helped shape the sound of Motor City was reportedly found unresponsive in a hotel room in Mexico City on Saturday (31st)"
+    },
+    {
+     "outlet": "Resident Advisor",
+     "title": "Juan Atkins, techno pioneer and Belleville Three member, dies aged 64 · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFByZFRWV2lfU2prQWNlcVVEZ2x0al9wZC1MQmJld2tEemRpWHU2MFAwY1F2VHF5QTBCQlVaaA?oc=5",
+     "published": "2026-11-01T15:53:02+00:00",
+     "summary": "Juan Atkins, techno pioneer and Belleville Three member, dies aged 64 · News ⟋ RA Resident Advisor"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Juan Atkins, Co-Founder of Techno Music, Dies at 64",
+     "link": "https://pitchfork.com/story/juan-atkins-co-founder-of-techno-music-dies-at-64/",
+     "published": "2026-11-01T15:49:25+00:00",
+     "summary": "The Detroit producer and DJ pioneered the genre as a solo artist and member of the Belleville Three, Cybotron, and Borderland"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "Kid Rock used AI for gospel choir on Eminem collaboration",
+   "artists": [
+    "Kid Rock",
+    "Eminem"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "Complex",
+    "Consequence",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-11-02T02:52:47+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Kid Rock Admits Gospel Choir on Eminem Collaboration \"Heal My Faith\" Was Created Using AI",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOalFackEtOFFobElvdkVfdVhoSXIxOUZnc2VqSmNqZmdsOTFoc3dDNkdnY0I1NkhyTlZ6blFJTUZIWmpoNzNzcWFDcGZRZVlUOUpNUFhBNVZlWTVyLVBLeWJkYW9aVUV4RlJFWkxSM2hRWjZ1aTYxTXBzUm9JQlFXbWp6YkplZ1dRWEE?oc=5",
+     "published": "2026-11-02T02:52:47+00:00",
+     "summary": "Kid Rock Admits Gospel Choir on Eminem Collaboration \"Heal My Faith\" Was Created Using AI Complex"
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Kid Rock Says He Used AI On New Eminem Collab",
+     "link": "https://www.hotnewhiphop.com/1015332-kid-rock-ai-eminem-collab",
+     "published": "2026-11-01T22:37:18+00:00",
+     "summary": "Eminem caught a lot of backlash for collaborating with his friend and MAGA supporter Kid Rock after years of criticizing Donald Trump. The post Kid Rock Says He Used AI On New Eminem Collab appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Kid Rock Reveals He Used AI on New Song with Eminem",
+     "link": "https://consequence.net/2026/11/kid-rock-reveals-he-used-ai-on-song/",
+     "published": "2026-11-01T20:21:25+00:00",
+     "summary": "The newly minted Christian music artist told Bill Maher that using AI saved time when making the song. Kid Rock Reveals He Used AI on New Song with Eminem Travis Bland"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "My Chemical Romance tops Billboard 200 with 20-year-old album",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "genre": "Other",
+   "kind": "chart",
+   "talk": 1,
+   "outlets": [
+    "Billboard",
+    "Billboard JAPAN",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-11-02T11:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "【米ビルボード・アルバム・チャート】マイ・ケミカル・ロマンスがグループ初の1位獲得、リリースから20年の快挙",
+     "link": "https://www.billboard-japan.com/d_news/detail/167041",
+     "published": "2026-11-02T11:30:00+09:00",
+     "summary": "今週（2026年11月7日付）の米ビルボード・アルバム・チャート“Billboard 200”は、マイ・ケミカル・ロ…"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "My Chemical Romance Tops the Billboard 200 With 20-Year-Old Album",
+     "link": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097/",
+     "published": "2026-11-01T21:08:58+00:00",
+     "summary": "The rock band's The Black Parade reached the top slot with its 20th anniversary reissue, beating out Olivia Rodrigo"
+    },
+    {
+     "outlet": "Variety",
+     "title": "My Chemical Romance Scores First-Ever No. 1 on Albums Chart With ‘The Black Parade,’ 20 Years After Its Release",
+     "link": "https://variety.com/2026/music/news/my-chemical-romance-scores-first-no-1-with-the-black-parade-1236936933/",
+     "published": "2026-11-01T20:53:51+00:00",
+     "summary": "My Chemical Romance has scored its first-ever No. 1 on the Billboard 200 as “The Black Parade” surges from No. 139 to the top of the chart, 20 years after its initial release. The group reaches the chart summit for the first time following "
+    },
+    {
+     "outlet": "Billboard",
+     "title": "My Chemical Romance Earns First No. 1 Album on Billboard 200 After ‘The Black Parade’ Reissue",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnBCMUI2RXdLU2FhYzZOcmdRSEhWVHd0Nmc5SlhNM3Y3ZDVib0pUSUVBNmM2RWt4anVBVkJrM2hacGtqRjVIOFVtM2xEdDdxS1hWOElIWWhvcjNGNmhSX1hiVEJnOHBEUkFPV3JoM2NjWFBPLTVSNU5YNlU5VmdEU3FacUtsbVlJeF9XMjBIajFqaVZuVGh1bU1aTEwxTWh0ZF9tblRMY2pJY01TZ2g0bmdn?oc=5",
+     "published": "2026-11-01T20:00:42+00:00",
+     "summary": "My Chemical Romance Earns First No. 1 Album on Billboard 200 After ‘The Black Parade’ Reissue Billboard"
+    }
+   ],
+   "chart": [
+    {
+     "id": "BpJikRTDqdk",
+     "title": "My Chemical Romance & Lauren Tsai - Prelude to The End (An Animated Short Film)",
+     "channel": "My Chemical Romance",
+     "published": "2026-10-29T23:05:35Z",
+     "hours_since": 76,
+     "views": 1063027,
+     "url": "https://www.youtube.com/watch?v=BpJikRTDqdk",
+     "region": "GB",
+     "rank": 23
+    }
+   ],
+   "video": {
+    "id": "BpJikRTDqdk",
+    "title": "My Chemical Romance & Lauren Tsai - Prelude to The End (An Animated Short Film)",
+    "channel": "My Chemical Romance",
+    "published": "2026-10-29T23:05:35Z",
+    "hours_since": 76,
+    "views": 1063027,
+    "url": "https://www.youtube.com/watch?v=BpJikRTDqdk",
+    "region": "GB",
+    "rank": 23
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Jermaine Dupri demands Spotify pay artists for AI remixes",
+   "artists": [
+    "Jermaine Dupri"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-02T01:30:51+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Jermaine Dupri Demands Spotify Pay Artists For AI Remixes: “Cut Us In”",
+     "link": "https://allhiphop.com/news/jermaine-dupri-demands-spotify-pay-artists-for-ai-remixes-cut-us-in/",
+     "published": "2026-11-02T01:30:51+00:00",
+     "summary": "Jermaine Dupri urges musicians to unite over Spotify's AI remix plans and seek a say in fees and which records can be used."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Gracie Abrams releases deluxe edition of 'Daughter from Hell'",
+   "artists": [
+    "Gracie Abrams"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "MUSIC LIFE CLUB",
+    "NME",
+    "Rolling Stone"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "MUSIC LIFE CLUB"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-11-02T03:00:52+00:00",
+   "articles": [
+    {
+     "outlet": "MUSIC LIFE CLUB",
+     "title": "グレイシー・エイブラムス、最新作『Daughter from Hell』デラックス版11/20リリース。米人気番組SNLでは新曲「Here You Come, There You Go」披露も！",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CdVIyT19aNGxiSEp3RURjRFhYTU1KM29oeVFxRFNQcHAwbzJqZjc0cTQyYmt6QmZOemNJTU1hU1NDTk9FdWZZNHlleUVfU3F3QkdfUHhFSFZBT3l4UElUZU1R?oc=5",
+     "published": "2026-11-02T03:00:52+00:00",
+     "summary": "グレイシー・エイブラムス、最新作『Daughter from Hell』デラックス版11/20リリース。米人気番組SNLでは新曲「Here You Come, There You Go」披露も！ MUSIC LIFE CLUB"
+    },
+    {
+     "outlet": "NME",
+     "title": "Watch Gracie Abrams channel ‘Romeo + Juliet’ for performances of ‘Hit The Wall’ and ‘Here You Come, There You Go’ on ‘SNL’",
+     "link": "https://www.nme.com/news/music/watch-gracie-abrams-channel-romeo-juliet-for-performances-of-hit-the-wall-and-here-you-come-there-you-go-on-snl-3974753?utm_source=rss&utm_medium=rss&utm_campaign=watch-gracie-abrams-channel-romeo-juliet-for-performances-of-hit-the-wall-and-here-you-come-there-you-go-on-snl",
+     "published": "2026-11-01T11:43:44+00:00",
+     "summary": "The singer-songwriter releases the deluxe edition of ‘Daughter From Hell’ on November 20 The post Watch Gracie Abrams channel ‘Romeo + Juliet’ for performances of ‘Hit The Wall’ and ‘Here You Come, There You Go’ on ‘SNL’ appeared first on N"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Gracie Abrams Goes From Juliet to Romeo During ‘SNL’ Halloween Performances",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNnY3Y296RGxTcmw5OGhoeGlHTU51UG5CMURNbXFfQURRT0tXcDY0elJfbHBKZ3hKMjJObmFOYjUyNHNMV3ZQOUJ5RE50VDN2NjNFRjRjMU1DT3llMUp6aVlvSkpvdHc3NVNySFN5UTVKXzdHWkpQaXZhbE5tTmNmQUxQNTZ2dUlqbUY4Sk5HOTlqSHlEdU9oT2wzSWEtZw?oc=5",
+     "published": "2026-11-01T08:44:27+00:00",
+     "summary": "Gracie Abrams Goes From Juliet to Romeo During ‘SNL’ Halloween Performances Billboard"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "‘SNL’: Watch Gracie Abrams Perform ‘Hit the Wall,’ ‘Here You Come, There You Go’",
+     "link": "https://www.rollingstone.com/music/music-news/snl-watch-gracie-abrams-perform-hit-wall-here-you-come-there-you-go-1235650873/",
+     "published": "2026-11-01T07:22:52+00:00",
+     "summary": "The singer-songwriter plays one song from her latest album, Daughter from Hell , and another from its deluxe version"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "Harry Styles closes 30-night MSG residency with Halloween shows",
+   "artists": [
+    "Harry Styles"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Consequence",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 4,
+   "latest": "2026-11-01T21:36:01+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Harry Styles Dresses as NYC ‘Pizza Rat,’ Gets Jalen Brunson Tribute at Final MSG Residency Show",
+     "link": "https://www.billboard.com/music/pop/harry-styles-pizza-rat-harryween-msg-residency-final-show-1236371781/",
+     "published": "2026-11-01T21:36:01+00:00",
+     "summary": "The pop star marked the occasion with a Halloween tribute to one of the city's most infamous viral sensations."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Harry Styles Covers “Psycho Killer” on Final Night of MSG Residency",
+     "link": "https://consequence.net/2026/11/harry-styles-covers-psycho-killer/",
+     "published": "2026-11-01T17:50:10+00:00",
+     "summary": "The singer also donned a Pizza Rat costume and broke an arena record. Harry Styles Covers “Psycho Killer” on Final Night of MSG Residency Travis Bland"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Harry Styles Closes Out 30-Night Madison Square Garden Residency With Two ‘Harryween’ Shows, Dressed as Elvis and Pizza Rat, and a Jalen Brunson Guest Appearance",
+     "link": "https://variety.com/2026/music/news/harry-styles-closes-madison-square-garden-harryween-1236936778/",
+     "published": "2026-11-01T16:38:34+00:00",
+     "summary": "Harry Styles’ record-setting 30-night residency at New York’s Madison Square Garden came to a close over the weekend, with a pair of Styles’ recurring “Harryween” concerts that saw the star, his band and much of the audience dressed for the"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Harry Styles Honored by Jalen Brunson at Madison Square Garden, Receives 30 Nights Banner",
+     "link": "https://www.rollingstone.com/music/music-news/harry-styles-jalen-bruson-banner-msg-psycho-killer-1235648896/",
+     "published": "2026-11-01T03:09:16+00:00",
+     "summary": "The singer ended his record-breaking Together, Together residency with a special Halloween show where he also covered \"Psycho Killer\" dressed as a New York City rat"
+    }
+   ],
+   "chart": [
+    {
+     "id": "M4qX5wzx-wY",
+     "title": "Harry Styles - Coming Up Roses (Official Video)",
+     "channel": "HarryStylesVEVO",
+     "published": "2026-10-26T16:00:07Z",
+     "hours_since": 155,
+     "views": 8508259,
+     "url": "https://www.youtube.com/watch?v=M4qX5wzx-wY",
+     "region": "GB",
+     "rank": 1
+    },
+    {
+     "id": "M4qX5wzx-wY",
+     "title": "Harry Styles - Coming Up Roses (Official Video)",
+     "channel": "HarryStylesVEVO",
+     "published": "2026-10-26T16:00:07Z",
+     "hours_since": 155,
+     "views": 8508259,
+     "url": "https://www.youtube.com/watch?v=M4qX5wzx-wY",
+     "region": "US",
+     "rank": 3
+    }
+   ],
+   "video": {
+    "id": "M4qX5wzx-wY",
+    "title": "Harry Styles - Coming Up Roses (Official Video)",
+    "channel": "HarryStylesVEVO",
+    "published": "2026-10-26T16:00:07Z",
+    "hours_since": 155,
+    "views": 8508259,
+    "url": "https://www.youtube.com/watch?v=M4qX5wzx-wY",
+    "region": "GB",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "Grandmaster Flash discusses hip-hop DJ origins with Al Sharpton",
+   "artists": [
+    "Grandmaster Flash"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-02T02:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Grandmaster Flash Joins Al Sharpton To Revisit Hip-Hop’s Origins",
+     "link": "https://allhiphop.com/news/grandmaster-flash-joins-al-sharpton-to-revisit-hip-hops-origins/",
+     "published": "2026-11-02T02:00:00+00:00",
+     "summary": "Grandmaster Flash discusses early Hip-Hop DJ techniques with Ari Melber and Al Sharpton during an October 23 MS NOW broadcast."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Lizzo reveals Dolly Parton support during public backlash",
+   "artists": [
+    "Lizzo"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-01T22:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Lizzo Reveals How Dolly Parton Supported Her During Backlash",
+     "link": "https://allhiphop.com/news/lizzo-reveals-how-dolly-parton-supported-her-during-backlash/",
+     "published": "2026-11-01T22:30:00+00:00",
+     "summary": "Lizzo used her Dolly Parton Halloween tribute to recall a flute invitation, a special credit and support during public backlash."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "The Weeknd releases Hong Kong-exclusive track featuring Faye Wong",
+   "artists": [
+    "The Weeknd"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop",
+    "Billboard JAPAN",
+    "uDiscoverMusic"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "uDiscoverMusic"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-02T08:45:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ザ・ウィークエンド、香港への愛を込めた「HONG KONG (feat. 王菲季候風)」公開 フェイ・ウォン名曲をサンプリング",
+     "link": "https://www.billboard-japan.com/d_news/detail/167032",
+     "published": "2026-11-02T08:45:00+09:00",
+     "summary": "香港公演の終幕を迎えるにあたり、ザ・ウィークエンドが香港への愛と敬意を込めた新曲「HONG KONG (feat. …"
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "The Weeknd Taps Faye Wong’s 1993 Classic For Asia-Exclusive “Hong Kong”",
+     "link": "https://allhiphop.com/news/the-weeknd-taps-faye-wongs-1993-classic-for-asia-exclusive-hong-kong/",
+     "published": "2026-11-02T02:30:43+00:00",
+     "summary": "The Weeknd released \"Hong Kong\" across East and Southeast Asia, pairing Faye Wong's 1993 vocals with the city's film history."
+    },
+    {
+     "outlet": "uDiscoverMusic",
+     "title": "ザ・ウィークエンド、フェイ・ウォン(王菲)の「季候風」を使用した新曲「Hong Kong」を公開",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmlTeU5jNVNPQWJ3NnFscGFwZGFheUlkdWdzbUMxaV93cmF2dTBqcXR5dElQWkpLRllTMzNITVVwRUU4bEhTVjRFenNES0JfR0xFelRRN01RekVZay04LWlJNHNFR01ZTGViVVlrb1NTR1lvaUE1c0ZjQVJUczc1V1JyU1hGa1JjdkJ4WEl6T3ZkZnFKTHRaMlp2VnpiWXfSAZ8BQVVfeXFMTk5pU3lOYzVTT0FidzZxbHBhcGRhYXlJZHVnc21DMWlfd3JhdnUwanF0eXRJUFpKS0ZZUzMzSE1VcEVFOGxIU1Y0RXpzREtCX0dMRXpUUTdNUXpFWWstOC1pSTRzRUdNWUxlYlVZa29TU0dZb2lBNXNGY0FSVHM3NVdSclNYRmtSY3ZCeFhJek92ZGZxSkx0WjJadlZ6Yll3?oc=5",
+     "published": "2026-11-01T00:35:18+00:00",
+     "summary": "ザ・ウィークエンド、フェイ・ウォン(王菲)の「季候風」を使用した新曲「Hong Kong」を公開 uDiscoverMusic"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "Marty Erlichman, Barbra Streisand manager, dies at 97",
+   "artists": [
+    "Barbra Streisand"
+   ],
+   "genre": "POP",
+   "kind": "death",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-02T01:12:50+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Marty Erlichman, Barbra Streisand’s Longtime Manager, Dies at 97",
+     "link": "https://www.billboard.com/pro/marty-erlichman-death-barbra-streisand-manager/",
+     "published": "2026-11-02T01:12:50+00:00",
+     "summary": "An entertainment manager for decades, Erlichman also worked with The Clancy Brothers and Tommy Makem."
+    },
+    {
+     "outlet": "Variety",
+     "title": "Marty Erlichman, Longtime Manager for Barbra Streisand, Dies at 97",
+     "link": "https://variety.com/2026/music/people-news/marty-erlichman-dead-barbra-streisand-manager-1236937009/",
+     "published": "2026-11-02T00:06:37+00:00",
+     "summary": "Marty Erlichman, the entertainment manager who discovered Barbra Streisand and managed her for more than six decades, died on Saturday of age-related causes. He was 97. “To the world, he was a giant of Hollywood; to us, he was a deeply devo"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Wu-Tang Clan to headline Detroit Lions Thanksgiving halftime show",
+   "artists": [
+    "Wu-Tang Clan"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Consequence"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-01T22:46:52+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Wu-Tang Clan to Headline Detroit Lions Thanksgiving Game Halftime Show",
+     "link": "https://www.billboard.com/music/rb-hip-hop/wu-tang-clan-halftime-show-detroit-lions-thanksgiving-game-1236371793/",
+     "published": "2026-11-01T22:46:52+00:00",
+     "summary": "They'll take the halftime performance slot at the Nov. 26 Lions-Bears game, while Antonio Cipriano will perform the national anthem."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Wu-Tang Clan to Headline Halftime Show of Detroit Lions’ Thanksgiving Day Game",
+     "link": "https://consequence.net/2026/11/wu-tang-clan-thanksgiving-day-lions-halftime-show/",
+     "published": "2026-11-01T19:28:48+00:00",
+     "summary": "The halftime show is being executive produced by Eminem. Wu-Tang Clan to Headline Halftime Show of Detroit Lions’ Thanksgiving Day Game Alex Young"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Kanye West brings out Playboi Carti and North West for Halloween",
+   "artists": [
+    "Kanye West"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-01T20:20:18+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Kanye West Brought Out Playboi Carti and North West for Halloween Concert",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0hYek9WaFlvN2xRc2d2NVB0X3dvTmdkMldqUTFrTFA5VVExdGNuWEdJbjlhZlFJbFlHcGhxR210ZXd0RUd2OXlrV2ZwOTkxSVZPTG5YZElHTVR3RTNWQzFxVy1QUm1abW5MMkJZc3V4Nm1QS3ctdHNGemRDMG9mSTVjQVhsWmY3bk1TQ0o3UQ?oc=5",
+     "published": "2026-11-01T20:20:18+00:00",
+     "summary": "Kanye West Brought Out Playboi Carti and North West for Halloween Concert Complex"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Drake Spotted at Ye's Houston Show on Halloween With Travis Scott and Mike Dean",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OZ0lKNTVveW1VR3ZFZGRsb01kdTlobTNYbXVIZVk3bXI2bVZ4WWY2bGc0MHBnYWZ1ckVXdEJPbzZVTG1NWWlmdHdhdzd0LTl0LTl2UHRkOXlfZmVIYTJ4OEtzR2tTVXRpTE5JcEE4YUpKMEc5TVJkXw?oc=5",
+     "published": "2026-11-01T18:37:45+00:00",
+     "summary": "Drake Spotted at Ye's Houston Show on Halloween With Travis Scott and Mike Dean Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "Evanescence Tokyo concert filmed for broadcast on WOWOW",
+   "artists": [
+    "Evanescence"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Mantan Web",
+    "PR TIMES",
+    "激ロック"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Mantan Web",
+    "PR TIMES",
+    "激ロック"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-02T03:00:02+00:00",
+   "articles": [
+    {
+     "outlet": "PR TIMES",
+     "title": "エヴァネッセンス来日公演がWOWOWで独占放送・配信決定！約14年ぶりの単独来日ツアーより東京公演の模様を2027年1月にお届け！",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OcDJIREJGRmhHUWg2XzVFU3B3akNqNXRkZThmYjNGVjJUY2VzMzR6d3hDcnVLVUgySWI1V3h4S1Fod1MtRTF6bzg5ellLaU1zTTQxekVCZ0ZKbE5rdUdSdk1lQ1d1bk5PdHc?oc=5",
+     "published": "2026-11-02T03:00:02+00:00",
+     "summary": "エヴァネッセンス来日公演がWOWOWで独占放送・配信決定！約14年ぶりの単独来日ツアーより東京公演の模様を2027年1月にお届け！ PR TIMES"
+    },
+    {
+     "outlet": "激ロック",
+     "title": "EVANESCENCE、約14年ぶり単独来日ツアーより東京公演の模様が来年1月WOWOWで独占放送／配信決定！",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYQlVzUGFVbFJiUnRoUmNQbENtVmtIMkpiclE5RWFBZS1NMjFkRG5YMFVGSWVJT3JSaktUVk1PYlBwcFF2UW1Qak9NaXFHak9BNHZKUExudmtneTlwZ2I2STRXSlAtZw?oc=5",
+     "published": "2026-11-02T03:00:00+00:00",
+     "summary": "EVANESCENCE、約14年ぶり単独来日ツアーより東京公演の模様が来年1月WOWOWで独占放送／配信決定！ 激ロック"
+    },
+    {
+     "outlet": "Mantan Web",
+     "title": "エヴァネッセンス：14年ぶりの単独来日公演 WOWOWで独占放送・配信",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTa2VydEgxRGFLZE1FdHdGR29lOW1hbC04bXB3WG9xanBodmU3dVhXRVZjM2ZWWWFaTUo1MlR2UDB5Ry1zX2RubklaUld5NTFaMENnd0gtN1d1MTR3OHlxekp3U0ZJREJRbG5J?oc=5",
+     "published": "2026-11-02T03:00:00+00:00",
+     "summary": "エヴァネッセンス：14年ぶりの単独来日公演 WOWOWで独占放送・配信 Mantan Web"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "Glen Miller Orchestra announces 2027 Japan tour dates",
+   "artists": [
+    "Glen Miller Orchestra"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "毎日キレイ"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "毎日キレイ"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-02T00:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "毎日キレイ",
+     "title": "「ザ・グレン・ミラー オーケストラ ジャパン・ツアー 2027」オフィシャル2次先行受付スタート&新潟公演の詳細公開！",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TbHFSd0NzQTcyZ2cwOEFRNlpfZFYzWEZLWGtrd0h2THFrcVl6TVNzWmdZaVNodmN4R2RUY2dSVURLbDRLa1laYjNsb2tSVlFYQzdGOWRTNTNqR0ZwTTk5RU1kQjhXM181UUVtQkd2UmRtWE1Rd25Lekd3?oc=5",
+     "published": "2026-11-02T00:30:00+00:00",
+     "summary": "「ザ・グレン・ミラー オーケストラ ジャパン・ツアー 2027」オフィシャル2次先行受付スタート&新潟公演の詳細公開！ 毎日キレイ"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Jay Chou Yokohama Chinatown collaboration campaign",
+   "artists": [
+    "Jay Chou"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "USENの音楽情報サイト"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "USENの音楽情報サイト"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-01T20:37:09+00:00",
+   "articles": [
+    {
+     "outlet": "USENの音楽情報サイト",
+     "title": "ジェイ・チョウ、横浜中華街とのコラボキャンペーンが10月31日より開催決定！過去最大規模の85店舗が参加。限定ステッカーのプレゼントや、直筆サイン入りポスター・グッズが当たる抽選企画も実施。",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tOWN0TnZGQzUxQWhlYmRCRWV5SnZZaTE0Ti1CN1g1X0V2WURqSDRabzR5RjNndm42YVU3T0F4dExybDJWVk9BRDBBamJiWHlDWHE4eDJxSHk5dw?oc=5",
+     "published": "2026-11-01T20:37:09+00:00",
+     "summary": "ジェイ・チョウ、横浜中華街とのコラボキャンペーンが10月31日より開催決定！過去最大規模の85店舗が参加。限定ステッカーのプレゼントや、直筆サイン入りポスター・グッズが当たる抽選企画も実施。 USENの音楽情報サイト"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "Wiener Philharmoniker conducts Riccardo Muti Japan tour 2026",
+   "artists": [
+    "Wiener Philharmoniker"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "NHK ONE"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "NHK ONE"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-01T09:04:13+00:00",
+   "articles": [
+    {
+     "outlet": "NHK ONE",
+     "title": "リッカルド・ムーティ指揮 ウィーン・フィル来日公演2026",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uYVZFOFBscUVNUXVLYUhCYW94aHg1OXFMREZqTW5FVXlOM3VKcXBuRFJDY21tU3ZyT3d3OHVXMDVGaXVPeEdkdVpObG9INkRlQ05XNF9Jem5OUnM?oc=5",
+     "published": "2026-11-01T09:04:13+00:00",
+     "summary": "リッカルド・ムーティ指揮 ウィーン・フィル来日公演2026 NHK ONE"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s26",
+   "label": "The Big Star Quintet announces February 2027 Japan tour",
+   "artists": [
+    "The Big Star Quintet"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-01T04:51:59+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "The Big Star Quintet、2027年2月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XR185cGItZ1BrbUNqUlpyM29vc2o1U2VaVmFvTE51bDlSZTQ2UHNQbzhUSHpHOG9MY1RMWW05RGh6NFZNdjZJ?oc=5",
+     "published": "2026-11-01T04:51:59+00:00",
+     "summary": "The Big Star Quintet、2027年2月に来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Billboard magazine celebrates 130+ year history",
+   "artists": [],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-02T11:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "米ビルボード、\"ボード上の新しく、鮮やかで、興味深いすべて\"を伝えた創刊号を振り返る",
+     "link": "https://www.billboard-japan.com/d_news/detail/167042",
+     "published": "2026-11-02T11:30:00+09:00",
+     "summary": "1894年11月1日、米ビルボードは創刊号を発行した。その内容は現在の雑誌や、拡大を続ける米ビルボードの各プラットフ…"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "The First Billboard: All That Was ‘New, Bright & Interesting on the Boards’",
+     "link": "https://www.billboard.com/pro/first-billboard-issue-november-1-1894/",
+     "published": "2026-11-01T18:58:55+00:00",
+     "summary": "Looking back at Nov. 1, 1894, when Billboard published its first issue, one that's vastly different from today's magazine and expanded platforms."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s5",
+   "label": "Stone Sour releases 15th anniversary reissue of 'Audio Secrecy'",
+   "artists": [
+    "Stone Sour"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-02T10:15:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "コリィ・テイラー率いるストーン・サワー、『オーディオ・シークレシー』15周年記念3枚組CD発売",
+     "link": "https://www.billboard-japan.com/d_news/detail/167037",
+     "published": "2026-11-02T10:15:00+09:00",
+     "summary": "コリィ・テイラー率いるロック・バンド、ストーン・サワーが2010年に発表した通算3作目となるスタジオ・アルバム『オー…"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "コリィ・テイラー率いるストーン・サワー、『オーディオ・シークレシー』15周年記念3枚組CD発売",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FSElHa2dReVNndTJRNEhKVzBubTl5S3praFNKQUMtXy1BcVdIVDZYQ2dvRlI2Nk9WSDVJcXdKc0F6Z3VST1RrNkJST0dJM1ZyWEloazd0cUptLTBpQXAzRFFla2lrS3diRVE0b2hZT3cyVXNKMGY0SGZxcnlPUFk?oc=5",
+     "published": "2026-11-02T01:20:01+00:00",
+     "summary": "コリィ・テイラー率いるストーン・サワー、『オーディオ・シークレシー』15周年記念3枚組CD発売 Yahoo!ニュース"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s23",
+   "label": "Tears for Fears synth-pop movement retrospective",
+   "artists": [
+    "Tears for Fears"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "uDiscoverMusic",
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "uDiscoverMusic",
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-01T17:36:43+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic",
+     "title": "ティアーズ・フォー・フィアーズと当時のシンセ・ポップのムーブメント",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3ZkgxQUNqYm1OVEhGLVduQXl4dW9SaUpiYklmbVkwb3Nub2RVVGtwMWpwVFN4dUN4LWtEQkZyTTVjT1BlSTctWUNfV3dYNE9ENkNJV2lBMlRVak1GWTJNcFcwdGxMcmFPOF9UNjhuWWhoTllNdUdndXUxMC3SAXxBVV95cUxQN2ZIMUFDamJtTlRIRi1XbkF5eHVvUmlKYmJJZm1ZMG9zbm9kVVRrcDFqcFRTeHVDeC1rREJGck01Y09QZUk3LVlDX1d3WDRPRDZDSVdpQTJUVWpNRlkyTXBXMHRsTHJhTzhfVDY4blloaE5ZTXVHZ3V1MTAt?oc=5",
+     "published": "2026-11-01T17:36:43+00:00",
+     "summary": "ティアーズ・フォー・フィアーズと当時のシンセ・ポップのムーブメント uDiscoverMusic"
+    },
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "ティアーズ・フォー・フィアーズと当時のシンセ・ポップのムーブメント",
+     "link": "https://www.udiscovermusic.jp/columns/throw-back-to-the-future-117",
+     "published": "2026-11-01T13:49:24+00:00",
+     "summary": "今回は1989年に発売された『The Seeds Of Love』の新デラックス・エディションが発売されたティアーズ・フォー・フィアーズ（Tears For Fears）やシンセ・ポップのムーブメントについて。 The post ティアーズ・フォー・フィアーズと当時のシンセ・ポップのムーブメント appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s7",
+   "label": "Queen releases official Japanese-translated music videos",
+   "artists": [
+    "Queen"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-02T09:45:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "クイーン、公式和訳MV第1弾として「ボヘミアン・ラプソディ」「ボーン・トゥ・ラヴ・ユー」「伝説のチャンピオン」公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/167035",
+     "published": "2026-11-02T09:45:00+09:00",
+     "summary": "1975年10月31日にUKでシングルがリリースされた、クイーンの名曲「ボヘミアン・ラプソディ」が、51周年を迎えた…"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "The Outfield 'Your Love' video reaches billion views milestone",
+   "artists": [
+    "The Outfield"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-01T07:18:20+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Whole Lotta ‘Love’: The Outfield’s ‘Your Love’ Music Video Joins Billion Views Club, 40 Years After Release",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHl2Vm5ROXRGYTFsbUFXUVd4OHc1UzQ2Y3h0Q1lKLXlKTHNJdXVqY21XRXdpbE5SakxHSS11MTNkb3dUQ1FuSFJ0dHczZ2E3dmhJUnNNcVprckdWRVFtVWo1VTVhb3lhX1B6b00yajROWmkxNHFCMDBPdmwxQXVVaksxWGtrQnpxMWxFeThxOHBiSl9kTzhZWXo0SFdBc0gxbDhNaXFIWQ?oc=5",
+     "published": "2026-11-01T07:18:20+00:00",
+     "summary": "Whole Lotta ‘Love’: The Outfield’s ‘Your Love’ Music Video Joins Billion Views Club, 40 Years After Release Billboard"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Billboard magazine celebrates 130+ year history",
+   "artists": [],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-02T11:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "米ビルボード、\"ボード上の新しく、鮮やかで、興味深いすべて\"を伝えた創刊号を振り返る",
+     "link": "https://www.billboard-japan.com/d_news/detail/167042",
+     "published": "2026-11-02T11:30:00+09:00",
+     "summary": "1894年11月1日、米ビルボードは創刊号を発行した。その内容は現在の雑誌や、拡大を続ける米ビルボードの各プラットフ…"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "The First Billboard: All That Was ‘New, Bright & Interesting on the Boards’",
+     "link": "https://www.billboard.com/pro/first-billboard-issue-november-1-1894/",
+     "published": "2026-11-01T18:58:55+00:00",
+     "summary": "Looking back at Nov. 1, 1894, when Billboard published its first issue, one that's vastly different from today's magazine and expanded platforms."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s4",
+   "label": "DIIV releases new album 'ZIRP!' with 'Dare Me' music video",
+   "artists": [
+    "DIIV"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-02T10:45:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "DIIV、ニューAL『ZIRP!』より「Dare Me」MV公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/167038",
+     "published": "2026-11-02T10:45:00+09:00",
+     "summary": "DIIV（ダイヴ）が、ニュー・アルバム『ZIRP!』をリリースし、最新シングル「Dare Me」をミュージック・ビデ…"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "DIIV、ニューAL『ZIRP!』より「Dare Me」MV公開",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6SkIwZEl2WGd3ck1XRTBoVUcyMzF3eHEtbjRUUVJGMFN2djMzajRVcUJOdXR4aDNfZUFsQy1vNFlGWFk1dEdIY2FoYlNEc2wtckdybmp3Z21XUTJnWnp2aVlILUsySHAxbjNiTWZEZmVqazRNUFZ2c3RBckJMZkk?oc=5",
+     "published": "2026-11-02T01:50:02+00:00",
+     "summary": "DIIV、ニューAL『ZIRP!』より「Dare Me」MV公開 Yahoo!ニュース"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s5",
+   "label": "Stone Sour releases 15th anniversary reissue of 'Audio Secrecy'",
+   "artists": [
+    "Stone Sour"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-02T10:15:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "コリィ・テイラー率いるストーン・サワー、『オーディオ・シークレシー』15周年記念3枚組CD発売",
+     "link": "https://www.billboard-japan.com/d_news/detail/167037",
+     "published": "2026-11-02T10:15:00+09:00",
+     "summary": "コリィ・テイラー率いるロック・バンド、ストーン・サワーが2010年に発表した通算3作目となるスタジオ・アルバム『オー…"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "コリィ・テイラー率いるストーン・サワー、『オーディオ・シークレシー』15周年記念3枚組CD発売",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FSElHa2dReVNndTJRNEhKVzBubTl5S3praFNKQUMtXy1BcVdIVDZYQ2dvRlI2Nk9WSDVJcXdKc0F6Z3VST1RrNkJST0dJM1ZyWEloazd0cUptLTBpQXAzRFFla2lrS3diRVE0b2hZT3cyVXNKMGY0SGZxcnlPUFk?oc=5",
+     "published": "2026-11-02T01:20:01+00:00",
+     "summary": "コリィ・テイラー率いるストーン・サワー、『オーディオ・シークレシー』15周年記念3枚組CD発売 Yahoo!ニュース"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s23",
+   "label": "Tears for Fears synth-pop movement retrospective",
+   "artists": [
+    "Tears for Fears"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "uDiscoverMusic",
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "uDiscoverMusic",
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-01T17:36:43+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic",
+     "title": "ティアーズ・フォー・フィアーズと当時のシンセ・ポップのムーブメント",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3ZkgxQUNqYm1OVEhGLVduQXl4dW9SaUpiYklmbVkwb3Nub2RVVGtwMWpwVFN4dUN4LWtEQkZyTTVjT1BlSTctWUNfV3dYNE9ENkNJV2lBMlRVak1GWTJNcFcwdGxMcmFPOF9UNjhuWWhoTllNdUdndXUxMC3SAXxBVV95cUxQN2ZIMUFDamJtTlRIRi1XbkF5eHVvUmlKYmJJZm1ZMG9zbm9kVVRrcDFqcFRTeHVDeC1rREJGck01Y09QZUk3LVlDX1d3WDRPRDZDSVdpQTJUVWpNRlkyTXBXMHRsTHJhTzhfVDY4blloaE5ZTXVHZ3V1MTAt?oc=5",
+     "published": "2026-11-01T17:36:43+00:00",
+     "summary": "ティアーズ・フォー・フィアーズと当時のシンセ・ポップのムーブメント uDiscoverMusic"
+    },
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "ティアーズ・フォー・フィアーズと当時のシンセ・ポップのムーブメント",
+     "link": "https://www.udiscovermusic.jp/columns/throw-back-to-the-future-117",
+     "published": "2026-11-01T13:49:24+00:00",
+     "summary": "今回は1989年に発売された『The Seeds Of Love』の新デラックス・エディションが発売されたティアーズ・フォー・フィアーズ（Tears For Fears）やシンセ・ポップのムーブメントについて。 The post ティアーズ・フォー・フィアーズと当時のシンセ・ポップのムーブメント appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 1
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 1
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 27
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 52,
+   "kept": 13
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 2
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 6
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 0
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 71,
+   "kept": 14
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 0
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 19
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 1
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 23,
+   "kept": 4
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 23,
+   "kept": 3
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 2
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 24
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 0
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 24,
+   "kept": 12
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 1,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 25,
+   "kept": 8
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 42,
+   "kept": 19
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 11,
+   "kept": 2
+  }
+ ],
+ "cost": {
+  "usd": 0.2926,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 16778,
+    "output_tokens": 4081
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 15173,
+    "output_tokens": 9737
+   }
+  ]
+ }
+}
