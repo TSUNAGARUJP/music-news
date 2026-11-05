@@ -1,0 +1,2452 @@
+{
+ "date": "2026-11-05",
+ "generated_at": "2026-11-05T09:43:08.416534+00:00",
+ "article_count": 302,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日は、アーティストの発言やチケット価格の仕組みなど、意見が分かれる話題が中心です。選挙の日の投稿をめぐる応酬や、教皇とBob Dylanの面会のように、音楽ファン以外にも届く話題もあります。",
+  "top": [
+   {
+    "id": "s7",
+    "title_ja": "Nicki Minaj、チャッキーのAI画像で投票呼びかけ　生みの親が応答",
+    "genre": "Hip-Hop",
+    "summary_ja": "Nicki Minajが選挙当日、『チャイルド・プレイ』のチャッキーと並ぶAI画像を投稿し、共和党への投票を呼びかけたと報じられている。これに対し、生みの親Don Mancini氏がチャッキーの家族設定に触れ、自分で作った画像で皮肉まじりに応じた。",
+    "why_ja": "Complex、Variety、Vibeなど5媒体が報じ、日本のBillboard JAPANも取り上げた。AI画像、政治的な発信、キャラクターの扱いが重なり、さまざまな立場から語れる話題になっている。",
+    "debate_ja": "人気キャラを政治的な発信に使うのはアリ？ナシ？",
+    "line_point": "Nicki MinajのAIチャッキー投稿に、生みの親Don Mancini氏が皮肉で応じたと報じられる",
+    "reels": [
+     {
+      "hook": "キャラを借りた投票呼びかけ、アリだと思う？",
+      "angle": "投稿内容と生みの親の反応を紹介→論点はキャラの使い方とAI画像→自分の見解→政治色は抜きにコメントで意見を募る"
+     },
+     {
+      "hook": "AI画像の時代、キャラは誰のもの？",
+      "angle": "AIで有名キャラを使った投稿が増えている背景を解説し、作り手が反応した今回の例から、キャラクターの扱いを考える"
+     }
+    ]
+   },
+   {
+    "id": "s35",
+    "title_ja": "Rapsody、チケット25ドルで赤字覚悟　2027年ツアーへの布石",
+    "genre": "Hip-Hop",
+    "summary_ja": "Rapsodyが、ライブのチケットを25ドル前後に抑え、意図的に赤字を受け入れたと語った。4都市を完売させ、2027年のより大きなツアーへの足がかりにする狙いだという。",
+    "why_ja": "AllHipHopが報じた。チケットの高騰や手数料が議論になるなか、あえて安くするアーティストの戦略は、業界の仕組みを考えるきっかけになる。",
+    "debate_ja": "チケットは安く広くか、高くても収益重視か、あなたはどっち派？",
+    "line_point": "Rapsodyがチケットを約25ドルに抑えて赤字を受け入れ、4都市を完売。2027年ツアーへの布石",
+    "reels": [
+     {
+      "hook": "チケット25ドルで赤字覚悟、これ正解？",
+      "angle": "25ドル設定と4都市完売を紹介→論点は目先の利益と将来のファン作り→自分の見解→適正価格はいくらかコメントで募る"
+     },
+     {
+      "hook": "チケット高騰の時代に、あえて安くする理由",
+      "angle": "最近のチケット高騰や転売の議論をふり返り、Rapsodyの戦略が長い目で見てどんな意味を持つのかを解説する"
+     }
+    ]
+   },
+   {
+    "id": "s61",
+    "title_ja": "Pusha T「今のラップには個性が足りない」と苦言",
+    "genre": "Hip-Hop",
+    "summary_ja": "Pusha Tが、かつてのHip-Hopは個性で成り立っていたと語った。一方で、今のアーティストは売れたものをまねることに関心が向いているように見えると指摘している。",
+    "why_ja": "HotNewHipHopが報じた。最近もラップの現状をめぐる発言が続いており、ベテランの視点からシーンを考える材料になる。",
+    "debate_ja": "今のラップは本当に似た曲ばかり？あなたはどう思う？",
+    "line_point": "Pusha Tが、今のラップは成功したものをまねるばかりで個性が足りないと苦言",
+    "reels": [
+     {
+      "hook": "今のラップ、似た曲ばかりって本当？",
+      "angle": "Pusha Tの発言を紹介→論点は流行に乗ることと個性の両立→自分の見解→個性的だと思う今のラッパーをコメントで募る"
+     },
+     {
+      "hook": "昔のラップのほうが個性的だった？",
+      "angle": "ストリーミング時代のヒットの法則と、それ以前のシーンの違いを比べ、ベテランがこう感じる背景を読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s5",
+    "title_ja": "Bob Dylan、バチカンでローマ教皇レオ14世と面会",
+    "genre": "Other",
+    "summary_ja": "2026年11月4日、Bob Dylanがバチカンでローマ教皇レオ14世と非公開で面会した。教皇は著書『Disarmed and Disarming: Peace Is a Gift』で、Dylanの未発表曲「Go Away You Bomb」を引用している。面会時、Dylanはパーカー姿だったと報じられている。",
+    "why_ja": "Rolling Stone、Pitchfork、Consequence、Billboard JAPANが報じた。関連動画は公開13時間で約5万6千回再生されている。",
+    "debate_ja": "教皇はなぜディランの未発表曲を引用？音楽は平和を動かせる？",
+    "line_point": "Bob Dylanがバチカンで教皇レオ14世と面会。教皇は著書でDylanの未発表曲を引用していた",
+    "reels": [
+     {
+      "hook": "ロック界の伝説と教皇が面会、その理由は？",
+      "angle": "面会の事実と未発表曲の引用を紹介→論点は音楽が平和に果たす役割→自分の見解→平和を感じる曲をコメントで募る"
+     },
+     {
+      "hook": "パーカー姿で教皇に会うのがDylanらしい",
+      "angle": "Dylanの反戦歌の歴史をふり返り、未発表曲「Go Away You Bomb」が今になって注目される意味を解説する"
+     }
+    ]
+   },
+   {
+    "id": "s53",
+    "title_ja": "Daniel Caesar、体調を理由に豪・ハワイの7公演を中止",
+    "genre": "POP",
+    "summary_ja": "Daniel Caesarが体調を理由に、オーストラリアとハワイで予定していたアリーナ公演7本を中止した。チケット販売元は払い戻しの方法を案内している。一部のファンからは怒りの声も上がっていると報じられている。",
+    "why_ja": "AllHipHopが報じた。アリーナ公演7本という規模の中止で、体調を優先することと、遠征や準備をしていたファンの負担の両面から語られている。",
+    "debate_ja": "体調不良による公演中止、ファンの不満と体調優先、どう両立すべき？",
+    "line_point": "Daniel Caesarが体調を理由に豪・ハワイの7公演を中止。払い戻しの案内も出ている",
+    "reels": [
+     {
+      "hook": "体調不良での公演中止、怒るのはアリ？",
+      "angle": "中止の事実と払い戻しの案内を紹介→論点は体調優先とファンの負担→自分の見解→ファンへの補償はどうあるべきかコメントで募る"
+     },
+     {
+      "hook": "最近、体調による公演中止が多い理由は？",
+      "angle": "心身のケアを理由にした公演延期・中止の例をふり返り、ツアーの過密さやアーティストの負担という背景を、決めつけずに解説する"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s43",
+     "title_ja": "Yaeji、EnayetとK Wataとの新曲「DDR」を公開",
+     "note": "シカゴ・フットワークとクィアなクラブ文化の影響を組み合わせた新曲。"
+    },
+    {
+     "id": "s46",
+     "title_ja": "Four Tet、Durutti Columnのテックハウス・リミックスを制作",
+     "note": "リミックスの依頼に、この音楽との縁を感じたと語った。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s29",
+     "title_ja": "BIGBANG、20周年ツアーの最終公演をSoFi Stadiumで開催",
+     "note": "来年3月、LAのSoFi Stadiumで一夜限りのツアーフィナーレを行う。"
+    },
+    {
+     "id": "s78",
+     "title_ja": "Cynthia Erivo、Snoop Dogg伝記映画でTupacの母役に",
+     "note": "Universalが製作する伝記映画で、Afeni Shakurを演じる。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s60",
+     "title_ja": "GloRilla、Sexyy Redとのコラボへの批判に反論",
+     "note": "予定しているコラボへの批判に、好きにやると強い言葉で返した。"
+    },
+    {
+     "id": "s33",
+     "title_ja": "Morgan Wallenのフェスに、Nellyらラッパー3組が出演",
+     "note": "Sand In My Boots 2027にラッパー陣が参加。パスは11月6日に発売。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s9",
+     "title_ja": "Adele、One Directionに提供予定の曲を欲しがっていた",
+     "note": "1Dへの提供が決まっていた曲を、Adeleが自分の曲にしたがった裏話。"
+    },
+    {
+     "id": "s58",
+     "title_ja": "KISS、1977年武道館公演の「Makin’ Love」映像を公開",
+     "note": "初来日時の1977年4月2日、武道館昼公演の映像をHDリマスターで公開。"
+    },
+    {
+     "id": "s2",
+     "title_ja": "Elton John「Sacrifice」、自身初のYouTube10億回再生",
+     "note": "1989年のシングルのMVが、Elton John自身で初めて10億回再生を超えた。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s3",
+    "title_ja": "Les Amphitrites、2027年4月に来日公演決定",
+    "note": "ノルウェー発のヴィンテージ・ソウル・プロジェクト。昨年のフジロック以来の来日。"
+   },
+   {
+    "id": "s64",
+    "title_ja": "Galiars、2027年2月に初来日公演決定",
+    "note": "初来日公演。会場などの詳細は分かっていない。"
+   },
+   {
+    "id": "s1",
+    "title_ja": "Underworld×Brutalismus3000、2027年3月に東京で特別公演",
+    "note": "ベルリン発のクラブ・シーンの新世代と共演する、東京でのスペシャルライブ。"
+   },
+   {
+    "id": "s65",
+    "title_ja": "Asia、2027年3月に来日公演決定",
+    "note": "ビルボードライブ東京・大阪で、各会場2デイズ公演。"
+   },
+   {
+    "id": "s21",
+    "title_ja": "Father of Peace、2027年2月に初の単独来日ツアー",
+    "note": "イスラエル発のバンド。SUMMER SONIC 2026に続き、初の日本単独ツアー。"
+   },
+   {
+    "id": "s24",
+    "title_ja": "Chanpan、初来日公演を開催",
+    "note": "アジア系アメリカ人のオルタナ・ポップ・トリオ。代官山で公演と報じられている。"
+   },
+   {
+    "id": "s18",
+    "title_ja": "Blind Channel、新作を携えた来日公演が間近",
+    "note": "新作『Painstream』を引っ提げての来日。ボーカルのNikoからメッセージ動画が到着。"
+   },
+   {
+    "id": "s68",
+    "title_ja": "Tinariwen、来日公演決定",
+    "note": ""
+   }
+  ],
+  "tour_candidates": 13
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s7",
+   "label": "Nicki Minaj AI Chucky image sparks creator response",
+   "artists": [
+    "Nicki Minaj"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop",
+    "Billboard JAPAN",
+    "Complex",
+    "Variety",
+    "Vibe"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 5,
+   "latest": "2026-11-05T10:05:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ニッキー・ミナージュ、チャッキーのAI画像で共和党への投票を呼びかけるも生みの親が皮肉で応酬",
+     "link": "https://www.billboard-japan.com/d_news/detail/167148",
+     "published": "2026-11-05T10:05:00+09:00",
+     "summary": "ニッキー・ミナージュは自分と『チャイルド・プレイ』のチャッキーが\"最後まで友達\"だと思っているのかもしれないが、この…"
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Nicki Minaj’s Chucky Post Draws A Rebuke From His Creator",
+     "link": "https://allhiphop.com/news/nicki-minaj-chucky-post-don-mancini-rebuke/",
+     "published": "2026-11-05T01:00:53+00:00",
+     "summary": "Nicki Minaj's Election Day Chucky image drew a reply from Don Mancini, who pointed to the doll's family and shared his own version."
+    },
+    {
+     "outlet": "Vibe",
+     "title": "‘Chucky’ Creator Calls Out Nicki Minaj’s AI ‘Vote Red’ Post",
+     "link": "https://www.vibe.com/news/politics/chucky-nicki-minaj-ai-vote-red-post-1235201695/",
+     "published": "2026-11-05T00:00:00+00:00",
+     "summary": "“Chucky has a trans kid,” Don Mancini reminded the rapper after she shared an AI image of the doll sporting a “Vote Red” badge"
+    },
+    {
+     "outlet": "Complex",
+     "title": "'Child's Play' Creator Fires Back at Nicki Minaj Over Election Day Post: 'Chucky Has a Trans Kid'",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUzhtZDdCUFRFczlOZHpodE14eE1KUEZOQ3h5SUNIS0hSUkJoQXp0RjdKVmQ3VWpNbF9RN282dHMxYmt6WkpPeWR2Q2l3cWxPMFZJcUtrRGRhN1pHNEJMOVFkd09MX2NOU3RuX3F2b2Z4MmpsLUI2RzFqQmNla2Q4NTZuUFRnMjZJVFZqeEJzRGc?oc=5",
+     "published": "2026-11-04T23:14:50+00:00",
+     "summary": "'Child's Play' Creator Fires Back at Nicki Minaj Over Election Day Post: 'Chucky Has a Trans Kid' Complex"
+    },
+    {
+     "outlet": "Variety",
+     "title": "‘Chucky’ Creator Fires Back at Nicki Minaj for Making the Killer Doll a Republican in ‘Vote Red’ Post: ‘Chucky Has a Trans Kid and Is Anti-ICE’",
+     "link": "https://variety.com/2026/film/news/chucky-nicki-minaj-vote-red-post-election-night-1236939470/",
+     "published": "2026-11-04T19:02:24+00:00",
+     "summary": "Nicki Minaj marked Election Day with a seemingly AI-created graphic of horror movie icon Chucky in a pink suit with a pin that reads: “Vote Red.” The Republican messaging was hardly a surprise given the rapper has closely aligned herself wi"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Isaiah Rashad discusses recovery and queer communities",
+   "artists": [
+    "Isaiah Rashad"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-05T09:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Isaiah Rashad Details Pressure To Represent Recovery And Queer Communities",
+     "link": "https://allhiphop.com/news/isaiah-rashad-recovery-queer-community-pressure/",
+     "published": "2026-11-05T09:00:00+00:00",
+     "summary": "Isaiah Rashad discussed the pressure of representing recovery and queer communities in an interview about growth and forgiveness."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s35",
+   "label": "Rapsody prices tickets at $25 for 2027 tour",
+   "artists": [
+    "Rapsody"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "tour",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-05T03:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Rapsody Says She Priced Her Shows At $25 & Took Loss To Set Up 2027",
+     "link": "https://allhiphop.com/news/rapsody-sold-out-25-tour-loss-2027-plans/",
+     "published": "2026-11-05T03:00:00+00:00",
+     "summary": "Rapsody kept tickets near $25, sold out four cities and took a planned loss while laying groundwork for a bigger 2027 tour."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s61",
+   "label": "Pusha T calls out lack of individuality in rap",
+   "artists": [
+    "Pusha T"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-05T01:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Pusha T Calls Out The Lack Of Individuality In Rap",
+     "link": "https://www.hotnewhiphop.com/1015629-pusha-t-music-lacks-individuality",
+     "published": "2026-11-05T01:02:00+00:00",
+     "summary": "The rapper says individuality once defined Hip Hop, while today's artists seem more interested in copying what's successful. The post Pusha T Calls Out The Lack Of Individuality In Rap appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Bob Dylan meets Pope Leo XIV at Vatican",
+   "artists": [
+    "Bob Dylan"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "Consequence",
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-11-05T10:45:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ボブ・ディラン、ローマ教皇レオ14世とバチカンで面会",
+     "link": "https://www.billboard-japan.com/d_news/detail/167149",
+     "published": "2026-11-05T10:45:00+09:00",
+     "summary": "現地時間2026年11月4日、ボブ・ディランがバチカンでローマ教皇レオ14世と面会した。 バチカンは、握手を交わす2…"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Bob Dylan Meets With Pope Leo XIV in a Private Audience",
+     "link": "https://www.rollingstone.com/music/music-news/bob-dylan-pope-leo-xiv-meet-private-audience-1235652631/",
+     "published": "2026-11-04T19:18:44+00:00",
+     "summary": "His Holiness quoted the songwriter’s unpublished song “Go Away You Bomb” in his book Disarmed and Disarming: Peace Is a Gift"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Bob Dylan Meets Pope Leo",
+     "link": "https://consequence.net/2026/11/bob-dylan-meets-pope-leo/",
+     "published": "2026-11-04T17:57:14+00:00",
+     "summary": "The two midwesterners reportedly exchanged greetings and a few lighthearted remarks. Bob Dylan Meets Pope Leo Alex Young"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Bob Dylan, Wearing Hoodie, Meets Pope",
+     "link": "https://pitchfork.com/story/bob-dylan-wearing-hoodie-meets-pope/",
+     "published": "2026-11-04T17:51:17+00:00",
+     "summary": "Not quite Heaven’s door, but close"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "aiKFgLLFQAs",
+    "title": "Bob Dylan meets with Pope Leo at the Vatican",
+    "channel": "ABC News",
+    "published": "2026-11-04T20:47:11Z",
+    "hours_since": 13,
+    "views": 56708,
+    "url": "https://www.youtube.com/watch?v=aiKFgLLFQAs",
+    "views_per_hour": 4362
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "The Cure Robert Smith teases 2027 tour with new songs",
+   "artists": [
+    "The Cure"
+   ],
+   "genre": "Other",
+   "kind": "announcement",
+   "talk": 1,
+   "outlets": [
+    "Billboard JAPAN",
+    "NME",
+    "NME Japan"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-05T11:15:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ザ・キュアーのロバート・スミス、2027年のツアーは“新曲がぎっしり”と予告",
+     "link": "https://www.billboard-japan.com/d_news/detail/167150",
+     "published": "2026-11-05T11:15:00+09:00",
+     "summary": "多忙な2026年を経て、ザ・キュアーのフロントマン、ロバート・スミスが、バンドの2027年のツアーについて大胆な予告…"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ザ・キュアーのロバート・スミス、2027年のライヴでは新曲が披露されると語る",
+     "link": "https://nme-jp.com/news/174045/",
+     "published": "2026-11-05T09:00:19+00:00",
+     "summary": "ザ・キュアーのロバート・スミスは2027年もさらにツアーを行う予定であることを明かして、「新曲がたくさん披露されることになる」と語っている。"
+    },
+    {
+     "outlet": "NME",
+     "title": "The Cure’s Robert Smith promises tour dates for 2027 “bursting with new songs”",
+     "link": "https://www.nme.com/news/music/the-cures-robert-smith-promises-tour-dates-for-2027-bursting-with-new-songs-3974950?utm_source=rss&utm_medium=rss&utm_campaign=the-cures-robert-smith-promises-tour-dates-for-2027-bursting-with-new-songs",
+     "published": "2026-11-04T10:46:32+00:00",
+     "summary": "“Watch this space…” The post The Cure’s Robert Smith promises tour dates for 2027 “bursting with new songs” appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s27",
+   "label": "Everything Everything announce new album Poison Pop",
+   "artists": [
+    "Everything Everything"
+   ],
+   "genre": "POP",
+   "kind": "announcement",
+   "talk": 1,
+   "outlets": [
+    "NME",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-05T07:00:36+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "エヴリシング・エヴリシング、新作のリリースを発表＆新曲“Poison Pop”がビデオと共に公開",
+     "link": "https://nme-jp.com/news/174037/",
+     "published": "2026-11-05T07:00:36+00:00",
+     "summary": "エヴリシング・エヴリシングは通算8作目となるニュー・アルバム『ポイズン・ポップ』を2027年3月12日にリリースすることを発表している。"
+    },
+    {
+     "outlet": "NME",
+     "title": "Everything Everything fight modern life on new album ‘Poison Pop’: “It’s about this drink that kills you, but you still want it”",
+     "link": "https://www.nme.com/news/music/everything-everything-grappling-with-modern-life-poison-pop-interview-ai-3974839?utm_source=rss&utm_medium=rss&utm_campaign=everything-everything-grappling-with-modern-life-poison-pop-interview-ai",
+     "published": "2026-11-04T18:00:36+00:00",
+     "summary": "Frontman Jonathan Higgs opens up about feeling inspired by early material, accidentally predicting a dystopian future, living in the real world, and now being the time to reject \"the enshittification of everything around you\" The post Every"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Christine and the Queens releases new single Rendez-vous avec toi",
+   "artists": [
+    "Christine and the Queens"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "NME",
+    "NME Japan",
+    "Pitchfork"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-05T08:00:43+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "クリスティーヌ・アンド・ザ・クイーンズ、新曲“Rendez vous avec toi”がビデオと共に公開",
+     "link": "https://nme-jp.com/news/174040/",
+     "published": "2026-11-05T08:00:43+00:00",
+     "summary": "クリスティーヌ・アンド・ザ・クイーンズはニュー・シングル“Rendez vous avec toi”がミュージック・ビデオと共に公開されている。"
+    },
+    {
+     "outlet": "NME",
+     "title": "Christine And The The Queens makes funky return with new single ‘Rendez-vous Avec Toi’: “The electricity remains eternally mysterious”",
+     "link": "https://www.nme.com/news/music/christine-the-queens-releases-new-single-rendez-vous-avec-toi-listen-3975012?utm_source=rss&utm_medium=rss&utm_campaign=christine-the-queens-releases-new-single-rendez-vous-avec-toi-listen",
+     "published": "2026-11-04T16:42:52+00:00",
+     "summary": "The French singer will return to the stage next month, promising fans \"a first listen to unreleased songs from the next album\" The post Christine And The The Queens makes funky return with new single ‘Rendez-vous Avec Toi’: “The electricity"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Christine and the Queens Returns with Two New Songs",
+     "link": "https://pitchfork.com/story/christine-and-the-queens-returns-with-two-new-songs/",
+     "published": "2026-11-04T15:07:21+00:00",
+     "summary": "“Rendez-vous avec toi” arrives alongside an English counterpart, “Rendez-vous in your arms”"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s71",
+   "label": "Stevie Wonder eviction lawsuit escalates",
+   "artists": [
+    "Stevie Wonder"
+   ],
+   "genre": "POP",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-05T02:35:22+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Stevie Wonder’s Eviction Lawsuit Escalates as Rent-Free Resident Demands Repairs to Walls and Plumbing",
+     "link": "https://www.rollingstone.com/music/music-news/stevie-wonder-eviction-lawsuit-woman-rent-free-repairs-1235653031/",
+     "published": "2026-11-05T02:35:22+00:00",
+     "summary": "Carmen Efferson, reportedly Wonder's one-time fiancée, claimed the singer failed to make the necessary repairs to the Hollywood Home"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s53",
+   "label": "Daniel Caesar cancels seven arena shows for health",
+   "artists": [
+    "Daniel Caesar"
+   ],
+   "genre": "POP",
+   "kind": "health",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-05T02:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Fans Furious After Daniel Caesar Cancels Seven Arena Shows For Health Reasons",
+     "link": "https://allhiphop.com/news/daniel-caesar-cancels-seven-shows-health/",
+     "published": "2026-11-05T02:00:00+00:00",
+     "summary": "Daniel Caesar canceled seven Australia and Hawaii shows for health reasons, as ticket sellers provided refund instructions."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s60",
+   "label": "GloRilla defends Sexyy Red collaboration",
+   "artists": [
+    "GloRilla",
+    "Sexyy Red"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-04T14:43:25+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "GloRilla to Critic of Upcoming Sexyy Red Collab: 'F*ck Y'all, I Do What I Want'",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzlEQm5sWjRSa2RIY1E2ZmVxSkJZWkthRHVFQXEtS01QbElXSkxURUFlUEx3TXA4ekhBN1JlbGM3QmRSV3VwdGNnYmNiSjhaeC1tdGJMSlRUcmViX2ljZEtWM2pmY1Y2bG9rR1l5UmdZNWFVUXJOc211c3c0ZDZZTTVmOEJVS0VEMHpJ?oc=5",
+     "published": "2026-11-04T14:43:25+00:00",
+     "summary": "GloRilla to Critic of Upcoming Sexyy Red Collab: 'F*ck Y'all, I Do What I Want' Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s74",
+   "label": "Druski SNL hosting debut teaser",
+   "artists": [
+    "Druski"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-05T03:03:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Druski Jokes About Getting SNL Canceled In Hilarious Promo",
+     "link": "https://www.hotnewhiphop.com/1015674-druski-snl-promo-marcello-hernandez-host",
+     "published": "2026-11-05T03:03:00+00:00",
+     "summary": "A new SNL teaser finds Druski embracing his Latino side and teasing an outrageous debut alongside Marcello Hernández. The post Druski Jokes About Getting SNL Canceled In Hilarious Promo appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Watch Druski Get Down to This Viral Latin Hit With Marcello Hernandez Ahead of ‘SNL’ Hosting Debut",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGREZXd5cGVoUktyQVNQcGFPSS1pS3VtSlZLdW9fZVVCdFItYlBTU2VCRjE4VmtpbjBPV0FrQkZkQi1XbWVyTkQxSnBXeHJ1OUdraDBFc2otR21SV2RGQ1FENjAwVEZYSlBPU1d4YzVJd3RRVkZHZjh1dXE0UG1reHdVMFJpc2tXd1BJc2EwXzlfWlRMa0VScnFYMk4?oc=5",
+     "published": "2026-11-04T23:05:42+00:00",
+     "summary": "Watch Druski Get Down to This Viral Latin Hit With Marcello Hernandez Ahead of ‘SNL’ Hosting Debut Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "CMAT and Elton John release reworked Step Into Christmas",
+   "artists": [
+    "CMAT",
+    "Elton John"
+   ],
+   "genre": "POP",
+   "kind": "collab",
+   "talk": 0,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-05T09:00:22+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Check out CMAT and Elton John’s reworked version of ‘Step Into Christmas’",
+     "link": "https://www.nme.com/news/music/cmat-and-elton-john-release-new-version-of-step-into-christmas-collaboration-listen-3975021?utm_source=rss&utm_medium=rss&utm_campaign=cmat-and-elton-john-release-new-version-of-step-into-christmas-collaboration-listen",
+     "published": "2026-11-05T09:00:22+00:00",
+     "summary": "\"We're kindred spirits in so many ways\" The post Check out CMAT and Elton John’s reworked version of ‘Step Into Christmas’ appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "Nelly, Gucci Mane, Rick Ross join Morgan Wallen Sand In My Boots 2027",
+   "artists": [
+    "Nelly",
+    "Gucci Mane",
+    "Rick Ross",
+    "Morgan Wallen"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-05T07:01:19+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Nelly, Gucci Mane & Rick Ross Join Morgan Wallen’s Sand In My Boots 2027",
+     "link": "https://allhiphop.com/news/nelly-gucci-mane-rick-ross-join-morgan-wallens-sand-in-my-boots-2027/",
+     "published": "2026-11-05T07:01:19+00:00",
+     "summary": "Nelly, Gucci Mane and Rick Ross joined a rap-heavy Sand In My Boots 2027 bill, with passes set to go on sale November 6."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "BIGBANG announces final tour stop at SoFi Stadium",
+   "artists": [
+    "BIGBANG"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-05T06:54:56+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "BIGBANG Adds World Tour Finale at L.A.’s SoFi Stadium",
+     "link": "https://www.billboard.com/music/concerts/bigbang-world-tour-finale-sofi-stadium-1236374554/",
+     "published": "2026-11-05T06:54:56+00:00",
+     "summary": "The K-pop veterans will complete their 20th anniversary tour with a one-off show at SoFi Stadium next March."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "Kanye West Yeezy Season 01 runway show",
+   "artists": [
+    "Kanye West"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-05T06:00:58+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Kanye West Holds Yeezy Season 01 Runway Show in Los Angeles",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU03elZvM1RpVk9jRmQzQ2lRQ0hKU0FqVWpEd1VBRWZCSVJUYWxrVllka045bjhXaWx6cFN3ek5HV3dMcmtCRGFpZHRiSXBUcFkxdGRCcUJVNE9WcW5tcUU2TEJXLXIydUl3c2h3MjlNX2JqRE5yS1NYNGhJcEFZN1Q1U2RIa19PM0gyQVpn?oc=5",
+     "published": "2026-11-05T06:00:58+00:00",
+     "summary": "Kanye West Holds Yeezy Season 01 Runway Show in Los Angeles Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "Rell returns with self-produced single I'll Be There",
+   "artists": [
+    "Rell"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-05T06:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Rell Owns Past Mistakes As He Returns Directly To Fans",
+     "link": "https://allhiphop.com/news/rell-rb-return-direct-fans/",
+     "published": "2026-11-05T06:00:00+00:00",
+     "summary": "R&B artist Rell returned with \"I'll Be There,\" a self-produced single he chose to sell straight to listeners through his own store."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s75",
+   "label": "Fat Joe returns to Tiny Desk Concert",
+   "artists": [
+    "Fat Joe"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-05T03:03:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Fat Joe Is Bringing His Classics Back To Tiny Desk This Week",
+     "link": "https://www.hotnewhiphop.com/1015671-fat-joe-tiny-desk-announcement-2026",
+     "published": "2026-11-05T03:03:00+00:00",
+     "summary": "His 2021 concert featured \"Lean Back\" and \"All the Way Up,\" but Fat Joe is keeping the setlist for his return under wraps. The post Fat Joe Is Bringing His Classics Back To Tiny Desk This Week appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s52",
+   "label": "EDC Orlando 15th anniversary lineup announced",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-04T20:56:31+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "EDC Orlando Is Turning 15 With 40+ Debuts, Standout B2Bs and Its First Hotel EDC",
+     "link": "https://edm.com/events/edc-orlando-first-hotel-edc-2026/",
+     "published": "2026-11-04T20:56:31+00:00",
+     "summary": "EDC Orlando returns November 6-8 for its 15th edition. The post EDC Orlando Is Turning 15 With 40+ Debuts, Standout B2Bs and Its First Hotel EDC appeared first on EDM ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s76",
+   "label": "Karol G performs on TikTok LIVE",
+   "artists": [
+    "Karol G"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-04T20:31:39+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Karol G to Perform Songs from ‘No Me Arrepiento de Sentir Tanto’ in Hour-Long TikTok LIVE Set",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDlUVWRtazc5SVpPU1lRMjd4UjBpVnJZTUhvOThxMHM4VFBlM09TVlJBVjMteTZDelFuUm1YMVE3czlFdGpDWkZkRjF1UG4yc25yZU95ZTBGSW54Y2ljbm1xOVp2QkFHd2RCMlRSVGR6MGpfX2VMNHdTMW9sYkNNaHZhVmgydzhiekdRTWx2VlpPZw?oc=5",
+     "published": "2026-11-04T20:31:39+00:00",
+     "summary": "Karol G to Perform Songs from ‘No Me Arrepiento de Sentir Tanto’ in Hour-Long TikTok LIVE Set Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s77",
+   "label": "Celebrities React to Governor-Elect Keisha Lance Bottoms’ Historic Georgia Win",
+   "artists": [],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Vibe"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-04T20:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "Celebrities React to Governor-Elect Keisha Lance Bottoms’ Historic Georgia Win",
+     "link": "https://www.vibe.com/news/politics/celebs-react-keisha-lance-bottoms-election-georgia-governor-1235201637/",
+     "published": "2026-11-04T20:30:00+00:00",
+     "summary": "Bottoms' victory as the first Black woman elected state governor was celebrated by many artists and figures"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s78",
+   "label": "Cynthia Erivo to Play Tupac Shakur’s Mother in Snoop Dogg Biopic",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Variety"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-04T18:50:31+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Cynthia Erivo to Play Tupac Shakur’s Mother in Snoop Dogg Biopic",
+     "link": "https://variety.com/2026/film/news/cynthia-erivo-tupac-shakur-mother-snoop-dogg-biopic-1236939532/",
+     "published": "2026-11-04T18:50:31+00:00",
+     "summary": "Tony, Grammy, and Emmy winner Cynthia Erivo has joined the cast of Universal’s upcoming Snoop Dogg biopic and is set to portray Tupac’s mother, Afeni Shakur. Jonathan Daviss leads the cast of “Snoop,” which is described as the “definitive b"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s43",
+   "label": "Yaeji shares new single DDR",
+   "artists": [
+    "Yaeji"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-04T17:17:32+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "Yaeji shares new single, ‘DDR’, with Enayet and K Wata: Listen",
+     "link": "https://djmag.com/news/yaeji-shares-new-single-ddr-enayet-and-k-wata-listen",
+     "published": "2026-11-04T17:17:32+00:00",
+     "summary": "The track combines elements of Chicago footwork with influences from queer club culture"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s46",
+   "label": "Four Tet produces remix for Durutti Column",
+   "artists": [
+    "Four Tet",
+    "Durutti Column"
+   ],
+   "genre": "Dance",
+   "kind": "collab",
+   "talk": 0,
+   "outlets": [
+    "Pitchfork"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-04T17:14:12+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Four Tet Produced a Tech-House Remix for the Durutti Column",
+     "link": "https://pitchfork.com/story/four-tet-remixes-the-durutti-column/",
+     "published": "2026-11-04T17:14:12+00:00",
+     "summary": "“When I was asked to do a remix it felt like the universe was confirming I was connected to this music”"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s45",
+   "label": "Franky Rizardo announces second More To Life show Amsterdam 2027",
+   "artists": [
+    "Franky Rizardo"
+   ],
+   "genre": "Dance",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-04T16:20:38+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "Franky Rizardo announces second More To Life show at Amsterdam’s Ziggo Dome for 2027",
+     "link": "https://djmag.com/news/franky-rizardo-announces-second-more-life-show-amsterdams-ziggo-dome-2027",
+     "published": "2026-11-04T16:20:38+00:00",
+     "summary": "The debut edition, which took place in January this year, saw Rizardo perform a four-hour set to a 15,000-strong crowd"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Les Amphitrites announces Japan tour April 2027",
+   "artists": [
+    "Les Amphitrites"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "NME Japan",
+    "UNIVERSAL MUSIC JAPAN",
+    "Yahoo!ニュース",
+    "amass",
+    "千葉テレビ放送株式会社"
+   ],
+   "n_outlets": 6,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "NME Japan",
+    "UNIVERSAL MUSIC JAPAN",
+    "Yahoo!ニュース",
+    "amass",
+    "千葉テレビ放送株式会社"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-05T11:45:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "レ・アンプリメ、2027年4月に来日公演決定",
+     "link": "https://www.billboard-japan.com/d_news/detail/167147",
+     "published": "2026-11-05T11:45:00+09:00",
+     "summary": "ノルウェー発、モーテン・マーテンスによるヴィンテージ・ソウル・プロジェクトのレ・アンプリメが、2027年4月に来日公…"
+    },
+    {
+     "outlet": "UNIVERSAL MUSIC JAPAN",
+     "title": "昨年のフジロック以来となる来日公演が決定！",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04V3F3dW1VYVFzc25iNlh2NVpMcVp6a1Bld01odzVnU0R6blM4eEE3LTA0cDV5LVdBUnlKd0ZaNU8wdV9ueDdhaHBVZzkzckxUaVVIcTdpZ1NlbmtYRGl6NnhhcmhCMFcwVXZibm5oSV8?oc=5",
+     "published": "2026-11-05T09:24:09+00:00",
+     "summary": "昨年のフジロック以来となる来日公演が決定！ UNIVERSAL MUSIC JAPAN"
+    },
+    {
+     "outlet": "千葉テレビ放送株式会社",
+     "title": "レ・アンプリメ、2027年4月に来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YUW5VZ1dXUlkzUEdBZnNYRmRkdk1lVS1qTnBFZDg0OU1LRkxZZGxMdjRtNnVoZWpGQ0JYSDJjUzBRXzZSdjVvYmc4Nl9jVHVqWWV5bHh3dFUwMWVmak5Z?oc=5",
+     "published": "2026-11-05T03:02:13+00:00",
+     "summary": "レ・アンプリメ、2027年4月に来日公演決定 千葉テレビ放送株式会社"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "レ・アンプリメ、2027年4月に来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PemdBNktWLThEaW50MVhWcjNEQ3BMRnBMMGh1LThRQ2w2ZFczaEFkM2VDcm9aUUZBSDNmanRsRi1xamoySGNUemhPWTcxTlUtWEp5Sll2NENkdkN3VVpodkg3QVNHOU9QNWN5bHFFR2oySDYzVHpBLXEwQjlFemM?oc=5",
+     "published": "2026-11-05T02:50:03+00:00",
+     "summary": "レ・アンプリメ、2027年4月に来日公演決定 Yahoo!ニュース"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "レ・アンプリメ、2027年4月に来日公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE01WmRXWHg5eHZQYlpiUk9abUxrRGFXMXJ3YnNqc0lTb2M0MFF3U3N5dzVOaFZSVUFGZ1ZHczFVcnlzbDU0aXc?oc=5",
+     "published": "2026-11-04T08:30:50+00:00",
+     "summary": "レ・アンプリメ、2027年4月に来日公演が決定 NME Japan"
+    },
+    {
+     "outlet": "amass",
+     "title": "ノルウェー発のヴィンテージ・ソウル・プロジェクト、レ・アンプリメの初来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1NWHhDXzl1bUM2QjNGZE5BaHpPcG5IcmpzNmE2a24ta29wQjloSnFvT2tDY0k0OTFXcXpfMg?oc=5",
+     "published": "2026-11-04T08:05:00+00:00",
+     "summary": "ノルウェー発のヴィンテージ・ソウル・プロジェクト、レ・アンプリメの初来日公演決定 amass"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s64",
+   "label": "Galiars announces February 2027 first Japan concert",
+   "artists": [
+    "Galiars"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース",
+    "ガジェット通信",
+    "千葉テレビ放送"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース",
+    "ガジェット通信",
+    "千葉テレビ放送"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-04T10:10:00+00:00",
+   "articles": [
+    {
+     "outlet": "ガジェット通信",
+     "title": "ガリアーズ、2027年2月に初来日公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PUlpwbVdobi1SVzhmVEsyU3lfY1BZMzBLeVJqQVJHRHd4WkpoWFBpV2tuZkI0NXFvenpLcG82MWpNRXF4YnM1eFVjbw?oc=5",
+     "published": "2026-11-04T10:10:00+00:00",
+     "summary": "ガリアーズ、2027年2月に初来日公演が決定 ガジェット通信"
+    },
+    {
+     "outlet": "千葉テレビ放送",
+     "title": "ガリアーズ、2027年2月に初来日公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zMlZ2RFk4clBIN2Q4dVJwZjFNUDVGU3kyUkNVblZxN01wVVlKMnliWGlMMk40ZjJfZWRtVk1YS2pFTDk1Q3hVaTZJQnRjVG5LUnNrRzQ5LXFCbkYtNXNV?oc=5",
+     "published": "2026-11-04T09:01:21+00:00",
+     "summary": "ガリアーズ、2027年2月に初来日公演が決定 千葉テレビ放送"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "ガリアーズ、2027年2月に初来日公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pdnlxNWtMVFV1UkVWQTh4Tm1KbjRXYnE0ZWs5N2M4aTY0WVd3OWpia0Z5Q2JfNEVnMF9icjU0YjBJTGtjRGlWN0ZNOVlmVUFoY0x1bldyX2E3RmZJdFFpcGxjZnBMOXJfRUUwd2hwZ0Z4WjBHTXVXcEtlTmpqbTg?oc=5",
+     "published": "2026-11-04T08:50:03+00:00",
+     "summary": "ガリアーズ、2027年2月に初来日公演が決定 Yahoo!ニュース"
+    },
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ガリアーズ、2027年2月に初来日公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FNVhFSG42RnVSWlhCYU9PNHliUkVtbS1EQXhqaVFTbWxWOV9DWXFzRDM3RWNmdXRmcDVfYzBIb1BjM282N0ltQkRKU3hteXBWMHZXUUpuMEJzUU5nOUxCQ3VB?oc=5",
+     "published": "2026-11-04T08:30:00+00:00",
+     "summary": "ガリアーズ、2027年2月に初来日公演が決定 Billboard JAPAN"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Underworld x Brutalismus3000 announce Tokyo live March 2027",
+   "artists": [
+    "Underworld",
+    "Brutalismus3000"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "NME Japan",
+    "クリエイティブマン"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "NME Japan",
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-05T14:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "アンダーワールドｘブルータリスムス3000、2027年3月に東京でSPライブ開催",
+     "link": "https://www.billboard-japan.com/d_news/detail/167161",
+     "published": "2026-11-05T14:00:00+09:00",
+     "summary": "30年以上にわたりダンス・ミュージックの最先端を走り続けるアンダーワールドとベルリン発・クラブ・シーンの新世代アイコ…"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "アンダーワールド＆ブルータリスムス3000、2027年3月に来日公演が決定",
+     "link": "https://nme-jp.com/news/174026/",
+     "published": "2026-11-05T03:09:38+00:00",
+     "summary": "アンダーワールドとブルータリスムス3000は2027年3月に来日公演を行うことが決定している。"
+    },
+    {
+     "outlet": "クリエイティブマン",
+     "title": "Underworld × Brutalismus3000 Live in Japan 2027 開催決定！",
+     "link": "https://www.creativeman.co.jp/2026/11/05/109029/",
+     "published": "2026-11-05T02:59:56+00:00",
+     "summary": "30年以上にわたりダンス・ミュージックの最先端を走り続けるレジェンド、 アンダーワールドとベルリン発・クラブシーンの新世代アイコン、 ブルータリスムス3000によるスペシャル・ライブが開催決定！ 公演詳細はこちら The post Underworld × Brutalismus3000 Live in Japan 2027 開催決定！ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s65",
+   "label": "Asia announces March 2027 Japan tour",
+   "artists": [
+    "Asia"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "NME Japan",
+    "amass",
+    "リアルサウンド"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "NME Japan",
+    "amass",
+    "リアルサウンド"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-04T08:14:00+00:00",
+   "articles": [
+    {
+     "outlet": "amass",
+     "title": "エイジアの来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE13dHU4U1Y0SW9oRVh4blRyTGFJenlRWTZ0Qk01cTBhQW1uR1JmRWJ3S19RLTlGX1ZzejIySA?oc=5",
+     "published": "2026-11-04T08:14:00+00:00",
+     "summary": "エイジアの来日公演決定 amass"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "エイジア、2027年3月に来日公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Cc0Z1bzNBZmJxRUlUR2JwRllYdkNySEdqZWhqc0FwSlNwWXM1MVo2RWpBSXNTU2hEU0RVcTFPandZdm5zMUE?oc=5",
+     "published": "2026-11-04T08:00:55+00:00",
+     "summary": "エイジア、2027年3月に来日公演が決定 NME Japan"
+    },
+    {
+     "outlet": "リアルサウンド",
+     "title": "ASIA、来年3月にビルボードライブ東京＆大阪にて来日公演開催 各会場2デイズでの公演に",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaNC1tYlZDcWFHSWRPcEtiSGlJV2JjOThaYkVYRnFKS05aYWRlRjgyRF9wN2dSRXpIRVNXNGcxdEpVRXlrSm92dGMxNVFRaHlDejJnNFBwckV1QdIBX0FVX3lxTFB4SExlUWFqOW9KUzlWaE0wbndxQXUyS3YyQktDZ3ZVQVJvRkh3eURoODMyZWlfcnl6cHRKS3AyTzdOU1BEWTBoSV85dG5tbXhoUlhFa05Ya3ZqMmdLS0I0?oc=5",
+     "published": "2026-11-04T08:00:08+00:00",
+     "summary": "ASIA、来年3月にビルボードライブ東京＆大阪にて来日公演開催 各会場2デイズでの公演に リアルサウンド"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Father of Peace announces February 2027 Japan tour",
+   "artists": [
+    "Father of Peace"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "NME Japan",
+    "クリエイティブマン"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan",
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-05T06:00:17+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "FATHER OF PEACE 新規公演決定！",
+     "link": "https://www.creativeman.co.jp/2026/11/05/109103/",
+     "published": "2026-11-05T06:00:17+00:00",
+     "summary": "イスラエル発のインディー・オルタナティヴ・ポップバンド FATHER OF PEACE。 多彩な異国情緒を織り交ぜたパフォーマンス。 SUMMER SONIC 2026の熱狂を引き継ぎ、 初の日本単独ツアーが2027年2 […] The post FATHER OF PEACE 新規公演決定！ first appeared on CREATIVEMAN PRODUCTIONS ."
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ファーザー・オブ・ピース、2027年2月に来日公演が決定",
+     "link": "https://nme-jp.com/news/174028/",
+     "published": "2026-11-05T03:22:16+00:00",
+     "summary": "ファーザー・オブ・ピースは2027年2月に来日公演を行うことが決定している。"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "Chanpan holds first Japan concert",
+   "artists": [
+    "Chanpan"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Yahoo!ニュース",
+    "フロントロウ"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Yahoo!ニュース",
+    "フロントロウ"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-05T04:24:10+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "チャンパン、アジア系アメリカ人からなるオルタナ・ポップ・トリオが初来日公演を開催（CDJournal）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tdWJOeGk5ODh6LW8wSmwxQWJ4OHpRbDZnLU0xUWdqc3MxLVoyQlM1MzU1dDBZdGgxWThpOVRiR0pxcVJNZk1XaXB6ckxDOE5YYzYxSncyQlhqamhSN3dLV1ZxaUhvdUVNcC1ZN0hUTzMzNVRwSTVzanRmZUJqLTQ?oc=5",
+     "published": "2026-11-05T04:24:10+00:00",
+     "summary": "チャンパン、アジア系アメリカ人からなるオルタナ・ポップ・トリオが初来日公演を開催（CDJournal） Yahoo!ニュース"
+    },
+    {
+     "outlet": "フロントロウ",
+     "title": "NYの路上から代官山へ。Chanpanが初来日を前に日本へ動画",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1XX0E1MkZHMzg1c2w1TGtMa3Nnb0hLbFEzeW5Bc3hDZVY4NHQ3QzhHb21qbHhCYmpRa0RsR0QwNnVTQ1FIWTl3?oc=5",
+     "published": "2026-11-04T22:40:00+00:00",
+     "summary": "NYの路上から代官山へ。Chanpanが初来日を前に日本へ動画 フロントロウ"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s66",
+   "label": "Jeff Bernat announces January 2027 Japan tour",
+   "artists": [
+    "Jeff Bernat"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "共同通信PRワイヤー",
+    "朝日新聞"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "共同通信PRワイヤー",
+    "朝日新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-04T04:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "共同通信PRワイヤー",
+     "title": "ソウルフルなメロディーと滑らかなボーカルで 世界中を魅了する天才シンガー・ソングライター！ 3年ぶりの来日公演が決定！ JEFF BERNAT / Luv Language Tour 2027",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15VGZPMk9SZUZOaWhweW14RlU5dDRxa1ZqYm5BT011bzN1Z2FPTU1PWXAzSDRvV1RtbDRWSWRYWVdKRkdhenM2NEpuN2dQeHBPUEFHMnJ2OUV1R28?oc=5",
+     "published": "2026-11-04T04:00:00+00:00",
+     "summary": "ソウルフルなメロディーと滑らかなボーカルで 世界中を魅了する天才シンガー・ソングライター！ 3年ぶりの来日公演が決定！ JEFF BERNAT / Luv Language Tour 2027 共同通信PRワイヤー"
+    },
+    {
+     "outlet": "朝日新聞",
+     "title": "ソウルフルなメロディーと滑らかなボーカルで 世界中を魅了する天才シンガー・ソングライター！ 3年ぶりの来日公演が決定！ JEFF BERNAT / Luv Language Tour 2027",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55ZFlXeVpnODlMRXhQdHo4VDRfOFh1Q2MtVVh2eUthRlFhUzJYVmpTYjRMaHJlTVhmRGRrcHc5Q20zRElCNmtyWm5GV2VvQWZ1bFB6NVEwc2pjQjA?oc=5",
+     "published": "2026-11-04T04:00:00+00:00",
+     "summary": "ソウルフルなメロディーと滑らかなボーカルで 世界中を魅了する天才シンガー・ソングライター！ 3年ぶりの来日公演が決定！ JEFF BERNAT / Luv Language Tour 2027 朝日新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Oasis panel and photo spots expand to new Tower Records",
+   "artists": [
+    "Oasis"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-05T09:15:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "オアシス、タワレコでのパネル＆フォトスポット・ツアーが東京2店舗＆鹿児島に拡大",
+     "link": "https://www.billboard-japan.com/d_news/detail/167145",
+     "published": "2026-11-05T09:15:00+09:00",
+     "summary": "全国のタワーレコード店舗を巡回中のオアシスのパネル＆フォトスポット・ツアーに、東京都内の新宿店、渋谷店と鹿児島の店舗…"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Blind Channel announces Japan tour with new album",
+   "artists": [
+    "Blind Channel"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "クリエイティブマン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-05T08:21:59+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "ブラインド・チャンネルからメッセージ動画が到着！",
+     "link": "https://www.creativeman.co.jp/2026/11/05/109198/",
+     "published": "2026-11-05T08:21:59+00:00",
+     "summary": "いよいよ来日公演が間近に迫るブラインド・チャンネルのボーカリスト、ニコからメッセージ動画が到着！ リリースされたばかりの新作「ペインストリーム」を引っ提げての来日です！お見逃しなく！ 公演詳細はコチラ The post ブラインド・チャンネルからメッセージ動画が到着！ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Bon Jovi announces Japan comeback tour February 2027",
+   "artists": [
+    "Bon Jovi"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "福井新聞社"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "福井新聞社"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-05T04:28:31+00:00",
+   "articles": [
+    {
+     "outlet": "福井新聞社",
+     "title": "ボン・ジョヴィ、9年ぶり来日公演決定 声帯手術から奇跡の復活、来年2月に東京ドーム2Days",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5YjJtVGhNYzRTdHNjUWdhUTZhZGJLMDBUY19lbTNLV1RCY2owclhIcm5vUjVQV1dtQ3Z6RE04eVRmSkdoVmdQY0Z4a2ZHUDBJY0FUbUQ1NHhMZzdwVE9pUmhnOFJMSTdnVUVRWg?oc=5",
+     "published": "2026-11-05T04:28:31+00:00",
+     "summary": "ボン・ジョヴィ、9年ぶり来日公演決定 声帯手術から奇跡の復活、来年2月に東京ドーム2Days 福井新聞社"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s26",
+   "label": "KATSEYE announces Yokohama Arena concert January 2027",
+   "artists": [
+    "KATSEYE"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "山陽新聞"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-04T23:04:51+00:00",
+   "articles": [
+    {
+     "outlet": "山陽新聞",
+     "title": "KATSEYE、来年1月に横浜アリーナ公演決定 世界各地で完売続出のツアーが日本上陸",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0cUxJaHphRk4wbHhaZnN2eHhtbnJmSGs3T2x6bmVDTUlBYWo2b2xiVlZ3SDhLbjhlTmRNNWlWVXRwWi1XSXBfRlIxTjhxZ0ZSZThKY29yZ2lOWmlfbkF0Mm9XQnpkNllTbXdpMTFvY2d3dw?oc=5",
+     "published": "2026-11-04T23:04:51+00:00",
+     "summary": "KATSEYE、来年1月に横浜アリーナ公演決定 世界各地で完売続出のツアーが日本上陸 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s68",
+   "label": "Tinariwen announces Japan concert",
+   "artists": [
+    "Tinariwen"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "indienative"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "indienative"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-04T08:59:09+00:00",
+   "articles": [
+    {
+     "outlet": "indienative",
+     "title": "Tinariwen 来日公演",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ubS1DWVB1cmJPR3B4eDNMTjF0RDV0NE9sQm5EQVpscHp2U3pOZHBSLVdTZkFuNDJNUjFsc3BjNmxTS2Q5MXlTeXFZMWZUWWNOenNBQWxCekk4T1U?oc=5",
+     "published": "2026-11-04T08:59:09+00:00",
+     "summary": "Tinariwen 来日公演 indienative"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s63",
+   "label": "Sace6 announces January 2027 Japan concert",
+   "artists": [
+    "Sace6"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-04T07:56:30+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "sace6、2027年1月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iS0t1TFZlallTYzg2S1BIZUhGaUc5MGVtN2tnUGJad1owNkM0alhvTUt4RG9GRzJkZlBsbXo3QUh6YU5INXVR?oc=5",
+     "published": "2026-11-04T07:56:30+00:00",
+     "summary": "sace6、2027年1月に来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Elton John Sacrifice surpasses 1 billion YouTube views",
+   "artists": [
+    "Elton John"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-05T12:15:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "エルトン・ジョン、1989年の「Sacrifice」で自身初のYouTube10億再生越え",
+     "link": "https://www.billboard-japan.com/d_news/detail/167156",
+     "published": "2026-11-05T12:15:00+09:00",
+     "summary": "エルトン・ジョンによる1989年のシングル「Sacrifice」のミュージック・ビデオが、YouTubeの“Bill…"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Mogwai documentary film trailer premieres",
+   "artists": [
+    "Mogwai"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-05T10:15:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "モグワイ、初の長編ドキュメンタリー映画『MOGWAI／星に音があったなら』予告編公開",
+     "link": "https://www.billboard-japan.com/d_news/detail/167146",
+     "published": "2026-11-05T10:15:00+09:00",
+     "summary": "モグワイの約30年にわたる活動を追ったドキュメンタリー映画『MOGWAI／星に音があったなら』の予告編と追加の場面写…"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Adele wanted One Direction song for herself",
+   "artists": [
+    "Adele",
+    "One Direction"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "NME Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-05T09:30:21+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "アデル、ワン・ダイレクションに提供されることが決まっていた楽曲を気に入っていたことが明らかに",
+     "link": "https://nme-jp.com/news/174052/",
+     "published": "2026-11-05T09:30:21+00:00",
+     "summary": "アデルはすでにワン・ダイレクションに提供されることが決まっている楽曲を自分の曲にしたがった逸話が明らかになっている。"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s72",
+   "label": "Janet Jackson designer discusses Super Bowl reveal",
+   "artists": [
+    "Janet Jackson"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-05T08:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Janet Jackson’s Designer Says Super Bowl Reveal Was Planned",
+     "link": "https://allhiphop.com/news/janet-jackson-designer-super-bowl-reveal-planned/",
+     "published": "2026-11-05T08:00:00+00:00",
+     "summary": "Janet Jackson's longtime designer says the 2004 Super Bowl reveal was planned and wants Justin Timberlake to address the fallout."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s55",
+   "label": "Desert Age documentary 10th anniversary re-release",
+   "artists": [
+    "Kyuss",
+    "Black Flag"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Consequence"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-04T20:00:46+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Desert Age Documentary 10th Anniversary Re-Release: See Photos of Kyuss, Black Flag, and More",
+     "link": "https://consequence.net/2026/11/desert-age-documentary-10th-anniversary-photos-kyuss-black-flag/",
+     "published": "2026-11-04T20:00:46+00:00",
+     "summary": "The special edition of the documentary premieres November 7th in Palm Springs, followed by a November 20th online release. Desert Age Documentary 10th Anniversary Re-Release: See Photos of Kyuss, Black Flag, and More Spencer Kaufman"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s70",
+   "label": "Morat redefining Latin superstar image",
+   "artists": [
+    "Morat"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Consequence"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-04T15:41:47+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Morat Are Redefining What a Latin Superstar Looks Like, One Pop-Rock Song At a Time",
+     "link": "https://consequence.net/2026/11/morat-redefine-latin-band-us-interview/",
+     "published": "2026-11-04T15:41:47+00:00",
+     "summary": "With millions of tickets sold and arenas packed across the globe, the Colombian band know a thing or two about making it big without losing themselves along the way. Morat Are Redefining What a Latin Superstar Looks Like, One Pop-Rock Song "
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s57",
+   "label": "Deep Purple founder Nick Simper retrospective",
+   "artists": [
+    "Deep Purple"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-04T14:50:52+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "ディープ・パープル創設メンバー、ニック・シンパーの功績：初期3作を支えたベーシスト",
+     "link": "https://www.udiscovermusic.jp/stories/nick-simper-deep-purple-co-founder",
+     "published": "2026-11-04T14:50:52+00:00",
+     "summary": "ディープ・パープルの第1期ベーシストで共同創設者のニック・シンパー。初期3作、「Hush」などで果たした役割、ジョン・ロードとの友情、脱退後の活動を振り返る。 The post ディープ・パープル創設メンバー、ニック・シンパーの功績：初期3作を支えたベーシスト appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s58",
+   "label": "KISS 1977 Budokan performance remastered video",
+   "artists": [
+    "KISS"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-04T14:27:33+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "KISS、1977年日本武道館公演から「Makin’ Love」のリマスター映像を公開",
+     "link": "https://www.udiscovermusic.jp/news/kiss-shares-1977-makin-love-budokan-performance",
+     "published": "2026-11-04T14:27:33+00:00",
+     "summary": "KISSが初来日時の1977年4月2日、日本武道館昼公演から「Makin’ Love」のHDリマスター映像を公開。音声はエディ・クレイマーが新たにミックスし、『Rock And Roll Over』50周年記念盤に収録される。 The post KISS、1977年日本武道館公演から「Makin’ Love」のリマスター映像を公開 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s25",
+   "label": "This Is Lorelei performs on KCRW",
+   "artists": [
+    "This Is Lorelei"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "NME Japan",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-05T04:00:21+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "ディス・イズ・ローレライ、5曲を披露したスタジオ・ライヴ映像が公開",
+     "link": "https://nme-jp.com/news/174031/",
+     "published": "2026-11-05T04:00:21+00:00",
+     "summary": "ディス・イズ・ローレライは5曲を披露したスタジオ・ライヴ映像が公開されている。"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Watch This Is Lorelei Play The Singer in My Band Songs on KCRW",
+     "link": "https://pitchfork.com/story/watch-this-is-lorelei-play-the-singer-in-my-band-songs-on-kcrw/",
+     "published": "2026-11-04T22:47:12+00:00",
+     "summary": "Nate Amos brought five tracks from his latest album to the public radio station"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s36",
+   "label": "Juanes releases 25 Aniversario greatest hits collection",
+   "artists": [
+    "Juanes"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Consequence"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-04T17:17:15+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Juanes to Release 25-Song Greatest Hits Collection Celebrating His 25-Year Career",
+     "link": "https://consequence.net/2026/11/juanes-greatest-hits-celebrating-25-years/",
+     "published": "2026-11-04T17:17:15+00:00",
+     "summary": "The Colombian star looks back on a quarter-century of hits as he tours in support of his latest album and heads into the 2026 Latin Grammys with two nominations. Juanes to Release 25-Song Greatest Hits Collection Celebrating His 25-Year Car"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Juanes Marks 25 Years in Music With First Greatest Hits Album ’25 Aniversario’: Here’s the Tracklist & Release Date",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmZvSVFlSVZLdXh4dHFXNTd6cDAzR0RLNERNQS11S2E5V0lyd05rQkVkU2xfa0Izd0JzWkg5Ymd4Y3dSdkwyZHliZ0xsN2M2MFV4a3V1dDZjbzV1LXNBQm92bzVYWTkxYWNBZU1iN2U4RFhablpQZ0s5STlYS0dQeDg2TTViZVVqNkRGa1Rfc2F4SjBVeWJ3MWxWalNOTEU2QjUwQ3VJMG93NXNjU2lVRw?oc=5",
+     "published": "2026-11-04T15:06:12+00:00",
+     "summary": "Juanes Marks 25 Years in Music With First Greatest Hits Album ’25 Aniversario’: Here’s the Tracklist & Release Date Billboard"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s38",
+   "label": "Dave Grohl performs with AC/DC Highway to Hell",
+   "artists": [
+    "Dave Grohl",
+    "AC/DC"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "Consequence",
+    "NME"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-04T15:19:48+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Dave Grohl “Broke Down in Tears” After Performing with AC/DC",
+     "link": "https://consequence.net/2026/11/dave-grohl-broke-down-in-tears-performing-ac-dc/",
+     "published": "2026-11-04T15:19:48+00:00",
+     "summary": "The Foo Fighters frontman called the occasion a full-circle moment. Dave Grohl “Broke Down in Tears” After Performing with AC/DC Spencer Kaufman"
+    },
+    {
+     "outlet": "NME",
+     "title": "Dave Grohl “walked off stage and broke down in tears” after playing ‘Highway To Hell’ with AC/DC",
+     "link": "https://www.nme.com/news/music/dave-grohl-walked-off-stage-and-broke-down-in-tears-after-playing-highway-to-hell-with-ac-dc-3974969?utm_source=rss&utm_medium=rss&utm_campaign=dave-grohl-walked-off-stage-and-broke-down-in-tears-after-playing-highway-to-hell-with-ac-dc",
+     "published": "2026-11-04T13:51:19+00:00",
+     "summary": "“That was one of the most full-circle moments of my entire life” The post Dave Grohl “walked off stage and broke down in tears” after playing ‘Highway To Hell’ with AC/DC appeared first on NME ."
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 4
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 8
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 31
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 3,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 60,
+   "kept": 17
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 7
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 4
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 2
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 23
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 5
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 30
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 4
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 23,
+   "kept": 7
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 26,
+   "kept": 10
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 1
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 27
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 2
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 7
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 5,
+   "kept": 3
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 23,
+   "kept": 13
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 2
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 29,
+   "kept": 4
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 17,
+   "kept": 6
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 13,
+   "kept": 4
+  }
+ ],
+ "cost": {
+  "usd": 0.3102,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 23108,
+    "output_tokens": 8221
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 18770,
+    "output_tokens": 8543
+   }
+  ]
+ }
+}
