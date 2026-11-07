@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-07",
+ "start": "2026-11-01",
+ "intro": "今週はOlivia Rodrigo初のホリデー曲やMy Chemical Romanceの快挙が話題に。テクノの先駆者Juan Atkinsの訃報も大きく報じられました。",
+ "cost_usd": 0.2166,
+ "news": [
+  {
+   "ref": "11-06:s2",
+   "title_ja": "Olivia Rodrigo、初のホリデー・シングルを公開",
+   "summary_ja": "Olivia Rodrigoが、キャリア初となるホリデー・シングル「take me home (4 christmas)」をMVとともに公開しました。MVにはCynthia NixonとBen Marshallが出演しています。",
+   "point_ja": "3日にわたって報じられ、関連動画の再生数は約2,477万回にのぼりました。"
+  },
+  {
+   "ref": "11-07:s40",
+   "title_ja": "Future、Drake、Travis Scottらと新曲「Ya Hit」",
+   "summary_ja": "Futureが、Drake、Travis Scott、Loe Shimmyを迎えた新曲「Ya Hit」を公開しました。Sexyy Redもアドリブで参加しています。",
+   "point_ja": "5媒体が報じ、毎日のまとめでトップに選ばれた話題です。"
+  },
+  {
+   "ref": "11-02:s2",
+   "title_ja": "My Chemical Romance、Billboard 200で初の1位",
+   "summary_ja": "My Chemical Romanceの『The Black Parade』の記念再発盤が、Billboard 200で1位を獲得しました。グループ初の1位で、リリースから20年での快挙です。イギリスでも初の1位を獲得したと報じられています。",
+   "point_ja": "2日にわたって複数の媒体が報じ、AP通信も取り上げました。関連動画は約116万回再生です。"
+  }
+ ],
+ "dj": [
+  {
+   "ref": "11-02:s21",
+   "title_ja": "デトロイト・テクノの先駆者Juan Atkinsが64歳で死去",
+   "summary_ja": "デトロイト・テクノの先駆者で、Cybotronの共同創設者でもあるJuan Atkinsが64歳で亡くなりました。多くのアーティストが追悼し、今日の電子音楽の革命を起こした人物だとたたえています。",
+   "dj_point_ja": "テクノを選曲・プレイするなら、そのルーツを作った人物として知っておきたい存在です。"
+  },
+  {
+   "ref": "11-05:s1",
+   "title_ja": "Underworld×Brutalismus3000、2027年3月に東京公演",
+   "summary_ja": "30年以上ダンス・ミュージックの最前線を走るUnderworldと、ベルリンのクラブ・シーン発の新世代Brutalismus3000が、2027年3月に東京でスペシャル・ライブを開催します。",
+   "dj_point_ja": "ベテランとベルリンの新世代が共演する公演で、世代を超えたクラブサウンドを体感できる機会です。"
+  }
+ ]
+}
