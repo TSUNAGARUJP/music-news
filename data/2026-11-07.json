@@ -1,0 +1,2046 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07T09:01:18.015059+00:00",
+ "article_count": 257,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日は、Macklemoreの公演拒否をめぐる主張と会場側の反論、Dr. DreやGrimesのAIとの関わりなど、音楽と社会や技術の関係を語れる話題が目立ちます。Stray Kidsの所属事務所の提訴のように、配信の仕組みを考えられるニュースもあります。",
+  "top": [
+   {
+    "id": "s0",
+    "title_ja": "Macklemore、米9アリーナがツアー開催を拒否と主張",
+    "genre": "Hip-Hop",
+    "summary_ja": "Macklemoreが、Madison Square Gardenを含む米国の9つのアリーナに「Free Palestine」ツアーの開催を断られたと主張し、「自分たちのステージを作る」と表明したと報じられている。これに対しMSG側は政治的な検閲を否定し、彼は「アリーナ規模のアーティストではない」と反論したと報じられている。",
+    "why_ja": "Rolling Stone、Variety、Pitchforkなど海外音楽メディア9媒体が報じた。断られた理由が政治的なメッセージなのか集客の見込みなのかで、両者の言い分が食い違っている。",
+    "debate_ja": "会場が公演を断る理由は政治？集客？あなたはどう見る？",
+    "line_point": "Macklemore、9アリーナにパレスチナ支持ツアーを断られたと主張。MSGは集客の問題と反論",
+    "reels": [
+     {
+      "hook": "断られた理由は政治？それとも集客？",
+      "angle": "Macklemoreの主張とMSGの反論を並べて紹介→検閲か興行判断かという論点を整理→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "「Thrift Shop」の彼にいま何が？",
+      "angle": "日本でも知られるヒット曲から振り返り、彼の社会的な発言の歩みと、アーティストの政治的メッセージと興行の関係を解説"
+     }
+    ]
+   },
+   {
+    "id": "s31",
+    "title_ja": "Dr. Dre、音楽へのAI活用に「とてもワクワク」",
+    "genre": "Hip-Hop",
+    "summary_ja": "Dr. Dreが、音楽にAIを使うことに問題はないとし、「とてもワクワクしている」と語ったと報じられている。すでに自身の制作過程にAIを取り入れているとされ、AIに懐疑的な人たちに向けた発言も話題になっている。",
+    "why_ja": "ComplexとHotNewHipHopが報じた。最近もSpotifyのAIリミックス機能やKid RockのAI聖歌隊が議論になっており、伝説的プロデューサーの肯定的な姿勢は注目を集めている。",
+    "debate_ja": "伝説のプロデューサーがAIを使うのはアリ？ナシ？",
+    "line_point": "Dr. Dre、AI活用に前向きな発言。自身の制作にも導入済みと報じられ、批判派にも一言",
+    "reels": [
+     {
+      "hook": "Dr. DreがAI推し、正直どう思う？",
+      "angle": "Dr. Dreの発言を紹介→AIは道具か創作への脅威かという論点→自分の見解→コメントでアリ派・ナシ派を募る"
+     },
+     {
+      "hook": "AI賛成派と反対派、今どっちが多い？",
+      "angle": "Nile Rodgers、Kid Rock、Spotifyなど最近のAI論争を並べ、アーティストごとの立場の違いを比較して解説"
+     }
+    ]
+   },
+   {
+    "id": "s40",
+    "title_ja": "Future、Drake・Travis Scottと再集結の新曲「Ya Hit」",
+    "genre": "Hip-Hop",
+    "summary_ja": "Futureが新アルバムからの最初の曲として、Drake、Travis Scott、Loe Shimmyを迎えた「Ya Hit」を公開した。Sexyy Redもアドリブで参加していると報じられている。",
+    "why_ja": "YouTube動画は公開から25時間で再生49万回を超え、米国のYouTube音楽チャートで12位。Complex、Rolling Stoneなど5媒体が報じた。",
+    "debate_ja": "豪華メンバーが集まるポッセカット、今の時代でも刺さる？",
+    "line_point": "Futureの新曲「Ya Hit」にDrake、Travis Scottらが参加。米YouTubeチャート12位",
+    "reels": [
+     {
+      "hook": "この3人の再集結、今でも最強？",
+      "angle": "参加メンバーと公開直後の数字を紹介→Drakeの影響力をめぐる最近の議論もふまえ論点を提示→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "なぜ今ポッセカットなのか？",
+      "angle": "複数のラッパーが1曲に集まるポッセカットの魅力を、FutureとDrakeの共演の流れとあわせて解説"
+     }
+    ]
+   },
+   {
+    "id": "s24",
+    "title_ja": "Stray KidsのJYP、無断アップロードで配信業者を提訴",
+    "genre": "POP",
+    "summary_ja": "Stray Kidsの所属事務所JYP Entertainmentが、楽曲が盗まれて無断でアップロードされたとして、配信業者（ディストリビューター）を提訴したと報じられている。詳しい経緯は今後の報道が待たれる。",
+    "why_ja": "Billboardが報じた。日本でも人気の高いStray Kidsに関わる話題で、音楽配信の仕組みとその課題を考えるきっかけになる。",
+    "debate_ja": "曲の無断アップロード、配信業者にも責任はある？",
+    "line_point": "JYP、Stray Kidsの曲が無断アップロードされたとして配信業者を提訴と報道",
+    "reels": [
+     {
+      "hook": "推しの曲が勝手に配信されたら？",
+      "angle": "提訴の報道を紹介→アップした人と配信業者のどちらに責任があるのかという論点→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "そもそも配信業者って何してる？",
+      "angle": "曲がストリーミングに並ぶまでの流れと配信業者の役割を図で解説し、今回の提訴が持つ意味を考察"
+     }
+    ]
+   },
+   {
+    "id": "s55",
+    "title_ja": "Grimes、全編AI生成の映画で俳優デビュー",
+    "genre": "POP",
+    "summary_ja": "Grimesが、全編AIで生成されたSFアンソロジー映画『Gods Don't Give Gifts』で映画デビューすると報じられている。未来的な貴族の役を演じるという。",
+    "why_ja": "NMEが報じた。音楽業界でAIをめぐる議論が続く中、ミュージシャンが全編AI生成の作品に出演する点が注目されている。",
+    "debate_ja": "全編AI生成の映画、あなたは観たい派？観ない派？",
+    "line_point": "Grimes、全編AI生成のSF映画『Gods Don't Give Gifts』で俳優デビューと報道",
+    "reels": [
+     {
+      "hook": "全部AIで作った映画、観たい？",
+      "angle": "出演の報道を紹介→AI作品に人間が出る意味という論点→自分の見解→コメントで観たい派・観ない派を募る"
+     },
+     {
+      "hook": "Grimesはなぜいつも未来を先取る？",
+      "angle": "これまでのテクノロジーを取り入れた活動を振り返り、今回のAI映画出演がその流れのどこにあるかを解説"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s51",
+     "title_ja": "SPLATA、カエルの鳴き声ダブステップが沼レイヴに",
+     "note": "LAのDJ SPLATAのカエルの求愛の鳴き声を使った曲が、沼がテーマのレイヴにつながったと報道"
+    },
+    {
+     "id": "s47",
+     "title_ja": "Boys Noize、ソロ作『7LLVSION』を公開",
+     "note": "2021年以来のソロ作で全12曲。Brutalismus 3000やTAICHUらが参加"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s16",
+     "title_ja": "Chlöe Bailey、「Mrs. Claus」への批判を笑い飛ばす",
+     "note": "セクシーなクリスマス曲への批判に本人は笑って応じ、ファンの間でも賛否が分かれている"
+    },
+    {
+     "id": "s43",
+     "title_ja": "BLACKPINKのJISOO、WMEと世界的な代理契約",
+     "note": "大手エージェンシーWMEが、JISOOの世界での活動の代理人を務めることになった"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s3",
+     "title_ja": "Kardinal Offishall、カナダ音楽業界の偏りを批判",
+     "note": "カナダの音楽業界は白人のポップ歌手を優遇してきたと、黒人アーティストの壁について語った"
+    },
+    {
+     "id": "s8",
+     "title_ja": "RBX、Spotifyのボット再生訴訟の棄却に控訴",
+     "note": "ボット再生をめぐる訴訟が棄却されたことを不服として控訴した"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s58",
+     "title_ja": "John Coltraneの幻の音源、65年ぶりに初リリース",
+     "note": "65年間しまわれていた未発表音源『The Tiberi Tapes』の発掘秘話。26時間の特別版も"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s7",
+    "title_ja": "Bon Jovi、2027年2月に9年ぶりの来日公演決定",
+    "note": "2027年2月に東京ドーム2Days。声帯手術からの復活と報じられている"
+   },
+   {
+    "id": "s6",
+    "title_ja": "SEAL、来日公演決定",
+    "note": ""
+   }
+  ],
+  "tour_candidates": 4
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s0",
+   "label": "Macklemore claims US arenas rejected Free Palestine tour",
+   "artists": [
+    "Macklemore"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 2,
+   "outlets": [
+    "Complex",
+    "Consequence",
+    "HotNewHipHop",
+    "NME",
+    "Pitchfork",
+    "Rolling Stone",
+    "The Fader",
+    "Variety",
+    "XXL"
+   ],
+   "n_outlets": 9,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 9,
+   "score": 9,
+   "latest": "2026-11-07T08:38:00+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Macklemore says nine US arenas rejected his ‘Free Palestine’ tour: “We will build our own stages”",
+     "link": "https://www.nme.com/news/music/macklemore-nine-us-arenas-rejected-free-palestine-tour-3975343?utm_source=rss&utm_medium=rss&utm_campaign=macklemore-nine-us-arenas-rejected-free-palestine-tour",
+     "published": "2026-11-07T08:38:00+00:00",
+     "summary": "Madison Square Garden has responded to the rapper's allegations, claiming he is \"not an arena-level act\" The post Macklemore says nine US arenas rejected his ‘Free Palestine’ tour: “We will build our own stages” appeared first on NME ."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Macklemore Says 9 Arenas Rejected His Free Palestine Tour",
+     "link": "https://www.hotnewhiphop.com/1016035-macklemore-free-palestine-tour-rejected-msg",
+     "published": "2026-11-07T00:02:00+00:00",
+     "summary": "Madison Square Garden disputes Macklemore's allegations of political censorship, questioning whether he can fill an arena. The post Macklemore Says 9 Arenas Rejected His Free Palestine Tour appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Macklemore Claims U.S. Arenas Refuse to Host Free Palestine Tour",
+     "link": "https://www.xxlmag.com/macklemore-arenas-refuse-free-palestine-tour/",
+     "published": "2026-11-06T23:10:39+00:00",
+     "summary": "Macklemore claps back. Continue reading…"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Macklemore Accuses Madison Square Garden and Eight Other Arenas of Banning His ‘Free Palestine’ Tour",
+     "link": "https://variety.com/2026/music/news/macklemore-free-palestine-tour-banned-us-arenas-1236941564/",
+     "published": "2026-11-06T19:43:37+00:00",
+     "summary": "Macklemore is accusing some of America’s most iconic arenas of shutting his “Free Palestine” tour out. The rapper, who recently had dates in Dublin, Paris and London at the end of October, took to Instagram on Nov. 6 to say that he has been"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Macklemore Says Nine U.S. Venues Turned Down ‘Free Palestine’ Tour: ‘They Got Me F-cked Up’",
+     "link": "https://www.rollingstone.com/music/music-news/macklemore-us-venues-free-palestine-tour-1235654083/",
+     "published": "2026-11-06T19:38:17+00:00",
+     "summary": "The rapper performed three sold-out shows in Europe with special guests in support of organizations providing aid to Gaza, but says bringing the tour stateside has been more challenging"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Macklemore on American Arenas Turning Down Free Palestine Tour: 'We Will Build Our Own Stages'",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXZvbUxoYnV5dzlJUFd6QTlzaXhqb1ZwSV85Y0hEVFJDeUxUeU1HY28xamNZM0U0bzYyempCRjV2MTNpRGYyRlVRTFdOUWthaDVVaDhPaF9CdER3VmdjWU1LX0Q0amY0eElna2Y1UWRBUkU0VzZDNnBqWE5pNUNnQi1zekdWVTEwQ2Z5Z055SmliaTZSeXllNV9ZTm8?oc=5",
+     "published": "2026-11-06T19:16:03+00:00",
+     "summary": "Macklemore on American Arenas Turning Down Free Palestine Tour: 'We Will Build Our Own Stages' Complex"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Macklemore Accuses U.S. Arenas of Turning Down Free Palestine Tour",
+     "link": "https://pitchfork.com/story/macklemore-accuses-arenas-of-turning-down-free-palestine-tour/",
+     "published": "2026-11-06T18:17:37+00:00",
+     "summary": "“Once they realized these were my benefit shows for Palestine, those dates were suddenly off the table”"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Macklemore Says Major Arenas Refusing to Host His “Free Palestine” Tour in US",
+     "link": "https://consequence.net/2026/11/macklemore-free-palestine-tour-us-venues-blocking/",
+     "published": "2026-11-06T17:58:49+00:00",
+     "summary": "Venues including Madison Square Garden, Barclays Center, Kia Forum, and Crypto.com Arena allegedly withdrew available dates after learning the shows would benefit Palestine. Macklemore Says Major Arenas Refusing to Host His “Free Palestine”"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "Macklemore says 9 US arenas turned down his Free Palestine tour",
+     "link": "https://www.thefader.com/2026/11/06/macklemore-us-arenas-rejected-free-palestine-tour",
+     "published": "2026-11-06T13:56:25-05:00",
+     "summary": "New York City’s Madison Square Garden and Barclays Center were among the arenas he called out in a new statement."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s40",
+   "label": "Future, Drake, Travis Scott reunite on 'Ya Hit'",
+   "artists": [
+    "Future",
+    "Drake",
+    "Travis Scott",
+    "Loe Shimmy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "collab",
+   "talk": 1,
+   "outlets": [
+    "Complex",
+    "Pitchfork",
+    "Rolling Stone",
+    "The Fader",
+    "XXL"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 5,
+   "score": 5,
+   "latest": "2026-11-06T17:41:01+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "Future Taps Drake, Travis Scott and Loe Shimmy for 'Ya Hit'",
+     "link": "https://www.xxlmag.com/future-drake-travis-scott-loe-shimmy-ya-hit/",
+     "published": "2026-11-06T17:41:01+00:00",
+     "summary": "The track also features ad-libs from Sexyy Red. Continue reading…"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Future, Drake, and Travis Scott Join Forces for “Ya Hit”",
+     "link": "https://pitchfork.com/story/future-drake-and-travis-scott-join-forces-for-ya-hit/",
+     "published": "2026-11-06T15:35:30+00:00",
+     "summary": "Loe Shimmy also features on the first song from Future’s new album"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Future Assembles His Avengers With Drake, Travis Scott, and Loe Shimmy on ‘Ya Hit’",
+     "link": "https://www.rollingstone.com/music/music-news/future-ya-hit-drake-travis-scott-loe-shimmy-1235653821/",
+     "published": "2026-11-06T15:15:58+00:00",
+     "summary": "Future announced the song earlier this week, but never mentioned Drake and Scott among collaborators"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "Future, Drake, Travis Scott, and Loe Shimmy connect for a classic posse cut",
+     "link": "https://www.thefader.com/2026/11/06/future-drake-travis-scott-and-loe-shimmy-connect-for-a-classic-posse-cut",
+     "published": "2026-11-06T14:52:19-05:00",
+     "summary": "Listen to “Ya Hit,” featuring ad-libs by Sexyy Red."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Drake Reunites With Travis Scott on New Future Track \"Ya Hit\" f/ Loe Shimmy and Sexyy Red",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMm1zbi1CRnhhbGE3RDhxcTRxZXo1S1ZJeWxTaUlDNWlJRkhFeVMtUkh2ODhaVkRuRXE2NFZsOFRXWG9GV1Z4YUdqcHVqTXFjVVd3MG1GaWVwVFBIUHBiOTlXcWF1RnJVS29hWjQ2WU9ZUFZZczFRMUxxcUFrZVdCYQ?oc=5",
+     "published": "2026-11-06T12:43:14+00:00",
+     "summary": "Drake Reunites With Travis Scott on New Future Track \"Ya Hit\" f/ Loe Shimmy and Sexyy Red Complex"
+    }
+   ],
+   "chart": [
+    {
+     "id": "8eCstqv4zSo",
+     "title": "Ya Hit",
+     "channel": "Future - Topic",
+     "published": "2026-11-06T07:30:18Z",
+     "hours_since": 25,
+     "views": 498783,
+     "url": "https://www.youtube.com/watch?v=8eCstqv4zSo",
+     "region": "US",
+     "rank": 12
+    }
+   ],
+   "video": {
+    "id": "8eCstqv4zSo",
+    "title": "Ya Hit",
+    "channel": "Future - Topic",
+    "published": "2026-11-06T07:30:18Z",
+    "hours_since": 25,
+    "views": 498783,
+    "url": "https://www.youtube.com/watch?v=8eCstqv4zSo",
+    "region": "US",
+    "rank": 12
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s31",
+   "label": "Dr. Dre expresses enthusiasm for AI in music",
+   "artists": [
+    "Dr. Dre"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-07T02:09:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Dr. Dre Doubles Down On AI In Music, Takes Jab At Critics",
+     "link": "https://www.hotnewhiphop.com/1016059-dr-dre-ai-music-listen-and-laugh-podcast",
+     "published": "2026-11-07T02:09:00+00:00",
+     "summary": "Having already incorporated AI into his own production process, Dr. Dre has another message for those skeptical of the technology. The post Dr. Dre Doubles Down On AI In Music, Takes Jab At Critics appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Dr. Dre Has Zero Issues With AI in Music, Says He's 'Extremely Excited' About It",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbjdJOEVjMEl5RGlUZDAtcWxXS3doZjJsN0NncEpLYlJNZlNteFRXOXlkaGxiTVc5TE1GZGdEOTg5dXJ5QUk3NEZKdFhIXzVxOEQ4VUlVdEpldDhPYzA2SUktSHgzTUc0VjZiWktnbjU4dUlWZWQ5cmk0djRuYVNIQ0FHRlY0elYybmVJ?oc=5",
+     "published": "2026-11-07T02:05:58+00:00",
+     "summary": "Dr. Dre Has Zero Issues With AI in Music, Says He's 'Extremely Excited' About It Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "Skepta returns with first album in seven years",
+   "artists": [
+    "Skepta"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "talk": 1,
+   "outlets": [
+    "BBC",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-07T01:58:00+00:00",
+   "articles": [
+    {
+     "outlet": "BBC",
+     "title": "Skepta: 'I'm what it looks like if you give an immigrant child a chance'",
+     "link": "https://www.bbc.co.uk/news/articles/c6n499d3ykgwo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-07T01:58:00+00:00",
+     "summary": "The grime artist, widely considered to be one of the UK's best, returns with his first album in seven years."
+    },
+    {
+     "outlet": "Complex",
+     "title": "First Impressions Of Skepta’s ‘The Fork & Knife’ LP",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnFUZWVNbXlvdWpWVmoxWWFHS1lSNEFUOXl1Y1NmbUFsY1FId2JsSzZTVEx6RmhyS3dXVHRsUHdnSVdNbGdUSm9MV0Q1elVaZi1ReTNkS3JlMTFLTFFSVVpUVkl1VXpfM1EzQV9xUkFBc01uZEZmZUVTQTNXa21WVThtelZTZnVpeFVYRQ?oc=5",
+     "published": "2026-11-06T14:13:25+00:00",
+     "summary": "First Impressions Of Skepta’s ‘The Fork & Knife’ LP Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Kardinal Offishall criticizes Canada music industry bias",
+   "artists": [
+    "Kardinal Offishall"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T07:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Kardinal Offishall Faults Canada’s Music Industry For Favoring White Pop Artists",
+     "link": "https://allhiphop.com/news/kardinal-offishall-white-pop-black-artists-canada-support/",
+     "published": "2026-11-07T07:00:00+00:00",
+     "summary": "Kardinal Offishall said Canada's music industry gave white pop artists more support as he discussed barriers for Black artists."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "BigXthaPlug questions drill's influence on hip-hop",
+   "artists": [
+    "BigXthaPlug"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T04:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "BigXthaPlug Wants Rap To Be Fun Again As He Questions Drill’s Influence",
+     "link": "https://allhiphop.com/news/bigxthaplug-drill-music-hurt-hip-hop-rap-fun-again/",
+     "published": "2026-11-07T04:00:00+00:00",
+     "summary": "BigXthaPlug says drill changed Hip-Hop's mood and argues rap needs more fun, range and room for artists to take risks."
+    }
+   ],
+   "chart": [
+    {
+     "id": "GAlsKVvJ-lM",
+     "title": "ONE",
+     "channel": "BigXthaPlug - Topic",
+     "published": "2026-10-29T10:01:58Z",
+     "hours_since": 215,
+     "views": 734215,
+     "url": "https://www.youtube.com/watch?v=GAlsKVvJ-lM",
+     "region": "US",
+     "rank": 13
+    }
+   ],
+   "video": {
+    "id": "GAlsKVvJ-lM",
+    "title": "ONE",
+    "channel": "BigXthaPlug - Topic",
+    "published": "2026-10-29T10:01:58Z",
+    "hours_since": 215,
+    "views": 734215,
+    "url": "https://www.youtube.com/watch?v=GAlsKVvJ-lM",
+    "region": "US",
+    "rank": 13
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s25",
+   "label": "Nick Cave announces Conversations tour for spring 2027",
+   "artists": [
+    "Nick Cave"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "Pitchfork",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 4,
+   "latest": "2026-11-06T22:34:06+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Nick Cave Returning to North America for 25-Date ‘Evening of Talk and Music’ in Spring",
+     "link": "https://variety.com/2026/music/news/nick-cave-evening-of-talk-and-music-tour-1236941729/",
+     "published": "2026-11-06T22:34:06+00:00",
+     "summary": "Eight years after touring with a combination of audience Q&As and solo music, Nick Cave will return to North America with “Conversations With Nick Cave: An Evening of Talk and Music,” a followup to his 2019 tour of the same name. This follo"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Nick Cave Launches 2027 Tour",
+     "link": "https://pitchfork.com/story/nick-cave-launches-2027-tour/",
+     "published": "2026-11-06T19:02:49+00:00",
+     "summary": "Conversations With Nick Cave: An Evening of Talk & Music will combine a Q&A with live performance"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Nick Cave Announces “Conversations With Nick Cave” Tour",
+     "link": "https://consequence.net/2026/11/nick-cave-conversations-tour/",
+     "published": "2026-11-06T18:32:58+00:00",
+     "summary": "The 25-date tour will feature the singer-songwriter answering unvetted audience questions and playing his songs with piano. Nick Cave Announces “Conversations With Nick Cave” Tour Travis Bland"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Nick Cave Will Now Be Answering Your Questions in Person",
+     "link": "https://www.rollingstone.com/music/music-news/nick-cave-conversations-audience-questions-tour-dates-1235653362/",
+     "published": "2026-11-06T18:23:01+00:00",
+     "summary": "Artist has set Conversations With Nick Cave tour dates for the spring"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Chris Brown denies backstage fight with Usher",
+   "artists": [
+    "Chris Brown",
+    "Usher"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 1,
+   "outlets": [
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-07T01:01:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Chris Brown Calls Cap On Rumors Of Backstage Fight With Usher",
+     "link": "https://www.hotnewhiphop.com/1016053-chris-brown-usher-fight-cap-atlanta-tour",
+     "published": "2026-11-07T01:01:00+00:00",
+     "summary": "A delayed Atlanta concert fueled rumors involving Chris Brown and Usher, but Brown is telling fans not to believe everything online. The post Chris Brown Calls Cap On Rumors Of Backstage Fight With Usher appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Chris Brown Blasts 'Internet Cap' Amid Reports of Backstage Argument With Usher During Atlanta Show",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXhfdWQzbGU5S1NKS0dBZHpxWlp5SG1hZWwyUUhhTUUySnFlN0NnT3hpbTRkb2loVU5QeUJJY01objF1RlRTWmtWd0tZLUwwWFkxOGVMRVhySlFqWTVuVGVva3NRZFZoc1NKLTRzMld6SkJLbmczTWttY2pOYUdUV3dCNld5bEZKaWV3cWoxazRQUFJlOTZpOWw0RE5SOGVEWlhhblRfT29nbDBGSVhYMU93?oc=5",
+     "published": "2026-11-06T18:47:29+00:00",
+     "summary": "Chris Brown Blasts 'Internet Cap' Amid Reports of Backstage Argument With Usher During Atlanta Show Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "Justin Timberlake reveals son helped Don Toliver sample",
+   "artists": [
+    "Justin Timberlake",
+    "Don Toliver"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-06T23:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Justin Timberlake Reveals His Son Helped Don Toliver Clear “Body” Sample",
+     "link": "https://www.hotnewhiphop.com/1016031-justin-timberlake-don-toliver-body",
+     "published": "2026-11-06T23:30:00+00:00",
+     "summary": "The \"Rock Your Body\" sample wasn't a difficult sell for Justin Timberlake, who also revealed an unexpected studio session. The post Justin Timberlake Reveals His Son Helped Don Toliver Clear “Body” Sample appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Justin Timberlake Says He and Don Toliver Worked on Music Inside Arena After Miami Show",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUlFLUtsVWJIenBUdUp3VHY0THM4UUQ1bkgtdUZVY05uU2pIRHZHUHJOeGdZVno2MkxOVFJXaXFkRkZoSDFiQjY3Sk1TRWsxd0NpRGhyZS1rUUxUSjlSV0dKcjJIRUVvVjlkSEx3d0xzWFZDTkU3Uzg1NlJZRVZkQnQxbjB1T0tj?oc=5",
+     "published": "2026-11-06T06:01:15+00:00",
+     "summary": "Justin Timberlake Says He and Don Toliver Worked on Music Inside Arena After Miami Show Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Marcus La-Croix acquitted in 2018 murder case",
+   "artists": [
+    "Marcus La-Croix"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T08:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "UK Rapper Marcus La-Croix Acquitted In Teen’s 2018 Murder Case",
+     "link": "https://allhiphop.com/news/marcus-la-croix-acquitted-tanesha-melbourne-blake-case/",
+     "published": "2026-11-07T08:00:00+00:00",
+     "summary": "UK rapper Marcus La-Croix was acquitted as the long-running Tanesha Melbourne-Blake murder case ended without convictions."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Benson Boone brings young cancer patient onstage",
+   "artists": [
+    "Benson Boone"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T06:13:57+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Benson Boone Brings Young Fan Battling Cancer Onstage at Brisbane Concert",
+     "link": "https://www.billboard.com/music/music-news/benson-boone-kenzie-riddle-beautiful-things-brisbane-1236376893/",
+     "published": "2026-11-07T06:13:57+00:00",
+     "summary": "“I’ve had the opportunity of meeting a 13-year-old girl who is battling her second round of cancer,” Boone told the crowd."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "RBX appeals Spotify bot-streaming lawsuit dismissal",
+   "artists": [
+    "RBX"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T05:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "RBX Appeals Spotify Bot-Streaming Lawsuit Dismissal",
+     "link": "https://allhiphop.com/news/rbx-appeals-spotify-bot-streaming-lawsuit-dismissal/",
+     "published": "2026-11-07T05:02:00+00:00",
+     "summary": "RBX has appealed the dismissal of his Spotify bot-streaming lawsuit after a federal judge ended the case with prejudice."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Flyysoulja revises overdose account citing drug-induced psychosis",
+   "artists": [
+    "Flyysoulja"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "health",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T04:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Flyysoulja Revises Overdose Account, Citing Drug-Induced Psychosis",
+     "link": "https://allhiphop.com/news/flyysoulja-drug-induced-psychosis-not-overdose/",
+     "published": "2026-11-07T04:30:00+00:00",
+     "summary": "Flyysoulja says his October 29 hospitalization involved drug-induced psychosis, correcting his earlier account of an overdose."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Cam'ron explains why he worked ESPN First Take for free",
+   "artists": [
+    "Cam'ron"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T02:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Cam’ron Explains Why He Chose Unpaid First Take Appearances",
+     "link": "https://allhiphop.com/news/camron-first-take-free-build-own-shows/",
+     "published": "2026-11-07T02:00:00+00:00",
+     "summary": "Cam'ron says he worked ESPN's First Take for free, using the exposure to build credibility and bring viewers to his own shows."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Flo Milli wins copyright lawsuit dismissal over 'Never Lose Me'",
+   "artists": [
+    "Flo Milli"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T01:55:41+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Flo Milli Wins Dismissal of Copyright Lawsuit Over ‘Never Lose Me’ Beat Sample",
+     "link": "https://www.billboard.com/pro/flo-milli-wins-never-lose-me-copyright-lawsuit-dismissal/",
+     "published": "2026-11-07T01:55:41+00:00",
+     "summary": "A judge ruled that the man who brought the claims did not technically own a beat sampled in the 2023 hit."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "Chlöe Bailey laughs off criticism of 'Mrs. Claus' song",
+   "artists": [
+    "Chlöe Bailey"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T01:33:35+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Chlöe Bailey Laughs Off Criticism Of Her Sexy “Mrs. Claus” Song",
+     "link": "https://www.hotnewhiphop.com/1016062-chloe-bailey-mrs-clause-critics-laughs",
+     "published": "2026-11-07T01:33:35+00:00",
+     "summary": "Some listeners think Chlöe Bailey has taken the Christmas theme too far, while others argue the backlash is unnecessary. The post Chlöe Bailey Laughs Off Criticism Of Her Sexy “Mrs. Claus” Song appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "JYP Entertainment sues distributor over stolen track",
+   "artists": [
+    "Stray Kids"
+   ],
+   "genre": "POP",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-06T18:59:07+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Stray Kids Label JYP Entertainment Sues Distributor Over ‘Stolen’ Track Upload",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjIxV0VLai1QVVVtT1BFdFRYZi1Cb25MV1pDMUhEYjF4NUVrakxuZ3ZkQzRxaDNub0NHemlmaU5ta3c3NXhtVnRvTWtjbTZSVklTd3hnRWZIQWw3QkhyOE5XQmJYYVNwUWVZazgwc0p1UmNFd0libVkyd0JMbjY4WG5Yc2dNUEFTdl93STZ3?oc=5",
+     "published": "2026-11-06T18:59:07+00:00",
+     "summary": "Stray Kids Label JYP Entertainment Sues Distributor Over ‘Stolen’ Track Upload Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s52",
+   "label": "Ms. Lauryn Hill, Wyclef Jean launch Fugees Hopeline",
+   "artists": [
+    "Ms. Lauryn Hill",
+    "Wyclef Jean"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-06T14:32:36+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "Ms. Lauryn Hill and Wyclef Jean launch FUGEES HOPELINE interactive audio project with exclusive music",
+     "link": "https://djmag.com/news/ms-lauryn-hill-and-wyclef-jean-launch-fugees-hopeline-interactive-audio-project-exclusive",
+     "published": "2026-11-06T14:32:36+00:00",
+     "summary": "Drawing inspiration from John Giorno’s 1968 Dial-A-Poem project, it encourages fans around the world to call in and share their own messages of hope"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s51",
+   "label": "SPLATA's frog mating call dubstep inspires swamp rave",
+   "artists": [
+    "SPLATA"
+   ],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-06T13:22:21+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "SPLATA’s Dubstep Song About Frog Mating Calls Inspires Swamp-Themed Rave",
+     "link": "https://edm.com/events/splata-frog-swamp-themed-rave/",
+     "published": "2026-11-06T13:22:21+00:00",
+     "summary": "The LA-based DJ has found an unexpected source of inspiration in the animal kingdom, turning biomusic into bass-heavy tracks. The post SPLATA’s Dubstep Song About Frog Mating Calls Inspires Swamp-Themed Rave appeared first on EDM ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s55",
+   "label": "Grimes makes film debut in AI-generated 'Gods Don't Give Gifts'",
+   "artists": [
+    "Grimes"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-06T11:38:25+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Grimes making film debut in entirely AI-generated ‘Gods Don’t Give Gifts’",
+     "link": "https://www.nme.com/news/film/grimes-acting-film-debut-ai-generated-gods-dont-give-gifts-3975235?utm_source=rss&utm_medium=rss&utm_campaign=grimes-acting-film-debut-ai-generated-gods-dont-give-gifts",
+     "published": "2026-11-06T11:38:25+00:00",
+     "summary": "The singer will play a futuristic aristocrat in the sci-fi anthology The post Grimes making film debut in entirely AI-generated ‘Gods Don’t Give Gifts’ appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Michael Sanft, attorney in 2Pac murder case, dies",
+   "artists": [],
+   "genre": "Hip-Hop",
+   "kind": "death",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-07T00:27:59+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Michael Sanft, Attorney Who Represented Keffe D in 2Pac Murder Trial, Dies at 54",
+     "link": "https://www.billboard.com/business/legal/michael-sanft-deaf-keffe-d-attorney-2pac-murder-trial-1236376793/",
+     "published": "2026-11-07T00:27:59+00:00",
+     "summary": "Sanft put together a team and took on Davis' case pro bono."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Defense Attorney Who Represented Keffe D in 2Pac Murder Trial Dies",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2pMQzVEdlJsTzFhRWx3djh1N3FCV2NPRzZDeEZzSS0yUDRubUpQTDRIUkNHamVnem9xSU9tTzNlOUxTQWRDSzFubzJvc19JRUlPaHJ4dGNtb3hQcnRaZVpsR1gtWlF0NTh1V3c5MGZYRE9MYVJ0dFlfSzBqcXhMeVRFQlV6b3M3aWc?oc=5",
+     "published": "2026-11-06T21:19:06+00:00",
+     "summary": "Defense Attorney Who Represented Keffe D in 2Pac Murder Trial Dies Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s27",
+   "label": "Olivia Rodrigo releases Christmas single Take Me Home",
+   "artists": [
+    "Olivia Rodrigo"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "NME",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-06T23:34:20+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Olivia Rodrigo’s ‘Take Me Home (4 Christmas)’ Effusively Endorsed by Writer of the Waitresses’ ‘Christmas Wrapping,’ Who Praises Her for Picking Up the ‘Vibe’ 45 Years Later",
+     "link": "https://variety.com/2026/music/news/olivia-rodrigo-christmas-praised-writer-waitresses-wrapping-1236941752/",
+     "published": "2026-11-06T23:34:20+00:00",
+     "summary": "Olivia Rodrigo’s first holiday single, “Take Me Home (4 Christmas),” earned plenty of plaudits upon coming out of the gate late Thursday night — none greater than that offered by Chris Butler, the writer of the Waitresses’ classic 1981 song"
+    },
+    {
+     "outlet": "NME",
+     "title": "Olivia Rodrigo shares festive single ‘Take Me Home (4 Christmas)’ with video starring ‘Sex And The City’s Cynthia Nixon and Ben Marshall from ‘SNL’",
+     "link": "https://www.nme.com/news/music/olivia-rodrigo-releases-new-festive-single-take-me-home-4-christmas-video-starring-cynthia-nixon-watch-3975188?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-releases-new-festive-single-take-me-home-4-christmas-video-starring-cynthia-nixon-watch",
+     "published": "2026-11-06T09:50:11+00:00",
+     "summary": "The clip finds the singer loved up and hungover after a big holiday party The post Olivia Rodrigo shares festive single ‘Take Me Home (4 Christmas)’ with video starring ‘Sex And The City’s Cynthia Nixon and Ben Marshall from ‘SNL’ appeared "
+    }
+   ],
+   "chart": [
+    {
+     "id": "uXymCnWk9LI",
+     "title": "Olivia Rodrigo - take me home (4 christmas)",
+     "channel": "OliviaRodrigoVEVO",
+     "published": "2026-11-06T01:00:08Z",
+     "hours_since": 32,
+     "views": 2925992,
+     "url": "https://www.youtube.com/watch?v=uXymCnWk9LI",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "uXymCnWk9LI",
+     "title": "Olivia Rodrigo - take me home (4 christmas)",
+     "channel": "OliviaRodrigoVEVO",
+     "published": "2026-11-06T01:00:08Z",
+     "hours_since": 32,
+     "views": 2925992,
+     "url": "https://www.youtube.com/watch?v=uXymCnWk9LI",
+     "region": "GB",
+     "rank": 2
+    }
+   ],
+   "video": {
+    "id": "uXymCnWk9LI",
+    "title": "Olivia Rodrigo - take me home (4 christmas)",
+    "channel": "OliviaRodrigoVEVO",
+    "published": "2026-11-06T01:00:08Z",
+    "hours_since": 32,
+    "views": 2925992,
+    "url": "https://www.youtube.com/watch?v=uXymCnWk9LI",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s43",
+   "label": "JENNIE signs with WME for worldwide representation",
+   "artists": [
+    "JENNIE"
+   ],
+   "genre": "POP",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-06T22:57:18+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Blackpink’s Jisoo Signs With WME for Worldwide Representation",
+     "link": "https://variety.com/2026/music/news/blackpink-jisoo-signs-wme-worldwide-representation-1236941763/",
+     "published": "2026-11-06T22:57:18+00:00",
+     "summary": "Jisoo, the singer and actor best known as a member of K-pop group Blackpink, has signed with talent agency WME, which will represent her worldwide. The deal comes as Jisoo builds out her solo music career. Last week she released “Addicted,”"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "WME Signs BLACKPINK's JISOO For Worldwide Representation",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXBzN3RISEw2R1YxcE5ZeVBLUFMxSERSamoyY05qMVl6MzlGT3ZxRzB5QUhMMURjTlNpWGZKNHhUQ0lEcThSNG16NXBMOEQ4WTFqcHVOcG9zMWJ5YXl2bHBEWm5sNHBzOWF6RGUxZGE1eWxYcWFWQWFrZXhBT3ZsYg?oc=5",
+     "published": "2026-11-06T14:07:32+00:00",
+     "summary": "WME Signs BLACKPINK's JISOO For Worldwide Representation Billboard"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s37",
+   "label": "Angine de Poitrine debuts third alien member on triangle",
+   "artists": [
+    "Angine de Poitrine"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "NME",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-06T16:30:20+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Angine de Poitrine Beam in Third Member",
+     "link": "https://pitchfork.com/story/are-angine-de-poitrine-now-a-trio/",
+     "published": "2026-11-06T16:30:20+00:00",
+     "summary": "They appeared on stage to play the triangle"
+    },
+    {
+     "outlet": "NME",
+     "title": "Angine De Poitrine debut new third alien member on triangle on new song",
+     "link": "https://www.nme.com/news/music/angine-de-poitrine-debut-new-third-alien-member-on-triangle-play-new-song-watch-3975294?utm_source=rss&utm_medium=rss&utm_campaign=angine-de-poitrine-debut-new-third-alien-member-on-triangle-play-new-song-watch",
+     "published": "2026-11-06T16:08:59+00:00",
+     "summary": "The extra musician helped premiere a funky unreleased song in Canada The post Angine De Poitrine debut new third alien member on triangle on new song appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Tomorrowland Brasil 2027 announces 100+ artist lineup",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "Your EDM"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-06T18:59:38+00:00",
+   "articles": [
+    {
+     "outlet": "Your EDM",
+     "title": "Tomorrowland Brasil 2027 Unveils Massive Lineup Featuring Over 100 Artists",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWt5R3psWmRoU2RsdXlVOU9tN2F5bGgxcnR0anNIcEF5aVFVYVlvQlZWVS1ucEVOSXFoLU1iNEpCOE9obWJyUEFlMUN2UUZGbGdjMWIzWTVOcmpqOTZWRHY5WUtxZmllS2I4RFZldUxDTWtBWFAwZkRPUFgtVW5TalE5SjNtQXpUXzZyMXM5WDUyVWNWRVN2MUpFbHdfN1hBVWdFTm8xSzJMRHFDRVNB?oc=5",
+     "published": "2026-11-06T18:59:38+00:00",
+     "summary": "Tomorrowland Brasil 2027 Unveils Massive Lineup Featuring Over 100 Artists Your EDM"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s70",
+   "label": "B Burg at Bramble, Edinburgh ⟋ RA",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Resident Advisor"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-06T18:29:08+00:00",
+   "articles": [
+    {
+     "outlet": "Resident Advisor",
+     "title": "B Burg at Bramble, Edinburgh ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE95ZTBwak5SSnV0VEVkQjBiYWVaT1JzcFdkdjM2WTN4VE1RNi1jVXpVWlY2TEh5LWZ6OWYwQk10b0M5dw?oc=5",
+     "published": "2026-11-06T18:29:08+00:00",
+     "summary": "B Burg at Bramble, Edinburgh ⟋ RA Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s47",
+   "label": "Boys Noize releases solo album 7LLVSION",
+   "artists": [
+    "Boys Noize"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-06T13:44:15+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Boys Noize Drops Adventurous Solo Album, ‘7LLVSION’: Listen",
+     "link": "https://edm.com/music-releases/boys-noize-new-album-7llvsion/",
+     "published": "2026-11-06T13:44:15+00:00",
+     "summary": "His first solo project since 2021, the 12-track album features Brutalismus 3000, TAICHU and more. The post Boys Noize Drops Adventurous Solo Album, ‘7LLVSION’: Listen appeared first on EDM ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Bon Jovi announces February 2027 Japan shows",
+   "artists": [
+    "Bon Jovi"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "LMusic-音楽ニュース-",
+    "山陽新聞"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-",
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-07T04:53:12+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "Bon Jovi、2027年2月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YSk1ISENUOTQxbXJqR1FlR3NJUGxrZTdJa09CeDVjaW1OVjhGbHFlSFJwU29nNnNJVnBkNl9VdXh0QjdFbjFj?oc=5",
+     "published": "2026-11-07T04:53:12+00:00",
+     "summary": "Bon Jovi、2027年2月に来日公演が決定 LMusic-音楽ニュース-"
+    },
+    {
+     "outlet": "山陽新聞",
+     "title": "ボン・ジョヴィ、9年ぶり来日公演決定 声帯手術から奇跡の復活、来年2月に東京ドーム2Days",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWW9hSnJxXy10MVV1UjNWakV2dmFlVEF2cjJoZ3pzU29fZUgxcmctZ2NycV9lSk9DNmFub2VOZTVfUjFSUzBpOW91TG9LS19IMUhYaUdLRS1OVENZTzQyVFJuZ0NUbmhrcHNoT093NlNJeE1ISnVUaGxUeVFYdUU5OGZ3?oc=5",
+     "published": "2026-11-06T15:09:39+00:00",
+     "summary": "ボン・ジョヴィ、9年ぶり来日公演決定 声帯手術から奇跡の復活、来年2月に東京ドーム2Days 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "SEAL announces Japan tour",
+   "artists": [
+    "SEAL"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "indienative"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "indienative"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-07T05:39:43+00:00",
+   "articles": [
+    {
+     "outlet": "indienative",
+     "title": "SEAL 来日公演",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iU1B2SW9PeFJwWDRiRjRlaFZjM1dZdzVsNXR0SFZOYmljSnVrMGRtbmNzb1pGWThSVFlwQ0N0ZWxBVS1BcWlITVpzRFFKcXpv?oc=5",
+     "published": "2026-11-07T05:39:43+00:00",
+     "summary": "SEAL 来日公演 indienative"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s46",
+   "label": "Martin Garrix announces 10-city India tour for March 2027",
+   "artists": [
+    "Martin Garrix"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Your EDM"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": true,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-06T09:39:05+00:00",
+   "articles": [
+    {
+     "outlet": "Your EDM",
+     "title": "Martin Garrix Announces 10-City India Tour for March 2027",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTlmUkcyeXQ2SFdWN2ZxREFLN0kzMkQ5eUI3SDByY1pheUticktiQV9jamtQMk1BOXBsX1pDRUx2LUpBb3hja0c1UXZ2SGM0YklvZ2NtMTk0LUJGMXN2NU9iQ2xzUlo1d2luTldzclFsUEQ5ZWxGUjNTcDQtWEJWM2xVZEJXU1pta2VyX2t6RGVnV3BGYTNoTg?oc=5",
+     "published": "2026-11-06T09:39:05+00:00",
+     "summary": "Martin Garrix Announces 10-City India Tour for March 2027 Your EDM"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s65",
+   "label": "HYUKOH announces one-time Tokyo concert",
+   "artists": [
+    "HYUKOH"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "NiEW"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "NiEW"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-06T05:08:00+00:00",
+   "articles": [
+    {
+     "outlet": "NiEW",
+     "title": "韓国の4人組バンドHYUKOHによる一夜限りの東京公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OSlJncktjREJiVjdEZEVtcTV5NlYxOTFlVXR0dnRaUU9vbXEyTXBXN2hmTzFnSXNEX0E1UnRuWkFnRzJHWUx5T1BHNjZ6dm8?oc=5",
+     "published": "2026-11-06T05:08:00+00:00",
+     "summary": "韓国の4人組バンドHYUKOHによる一夜限りの東京公演が決定 NiEW"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s58",
+   "label": "Lost John Coltrane Tiberi Tapes recordings released",
+   "artists": [
+    "John Coltrane"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Consequence"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-06T17:26:51+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Lost John Coltrane Recordings The Tiberi Tapes Released for First Time Ever",
+     "link": "https://consequence.net/2026/11/john-coltrane-tiberi-tapes-announced/",
+     "published": "2026-11-06T17:26:51+00:00",
+     "summary": "The collection, stowed away for 65 years, will come out in 4xLP, 3xCD, and digital editions, as well as a more than 100-performance, 26-hour special edition. Lost John Coltrane Recordings The Tiberi Tapes Released for First Time Ever Travis"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Fiona Apple and Bolt Cutters cover Mother Earth's 'Revolution'",
+   "artists": [
+    "Fiona Apple",
+    "Bolt Cutters"
+   ],
+   "genre": "Other",
+   "kind": "collab",
+   "talk": 1,
+   "outlets": [
+    "Consequence",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-06T21:45:07+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Hear Fiona Apple and the Bolt Cutters Cover Mother Earth’s ‘Revolution’",
+     "link": "https://www.rollingstone.com/music/music-news/fiona-apple-the-bolt-cutters-cover-mother-earth-revolution-1235654198/",
+     "published": "2026-11-06T21:45:07+00:00",
+     "summary": "Song was culled for Right Now album benefitting Doctors Without Borders"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Fiona Apple Releases New Cover of Mother Earth’s “Revolution”: Steam",
+     "link": "https://consequence.net/2026/11/fiona-apple-new-cover-mother-earth-revolution/",
+     "published": "2026-11-06T21:35:12+00:00",
+     "summary": "To celebrate the results of Tuesday's midterms. Fiona Apple Releases New Cover of Mother Earth’s “Revolution”: Steam Alex Young"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s33",
+   "label": "Vince Neil's girlfriend arrested for domestic assault",
+   "artists": [
+    "Vince Neil"
+   ],
+   "genre": "Other",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-06T17:14:41+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Vince Neil’s Girlfriend Arrested for Alleged Attack on the Mötley Crüe Singer",
+     "link": "https://consequence.net/2026/11/vince-neil-girlfriend-arrested-attack-motley-crue-singer/",
+     "published": "2026-11-06T17:14:41+00:00",
+     "summary": "Rain Hannah was jailed for misdemeanor domestic assault. Vince Neil’s Girlfriend Arrested for Alleged Attack on the Mötley Crüe Singer Spencer Kaufman"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "モトリー・クルーのヴィンス・ニール、交際相手が家庭内暴力で逮捕されることに",
+     "link": "https://nme-jp.com/news/174110/",
+     "published": "2026-11-06T11:30:24+00:00",
+     "summary": "モトリー・クルーのフロントマンであるヴィンス・ニールの恋人であるレイン・ハンナ・アンドレアーニが家庭内暴力の容疑で逮捕されている。"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s26",
+   "label": "Jamiroquai announces 2027 European tour with O2 shows",
+   "artists": [
+    "Jamiroquai"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag",
+    "NME"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-06T15:28:01+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "Jamiroquai announce three London O2 Arena shows for summer 2027",
+     "link": "https://djmag.com/news/jamiroquai-announce-three-london-o2-arena-shows-summer-2027",
+     "published": "2026-11-06T15:28:01+00:00",
+     "summary": "Jay Kay and co. will take over the London venue next July"
+    },
+    {
+     "outlet": "NME",
+     "title": "Jamiroquai announce 2027 European arena tour including three nights at The O2",
+     "link": "https://www.nme.com/news/music/jamiroquai-announce-2027-uk-european-arena-tour-london-o2-buy-tickets-3975198?utm_source=rss&utm_medium=rss&utm_campaign=jamiroquai-announce-2027-uk-european-arena-tour-london-o2-buy-tickets",
+     "published": "2026-11-06T10:24:39+00:00",
+     "summary": "Jay Kay and co's first album in 10 years is incoming The post Jamiroquai announce 2027 European arena tour including three nights at The O2 appeared first on NME ."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s38",
+   "label": "Star's Revenge releases new album with Emily Green",
+   "artists": [
+    "Star's Revenge"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "NME",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-06T13:04:21+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Geese’s Emily Green and Sunflower Bean’s Olive Faber return as Star’s Revenge with new album and breezy single ‘Don’t Worry Dynamite’",
+     "link": "https://www.nme.com/news/music/geeses-emily-green-and-sunflower-beans-olive-faber-return-as-stars-revenge-new-single-announce-album-listen-3975261?utm_source=rss&utm_medium=rss&utm_campaign=geeses-emily-green-and-sunflower-beans-olive-faber-return-as-stars-revenge-new-single-announce-album-listen",
+     "published": "2026-11-06T13:04:21+00:00",
+     "summary": "'Star's Revenge II', an \"intensely loud record for quiet people\", arrives later this month The post Geese’s Emily Green and Sunflower Bean’s Olive Faber return as Star’s Revenge with new album and breezy single ‘Don’t Worry Dynamite’ appear"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ギースのエミリー・グリーンらによるスターズ・リヴェンジ、新作のリリースを発表",
+     "link": "https://nme-jp.com/news/174104/",
+     "published": "2026-11-06T10:00:16+00:00",
+     "summary": "ギースのギタリストであるエミリー・グリーンとサンフラワー・ビーンのオリーヴ・フェイバーによるスターズ・リヴェンジはセカンド・アルバム『スターズ・リヴェンジ II』を11月27日にリリースすることを発表している。"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s53",
+   "label": "The Weeknd completes After Hours Til Dawn Stadium Tour",
+   "artists": [
+    "The Weeknd"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "エンタメOVO"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "エンタメOVO"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-06T05:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "ザ・ウィークエンド、【After Hours Til Dawn Stadium Tour】全176公演完走",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuek44THlJQWVwSjh6YjdPR0djX2dFZ1lnLURFdGxzcU9QVmJCYjNrZVhNMHBJdWNYcUJGRk9qTzRmd05Tc1ZrWlZaVXYzRUpleEJtZVBRZFV6dkRLWm1hRm9R?oc=5",
+     "published": "2026-11-06T05:00:00+00:00",
+     "summary": "ザ・ウィークエンド、【After Hours Til Dawn Stadium Tour】全176公演完走 Billboard JAPAN"
+    },
+    {
+     "outlet": "エンタメOVO",
+     "title": "ザ・ウィークエンド、【After Hours Til Dawn Stadium Tour】全176公演完走",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44UnFwTmxKdGFGeDh1dUxoZTdodEdYT3A0U0ZIckdMUVdzNWxlbVBENmRvSnR4dkp2ekN3N1VRb1d6Q0RkQ29JU1lYT2tsbW9yQUVjZ1BEa0hkWE9IcWNz?oc=5",
+     "published": "2026-11-06T05:00:00+00:00",
+     "summary": "ザ・ウィークエンド、【After Hours Til Dawn Stadium Tour】全176公演完走 エンタメOVO"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 3
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 11
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 23
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 7
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 6,
+   "kept": 2
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 93,
+   "kept": 9
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 7
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 29,
+   "kept": 6
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 11
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 17
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 5
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 18
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 32,
+   "kept": 7
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 21,
+   "kept": 11
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 7
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 23
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 18,
+   "kept": 3
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 24,
+   "kept": 6
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 1,
+   "kept": 1
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 19,
+   "kept": 1
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 22,
+   "kept": 9
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 15,
+   "kept": 1
+  }
+ ],
+ "cost": {
+  "usd": 0.267,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 18917,
+    "output_tokens": 7400
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 15777,
+    "output_tokens": 7399
+   }
+  ]
+ }
+}
