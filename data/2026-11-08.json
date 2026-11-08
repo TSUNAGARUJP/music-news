@@ -1,0 +1,1724 @@
+{
+ "date": "2026-11-08",
+ "generated_at": "2026-11-08T09:17:18.311446+00:00",
+ "article_count": 169,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日はAI音楽のSunoをEminemの出版社とElvisの権利者が訴えた話題が、議論の中心です。Hip-Hopでは、Lil Babyの新作の評価、Dr. Dreの休養宣言、Chris BrownとUsherの関係など、アーティストの発言や本人どうしの関係をめぐる話題が目立ちます。",
+  "top": [
+   {
+    "id": "s29",
+    "title_ja": "Eminem出版社とElvis権利者、AI音楽のSunoを提訴",
+    "genre": "POP",
+    "summary_ja": "Eminemの楽曲出版社とElvis Presleyの音楽権利者が、AI音楽生成サービスSunoに対して、連邦裁判所に新たな訴訟を起こしたと報じられている。Eminem側は4100万ドルを求めているとされる。Elvis側はAIによる声のクローンで「Elvisのアイデンティティが盗まれた」と主張している。",
+    "why_ja": "Billboard・Variety・AllHipHopの3媒体が報じた。AIと著作権、そして本人の同意の問題が、大物アーティストの名前で一気に表に出たため注目されている。",
+    "debate_ja": "AIで伝説の声を再現するのは新しい表現？それとも盗用？",
+    "line_point": "Eminem出版社が4100万ドルを要求、Elvis側も声のクローンを問題視してSunoを提訴と報道",
+    "reels": [
+     {
+      "hook": "AIが作ったElvisの声、あなたはアリ？",
+      "angle": "提訴の事実→声や作風を無断で学習・再現してよいかという論点→自分の見解→コメントで賛否を募る"
+     },
+     {
+      "hook": "次のElvisはギターを持たない？",
+      "angle": "記事見出しのこの言葉を入り口に、4100万ドルという要求額と、Spotifyなど最近のAIと音楽の動きを並べて解説"
+     }
+    ]
+   },
+   {
+    "id": "s18",
+    "title_ja": "Lil Baby新作『FRESH』初日再生が伸び悩み　本人は批判に反論",
+    "genre": "Hip-Hop",
+    "summary_ja": "Lil Babyの新作『FRESH』は、Spotifyでの初日の再生数が過去作に届いていないと報じられている。一方で、アルバムを気に入っているファンも多いとされる。本人は、ファンの批判的なレビューに言い返したと伝えられている。",
+    "why_ja": "GBのYouTube音楽チャートで「Mr. Do Something」が18位に入っている。それでも再生数と評価の差について、HotNewHipHopが複数の記事で取り上げている。",
+    "debate_ja": "再生数が落ちたら「落ち目」なのか？あなたはどう思う？",
+    "line_point": "Lil Baby新作『FRESH』は初日再生が過去作を下回ると報道、本人は批判的なレビューに反論",
+    "reels": [
+     {
+      "hook": "再生数が落ちたら終わり？これ違うと思う",
+      "angle": "初日再生の伸び悩みと本人の反論→数字と作品の評価は別物かという論点→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "『FRESH』、数字と評価がズレてる理由",
+      "angle": "初日再生が過去作に届かないという報道と、好評の声やチャート入りを並べ、数字の読み方を解説"
+     }
+    ]
+   },
+   {
+    "id": "s3",
+    "title_ja": "Dr. Dre、41年のスタジオ生活を経て1〜2年オフグリッドへ",
+    "genre": "Hip-Hop",
+    "summary_ja": "Dr. Dreが、41年間スタジオで活動してきた後、1〜2年ほどoff the grid（表舞台から離れる）と語ったとComplexが報じた。同じ時期にIce Cubeは、N.W.Aの再結成はDr. Dre次第で「彼がやらないなら、俺たちもやらない」と話している。",
+    "why_ja": "Complexが報じた。同じ時期に、N.W.Aの伝記映画や20代での決断について語るDr. Dre関連のインタビューも複数出ているため、注目が集まっている。",
+    "debate_ja": "Dr. Dreの休養で、N.W.A再結成は遠のく？",
+    "line_point": "Dr. Dreが41年のスタジオ生活の後、1〜2年表舞台から離れると発言。N.W.A再結成にも影響か",
+    "reels": [
+     {
+      "hook": "Dr. Dreの休養、正直どう受け止める？",
+      "angle": "休養発言の事実→N.W.A再結成はどうなるかという論点→自分の見解→コメントで再結成を望むか募る"
+     },
+     {
+      "hook": "41年走り続けたDr. Dreの歩み",
+      "angle": "同時期の発言（伝記映画の苦労、20代の決断に縛られたくない）をつなげ、休養の背景を考察"
+     }
+    ]
+   },
+   {
+    "id": "s31",
+    "title_ja": "Chris BrownとUsherは不仲？Joe Budden「健全な競争」",
+    "genre": "Hip-Hop",
+    "summary_ja": "Chris BrownとUsherが口論したという噂について、The Joe Budden Podcastで議論があった。Joe Buddenは、確執ではなく健全な競争だという見方を示した。また2人は不仲が噂された後、アトランタでの2回目の公演でステージを共にしたとComplexが報じている。",
+    "why_ja": "HotNewHipHopとComplexがそれぞれ報じ、R&Bを代表する2人の関係に注目が集まっている。",
+    "debate_ja": "2人は確執中？それとも健全なライバル？あなたはどっち派？",
+    "line_point": "Chris BrownとUsherの不仲説、Joe Buddenは健全な競争と見る。2人はアトランタで再び共演",
+    "reels": [
+     {
+      "hook": "Chris BrownとUsher、本当に不仲？",
+      "angle": "噂とポッドキャストでの議論→同じステージに立った事実→確執かライバルかという論点→自分の見解→コメントで募る"
+     },
+     {
+      "hook": "ライバルが同じステージに立つ意味",
+      "angle": "アトランタでの共演を軸に、競い合うことで盛り上がるR&Bの関係性という視点で、2人の関係を読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s19",
+    "title_ja": "Drake「Janice STFU」は『ICEMAN』公開3日前に制作と告白",
+    "genre": "Hip-Hop",
+    "summary_ja": "Drakeが、アルバム『ICEMAN』でいちばんのヒットになった「Janice STFU」を、アルバム公開の3日前に作ったと明かしたとHotNewHipHopが報じた。多くの人にとって意外な告白とされている。",
+    "why_ja": "アルバム最大のヒット曲が公開直前に生まれていたという意外な裏話で、HotNewHipHopが報じた。",
+    "debate_ja": "ヒット曲は時間をかけるより勢いで生まれる？",
+    "line_point": "Drakeが『ICEMAN』最大のヒット「Janice STFU」をアルバム公開の3日前に作ったと告白",
+    "reels": [
+     {
+      "hook": "最大のヒットが公開3日前に誕生？",
+      "angle": "告白の事実→名曲は勢いか、作り込みかという論点→自分の見解→コメントで好きな曲の生まれ方の考えを募る"
+     },
+     {
+      "hook": "ギリギリで生まれた曲が一番売れる理由",
+      "angle": "アルバム制作の締め切り直前に作られた曲が代表曲になった意外さを軸に、制作の裏側を考察"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s25",
+     "title_ja": "Osmosis Jones、Gorgon CityのREALMから新曲",
+     "note": "豪州のプロデューサーがREALMに参加し、UKガラージの新曲を公開"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s44",
+     "title_ja": "Alanis Morissette、パンセクシュアルと公表",
+     "note": "Alanis Morissetteが自身をパンセクシュアルだと明かしたと報道"
+    },
+    {
+     "id": "s12",
+     "title_ja": "Young Miko、Brooklyn公演にRauw Alejandro",
+     "note": "完売のBrooklyn公演でRauw Alejandroと「Aquel Diciembre」を披露"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s21",
+     "title_ja": "Dr. Dre、史上最高のHip-Hopプロデューサーを指名",
+     "note": "Dr. Dreが史上最高のプロデューサーを挙げ、その答えが意外と話題"
+    },
+    {
+     "id": "s5",
+     "title_ja": "Ice Cube「N.W.A再結成はDr. Dre次第」",
+     "note": "Ice Cubeが「彼がやらないなら、俺たちもやらない」と語った"
+    }
+   ],
+   "Other": []
+  },
+  "japan_tours": [
+   {
+    "id": "s41",
+    "title_ja": "SUPERCHUNK、2027年4月に3年ぶりの来日ツアー決定",
+    "note": "結成38年目の来日ツアー。Mac McCaughanからのメッセージも到着"
+   },
+   {
+    "id": "s45",
+    "title_ja": "Louis The Child、来日を前に新曲をリリース",
+    "note": "ルーツのエレクトロハウスの要素を取り入れた新曲を来日直前に公開"
+   }
+  ],
+  "tour_candidates": 4
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s29",
+   "label": "Eminem publisher and Elvis owners sue Suno AI music generator",
+   "artists": [
+    "Eminem",
+    "Elvis Presley"
+   ],
+   "genre": "POP",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop",
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-11-07T23:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Eminem Publisher Demands $41 Million From Suno Over Alleged AI Copying",
+     "link": "https://allhiphop.com/news/eminem-publisher-demands-41-million-from-suno-over-alleged-ai-copying/",
+     "published": "2026-11-07T23:30:00+00:00",
+     "summary": "Eminem’s publishing dispute bring consent into focus and Elvis Presley representatives challenge synthetic performances."
+    },
+    {
+     "outlet": "Variety",
+     "title": "Elvis Music Owners, Eminem Publisher File Sprawling New Lawsuits Against AI Music Generator Suno: ‘The Next Elvis Won’t Pick Up a Guitar’",
+     "link": "https://variety.com/2026/music/news/elvis-eminem-sue-suno-ai-music-generator-1236941798/",
+     "published": "2026-11-07T16:15:26+00:00",
+     "summary": "A collection of Elvis Presley music rightsholders and the publisher of many of Eminem’s records have filed sprawling new federal lawsuits against the AI music generator Suno, with each party making separate allegations that add to the AI co"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Elvis Presley Rights Owners Sue Suno Over AI Voice Cloning: ‘Elvis’ Identity Was Stolen’",
+     "link": "https://www.billboard.com/pro/elvis-presley-ai-voice-cloning-lawsuit-suno/",
+     "published": "2026-11-07T15:38:11+00:00",
+     "summary": "The singer's legendary voice is at the center of a cutting-edge lawsuit that aims to hold the AI firm legally liable for allowing users to create knockoff vocals."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Richard Lloyd, Television guitarist, dies at 75",
+   "artists": [
+    "Richard Lloyd",
+    "Television"
+   ],
+   "genre": "Other",
+   "kind": "death",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Consequence",
+    "NME",
+    "Pitchfork",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 6,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 6,
+   "score": 6,
+   "latest": "2026-11-08T08:36:27+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Tributes paid after death of Television guitarist Richard Lloyd: “A seeker and finder and a true inspiration”",
+     "link": "https://www.nme.com/news/music/tributes-paid-after-death-of-television-guitarist-richard-lloyd-a-seeker-and-finder-and-a-true-inspiration-3975375?utm_source=rss&utm_medium=rss&utm_campaign=tributes-paid-after-death-of-television-guitarist-richard-lloyd-a-seeker-and-finder-and-a-true-inspiration",
+     "published": "2026-11-08T08:36:27+00:00",
+     "summary": "Johnny Marr and Lloyd Cole are among those remembering the influential musician, who has died aged 75 The post Tributes paid after death of Television guitarist Richard Lloyd: “A seeker and finder and a true inspiration” appeared first on N"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Richard Lloyd, Television Guitarist, Dies at 75",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLUZ0dHByZnIwVW1uRWZyYlh6WHVWdFc5UHZFRzQxamdIWlM2SHpVVTZrbjRRXzktT1p0a1hFbS1fbksyOC1nZkduQXprZ19yVzBoTFZfb3NNcGx0VV9xYkNhR0FwZnJqRnA5Tk5BdUF5TF9Odjk2Q2YwZ0M5SEg1bFdmSFE3UGxKaGRaRHhhOEhWUnM5LVVXSUJ6VE9pWGZrWEhGTEl4QnYxYWpLS1E?oc=5",
+     "published": "2026-11-07T19:09:29+00:00",
+     "summary": "Richard Lloyd, Television Guitarist, Dies at 75 Billboard"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Richard Lloyd, Television’s Fiery and Fluent Guitarist, Dies at 75",
+     "link": "https://variety.com/2026/music/news/richard-lloyd-dead-television-guitarist-1236942055/",
+     "published": "2026-11-07T18:06:47+00:00",
+     "summary": "Richard Lloyd, whose fluent and fiery guitar work was a vital element in the influential 1970s-era New York City band Television, died on Saturday at his home in Chattanooga, Tenn., according to the New York Times. The cause of death was bi"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Richard Lloyd, Television Guitarist, Dies at 75",
+     "link": "https://pitchfork.com/story/richard-lloyd-television-guitarist-dies-at-75/",
+     "published": "2026-11-07T17:11:52+00:00",
+     "summary": "Lloyd co-founded the pioneering rock band alongside Tom Verlaine, Billy Ficca, and Richard Hell"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Richard Lloyd, Television Guitarist, Dead at 75",
+     "link": "https://consequence.net/2026/11/richard-lloyd-television-dead/",
+     "published": "2026-11-07T16:39:09+00:00",
+     "summary": "He helped build the foundation for post-punk and was a critically acclaimed solo artist. Richard Lloyd, Television Guitarist, Dead at 75 Travis Bland"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Richard Lloyd, Television’s Virtuoso Guitarist, Dead at 75",
+     "link": "https://www.rollingstone.com/music/music-news/richard-lloyd-television-guitarist-dead-obituary-1235614110/",
+     "published": "2026-11-07T16:28:15+00:00",
+     "summary": "Guitarist, who was diagnosed with bile duct cancer in March, died Saturday from cholangiocarcinoma, his family announced"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Dr. Dre says he's going 'off the grid' for a year or two",
+   "artists": [
+    "Dr. Dre"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T07:52:30+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Dr. Dre Says He’s Going ‘Off the Grid’ for a Year or Two After 41 Years in the Studio",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTVvYzdMeWYzdVNhTkV4azNlTS1oZHRYd3pveEJRWkdBakFhV0owMUs2dVFMZVYxM1NodzVZX242ZnRUcERtdXZHOUFVckJHQU1YUUFUSDRRS2tRTUNyUFFMdm1vdnh3cFUyUkoxYzRVV0JIZEhhanluWlh6Y29qdGVUN3psZWFsTzNz?oc=5",
+     "published": "2026-11-08T07:52:30+00:00",
+     "summary": "Dr. Dre Says He’s Going ‘Off the Grid’ for a Year or Two After 41 Years in the Studio Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Ice Cube says N.W.A reunion depends on Dr. Dre",
+   "artists": [
+    "Ice Cube",
+    "Dr. Dre",
+    "N.W.A"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T07:10:59+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Ice Cube Says N.W.A Reunion Depends on Dr. Dre: ‘If He Don’t, We Don’t’",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SQUdmTDV6T256QmIzeTVhdEhQZFprZ2t6SzNWbk5LVzJWREEwcVZCUUNZV1VPSWRNYS14QU1yLVVKaFkwMWhrcTd0b2xhM2RKLWlicDZqLVhiYkxEN3RSbllqRnE3Ykgxb2oyTHJCcmV1MFJDMFh2QVFJVQ?oc=5",
+     "published": "2026-11-08T07:10:59+00:00",
+     "summary": "Ice Cube Says N.W.A Reunion Depends on Dr. Dre: ‘If He Don’t, We Don’t’ Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Vince Staples explains why he avoids other music while writing",
+   "artists": [
+    "Vince Staples"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T06:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Vince Staples Explains Why He Avoids Other Music While Writing",
+     "link": "https://allhiphop.com/news/vince-staples-explains-why-he-avoids-other-music-while-writing/",
+     "published": "2026-11-08T06:00:00+00:00",
+     "summary": "Vince Staples explained why he avoided other artists' music while writing and how daily life shaped the work he made."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s46",
+   "label": "Down Richard calls Diddy-Dirty Money work environment 'volatile'",
+   "artists": [
+    "Down Richard",
+    "Diddy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T04:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Dawn Richard Calls Diddy-Dirty Money Work Environment “Volatile”",
+     "link": "https://allhiphop.com/news/dawn-richard-diddy-dirty-money-volatile-work-environment/",
+     "published": "2026-11-08T04:02:00+00:00",
+     "summary": "Dawn Richard says control inside Diddy-Dirty Money created a volatile workplace while she was expected to stay grateful."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Lil Baby and Gunna keep dispute private for Atlanta's sake",
+   "artists": [
+    "Lil Baby",
+    "Gunna"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T03:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Lil Baby Says Gunna Dispute Will Stay Private For Atlanta’s Sake",
+     "link": "https://allhiphop.com/news/lil-baby-gunna-dispute-private-atlanta/",
+     "published": "2026-11-08T03:02:00+00:00",
+     "summary": "Lil Baby said he and Gunna can keep their dispute off the internet while protecting Atlanta's standing in rap together."
+    }
+   ],
+   "chart": [
+    {
+     "id": "sXsY9gj5zXk",
+     "title": "Top Uh It",
+     "channel": "Lil Baby - Topic",
+     "published": "2026-11-06T05:03:57Z",
+     "hours_since": 52,
+     "views": 659779,
+     "url": "https://www.youtube.com/watch?v=sXsY9gj5zXk",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "3EeJub4m1-E",
+     "title": "Lil Baby - Mr. Do Something",
+     "channel": "LilBabyVEVO",
+     "published": "2026-11-06T05:00:37Z",
+     "hours_since": 52,
+     "views": 1164378,
+     "url": "https://www.youtube.com/watch?v=3EeJub4m1-E",
+     "region": "GB",
+     "rank": 18
+    }
+   ],
+   "video": {
+    "id": "sXsY9gj5zXk",
+    "title": "Top Uh It",
+    "channel": "Lil Baby - Topic",
+    "published": "2026-11-06T05:03:57Z",
+    "hours_since": 52,
+    "views": 659779,
+    "url": "https://www.youtube.com/watch?v=sXsY9gj5zXk",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s44",
+   "label": "Alanis Morissette shares she identifies as pansexual",
+   "artists": [
+    "Alanis Morissette"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T02:02:56+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Alanis Morissette Shares She Identifies as Pansexual",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeU1TbnVyU3lhb21DSVRJWmc2aGQydHdCamFic0VlNDl6bVVxOFJKT0thV0xEOExmc2lrdDZHSTBfeENjTEdseTkyRDgwY2ZMcDhMbkJTUHNPajNlQkt1QnU2eGp5NVB5RXdteHVpcF9NZXQ3Wk8tRldGSXlRNFpEanc4b053dw?oc=5",
+     "published": "2026-11-08T02:02:56+00:00",
+     "summary": "Alanis Morissette Shares She Identifies as Pansexual Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "Mia X credits Birdman with securing big Verzuz payment",
+   "artists": [
+    "Mia X",
+    "Birdman"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T00:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Mia X Credits Birdman With Securing A “Big Bag” For Verzuz Appearance",
+     "link": "https://allhiphop.com/news/mia-x-birdman-verzuz-pay/",
+     "published": "2026-11-08T00:02:00+00:00",
+     "summary": "Mia X credited Birdman with making sure she was paid for Verzuz and described her decades-long friendship with Slim."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Lil Baby's 'FRESH' album earns meager first day Spotify streams",
+   "artists": [
+    "Lil Baby"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "chart",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T22:50:40+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Lil Baby Earns Meager First Day Spotify Streams For New Album “FRESH”",
+     "link": "https://www.hotnewhiphop.com/1016119-lil-baby-first-day-spotify-streams-new-album-fresh",
+     "published": "2026-11-07T22:50:40+00:00",
+     "summary": "While many Lil Baby fans are happy with the new album \"FRESH,\" its commercial performance isn't stacking up to previous releases. The post Lil Baby Earns Meager First Day Spotify Streams For New Album “FRESH” appeared first on HotNewHipHop "
+    }
+   ],
+   "chart": [
+    {
+     "id": "sXsY9gj5zXk",
+     "title": "Top Uh It",
+     "channel": "Lil Baby - Topic",
+     "published": "2026-11-06T05:03:57Z",
+     "hours_since": 52,
+     "views": 659779,
+     "url": "https://www.youtube.com/watch?v=sXsY9gj5zXk",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "3EeJub4m1-E",
+     "title": "Lil Baby - Mr. Do Something",
+     "channel": "LilBabyVEVO",
+     "published": "2026-11-06T05:00:37Z",
+     "hours_since": 52,
+     "views": 1164378,
+     "url": "https://www.youtube.com/watch?v=3EeJub4m1-E",
+     "region": "GB",
+     "rank": 18
+    }
+   ],
+   "video": {
+    "id": "sXsY9gj5zXk",
+    "title": "Top Uh It",
+    "channel": "Lil Baby - Topic",
+    "published": "2026-11-06T05:03:57Z",
+    "hours_since": 52,
+    "views": 659779,
+    "url": "https://www.youtube.com/watch?v=sXsY9gj5zXk",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Drake reveals he made 'Janice STFU' three days before ICEMAN",
+   "artists": [
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T22:22:56+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Drake Reveals He Made “Janice STFU” Three Days Before “ICEMAN” Dropped",
+     "link": "https://www.hotnewhiphop.com/1016115-drake-made-janice-stfu-three-days-before-iceman-dropped",
+     "published": "2026-11-07T22:22:56+00:00",
+     "summary": "\"Janice STFU\" became the biggest hit from Drake's \"ICEMAN\" album, so this revelation may take many by surprise. The post Drake Reveals He Made “Janice STFU” Three Days Before “ICEMAN” Dropped appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Dr. Dre and Ice Cube discuss challenges of N.W.A biopic",
+   "artists": [
+    "Dr. Dre",
+    "Ice Cube"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T21:50:25+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Dr. Dre and Ice Cube Talk About How 'Hard' It Was to Make N.W.A. Biopic",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHFQVVJDT3psUVZSSU5SX29HQ1ZHVFdaR05aYkN2a25IM2pBVTc3Q2NUTUJablZYYkFsaHFJV1lQbUtMem9KVFJZdGVtSzFZWGd6a2ZpTEVpSGpRU2VKOHdYQkhCTHhlMEtMUlNaeXlXVnFVYUh6dEpqRFg1d0lBMkhRbGhzc3A5c25ZM21iZzVOVXhqbWVpc2Jpa0RJd2VLWWhpc0hjVm16QVE4UTNUZ3pYV3c?oc=5",
+     "published": "2026-11-07T21:50:25+00:00",
+     "summary": "Dr. Dre and Ice Cube Talk About How 'Hard' It Was to Make N.W.A. Biopic Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Dr. Dre reveals his pick for greatest hip-hop producer ever",
+   "artists": [
+    "Dr. Dre"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T21:45:47+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Dr. Dre Reveals His Pick For The Greatest Hip-Hop Producer Ever",
+     "link": "https://www.hotnewhiphop.com/1016111-dr-dre-greatest-hip-hop-producer-ever-larry-smith",
+     "published": "2026-11-07T21:45:47+00:00",
+     "summary": "Many folks might assume Dr. Dre would name himself, as many others would pick Dre for this question. But his answer is much more interesting. The post Dr. Dre Reveals His Pick For The Greatest Hip-Hop Producer Ever appeared first on HotNewH"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s31",
+   "label": "Joe Budden debates Chris Brown and Usher beef status",
+   "artists": [
+    "Chris Brown",
+    "Usher",
+    "Joe Budden"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T20:31:14+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Joe Budden Isn’t Convinced Chris Brown & Usher Have Beef, Calls It “Healthy Competition”",
+     "link": "https://www.hotnewhiphop.com/1016103-joe-budden-isnt-convinced-chris-brown-usher-beef-competition",
+     "published": "2026-11-07T20:31:14+00:00",
+     "summary": "\"The Joe Budden Podcast\" debated over whether or not the rumors of an argument between Usher and Chris Brown suggest there's an ongoing feud. The post Joe Budden Isn’t Convinced Chris Brown & Usher Have Beef, Calls It “Healthy Competition” "
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "Lil Baby claps back at fan's critical album review",
+   "artists": [
+    "Lil Baby"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T20:00:21+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Lil Baby Claps Back At A Fan’s Critical Review Of New Album “FRESH”",
+     "link": "https://www.hotnewhiphop.com/1016099-lil-baby-claps-back-fan-critical-review-new-album-fresh",
+     "published": "2026-11-07T20:00:21+00:00",
+     "summary": "Lil Baby is tired of the \"washed\" allegations, and despite many fans loving his new album \"FRESH,\" he still feels attacked by haters. The post Lil Baby Claps Back At A Fan’s Critical Review Of New Album “FRESH” appeared first on HotNewHipHo"
+    }
+   ],
+   "chart": [
+    {
+     "id": "sXsY9gj5zXk",
+     "title": "Top Uh It",
+     "channel": "Lil Baby - Topic",
+     "published": "2026-11-06T05:03:57Z",
+     "hours_since": 52,
+     "views": 659779,
+     "url": "https://www.youtube.com/watch?v=sXsY9gj5zXk",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "3EeJub4m1-E",
+     "title": "Lil Baby - Mr. Do Something",
+     "channel": "LilBabyVEVO",
+     "published": "2026-11-06T05:00:37Z",
+     "hours_since": 52,
+     "views": 1164378,
+     "url": "https://www.youtube.com/watch?v=3EeJub4m1-E",
+     "region": "GB",
+     "rank": 18
+    }
+   ],
+   "video": {
+    "id": "sXsY9gj5zXk",
+    "title": "Top Uh It",
+    "channel": "Lil Baby - Topic",
+    "published": "2026-11-06T05:03:57Z",
+    "hours_since": 52,
+    "views": 659779,
+    "url": "https://www.youtube.com/watch?v=sXsY9gj5zXk",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Chris Brown and Usher share stage for second Atlanta concert",
+   "artists": [
+    "Chris Brown",
+    "Usher"
+   ],
+   "genre": "POP",
+   "kind": "collab",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T18:58:51+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Chris Brown and Usher Share the Stage for Second Atlanta Concert After Alleged Feud",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQzlsMklGQTNWMDNPOFpremNuZFlqX29BT2FpbXFtelpJRmJ0c2JWU1R0dU9LVk8wNmxvQ2JYenphRENEZlVJaGZaamhfNnJiVlZCdU1jUXF5aGFkVlRYeDBWc2V6MkhCOXllQU1QZzVTUlcwNE4xYnRWV2tnTHRkcnlBYTBNYXNQQmFaY0d3Mk4zNGFsSzVSenk1RERmNUot?oc=5",
+     "published": "2026-11-07T18:58:51+00:00",
+     "summary": "Chris Brown and Usher Share the Stage for Second Atlanta Concert After Alleged Feud Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "Dr. Dre on working to transcend decisions from his twenties",
+   "artists": [
+    "Dr. Dre"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T16:55:06+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Dr. Dre Says He's 'Working Really Hard' to Not Let Decisions From His Twenties Define Him",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEpmcnV2S19OWW0welM5QjlvaXE4VUhtTlE5UU9YWFY2SXFVRjR2aWRVdC1HUjcwb1kzaDU0R0tOc3RjeGtBMEtMOWhPOS1NZkZpNWIwQVM5b3paT3REdEJXcXB2OWVXU0Q0MU1DNWNPTDFFZlUzYkp0MHoxcjFUZ25TdHR5bjg5TEVsYXpOVQ?oc=5",
+     "published": "2026-11-07T16:55:06+00:00",
+     "summary": "Dr. Dre Says He's 'Working Really Hard' to Not Let Decisions From His Twenties Define Him Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Vory releases 'Be Honest' single from 'EROS 3.0 FALLOUT'",
+   "artists": [
+    "Vory"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T09:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Be Honest – Song by Vory",
+     "link": "https://www.hotnewhiphop.com/1015993-be-honest-vory",
+     "published": "2026-11-08T09:00:00+00:00",
+     "summary": "Vory has just dropped off his atmospheric new track \"Be Honest,\" ahead of the release of his new album, \"EROS 3.0 FALLOUT.\" The post Be Honest – Song by Vory appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Tyler, The Creator's Camp Flog Gnaw streams free worldwide",
+   "artists": [
+    "Tyler, The Creator"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T07:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Tyler, The Creator’s Sold-Out Camp Flog Gnaw Streams Free Worldwide",
+     "link": "https://allhiphop.com/news/tyler-camp-flog-gnaw-free-global-stream/",
+     "published": "2026-11-08T07:02:00+00:00",
+     "summary": "Tyler, The Creator's sold-out Camp Flog Gnaw will stream free worldwide through Amazon Music, Prime Video and Twitch."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "Fetty Wap marries Alexis Hill in lavish New Jersey wedding",
+   "artists": [
+    "Fetty Wap"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T06:05:36+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Fetty Wap Marries Alexis Hill in Lavish New Jersey Wedding",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeV8wdGtMTFBEcWZuNWJHNkJxcUpBc1JTRk0yOGFBdWdJbWRPUlRUZHVsSkQ4SEQ0Tm9lS0VMTjRaVDhrOWF6R1d0QnZjdTkzeG5KUUEyWHdjbm1odmJHUjJKN1RJby1qSjY0ZXR2ZXFLTTZfOHV0dlVSMFB6Ty13UDFPcXczWlFBc0FzMw?oc=5",
+     "published": "2026-11-08T06:05:36+00:00",
+     "summary": "Fetty Wap Marries Alexis Hill in Lavish New Jersey Wedding Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Young Miko brings out Rauw Alejandro in Brooklyn",
+   "artists": [
+    "Young Miko",
+    "Rauw Alejandro"
+   ],
+   "genre": "POP",
+   "kind": "collab",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T05:20:50+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Young Miko Brings Out Rauw Alejandro at Sold-Out Brooklyn Tour Stop to Perform “Aquel Diciembre”",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZnh0VEd4V01raFd2LTR6a2I3TGwtb3VBa1RtVDBHMlFoNm9hZ3lNM1oyZV8tM1JLTkhmeElQcFY5THpFYXNtaFhSdkZrek41dTBRZ3VQMzRGSjV3YTYyYmZtNEhnc2JfZWVtMzF2ajdGUTRnQlVnaWQzRk5hRVlIOHdUcXkxQi1ZckxhLWNIcEVIVGJqVXZsVTJ3?oc=5",
+     "published": "2026-11-08T05:20:50+00:00",
+     "summary": "Young Miko Brings Out Rauw Alejandro at Sold-Out Brooklyn Tour Stop to Perform “Aquel Diciembre” Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "Stove God Cooks partners with Warner Records for 2027 album",
+   "artists": [
+    "Stove God Cooks"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T05:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Stove God Cooks Locks In Warner Records Partnership",
+     "link": "https://allhiphop.com/news/stove-god-cooks-warner-records-babygrande-partnership/",
+     "published": "2026-11-08T05:02:00+00:00",
+     "summary": "Stove God Cooks and Babygrande Records join Warner Records for an early-2027 album release backed by Swizz Beatz."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s32",
+   "label": "J. Cole's Dreamville launches Paris Saint-Germain collection",
+   "artists": [
+    "J. Cole"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T02:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "J. Cole’s Dreamville Launches Paris Saint-Germain Collection Online",
+     "link": "https://allhiphop.com/news/j-cole-dreamville-paris-saint-germain-collection/",
+     "published": "2026-11-08T02:02:00+00:00",
+     "summary": "J. Cole's Dreamville launches a Paris Saint-Germain collection with jerseys, hoodies, tees, hats and track pieces."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "Trap Music Museum opens new OutKast exhibit in Atlanta",
+   "artists": [
+    "OutKast"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-08T01:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Trap Music Museum Opens New OutKast Exhibit In Atlanta",
+     "link": "https://allhiphop.com/news/trap-music-museum-outkast-exhibit-atlanta/",
+     "published": "2026-11-08T01:02:00+00:00",
+     "summary": "Trap Music Museum is opening a new OutKast exhibit in Atlanta celebrating the duo's music, art, fashion and Southern Hip-Hop legacy."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s25",
+   "label": "Osmosis Jones joins Gorgon City's REALM with new UKG single",
+   "artists": [
+    "Osmosis Jones",
+    "Gorgon City"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-07T17:37:58+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Osmosis Jones Joins Gorgon City’s REALM Label With New UKG Single, ‘Rockin’ With The Best’",
+     "link": "https://edm.com/music-releases/osmosis-jones-rockin-with-the-best/",
+     "published": "2026-11-07T17:37:58+00:00",
+     "summary": "The swing of classic UK garage gets a fresh twist on the latest single from the Australian producer. The post Osmosis Jones Joins Gorgon City’s REALM Label With New UKG Single, ‘Rockin’ With The Best’ appeared first on EDM ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "SUPERCHUNK announces Japan tour April 2027",
+   "artists": [
+    "SUPERCHUNK"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Rooftop",
+    "Skream!"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Rooftop",
+    "Skream!"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-07T11:02:06+00:00",
+   "articles": [
+    {
+     "outlet": "Rooftop",
+     "title": "SUPERCHUNKが結成38年目を迎える2027年4月に3年ぶりとなる来日ツアーを開催",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VYVR4VjVFanZsbVB0ZUQ1RlF1WkhkMXpDODhxX2NQX2ZFb3NTMXI2bllpNmJZRnplclBlc1NtX294VE5qWWMxWTJLY3ZNOEpLWU50NWk4NE5neTNOTXc?oc=5",
+     "published": "2026-11-07T11:02:06+00:00",
+     "summary": "SUPERCHUNKが結成38年目を迎える2027年4月に3年ぶりとなる来日ツアーを開催 Rooftop"
+    },
+    {
+     "outlet": "Skream!",
+     "title": "USインディー・シーン代表するレジェンド・バンド SUPERCHUNK、来年4月に3年ぶりとなる来日ツアー開催決定。Mac McCaughan（Gt/Vo）よりメッセージ到着",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zcW1Gc3JDTkh6bThmc0lacG9zMDFtbVRHU2lHMnU0VU9FSDZLRktUSEJlcU43b002MzBVR2UycVRXb3kzYU9QRHBmeWlTYjVDLVJudFM4SnJzVE9oQWdta3BHNWRnZw?oc=5",
+     "published": "2026-11-07T11:00:00+00:00",
+     "summary": "USインディー・シーン代表するレジェンド・バンド SUPERCHUNK、来年4月に3年ぶりとなる来日ツアー開催決定。Mac McCaughan（Gt/Vo）よりメッセージ到着 Skream!"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Jeff Bernat returns to Japan for Luv Language Tour 2027",
+   "artists": [
+    "Jeff Bernat"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "千葉日報オンライン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "千葉日報オンライン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-08T06:36:38+00:00",
+   "articles": [
+    {
+     "outlet": "千葉日報オンライン",
+     "title": "ソウルフルなメロディーと滑らかなボーカルで 世界中を魅了する天才シンガー・ソングライター！ 3年ぶりの来日公演が決定！ JEFF BERNAT / Luv Language Tour 2027",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91THpKSVVVdWdOcW1yWml6YlJSa0c4aGcwUUVNVmh1Rlpfa1NpNEg3UG1mbzIwbFhlOE9zZUhpWWNwOFRvT3Q3dWZXdFc4R1dpS0NOeV9n?oc=5",
+     "published": "2026-11-08T06:36:38+00:00",
+     "summary": "ソウルフルなメロディーと滑らかなボーカルで 世界中を魅了する天才シンガー・ソングライター！ 3年ぶりの来日公演が決定！ JEFF BERNAT / Luv Language Tour 2027 千葉日報オンライン"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s37",
+   "label": "Rush announces five Las Vegas Sphere shows May 2027",
+   "artists": [
+    "Rush"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-08T01:25:20+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "ラッシュ、2027年5月にラスベガスのスフィアで5公演を開催",
+     "link": "https://www.udiscovermusic.jp/news/rush-five-date-sphere-residency-las-vegas",
+     "published": "2026-11-08T01:25:20+00:00",
+     "summary": "ラッシュが2027年5月、ラスベガスのスフィアで5公演を開催。ゲディー・リーとアレックス・ライフソンにアニカ・ニルスらが加わり、『2112』『Moving Pictures』全曲演奏も予定。 The post ラッシュ、2027年5月にラスベガスのスフィアで5公演を開催 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s45",
+   "label": "Louis The Child releases new electrohouse track before Japan tour",
+   "artists": [
+    "Louis The Child"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "EDM MAXX"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "EDM MAXX"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-07T13:01:46+00:00",
+   "articles": [
+    {
+     "outlet": "EDM MAXX",
+     "title": "来日直前のLouis The Child、ルーツとなるエレクトロハウスの要素を取り入れた新曲をリリース",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9PS0xEaGJGMGZ3RzVLQWt4MUQwcVBuMElDekZzNWE3RjJyTkV1QkU2LUxBUkhRMEhaWnRMaFRvZTZxdWw2?oc=5",
+     "published": "2026-11-07T13:01:46+00:00",
+     "summary": "来日直前のLouis The Child、ルーツとなるエレクトロハウスの要素を取り入れた新曲をリリース EDM MAXX"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "U2 weighs in on Ed Sheeran and Macklemore tour controversy",
+   "artists": [
+    "U2",
+    "Ed Sheeran",
+    "Macklemore"
+   ],
+   "genre": "Other",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "Billboard",
+    "NME"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-08T03:53:33+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "U2 Weigh In on Ed Sheeran and Macklemore Tour Controversy",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3lhcUV4ZUFJSWVlODhyWTMzZkw3N29RZ2Fxb0RzZml6YmpUUlJORjNqZDN0V2Jpamc1WHpPNjM3ekc3d2VTZW9YRy13WWYwbHhPdEFIdFZGWUJXWTV3TlJ5UXlVdzVwOEVMdk5keEtVVVZvSy15OF9EVThJRFZtb3BCaVdadWstM1NYeFIyYldfMmJQX3ozdVZvbWJfT3pUQjBOd3pmSQ?oc=5",
+     "published": "2026-11-08T03:53:33+00:00",
+     "summary": "U2 Weigh In on Ed Sheeran and Macklemore Tour Controversy Billboard"
+    },
+    {
+     "outlet": "NME",
+     "title": "U2 on the Ed Sheeran Macklemore row: “No billionaire, no promoter, no owner has the right to censor anybody”",
+     "link": "https://www.nme.com/news/music/u2-ed-sheeran-macklemore-no-billionaire-promoter-owner-has-right-censor-anybody-3975357?utm_source=rss&utm_medium=rss&utm_campaign=u2-ed-sheeran-macklemore-no-billionaire-promoter-owner-has-right-censor-anybody",
+     "published": "2026-11-07T10:30:46+00:00",
+     "summary": "The Edge has defended Macklemore's right to speak out, while insisting that Sheeran should not be vilified over the controversy The post U2 on the Ed Sheeran Macklemore row: “No billionaire, no promoter, no owner has the right to censor any"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s30",
+   "label": "Deep Purple's Ian Gillan undergoes successful surgery",
+   "artists": [
+    "Deep Purple"
+   ],
+   "genre": "Other",
+   "kind": "health",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-07T20:44:02+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Deep Purple’s Ian Gillan Shares Encouraging News After Undergoing Surgery",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmJsVzJoZEFEaWdvb0hXa3M3MlNFQ3ZYcnBxV0pyX2doVDNsMVhlZld2TkNtVWVWUktXVTVVZ0VjZ0YwenN4Tk52VTBrRWcta1lJYnpTQUJJcllZanAxUHlQT21paEZyNmszNEgtVU5LdzU2WjVjaUx4eHFCNjNGWGpMaTZGcHdYZVhFZ1R4eHFEX0M2Z2l6RXJiWFQzWFRG?oc=5",
+     "published": "2026-11-07T20:44:02+00:00",
+     "summary": "Deep Purple’s Ian Gillan Shares Encouraging News After Undergoing Surgery Billboard"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Deep Purple’s Ian Gillan Undergoes ‘Successful’ Surgery After Medical Emergency",
+     "link": "https://www.rollingstone.com/music/music-news/deep-purple-ian-gillan-successful-surgery-medical-emergency-1235654349/",
+     "published": "2026-11-07T16:20:10+00:00",
+     "summary": "\"I now have to rest, in order to make a complete recovery and ensure that I’m as fit as can be before getting back to work,\" singer writes"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 3
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 30
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 2,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 90,
+   "kept": 8
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 29,
+   "kept": 1
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 5
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 0
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 15
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 1
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 12
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 2
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 21,
+   "kept": 6
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 23,
+   "kept": 2
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 2
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 26
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 5,
+   "kept": 2
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 8,
+   "kept": 1
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 2,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 23,
+   "kept": 11
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 17,
+   "kept": 5
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 8,
+   "kept": 3
+  }
+ ],
+ "cost": {
+  "usd": 0.221,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 13881,
+    "output_tokens": 5704
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 14624,
+    "output_tokens": 6005
+   }
+  ]
+ }
+}
