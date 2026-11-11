@@ -1,0 +1,2249 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T09:41:39.163217+00:00",
+ "article_count": 291,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日はRock Hall of Fame式典を巡るOasisとSadeの欠席報道、「Levitating」リミックス訴訟の和解など、名誉や権利のあり方を考えさせる話題が目立ちます。Coachella 2027のラインナップ発表など、大型の発表も重なりました。",
+  "top": [
+   {
+    "id": "s12",
+    "title_ja": "Dua Lipa「Levitating」リミックス訴訟が和解",
+    "genre": "POP",
+    "summary_ja": "トークボックス奏者のBosko Kanteが起こしていた「Levitating」のリミックスを巡る訴訟が、長い法廷闘争を経て和解したと報じられています。Kanteは原曲用にパフォーマンスを制作してライセンスしたものの、その契約はヒットしたリミックス版での使用までは含んでいなかったと主張していました。",
+    "why_ja": "Rolling StoneとAllHipHopの2媒体が報じています。大ヒット曲の裏側で、参加ミュージシャンの権利をどう扱うかという業界の仕組みの問題が見える話題です。",
+    "debate_ja": "原曲用の演奏をリミックスにも使うなら、別途許可が必要だと思う？",
+    "line_point": "「Levitating」リミックスでの声の使用を巡る訴訟が和解。原曲の契約がリミックスにも及ぶかが争点だった。",
+    "reels": [
+     {
+      "hook": "原曲OKならリミックスもOK？",
+      "angle": "訴訟の経緯を整理し、契約の範囲という論点を提示。参加者の権利は守るべきという自分の見解を述べ、コメントで意見を募る"
+     },
+     {
+      "hook": "ヒット曲の裏にいた奏者の話",
+      "angle": "トークボックスとは何かを簡単に紹介し、原曲とリミックスで権利の扱いがどう分かれるのかを図解する"
+     }
+    ]
+   },
+   {
+    "id": "s8",
+    "title_ja": "Oasis、ロックの殿堂式典を欠席の見通し",
+    "genre": "Other",
+    "summary_ja": "OasisのNoel GallagherとLiam Gallagherが、今週末のRock and Roll Hall of Fame殿堂入り式典を欠席する見通しだと報じられています。理由として「一晩のために行くには遠すぎる」という趣旨の言葉が伝えられています。",
+    "why_ja": "Billboard、NMEに加えてBillboard JAPANも報じており、日本でも関心が高い話題です。",
+    "debate_ja": "自分の殿堂入り式典を欠席するのはアリ？ナシ？",
+    "line_point": "Oasis、ロックの殿堂入り式典を欠席の見通しと報道。「一晩のために行くには遠すぎる」と伝えられる。",
+    "reels": [
+     {
+      "hook": "殿堂入りでも行かない、これアリ？",
+      "angle": "欠席報道の事実を紹介し、栄誉より自分たちの流儀を貫く姿勢の是非を問う。自分の見解を述べてコメントで意見を募る"
+     },
+     {
+      "hook": "同じ日、Sadeも欠席を表明",
+      "angle": "Sadeが感謝の声明を出して欠席を伝えたことと比べ、アーティストにとって殿堂入りが何を意味するのかを考える"
+     }
+    ]
+   },
+   {
+    "id": "s14",
+    "title_ja": "UsherとChris Brown、LAとマイアミ公演を中止",
+    "genre": "POP",
+    "summary_ja": "UsherとChris Brownが、ロサンゼルスとマイアミのコンサートを中止したとComplexが報じています。報道では、2人の不仲を巡る憶測が広がるなかでの中止とされています。中止の理由と不仲の関係は確認されていません。",
+    "why_ja": "Complexが報じました。2人の関係については、最近もJoe Buddenが健全な競争だと語るなど議論が続いていた話題の続報です。",
+    "debate_ja": "2人の関係はライバル？それとも不仲？あなたはどう見る？",
+    "line_point": "UsherとChris BrownがLAとマイアミ公演を中止。不仲の憶測が出るなかでの中止とComplexが報道。",
+    "reels": [
+     {
+      "hook": "これ、不仲説は本当だと思う？",
+      "angle": "中止の事実と、理由が確認されていない点を整理する。ライバル関係をどう見るか自分の見解を述べ、コメントで意見を募る"
+     },
+     {
+      "hook": "R&B2大スターの関係をおさらい",
+      "angle": "これまでの不仲説や健全な競争という見方を時系列で並べ、今回の中止がその流れのどこに位置するのかを解説する"
+     }
+    ]
+   },
+   {
+    "id": "s5",
+    "title_ja": "Coachella 2027、Dua Lipa・Tame Impala・SZAがヘッドライナー",
+    "genre": "POP",
+    "summary_ja": "Coachella 2027のラインナップが発表され、Dua Lipa、Tame Impala、SZAがヘッドライナーと報じられています。ほかにMadonna、Daddy Yankee、Phoebe Bridgers、Giorgio Moroder、Zara Larsson、Don Toliver、Weezerなどの名前が並び、Justiceの展示も予定されています。",
+    "why_ja": "Billboard、Rolling Stone、Varietyなど5媒体が報じ、NME Japanも取り上げています。ジャンルも世代も幅広い顔ぶれです。",
+    "debate_ja": "このヘッドライナー3組、あなたは納得？それとも意外？",
+    "line_point": "Coachella 2027のヘッドライナーはDua Lipa、Tame Impala、SZA。Madonnaらも名を連ねる。",
+    "reels": [
+     {
+      "hook": "このヘッドライナー、正直どう？",
+      "angle": "3組とおもな出演者を紹介し、人選の妥当性を問う。自分が評価するポイントを述べ、コメントで推しの出演者を募る"
+     },
+     {
+      "hook": "MadonnaとZara Larssonが同じフェスに",
+      "angle": "レジェンドから新世代、ラテンまで世代とジャンルの幅を整理し、今のCoachellaのブッキングの傾向を読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s87",
+    "title_ja": "Sombr、ライブで中指を立てるファンにやんわりお願い",
+    "genre": "POP",
+    "summary_ja": "Sombrがオハイオ公演中、自分に中指を立てていた観客に、やめてほしいと優しく呼びかけたとRolling Stoneが報じています。本人は「全部愛だってわかってるけど、ライブでは中指を立てないで」「悲しくなる」という趣旨の言葉を伝えたとされています。",
+    "why_ja": "Rolling Stoneが報じた話題です。ライブでの観客のふるまいやファンのマナーは、日本のファンも意見を言いやすいテーマです。",
+    "debate_ja": "ライブで中指を立てるのは愛情表現？それともマナー違反？",
+    "line_point": "Sombr、ライブで中指を立てる観客に「悲しくなる」とやめるよう優しく呼びかけたと報道。",
+    "reels": [
+     {
+      "hook": "ライブで中指、これ愛情表現？",
+      "angle": "Sombrの言葉を紹介し、ノリと失礼の境界という論点を提示する。自分の見解を述べ、コメントで意見を募る"
+     },
+     {
+      "hook": "海外ライブのマナー問題を考える",
+      "angle": "観客のふるまいにアーティストが声を上げた今回の例をもとに、日本と海外のライブ文化の違いを比べて解説する"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s21",
+     "title_ja": "Carl Cox、William王子からOBEを授与",
+     "note": "Carl Coxが音楽への貢献を認められ、ウィンザー城でOBEを受けた。"
+    },
+    {
+     "id": "s63",
+     "title_ja": "Dom Dolla、亡き父への追悼メッセージを公開",
+     "note": "Dom Dollaが、アルツハイマー病と闘った父の死を受けて追悼の言葉を公開した。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s7",
+     "title_ja": "Sade、ロックの殿堂式典を欠席と表明",
+     "note": "Sadeが殿堂入り式典の欠席を発表し、栄誉への感謝を声明で伝えた。"
+    },
+    {
+     "id": "s9",
+     "title_ja": "Tove Lo、『GTA 6』提供曲「Blood In Your Eyes」を公開",
+     "note": "Tove Loが『GTA 6』のサウンドトラックに提供した新曲を公開した。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s44",
+     "title_ja": "Kendrick Lamarの名曲、Netflixアニメでリミックスに",
+     "note": "「The Blacker The Berry」のリミックスが、Netflixアニメ『Bass X Machina』で使われた。"
+    },
+    {
+     "id": "s3",
+     "title_ja": "Lil Baby「Top Uh It」がYouTube米国チャート1位",
+     "note": "Lil Babyの『FRESH』収録曲「Top Uh It」が、米国のYouTube音楽チャートで1位に入った。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s74",
+     "title_ja": "U2のThe Edgeが書いた幻の『Elf』続編",
+     "note": "The Edgeが映画『Elf』の続編を書いていたが、立ち消えになったという裏話。"
+    },
+    {
+     "id": "s0",
+     "title_ja": "Bad BunnyとShakira、マドリード公演がラテンのツアー事情を変えた",
+     "note": "2人のマドリードでのレジデンシー公演が、ラテン音楽のツアーをどう変えたかを解説できる。"
+    },
+    {
+     "id": "s82",
+     "title_ja": "The Clashのドキュメンタリー、日本で劇場初公開",
+     "note": "Danny Garcia監督の『ザ・クラッシュ 栄光と墜落』が2月6日から日本で公開。バンドの歴史を語れる。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s29",
+    "title_ja": "DVBBS、12月3日にV2 TOKYOへ初出演",
+    "note": "12月3日、V2 TOKYOに初出演。代表曲「Tsunami」は57億回再生とされる。"
+   },
+   {
+    "id": "s17",
+    "title_ja": "Molly Tuttle、ブルーノート東京で初来日公演",
+    "note": "会場はブルーノート東京。Ketch Secorとのデュオで出演。"
+   },
+   {
+    "id": "s26",
+    "title_ja": "Bleech 9:3、2027年2月に初来日公演決定",
+    "note": "アイルランド出身のポストパンク・バンドが初来日。2027年2月に公演。"
+   },
+   {
+    "id": "s19",
+    "title_ja": "Les Imprimés、2027年4月に来日公演決定",
+    "note": "2027年4月に来日公演。"
+   },
+   {
+    "id": "s27",
+    "title_ja": "Bon Jovi、2月の東京ドーム2Daysに向け公式グッズ予約受付",
+    "note": "9年ぶりの東京ドーム2Days。公式グッズの予約受付は11月12日23:59まで。"
+   }
+  ],
+  "tour_candidates": 8
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s5",
+   "label": "Coachella 2027 lineup announced: SZA, Tame Impala, Dua Lipa, Madonna",
+   "artists": [
+    "SZA",
+    "Tame Impala",
+    "Dua Lipa",
+    "Madonna"
+   ],
+   "genre": "POP",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Consequence",
+    "NME Japan",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 5,
+   "latest": "2026-11-11T09:00:57+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "コーチェラ・フェスティバル、2027年のラインナップを発表",
+     "link": "https://nme-jp.com/news/174251/",
+     "published": "2026-11-11T09:00:57+00:00",
+     "summary": "コーチェラ・フェスティバルは2027年のラインナップが発表されている。"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Coachella Reveals 2027 Lineup: SZA, Tame Impala, Dua Lipa, and Madonna",
+     "link": "https://consequence.net/2026/11/coachella-2027-lineup-sza-tame-impala-dua-lipa/",
+     "published": "2026-11-11T09:00:50+00:00",
+     "summary": "Daddy Yankee, Phoebe Bridgers, Giorgio Moroder, Zara Larsson, Don Toliver, Daddy Yankee, Weezer, and a Justice exhibit are also heading to the desert. Coachella Reveals 2027 Lineup: SZA, Tame Impala, Dua Lipa, and Madonna Alex Young and Ben"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Dua Lipa, Tame Impala, SZA to Headline 2027 Coachella",
+     "link": "https://www.rollingstone.com/music/music-news/dua-lipa-tame-impala-sza-headline-coachella-2027-1235630556/",
+     "published": "2026-11-11T06:48:48+00:00",
+     "summary": "Madonna, Phoebe Bridgers, Daddy Yankee, and Don Toliver are among the performers set for the SoCal festival taking place over two weekends in April"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Dua Lipa, Tame Impala & SZA to Headline Coachella 2027",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTUtlRXhXRll0NVM5cGRyZzU3eXY5M3BfMllIV2FEdzNGRzNoZWpsTV9ma2VEazltUWRVb0hxZ2ppenh4TjJqZ3c1N2xhbTBSSmYzTzBaVlh3Q3g5RnVjTDBISU5QcmpheVc5NzFYQXFJRHI2VjZrd1RIWGY0YkNId3FB?oc=5",
+     "published": "2026-11-11T06:33:09+00:00",
+     "summary": "Dua Lipa, Tame Impala & SZA to Headline Coachella 2027 Billboard"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Dua Lipa, Tame Impala and SZA to Headline Coachella 2027",
+     "link": "https://variety.com/2026/music/news/dua-lipa-tame-impala-sza-to-headline-coachella-2027-1236944962/",
+     "published": "2026-11-11T06:26:15+00:00",
+     "summary": "Dua Lipa, Tame Impala and SZA are set to headline Coachella Valley Music and Arts Festival 2027. News of the lineup comes after SZA teased the headliners on social media. Daddy Yankee has his own special slot, typically reserved as a bonus "
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "Oasis will not attend Rock and Roll Hall of Fame induction",
+   "artists": [
+    "Oasis"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "Billboard",
+    "Billboard JAPAN",
+    "NME"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-11T14:35:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "オアシス、【ロックの殿堂】入り式典を欠席の見通し「一晩のために行くには遠すぎる」",
+     "link": "https://www.billboard-japan.com/d_news/detail/167356",
+     "published": "2026-11-11T14:35:00+09:00",
+     "summary": "長年のオアシス・ファンにとっては驚くに値しないだろうが、ノエル・ギャラガーとリアム・ギャラガーは今週末の【ロックの殿…"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "It’s Looking Like Oasis Will Skip Their Own Rock Hall of Fame Induction: ‘It’s Too Far To Be Going For the Night’",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmFBVC1iaGczR1ZtMUJSanY2QzdKZVhwQVFlNmVHeFJGc0NIRjNheXJFc1BDN0lXQ0xGVWxFZUREcFhqR2g0ejdRRTNwOFhHOVZzZ0JXdnRlZ2tWbTVJRGFyWHkxcXU5eXlQR0lZNko3bFljQ25Yd1QzTkY1cV9MVlJTWG1EYXA2bVpVcWg0cG1MNGRzbm4xYk1PajRybFJZTHkzWkpzeWluSDRi?oc=5",
+     "published": "2026-11-10T14:30:44+00:00",
+     "summary": "It’s Looking Like Oasis Will Skip Their Own Rock Hall of Fame Induction: ‘It’s Too Far To Be Going For the Night’ Billboard"
+    },
+    {
+     "outlet": "NME",
+     "title": "Oasis to reportedly skip Rock and Roll Hall of Fame induction ceremony",
+     "link": "https://www.nme.com/news/music/oasis-to-reportedly-skip-rock-and-roll-hall-of-fame-induction-ceremony-3975548",
+     "published": "2026-11-10T11:46:54+00:00",
+     "summary": "“I got shit to do. It's Christmas,” Liam Gallagher said The post Oasis to reportedly skip Rock and Roll Hall of Fame induction ceremony appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s60",
+   "label": "NewJeans' record label contract reportedly lacked minor protections",
+   "artists": [
+    "NewJeans"
+   ],
+   "genre": "POP",
+   "kind": "business",
+   "talk": 2,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-10T15:20:04+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "NewJeans’ record label contract reportedly lacked protections for minors",
+     "link": "https://www.nme.com/news/music/newjeans-record-label-contract-reportedly-lacked-protections-for-minors-3975571",
+     "published": "2026-11-10T15:20:04+00:00",
+     "summary": "HYBE has argued that its contracts were legal and designed to protect the safety and wellbeing of its artists The post NewJeans’ record label contract reportedly lacked protections for minors appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s68",
+   "label": "AlphaTheta announces new four-channel mixer DJM-A7",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "Clubberia",
+    "DJ Mag",
+    "Mixmag",
+    "The Fader"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "Clubberia"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-11-11T02:52:01+00:00",
+   "articles": [
+    {
+     "outlet": "Clubberia",
+     "title": "AlphaTheta、DJM-750MK2後継の4chミキサー「DJM-A7」登場",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRTmRUMVRaS193NWRwRnJjamdaVWJpRjQtZXhyRXdMVVlUenhSVVJ1Q2lfT0pWNm9SS0JaMkxVNHRVMW1BYUZlMlJZT0pWOC1oczdlTktsZ2hRdW8ySGVlOEN4VV9BSGZNZUdRZUhQVE16dkphZXVkZg?oc=5",
+     "published": "2026-11-11T02:52:01+00:00",
+     "summary": "AlphaTheta、DJM-750MK2後継の4chミキサー「DJM-A7」登場 Clubberia"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "AlphaTheta’s new DJM-A7 brings the DJM-A9 layout to smaller booths",
+     "link": "https://www.thefader.com/2026/11/10/alphathetas-new-djm-a7-brings-the-djm-a9-layout-to-smaller-booths",
+     "published": "2026-11-10T11:24:12-05:00",
+     "summary": "Its new Master Texture knobs let DJs tune a room without a sound engineer."
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "AlphaTheta announces four-channel mixer, DJM-A7",
+     "link": "https://djmag.com/tech/alphatheta-announces-four-channel-mixer-djm-a7",
+     "published": "2026-11-10T11:02:51+00:00",
+     "summary": "Aimed at venues covering a variety of events and \"working with limited space and budget\""
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "AlphaTheta unveils new four-channel mixer, DJM-A7",
+     "link": "https://mixmag.net/read/alphatheta-unveils-new-four-channel-mixer-djm-a7-news",
+     "published": null,
+     "summary": "The mixer is designed for “a wide range of venues and environments”, the music tech giant says Continue reading..."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s89",
+   "label": "Sakura Ado scores 'Purple Rain' on Broadway",
+   "artists": [
+    "Prince"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "AP通信",
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "AP通信"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-11-10T16:37:36+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Jordan Fisher to Star as the Kid in Broadway’s ‘Purple Rain’",
+     "link": "https://variety.com/2026/legit/news/jordan-fisher-purple-rain-broadway-the-kid-1236944078/",
+     "published": "2026-11-10T16:37:36+00:00",
+     "summary": "Jordan Fisher will portray “The Kid,” the iconic role made famous by Prince, in Broadway’s “Purple Rain.” Fisher is a theater veteran, having appeared in musicals like “Sweeney Todd: The Demon Barber of Fleet Street,” “Moulin Rouge! The Mus"
+    },
+    {
+     "outlet": "AP通信",
+     "title": "Broadway finds its Prince: Jordan Fisher cast as ‘The Kid’ in ‘Purple Rain’ musical",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmJaZ2pDWmUyb3FXOTJHcy1xQkFpSXAzdlhkTXI4X19MdGtsZEgzdUlQSW92WkUtTC1HdVp1c0ZzM0NURDhBQUpZNERnclJJajRaQ0hHTU5ESWQ3NXhSdFZHdHhEQmdxclA0MzVfZ2xFMXpZenpFM2xiQ3l1c0xyR2RrY1NXajVScDhKZXZDOGZld3JrTUJMVG1n?oc=5",
+     "published": "2026-11-10T15:48:00+00:00",
+     "summary": "Broadway finds its Prince: Jordan Fisher cast as ‘The Kid’ in ‘Purple Rain’ musical AP News"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Jordan Fisher Will Step Into Prince’s Shoes (And Strap On A Guitar) For ‘Purple Rain’ On Broadway",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSC1yQUZ1dmN4TS1naVFBRnhxNnFiVlI0RW9wbU1NUUtza0RhcXIxVHdlTDVER3NHdC0xX2xNbVc1dFNJdHlyNjFWYTM4MzFHSXBQdHR3OWFtbFZIT2wtMG0tdFNqT1ZPRE9LejdwMlZmUThzcUtfZjdIRGRqSFZoT3VwRnNIZGdSTGxDTmFNcnFkaktuSXJxc29URzcwbEZP?oc=5",
+     "published": "2026-11-10T13:37:00+00:00",
+     "summary": "Jordan Fisher Will Step Into Prince’s Shoes (And Strap On A Guitar) For ‘Purple Rain’ On Broadway Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Sade will not attend Rock and Roll Hall of Fame induction",
+   "artists": [
+    "Sade"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "Billboard",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-11T08:10:21+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Sade Won’t Be Attending the Rock Hall Induction Ceremony",
+     "link": "https://www.billboard.com/music/awards/sade-wont-be-attending-rock-hall-induction-ceremony-1236379271/",
+     "published": "2026-11-11T08:10:21+00:00",
+     "summary": "“Please know that our absence takes nothing away from how much this recognition means to us,\" reads a statement from Sade."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Sade Are Not Attending Rock & Roll Hall of Fame Induction Ceremony",
+     "link": "https://www.rollingstone.com/music/music-news/sade-not-attending-rock-roll-hall-fame-induction-ceremony-1235655607/",
+     "published": "2026-11-11T00:07:44+00:00",
+     "summary": "“Please know that our absence takes nothing away from how much this recognition means to us,” band writes"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Bosko Kante settles 'Levitating' remix lawsuit",
+   "artists": [
+    "Bosko Kante"
+   ],
+   "genre": "POP",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-11T07:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "EXCLUSIVE: Bosko Kante’s “Levitating” Remix Suit Ends After Years In Court",
+     "link": "https://allhiphop.com/news/bosko-kante-levitating-remix-lawsuit-dismissed/",
+     "published": "2026-11-11T07:00:00+00:00",
+     "summary": "Bosko Kante's suit over his voice on \"Levitating\" remixes ended after a fight over where his work could be used."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Dua Lipa Settles ‘Levitating’ Lawsuit With Talk Box Musician",
+     "link": "https://www.rollingstone.com/music/music-news/dua-lipa-settles-levitating-lawsuit-bosko-kante-1235655179/",
+     "published": "2026-11-10T17:57:54+00:00",
+     "summary": "Bosko Kante claimed he created and licensed a performance for the original version of song, but the agreement didn’t cover its use in any of the hit remixes"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Carl Cox receives OBE from Prince William",
+   "artists": [
+    "Carl Cox"
+   ],
+   "genre": "Dance",
+   "kind": "award",
+   "talk": 1,
+   "outlets": [
+    "Billboard",
+    "Mixmag"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-11T04:15:16+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "‘Beyond Anything I Could Have Imagined’: Carl Cox Presented With OBE By Prince William",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTDM5VGl5cTdBMmF5bm5GTERZa2RyYnhqdUR1VVQ5ZXN3RUpjbXBOQnpQZnZWYUtieWlHUUNKY0dJeGdPV3VGbXJ4YnF4VHlzWTFPX001NkVGTWphRVVNeW9ibmVNOTBSTmpkMWVaRFBmMUN2RmJyVVl6bFZNOWNza3dyS1lBQXgtLVNhYjloQUJNdw?oc=5",
+     "published": "2026-11-11T04:15:16+00:00",
+     "summary": "‘Beyond Anything I Could Have Imagined’: Carl Cox Presented With OBE By Prince William Billboard"
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "Carl Cox has been awarded an OBE",
+     "link": "https://mixmag.net/read/carl-cox-has-been-awarded-an-obe-news",
+     "published": null,
+     "summary": "He picked up the prestigious honour at Windsor Castle for his outstanding contribution to music Continue reading..."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "Conor Oberst announces 2027 North American solo tour",
+   "artists": [
+    "Conor Oberst"
+   ],
+   "genre": "Other",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-11-10T21:01:39+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Conor Oberst Will Play a Cave and a Haunted Hotel on His First Solo Tour Since 2019",
+     "link": "https://www.rollingstone.com/music/music-news/conor-oberst-2027-tour-dates-1235655375/",
+     "published": "2026-11-10T21:01:39+00:00",
+     "summary": "The singer-songwriter has announced an expansive 49-date run, dubbed \"An Alleged Evening with Conor Oberst\""
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Conor Oberst Announces 2027 North American Tour",
+     "link": "https://pitchfork.com/story/conor-oberst-announces-2027-tour/",
+     "published": "2026-11-10T17:02:05+00:00",
+     "summary": "His first solo trek since 2019 kicks off in February"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Conor Oberst Announces 2027 Solo Tour",
+     "link": "https://consequence.net/2026/11/conor-oberst-2027-solo-tour/",
+     "published": "2026-11-10T17:00:27+00:00",
+     "summary": "Throughout the run, Oberst will perform at various theaters and non-traditional venues, including a haunted hotel and a cave underground. Conor Oberst Announces 2027 Solo Tour Paolo Ragusa"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s69",
+   "label": "Sakura Ado confirmed as billion-dollar musician",
+   "artists": [
+    "Paul McCartney"
+   ],
+   "genre": "POP",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "CNN",
+    "NME"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "CNN"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-10T13:52:39+00:00",
+   "articles": [
+    {
+     "outlet": "CNN",
+     "title": "Paul McCartney achieves billionaire status, becomes world’s third-richest musician",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVluU1pOMWpjalRMQjJacy1nVk1uVHdydkpEc0pYLXVibmhfbklTQmo3bFJJOWZNZGhSU2dHSmVzQm5EYVgzNmRXWnA1WWFkRUFwR0VTTV9FbUZ5bjBRV2hiS0JjbG5zc2hiVUdKRXZlNlZqQlB3cG9iWVpUdmtqTTdzM0JZcWZHWjhZQmt2b0VmS211LXBJ?oc=5",
+     "published": "2026-11-10T13:52:39+00:00",
+     "summary": "Paul McCartney achieves billionaire status, becomes world’s third-richest musician CNN"
+    },
+    {
+     "outlet": "NME",
+     "title": "Paul McCartney is now officially a billionaire and the world’s third wealthiest musician",
+     "link": "https://www.nme.com/news/music/paul-mccartney-now-officially-a-billionaire-and-worlds-third-wealthiest-musician-3975563",
+     "published": "2026-11-10T12:48:35+00:00",
+     "summary": "His share of The Beatles’ music is reportedly worth around $350million alone The post Paul McCartney is now officially a billionaire and the world’s third wealthiest musician appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s67",
+   "label": "Ableton announces Live 13 with new features",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "business",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag",
+    "Resident Advisor",
+    "The Fader"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-11-10T11:47:52-05:00",
+   "articles": [
+    {
+     "outlet": "The Fader",
+     "title": "Ableton announces Live 13, with ARA 2 support and a new Step Sequencer",
+     "link": "https://www.thefader.com/2026/11/10/ableton-announces-live-13-with-ara-2-support-and-a-new-step-sequencer",
+     "published": "2026-11-10T11:47:52-05:00",
+     "summary": "The update arrives in early 2027, and the public beta is open now."
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "Ableton announces Live 13, featuring new step sequencer, updated Racks and ARA 2 support",
+     "link": "https://djmag.com/tech/ableton-announces-live-13-featuring-new-step-sequencer-updated-racks-and-ara-2-support",
+     "published": "2026-11-10T11:19:59+00:00",
+     "summary": "There's also a new multi-engine Drum Synth, new effects and mixing tools, and more"
+    },
+    {
+     "outlet": "Resident Advisor",
+     "title": "Ableton announces Live 13, with ARA 2 support and new Push 3 features · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE82SDBLd3owczAxME5KVjdUNl9wZG9iMzRPamh6b2pKdzh5aVhJem1fdUdjd0RFeEVSZ213TA?oc=5",
+     "published": "2026-11-10T10:00:00+00:00",
+     "summary": "Ableton announces Live 13, with ARA 2 support and new Push 3 features · News ⟋ RA Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s65",
+   "label": "Bugzy Malone envisions life beyond rap",
+   "artists": [
+    "Bugzy Malone"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-11T06:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Bugzy Malone Envisions Life Beyond Rap",
+     "link": "https://allhiphop.com/news/bugzy-malone-rap-future/",
+     "published": "2026-11-11T06:02:00+00:00",
+     "summary": "Bugzy Malone outlined plans for more music beyond his rapper role, alongside an expanding film and television career."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Usher and Chris Brown cancel Los Angeles and Miami concerts",
+   "artists": [
+    "Usher",
+    "Chris Brown"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-11T05:06:12+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Usher and Chris Brown Cancel Los Angeles and Miami Concerts Amid Feud Speculation",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcTBRR1dTaWktSlV4UVBwU0NBMGtaVUJndVRTLUNNemF3SGR3SzllT1RnOVdmN1NlSUtxcnVhbVhUaGlMZ3RIaUd2QVB1bDhYWmJxcmdyVzRzLWl2eXVhOXNvM1ZnMEZDVmZBT2pScjg4X0lua0g2OVQ0UXRnMDVfV3d6LUhYb3ZmX296bTd6SnZad29vN2ZtRGFEUTdMbDA?oc=5",
+     "published": "2026-11-11T05:06:12+00:00",
+     "summary": "Usher and Chris Brown Cancel Los Angeles and Miami Concerts Amid Feud Speculation Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s64",
+   "label": "YouTube views to count toward Billboard charts in 2027",
+   "artists": [],
+   "genre": "POP",
+   "kind": "business",
+   "talk": 1,
+   "outlets": [
+    "XXL"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-10T23:58:39+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "YouTube Views Will Count Toward Billboard Charts Again in 2027",
+     "link": "https://www.xxlmag.com/youtube-views-billboard-charts-2027/",
+     "published": "2026-11-10T23:58:39+00:00",
+     "summary": "YouTube makes a major announcement. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s87",
+   "label": "Sonmbre asks fan to stop flipping him off at shows",
+   "artists": [
+    "Sombr"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-10T20:04:51+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Sombr Softly Pleads With Fan to Stop Flipping Him Off: ‘It’s Making Me Sad’",
+     "link": "https://www.rollingstone.com/music/music-news/sombr-reacts-fan-middle-finger-flipping-bird-1235655246/",
+     "published": "2026-11-10T20:04:51+00:00",
+     "summary": "“It’s all love, but just please, please don’t flip me off at my show,” singer tells Ohio concertgoer"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s63",
+   "label": "Dom Dolla shares tribute to late father following Alzheimer's",
+   "artists": [
+    "Dom Dolla"
+   ],
+   "genre": "Dance",
+   "kind": "health",
+   "talk": 1,
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-10T15:57:51+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Dom Dolla Shares Heartbreaking Farewell Following Father’s Death",
+     "link": "https://edm.com/news/dom-dolla-heartbreaking-farewell-father-death/",
+     "published": "2026-11-10T15:57:51+00:00",
+     "summary": "After a decade of watching Alzheimer’s disease take his father’s memory, the DJ shared a tribute to the man who encouraged his dreams from the very beginning. The post Dom Dolla Shares Heartbreaking Farewell Following Father’s Death appeare"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Tove Lo releases new single for GTA 6 soundtrack",
+   "artists": [
+    "Tove Lo"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "NME",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-11T08:00:04+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "トーヴ・ロー、『グランド・セフト・オート6』に提供した新曲“Blood In Your Eyes”が公開",
+     "link": "https://nme-jp.com/news/174235/",
+     "published": "2026-11-11T08:00:04+00:00",
+     "summary": "トーヴ・ローはゲーム『グランド・セフト・オート6』のサウンドトラックに提供した新曲“Blood In Your Eyes”が公開されている。"
+    },
+    {
+     "outlet": "NME",
+     "title": "Tove Lo drops new single from ‘GTA 6’ soundtrack, ‘Blood In Your Eyes’",
+     "link": "https://www.nme.com/news/music/tove-lo-drops-new-single-from-gta-6-soundtrack-blood-in-your-eyes-3975584",
+     "published": "2026-11-10T16:00:58+00:00",
+     "summary": "The song features on a new video announcing that pre-loads are now live The post Tove Lo drops new single from ‘GTA 6’ soundtrack, ‘Blood In Your Eyes’ appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "Brandy and Monica announce Las Vegas residency",
+   "artists": [
+    "Brandy",
+    "Monica"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Complex",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-11T04:21:47+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Brandy and Monica Announce Las Vegas Residency on 'Dancing With the Stars'",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUJmNjhFSHZGcGM5ZWFCMzl1dzhHbzJnWG5SQXctQzNMejI0RkYzU2wwMEcySFpYQURMOXlkX2pEenNfYmZuTmFrY2QxeERkVmI3RlRoOHZudzZCMHhfOUljazJDZS1YTzljRDBacUJUZEQyRjY5QllMZGtmQ0V2NGVYem9yLUxRNzByUVpfMTdzYkdsWGplR0ozMFpXcjlQN0NvcVM1LVpkM2ZYWnRZ?oc=5",
+     "published": "2026-11-11T04:21:47+00:00",
+     "summary": "Brandy and Monica Announce Las Vegas Residency on 'Dancing With the Stars' Complex"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Brandy and Monica Announce ‘The Boy Is Mine’ 2027 Residency at Las Vegas’ Resorts World",
+     "link": "https://variety.com/2026/music/news/brandy-monica-announce-the-boy-is-mine-las-vegas-residency-1236944316/",
+     "published": "2026-11-11T03:00:00+00:00",
+     "summary": "Brandy and Monica have announced “The Boy Is Mine Vegas Residency,” their first-ever series of shows in Las Vegas. The R&B icons announced the residency following a performance of their collaborative hit “The Boy Is Mine” on “Dancing With t"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s44",
+   "label": "Kendrick Lamar 'The Blacker The Berry' remix featured in anime series",
+   "artists": [
+    "Kendrick Lamar"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-11T01:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Kendrick Lamar’s “The Blacker The Berry” Gets An Anime Remix In “Bass X Machina”",
+     "link": "https://www.hotnewhiphop.com/1016309-kendrick-lamar-the-blacker-the-berry-bass-x-machina",
+     "published": "2026-11-11T01:00:00+00:00",
+     "summary": "Kendrick Lamar's iconic song \"The Blacker The Berry\" has found its way onto the new Netflix anime, \"Bass X Machina.\" The post Kendrick Lamar’s “The Blacker The Berry” Gets An Anime Remix In “Bass X Machina” appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Kendrick Lamar “The Blacker The Berry” Remix Appears in Animated Series ‘Bass X Machina’",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZk1KYlhHcF93RDBLcUVuTl9wd0sxWklObXRiUHFxZmgxN0tsQ2NqcExxUGtJbWQyczRMcnVtZ042aEF6dzFTZlVMUXhpdDlfSWZZTklPOEstamxZNmdqU2RCXzVCSmlnNExxMzZIdXZYMF8tMkQzVFl6SEZuTFdRR0l4Y2dvMTdqcEVQTWtHdUtYdkE?oc=5",
+     "published": "2026-11-10T04:35:42+00:00",
+     "summary": "Kendrick Lamar “The Blacker The Berry” Remix Appears in Animated Series ‘Bass X Machina’ Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s55",
+   "label": "RALLY 2027 announces first lineup with Kelela, Loidis, Shanti Celeste",
+   "artists": [
+    "Kelela",
+    "Loidis",
+    "Shanti Celeste"
+   ],
+   "genre": "Dance",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag",
+    "Resident Advisor"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-10T12:55:55+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "RALLY 2027 line-up: Kelela, Loidis, Shanti Celeste, OK Williams, more announced",
+     "link": "https://djmag.com/news/rally-2027-line-kelela-loidis-shanti-celeste-ok-williams-more-announced",
+     "published": "2026-11-10T12:55:55+00:00",
+     "summary": "GALA, Bird On The Wire and NTS's one-day festival prioritising DIY, independence and community takes over London's Southwark Park next August"
+    },
+    {
+     "outlet": "Resident Advisor",
+     "title": "London festival RALLY unveils first names for 2027 · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE0ydEN5M3ZqYzNNN1BoNEo4Mmc1eUtMZTRhNlhkRFN2UDd6ZWllbXlpTVZxSzJlTlFXaFItdA?oc=5",
+     "published": "2026-11-10T12:05:23+00:00",
+     "summary": "London festival RALLY unveils first names for 2027 · News ⟋ RA Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Lil Baby releases new video from 'Fresh' album",
+   "artists": [
+    "Lil Baby"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-11T09:02:42+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Lil Baby Brings His Gator Xbox Into New L.O.T.P Video",
+     "link": "https://allhiphop.com/news/lil-baby-brings-his-gator-xbox-into-new-l-o-t-p-video/",
+     "published": "2026-11-11T09:02:42+00:00",
+     "summary": "Lil Baby takes his custom alligator Xbox into the party circuit as he releases a new visual from his FRESH album."
+    }
+   ],
+   "chart": [
+    {
+     "id": "sXsY9gj5zXk",
+     "title": "Top Uh It",
+     "channel": "Lil Baby - Topic",
+     "published": "2026-11-06T05:03:57Z",
+     "hours_since": 125,
+     "views": 1031819,
+     "url": "https://www.youtube.com/watch?v=sXsY9gj5zXk",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "3EeJub4m1-E",
+     "title": "Lil Baby - Mr. Do Something",
+     "channel": "LilBabyVEVO",
+     "published": "2026-11-06T05:00:37Z",
+     "hours_since": 125,
+     "views": 2161572,
+     "url": "https://www.youtube.com/watch?v=3EeJub4m1-E",
+     "region": "GB",
+     "rank": 13
+    }
+   ],
+   "video": {
+    "id": "sXsY9gj5zXk",
+    "title": "Top Uh It",
+    "channel": "Lil Baby - Topic",
+    "published": "2026-11-06T05:03:57Z",
+    "hours_since": 125,
+    "views": 1031819,
+    "url": "https://www.youtube.com/watch?v=sXsY9gj5zXk",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s66",
+   "label": "Hilary Duff receives Billboard Outstanding Pop Tour award",
+   "artists": [
+    "Hilary Duff"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-11T08:17:49+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Hilary Duff Reflects On Her Massive Lucky Me Tour: ‘I’m Really Proud of Myself, and That’s Hard to Feel As An Adult’",
+     "link": "https://www.billboard.com/music/pop/hilary-duff-outstanding-pop-tour-of-the-year-award-lucky-me-1236379254/",
+     "published": "2026-11-11T08:17:49+00:00",
+     "summary": "The current Billboard cover star received the Outstanding Pop Tour of the Year Award at the 2026 Billboard Live Music Summit in Los Angeles."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "Birdman beats Lil Wayne tour bus driver lawsuit",
+   "artists": [
+    "Birdman"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-11T05:04:11+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Birdman Beats Lil Wayne Tour Bus Driver's Lawsuit",
+     "link": "https://allhiphop.com/news/birdman-beats-lil-wayne-tour-bus-drivers-lawsuit/",
+     "published": "2026-11-11T05:04:11+00:00",
+     "summary": "Birdman and Cash Money leave the long-running civil case after a Georgia judge rejects the driver's evidence against them."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Keefe D gets 120-day deadline in Tupac murder appeal",
+   "artists": [],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-11T04:01:21+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Keefe D Gets 120-Day Deadline In Tupac Murder Appeal",
+     "link": "https://allhiphop.com/news/keefe-d-nevada-tupac-murder-appeal-briefing-deadline/",
+     "published": "2026-11-11T04:01:21+00:00",
+     "summary": "Keefe D's appeal enters its next stage in Nevada as his legal team faces a briefing deadline after Michael Sanft's death."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Maroon 5 releases Japan commemorative editions for Tokyo Dome shows",
+   "artists": [
+    "Maroon 5"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "NME Japan",
+    "THE FIRST TIMES",
+    "ライブドアニュース"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "NME Japan",
+    "THE FIRST TIMES",
+    "ライブドアニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-10T18:40:28+00:00",
+   "articles": [
+    {
+     "outlet": "THE FIRST TIMES",
+     "title": "マルーン5、東京ドーム公演を記念した来日記念盤が発売決定！最新ベスト盤のLP、初の7インチ紙ジャケットCDなどが登場 - 画像一覧（3/6）",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMzI1R3dCcnJ4b01OakdzQ1UwZlpNMXBfY0t6TGRQMXRUOE81bzlMbUo0MTU2MDlWNm85MUU2Z2VTMUtab3BITzB1eG0yWGNfb3RhbkVtaEZBdHJZdktjVFljeUlsZDBpSExfNWFWUW5WVWQtOXY2ZnlyQk1nTU9Zcw?oc=5",
+     "published": "2026-11-10T18:40:28+00:00",
+     "summary": "マルーン5、東京ドーム公演を記念した来日記念盤が発売決定！最新ベスト盤のLP、初の7インチ紙ジャケットCDなどが登場 - 画像一覧（3/6） THE FIRST TIMES"
+    },
+    {
+     "outlet": "THE FIRST TIMES",
+     "title": "マルーン5、東京ドーム公演を記念した来日記念盤が発売決定！最新ベスト盤のLP、初の7インチ紙ジャケットCDなどが登場 - 画像一覧（6/6）",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMnZVNlBOSkJORmI5WkxZemJ4cXNSdlNkOE0zQ1hBY2szTGhtRXVYWWR6SUMxRFRtd2ZwcGdlMGxCVGFGd3MtTEF4OWlHREVRQ2d1aUppUk9zVU5ST09hSWRWZDJ3dndQSWRDeXJOazdwSzN2RWVOY2xfVHVNMUpxZA?oc=5",
+     "published": "2026-11-10T18:11:38+00:00",
+     "summary": "マルーン5、東京ドーム公演を記念した来日記念盤が発売決定！最新ベスト盤のLP、初の7インチ紙ジャケットCDなどが登場 - 画像一覧（6/6） THE FIRST TIMES"
+    },
+    {
+     "outlet": "THE FIRST TIMES",
+     "title": "マルーン5、東京ドーム公演を記念した来日記念盤が発売決定！最新ベスト盤のLP、初の7インチ紙ジャケットCDなどが登場",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DUDM0MjlVQ2lya192UDVIbU4yejdRSkI0V1lkcUVoVjlEeDFERDgxb1lRQkc1dEN1R3NHX2x6Z0VyRy0xUzFnaDY1bFZNWGN4TGVqbXV0Slc?oc=5",
+     "published": "2026-11-10T12:16:14+00:00",
+     "summary": "マルーン5、東京ドーム公演を記念した来日記念盤が発売決定！最新ベスト盤のLP、初の7インチ紙ジャケットCDなどが登場 THE FIRST TIMES"
+    },
+    {
+     "outlet": "ライブドアニュース",
+     "title": "マルーン5、東京ドーム公演を記念した来日記念盤が発売決定！最新ベスト盤のLP、初の7インチ紙ジャケットCDなどが登場",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uWWdrcWtDeGxjb3VheDNRblhmZC1OLTRwcU5BdUpqRWlycVZ6SjhWT0MzeUR1NnRWTFdQelp4R2xxNS1GeTlPWlVObXk1Y1BRY1V0Q2V4aENXOVVTN3ZR?oc=5",
+     "published": "2026-11-10T11:37:22+00:00",
+     "summary": "マルーン5、東京ドーム公演を記念した来日記念盤が発売決定！最新ベスト盤のLP、初の7インチ紙ジャケットCDなどが登場 ライブドアニュース"
+    },
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "マルーン5、来日記念盤LP＆7インチ紙ジャケットCD 1/8発売",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBdkZTdVhvSkR2bERSWC1ZcUpnUXJid0tONUdPaHo2R2pvRXMzXy1kUEpOWktJT3RNdDMwWEM3Y2dZdmFLNU9Pb29QZlI4TWgyVWRldmhPanhaaDVSY0xjSG1R?oc=5",
+     "published": "2026-11-10T06:45:00+00:00",
+     "summary": "マルーン5、来日記念盤LP＆7インチ紙ジャケットCD 1/8発売 Billboard JAPAN"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "マルーン5、東京ドーム公演を記念した各種来日記念盤が2027年1月8日にリリースされることが決定",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5tbGl6Yk9BT3RoZ1FLVDVXTWhZZ0RXTVVvZDktU3czVG85RTVDOHU1WDVDWEE0dFMwS21Lc040MVdsTUZNZGc?oc=5",
+     "published": "2026-11-10T06:00:37+00:00",
+     "summary": "マルーン5、東京ドーム公演を記念した各種来日記念盤が2027年1月8日にリリースされることが決定 NME Japan"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Molly Tuttle announces first Japan performances",
+   "artists": [
+    "Molly Tuttle"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "CDJournal.com",
+    "Yahoo!ニュース",
+    "au Webポータル",
+    "千葉テレビ放送株式会社"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "CDJournal.com",
+    "Yahoo!ニュース",
+    "au Webポータル",
+    "千葉テレビ放送株式会社"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-11T04:20:06+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "モリー・タトル、初来日公演をブルーノート東京で開催 ケッチ・セコーとのデュオ（CDJournal）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTMDB3N3ZnaHhXNHpsbVJkb0phOUprdlVDTkc0VWxzRWw1Qk9JUlU2LWdEa2paRHpLRldmTUIzdTFGaVhZQURLRExVV3pVNE9mTjgtTkxmb2R5V25heGtrWmh1TnRORTdIcTJ3dl9wUF9obXJuNWFlRW9WZHdKWU0?oc=5",
+     "published": "2026-11-11T04:20:06+00:00",
+     "summary": "モリー・タトル、初来日公演をブルーノート東京で開催 ケッチ・セコーとのデュオ（CDJournal） Yahoo!ニュース"
+    },
+    {
+     "outlet": "千葉テレビ放送株式会社",
+     "title": "モリー・タトル、初来日公演をブルーノート東京で開催 ケッチ・セコーとのデュオ",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MMkx6elJ2UGVJaVJ6d1RoWVpKN3NDbkxXLW1ISDlFZDhxUlc3VmxFY1ZqTC1RUUc3UXItOTJaNElZUFVUcEJEbUY3UTAwVDBxRlRxSVFJV0Z5WXlOTGlz?oc=5",
+     "published": "2026-11-11T03:57:30+00:00",
+     "summary": "モリー・タトル、初来日公演をブルーノート東京で開催 ケッチ・セコーとのデュオ 千葉テレビ放送株式会社"
+    },
+    {
+     "outlet": "au Webポータル",
+     "title": "モリー・タトル、初来日公演をブルーノート東京で開催 ケッチ・セコーとのデュオ",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WYkd4MXQ2elNSaVY5bkkybmgwRXdBN21wd2E4V0RyNGpTLURwWUJPS2dJTzZjT2o1NHdTZUg4Y256ZFBpSFVyRjQ2bGM3bmFoX2gyQUN4OGw3bmZ2RXgxRHlpcVk1cjRsOV9KcF9R?oc=5",
+     "published": "2026-11-11T03:57:29+00:00",
+     "summary": "モリー・タトル、初来日公演をブルーノート東京で開催 ケッチ・セコーとのデュオ au Webポータル"
+    },
+    {
+     "outlet": "CDJournal.com",
+     "title": "モリー・タトル、初来日公演をブルーノート東京で開催 ケッチ・セコーとのデュオ",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zcGZENWJNUkVybjJtRzJFVnZXbUc0YkE5UVhTRUZXRTlJYklzcHlLY1M2SU1Da1VLVWdaNkp4M0MtSUgzUUktOUJXbVpqb09mR1hMS0JLamV6MnJqeHBF?oc=5",
+     "published": "2026-11-11T03:44:00+00:00",
+     "summary": "モリー・タトル、初来日公演をブルーノート東京で開催 ケッチ・セコーとのデュオ CDJournal.com"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s26",
+   "label": "Bleech 9:3 announces February 2027 Japan performances",
+   "artists": [
+    "Bleech 9:3"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "NME Japan",
+    "UNIVERSAL MUSIC JAPAN",
+    "amass",
+    "クリエイティブマン"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "NME Japan",
+    "UNIVERSAL MUSIC JAPAN",
+    "amass",
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-11T03:32:18+00:00",
+   "articles": [
+    {
+     "outlet": "UNIVERSAL MUSIC JAPAN",
+     "title": "アイルランド発、痛みと苦悩を轟音に乗せて鳴らす新鋭ポストパンク・バンド Bleech 9:3 初来日決定！",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yTVFzeVltdFI1ZTQ5Sjl0ajZYbmNKNkJla3F4cGltMVk4Nkk4WTBmNXo4X2VMS3NzV0FFYktQdnIwRkpDMnViQTRESmxXdWpxN1k1b1E1SkJ0THlnMHlqbU5yVGEzZzB3aGpINDZn?oc=5",
+     "published": "2026-11-11T03:32:18+00:00",
+     "summary": "アイルランド発、痛みと苦悩を轟音に乗せて鳴らす新鋭ポストパンク・バンド Bleech 9:3 初来日決定！ UNIVERSAL MUSIC JAPAN"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ブリーチ・ナイン・スリー、2027年2月に来日公演が決定",
+     "link": "https://nme-jp.com/news/174222/",
+     "published": "2026-11-11T03:12:38+00:00",
+     "summary": "ブリーチ・ナイン・スリーは2027年2月に来日公演を行うことが決定している。"
+    },
+    {
+     "outlet": "amass",
+     "title": "Bleech 9:3 初来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFB5RU9neVhoQzkzUXgyLThMenpPdkNsekN0Q3RBXzdhTktxMjlSTldGWU9xSTNNVm1lbmgtTA?oc=5",
+     "published": "2026-11-11T03:07:00+00:00",
+     "summary": "Bleech 9:3 初来日公演決定 amass"
+    },
+    {
+     "outlet": "クリエイティブマン",
+     "title": "BLEECH 9:3 新規公演決定！",
+     "link": "https://www.creativeman.co.jp/2026/11/11/109061/",
+     "published": "2026-11-11T03:01:42+00:00",
+     "summary": "アイルランド・ダブリン発、痛みと苦悩を轟音に乗せて鳴らす新鋭ポストパンク・バンドBleech 9:3 初来日決定！ 公演詳細はこちら The post BLEECH 9:3 新規公演決定！ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s27",
+   "label": "Bon Jovi announces Tokyo Dome performances after 9 years",
+   "artists": [
+    "Bon Jovi"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 1,
+   "outlets": [
+    "山陽新聞",
+    "激ロック"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "山陽新聞",
+    "激ロック"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-11T03:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "激ロック",
+     "title": "BON JOVI、9年ぶりの東京ドーム公演を記念した公式バンド・マーチの予約受付がいよいよ11/12（木）23:59で終了！人気の「Dagger Heart」バンドTシャツやアルバム『Forever』デザインのアイテムなど、ご予約はお早めに！",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TQkRVd0tqaU9YYWp4Rk1MRHd4VDBlQW1JM1QtTUFrLXlWWHhaNWxvOWFUMWxORlVHRVNlcEo0cjVKNmt2QmdKWTdQOGFpa05LR2RmaHZ4U0Ewc3JKckdUUkpOWEo4UkNWaHVqa085N2NId3ZWaFFWZ19R?oc=5",
+     "published": "2026-11-11T03:00:00+00:00",
+     "summary": "BON JOVI、9年ぶりの東京ドーム公演を記念した公式バンド・マーチの予約受付がいよいよ11/12（木）23:59で終了！人気の「Dagger Heart」バンドTシャツやアルバム『Forever』デザインのアイテムなど、ご予約はお早めに！ 激ロック"
+    },
+    {
+     "outlet": "山陽新聞",
+     "title": "ボン・ジョヴィ、9年ぶり来日公演決定 声帯手術から奇跡の復活、来年2月に東京ドーム2Days",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYWp3MGxobkRTczU5VzlwVWhTVlBuTnZLR1dkazJKQnJ6RjRzUWdkOUZvOGp6dDdSTWZlMFZFME5qdDZPTjVOZ0dNT2p6SEQwcG91NGplVXJSVFRoUzdQZnlyTEUtcERpdzF3Z3o3WjUwTzBHZU1lZDFPMm9uNDlFXzBfUWZTWFgwVC1uUm1XLUViYUVTVTBGWFdYc0IwNHA2dmYzZ1AwV2d0OUQwMEF2OG1RZHBjN3IyZlEtcFNYTGN0MlR6cDlqWWYwa1FaMnZFbTBvMEhWd3E1UW9YekRoZ29B?oc=5",
+     "published": "2026-11-10T16:41:51+00:00",
+     "summary": "ボン・ジョヴィ、9年ぶり来日公演決定 声帯手術から奇跡の復活、来年2月に東京ドーム2Days 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Les Imprimés announces April 2027 Japan performances",
+   "artists": [
+    "Les Imprimés"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "lmusic.tokyo"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "lmusic.tokyo"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-11T03:55:35+00:00",
+   "articles": [
+    {
+     "outlet": "lmusic.tokyo",
+     "title": "Les Imprimés、2027年4月に来日公演が決定",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5BSUQxN2R0bHB3YURRVVpBRVVKS1A3VUNaeTNGWTNrNk5nQlVGNGZyXzJ2NVNheEt0SmxIdWdzUUtBVnFCVmVZ?oc=5",
+     "published": "2026-11-11T03:55:35+00:00",
+     "summary": "Les Imprimés、2027年4月に来日公演が決定 lmusic.tokyo"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "Asia announces March 2027 Japan performances",
+   "artists": [
+    "Asia"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-11T02:52:56+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "ASIA、2027年3月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE93MnNRRXE1dmVYN1RTR3NrU1FJdG9IQUVrX01XQjBOUFB5eVN2dkZ2Z25QbmFraHYzN2ZxWEFoTkZwT21GMzdr?oc=5",
+     "published": "2026-11-11T02:52:56+00:00",
+     "summary": "ASIA、2027年3月に来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s80",
+   "label": "Dept performs first Japan show at KrosSphere",
+   "artists": [
+    "Dept"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "ぴあエンタメ情報"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "ぴあエンタメ情報"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-11T00:37:37+00:00",
+   "articles": [
+    {
+     "outlet": "ぴあエンタメ情報",
+     "title": "タイ発Dept、初来日で響かせた甘い歌声と轟音 言葉を越えてつながった『KrosSphere』初公演オフィシャルレポート",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56eldHSExXRzZBZzdIWmo3a3N6bnNQakI5TFRTa0VnaTNTbE9jQWpPcmtiUDFTOElYZVV3cWR2MlBtZmk2a1hHSmNQR05Tdkh6Z3lVaWlZd0NXajhZQnRHOXdYZ2IzWlFfaDNqNDFkdU1ZNXVCeVhWRw?oc=5",
+     "published": "2026-11-11T00:37:37+00:00",
+     "summary": "タイ発Dept、初来日で響かせた甘い歌声と轟音 言葉を越えてつながった『KrosSphere』初公演オフィシャルレポート ぴあエンタメ情報"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "DVBBS announces first V2 Tokyo performance",
+   "artists": [
+    "DVBBS"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "EDM MAXX"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "EDM MAXX"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-10T10:59:36+00:00",
+   "articles": [
+    {
+     "outlet": "EDM MAXX",
+     "title": "57億回再生を誇る「Tsunami」で世界へ躍り出たカナダの兄弟DJデュオ DVBBS、12月3日にV2TOKYO初出演決定",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBkcWRXM1RzUmI4aHZ2cWhRRmJqVkxnYWpfeC1XYjlEV3M1UVBoXzE5a2J6eUw2Q0NGZmluOUl0QzFTQzVX?oc=5",
+     "published": "2026-11-10T10:59:36+00:00",
+     "summary": "57億回再生を誇る「Tsunami」で世界へ躍り出たカナダの兄弟DJデュオ DVBBS、12月3日にV2TOKYO初出演決定 EDM MAXX"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Bad Bunny and Shakira's Madrid residency reshapes Latin tour scene",
+   "artists": [
+    "Bad Bunny",
+    "Shakira"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-11T15:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "バッド・バニーとシャキーラによる圧巻のレジデンシー公演が、ラテン・ミュージックのツアーシーンをどう塗り替えたのか",
+     "link": "https://www.billboard-japan.com/d_news/detail/167354",
+     "published": "2026-11-11T15:30:00+09:00",
+     "summary": "スペイン・マドリードには2つの主要スタジアムがある。しかし昨年の10月、ライブ・ネーションがシャキーラの公演会場を探…"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s82",
+   "label": "Sakura Ado directs documentary on The Clash",
+   "artists": [
+    "The Clash"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "NME Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-11T03:01:53+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "ザ・クラッシュ、ダニー・ガルシアによるドキュメンタリーが日本劇場初公開されることが決定",
+     "link": "https://nme-jp.com/news/174216/",
+     "published": "2026-11-11T03:01:53+00:00",
+     "summary": "ザ・クラッシュはダニー・ガルシアによるドキュメンタリー『ザ・クラッシュ 栄光と墜落』が2月6日より新宿K‘s cinema、UPLINK吉祥寺他にて全国順次公開されることが決定している。"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s90",
+   "label": "Jordan Chanteur emerges as Canada's rising electronic star",
+   "artists": [
+    "Jordan Chanteur"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "The Fader"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-10T17:10:59-05:00",
+   "articles": [
+    {
+     "outlet": "The Fader",
+     "title": "Jordan Chanteur wants to be Canada’s next big star",
+     "link": "https://www.thefader.com/2026/11/10/jordan-chanteur-eve-citrouelles-hold-me-song-review",
+     "published": "2026-11-10T17:10:59-05:00",
+     "summary": "The 15-year-old electronic singer is poised to make waves with his CTi-approved debut EP The Eve of Citrouelles ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s81",
+   "label": "Sakura Ado performs at Halloween concert celebrating 100 most-played tracks",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-10T14:15:49+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "The 100 most-played tracks in Ibiza this year have been revealed",
+     "link": "https://djmag.com/news/100-most-played-tracks-ibiza-year-have-been-revealed",
+     "published": "2026-11-10T14:15:49+00:00",
+     "summary": "Prospa's 'Free Your Mind', with Cloonee and Sybil, leads the list of the White Isle's songs of summer 2026"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s74",
+   "label": "U2's The Edge wrote 'Elf' sequel that was shelved",
+   "artists": [
+    "U2"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-10T10:52:29+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "U2’s The Edge wrote a sequel to ‘Elf’ that was shelved",
+     "link": "https://www.nme.com/news/film/u2-the-edge-a-sequel-elf-shelved-will-ferrell-3975541",
+     "published": "2026-11-10T10:52:29+00:00",
+     "summary": "“It just, as so many things do, fizzled out” The post U2’s The Edge wrote a sequel to ‘Elf’ that was shelved appeared first on NME ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "Dirty Projectors release new single 'Jumbotron'",
+   "artists": [
+    "Dirty Projectors"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "NME Japan",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-11T07:00:06+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "ダーティー・プロジェクターズ、ニュー・シングル“Jumbotron”の音源が公開",
+     "link": "https://nme-jp.com/news/174232/",
+     "published": "2026-11-11T07:00:06+00:00",
+     "summary": "ダーティー・プロジェクターズはニュー・シングル“Jumbotron”の音源が公開されている。"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Dirty Projectors Plot 2027 Tour, Drop New Song",
+     "link": "https://pitchfork.com/story/dirty-projectors-plot-2027-tour-drop-new-song/",
+     "published": "2026-11-10T15:00:00+00:00",
+     "summary": "David Longstreth will perform solo sets across North America and Europe"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s31",
+   "label": "King Gizzard & The Lizard Wizard announce new album Entropy and 2027 tour",
+   "artists": [
+    "King Gizzard & The Lizard Wizard"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "Pitchfork"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-10T22:39:03+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "King Gizzard & the Lizard Wizard Announce New Album Entropy, Two North American Tours",
+     "link": "https://pitchfork.com/story/king-gizzard-and-the-lizard-wizard-announce-new-album-entropy-two-north-american-tours/",
+     "published": "2026-11-10T22:39:03+00:00",
+     "summary": "It’s a companion LP to their last album, Alien Metal"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "King Gizzard & The Lizard Wizard Announce New Album Entropy and 2027 North American Tour",
+     "link": "https://consequence.net/2026/11/king-gizzard-and-the-lizard-wizard-entropy-2027-tours/",
+     "published": "2026-11-10T17:08:16+00:00",
+     "summary": "The Australian band's new collection of psychedelic techno tunes comes out in December with the tour dates starting in August 2027. King Gizzard & The Lizard Wizard Announce New Album Entropy and 2027 North American Tour Travis Bland"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s47",
+   "label": "Ecco2k announces new album 'Echo'",
+   "artists": [
+    "Ecco2k"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Pitchfork",
+    "The Fader"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-10T19:02:53+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Ecco2k Sets New Album Echo",
+     "link": "https://pitchfork.com/story/ecco2k-sets-new-album-echo/",
+     "published": "2026-11-10T19:02:53+00:00",
+     "summary": "The follow-up to 2019’s E arrives this week"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "Ecco2k announces new album Echo dropping on Thursday",
+     "link": "https://www.thefader.com/2026/11/10/ecco2k-first-album-six-years-e",
+     "published": "2026-11-10T14:16:37-05:00",
+     "summary": "The Drain Gang founder tells a coming-of-age story about his travels and longing in his newest project."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s46",
+   "label": "Palehound announce new album 'You Sing Like You're Joking'",
+   "artists": [
+    "Palehound"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-10T15:09:35+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Palehound Announces New Album You Sing Like You’re Joking",
+     "link": "https://pitchfork.com/story/palehound-announces-new-album-you-sing-like-youre-joking/",
+     "published": "2026-11-10T15:09:35+00:00",
+     "summary": "Water From Your Eyes’ Rachel Brown directed the music video for lead single “Natural Disasters”"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Palehound Return With First Album in Nearly Four Years",
+     "link": "https://www.rollingstone.com/music/music-news/palehound-you-sing-like-youre-joking-new-album-1235653001/",
+     "published": "2026-11-10T15:00:00+00:00",
+     "summary": "You Sing Like You’re Joking is set for release on February 5"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 8
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 6
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 25
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 7,
+   "kept": 4
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 83,
+   "kept": 18
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 27,
+   "kept": 9
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 6
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 16
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 5
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 29
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 35,
+   "kept": 16
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 32,
+   "kept": 7
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 0
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 27
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 1,
+   "kept": 1
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 5,
+   "kept": 0
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 21,
+   "kept": 11
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 2,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 25,
+   "kept": 6
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 17,
+   "kept": 4
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 15,
+   "kept": 5
+  }
+ ],
+ "cost": {
+  "usd": 0.2748,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 22166,
+    "output_tokens": 10845
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 17297,
+    "output_tokens": 6461
+   }
+  ]
+ }
+}
