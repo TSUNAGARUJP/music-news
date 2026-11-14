@@ -46,17 +46,25 @@ def is_quiet(now: datetime, wcfg: dict) -> bool:
     return now.hour >= q_from or now.hour < q_until
 
 
-def wait_for_post_time(wcfg: dict) -> None:
-    """起動が投稿時刻より早ければ、その時刻まで待つ（投稿する曜日だけ）。"""
-    now = datetime.now(JST)
+def wait_for_post_time(wcfg: dict, now: datetime | None = None, sleep=time.sleep) -> bool:
+    """起動が投稿時刻より早ければ、その時刻まで待つ（投稿する曜日だけ）。
+
+    投稿時刻まで5時間30分より長く空いているときは待ちきれないので、この回は投稿せず
+    後の起動に任せる（False を返す）。それ以外は待ってから True を返す。
+    """
+    now = now or datetime.now(JST)
     h, m = _hm(wcfg.get("post_time", "18:00"))
     target = now.replace(hour=h, minute=m, second=0, microsecond=0)
     if now.weekday() != int(wcfg.get("post_weekday", 5)) or now >= target:
         log(f"待たずに進みます（現在 {now:%m/%d %H:%M}）")
-        return
-    secs = min((target - now).total_seconds(), MAX_WAIT)
+        return True
+    secs = (target - now).total_seconds()
+    if secs > MAX_WAIT:
+        log(f"{target:%H:%M} まで待ちきれないため、この回は投稿せず後の起動に任せます（現在 {now:%H:%M}）")
+        return False
     log(f"{target:%H:%M} まで待ちます（約{secs / 60:.0f}分）")
-    time.sleep(secs)
+    sleep(secs)
+    return True
 
 
 def already_posted(today: str, days: int = 3) -> str:
@@ -320,7 +328,10 @@ def main() -> int:
 
     wcfg = tomllib.loads((ROOT / "weekly.toml").read_text(encoding="utf-8"))["weekly"]
     if args.wait:
-        wait_for_post_time(wcfg)
+        go = wait_for_post_time(wcfg)
+        if os.environ.get("GITHUB_OUTPUT"):  # 次の手順（投稿）に進むかどうかをGitHubに伝える
+            with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as f:
+                f.write(f"post={'true' if go else 'false'}\n")
         return 0
     prices = tomllib.loads((ROOT / "config.toml").read_text(encoding="utf-8")).get("prices", {})
     today = today_jst()
