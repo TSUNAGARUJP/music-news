@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-15",
+ "start": "2026-11-09",
+ "intro": "今週はCoachella 2027のラインナップ発表をはじめ、フェスの大型ニュースが目立ちました。DJ機材の新製品や人気DJの来日情報もあります。",
+ "cost_usd": 0.1877,
+ "news": [
+  {
+   "ref": "11-12:s21",
+   "title_ja": "Coachella 2027のラインナップ発表、SZAやDua Lipaら",
+   "summary_ja": "Coachella 2027のラインナップが発表され、SZA、Tame Impala、Dua Lipa、Madonnaらの名前が並びました。Daddy YankeeやBABYMONSTERの出演も報じられています。",
+   "point_ja": "2日続けて報じられ、AP通信やBBCを含む11媒体が報道。関連動画は4,253万回以上再生されています。"
+  },
+  {
+   "ref": "11-10:s56",
+   "title_ja": "『GTA VI』の音楽フェスがマイアミで開催、Travis Scottらが出演",
+   "summary_ja": "11月21日にマイアミで『Grand Theft Auto VI』の一夜限りの音楽フェスが開催されます。Cardi B、Don Toliver、Travis Scottが中心で、Kodak BlackやDJ Nick Leónも出演予定です。",
+   "point_ja": "AP通信を含む7媒体が報じ、その日のトップに選出。関連動画は125万回以上再生されています。"
+  },
+  {
+   "ref": "11-13:s4",
+   "title_ja": "Duran DuranのドラマーRoger Taylor、耳鳴りで脱退へ",
+   "summary_ja": "現地時間2026年11月12日、Duran Duranの長年のドラマーRoger Taylorが、耳鳴りと診断されたことを受けてバンドを離れると報じられました。Nile Rodgersも賛辞を送っています。",
+   "point_ja": "BBCやThe Guardianを含む6媒体が報じてその日のトップに選ばれ、翌日もCNNなどが続報しました。"
+  }
+ ],
+ "dj": [
+  {
+   "ref": "11-11:s68",
+   "title_ja": "AlphaTheta、DJM-750MK2の後継4chミキサー「DJM-A7」発表",
+   "summary_ja": "AlphaThetaが、DJM-750MK2の後継となる4chミキサー「DJM-A7」を発表しました。DJM-A9のレイアウトを、より小さなブースにも持ち込むモデルと報じられています。",
+   "dj_point_ja": "DJM-A9と同じ系統のレイアウトなので、クラブで使われるミキサーの操作に慣れる練習にもつながります。"
+  },
+  {
+   "ref": "11-14:s0",
+   "title_ja": "Alan Walkerが緊急来日、六本木で無料ファンミーティング",
+   "summary_ja": "Alan Walkerが11月19日に東京・六本木で、無料のファンミーティングと公開収録を行うと発表されました。参加は抽選による招待制で、応募締切は17日と報じられています。",
+   "dj_point_ja": "世界的DJに直接会えるチャンスです。トップDJの話から、DJとしての活動のヒントが得られるかもしれません。"
+  }
+ ]
+}
