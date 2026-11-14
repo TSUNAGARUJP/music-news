@@ -15,12 +15,12 @@ import tomllib
 import traceback
 import urllib.error
 import urllib.request
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 import ai
 import notify
-from util import fmt_views, log, today_jst
+from util import JST, fmt_views, log, today_jst
 
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
@@ -28,6 +28,48 @@ WEEKLY = DATA / "weekly"
 WEEKDAYS = "月火水木金土日"
 COLORS = {"Dance": 0x0078BF, "POP": 0xFF48B0, "Hip-Hop": 0xFFD900}
 UA = "DiscordBot (https://github.com/TSUNAGARUJP/music-news, 1.0)"  # 既定の名前だと拒否されることがある
+SUPPRESS_NOTIFICATIONS = 1 << 12  # Discordの「通知なし」投稿
+MAX_WAIT = 5.5 * 3600             # GitHubの1回の実行は最長6時間なので、待つのは5時間30分まで
+
+
+# ---------- 投稿の時刻 ----------
+# GitHubの予約実行は数時間遅れることがあるため、早めに起動して投稿時刻まで待ち、
+# 遅れて深夜にずれ込んだときは、メンションを外して通知なしで投稿する。
+
+def _hm(s: str) -> tuple[int, int]:
+    h, m = str(s).split(":")
+    return int(h), int(m)
+
+
+def is_quiet(now: datetime, wcfg: dict) -> bool:
+    q_from, q_until = int(wcfg.get("quiet_from", 21)), int(wcfg.get("quiet_until", 9))
+    return now.hour >= q_from or now.hour < q_until
+
+
+def wait_for_post_time(wcfg: dict) -> None:
+    """起動が投稿時刻より早ければ、その時刻まで待つ（投稿する曜日だけ）。"""
+    now = datetime.now(JST)
+    h, m = _hm(wcfg.get("post_time", "18:00"))
+    target = now.replace(hour=h, minute=m, second=0, microsecond=0)
+    if now.weekday() != int(wcfg.get("post_weekday", 5)) or now >= target:
+        log(f"待たずに進みます（現在 {now:%m/%d %H:%M}）")
+        return
+    secs = min((target - now).total_seconds(), MAX_WAIT)
+    log(f"{target:%H:%M} まで待ちます（約{secs / 60:.0f}分）")
+    time.sleep(secs)
+
+
+def already_posted(today: str, days: int = 3) -> str:
+    """直近数日以内に、すでに週まとめを投稿していればその日付を返す（予備の起動で二重投稿しないため）。"""
+    end = date.fromisoformat(today)
+    for p in sorted(WEEKLY.glob("????-??-??.json"), reverse=True):
+        try:
+            d = date.fromisoformat(p.stem)
+        except ValueError:
+            continue
+        if end - timedelta(days=days) < d <= end:
+            return p.stem
+    return ""
 
 
 # ---------- 1週間分の話題を集める ----------
@@ -195,7 +237,7 @@ def _links(c: dict) -> str:
     return text
 
 
-def build_payload(result: dict, wcfg: dict, start: str, end: str) -> dict:
+def build_payload(result: dict, wcfg: dict, start: str, end: str, quiet: bool = False) -> dict:
     embeds = []
     sections = [("洋楽ニュース", result["news"], "point_ja", "なぜ話題？"),
                 ("DJ・クラブ", result["dj"], "dj_point_ja", "DJ的ポイント")]
@@ -230,13 +272,16 @@ def build_payload(result: dict, wcfg: dict, start: str, end: str) -> dict:
     if subtitle:
         content += f"{subtitle}\n"
     content += result["intro"]
-    mention = str(wcfg.get("mention", "")).strip()
+    mention = "" if quiet else str(wcfg.get("mention", "")).strip()
     if mention:
         content = f"{mention}\n{content}"
     # @everyone / @here を書いたときだけ、その通知を有効にする（本文中の誤ったメンションは飛ばさない）
     parse = ["everyone"] if mention in ("@everyone", "@here") else []
-    return {"username": wcfg.get("username", "今週の音楽話題"), "content": content[:2000],
-            "embeds": embeds[:10], "allowed_mentions": {"parse": parse}}
+    payload = {"username": wcfg.get("username", "今週の音楽話題"), "content": content[:2000],
+               "embeds": embeds[:10], "allowed_mentions": {"parse": parse}}
+    if quiet:  # 深夜・早朝は通知を鳴らさない
+        payload["flags"] = SUPPRESS_NOTIFICATIONS
+    return payload
 
 
 def post_discord(payload: dict) -> None:
@@ -269,13 +314,23 @@ def post_discord(payload: dict) -> None:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true", help="投稿せず内容を表示する")
+    ap.add_argument("--wait", action="store_true", help="投稿時刻まで待つだけ")
     args = ap.parse_args()
     dry = args.dry_run or os.environ.get("DRY_RUN", "").lower() == "true"
 
     wcfg = tomllib.loads((ROOT / "weekly.toml").read_text(encoding="utf-8"))["weekly"]
+    if args.wait:
+        wait_for_post_time(wcfg)
+        return 0
     prices = tomllib.loads((ROOT / "config.toml").read_text(encoding="utf-8")).get("prices", {})
     today = today_jst()
     start = (date.fromisoformat(today) - timedelta(days=wcfg["days"] - 1)).isoformat()
+    scheduled = os.environ.get("SCHEDULED", "").lower() == "true"
+    if scheduled and not dry:
+        done = already_posted(today)
+        if done:
+            log(f"今週の分は {done} に投稿済みなので、何もしません")
+            return 0
     try:
         pool, used_days = load_week(wcfg["days"], today)
         log(f"{len(used_days)}日分のまとめから、候補{len(pool)}件")
@@ -283,7 +338,10 @@ def main() -> int:
             raise RuntimeError(f"候補が{len(pool)}件しかありません（毎日のまとめが動いているか確認してください）")
         costs: list = []
         result = select(pool, wcfg, recent_weekly(today), start, today, costs)
-        payload = build_payload(result, wcfg, start, today)
+        quiet = is_quiet(datetime.now(JST), wcfg)
+        if quiet:
+            log("深夜・早朝のため、@everyoneを外して通知なしで投稿します")
+        payload = build_payload(result, wcfg, start, today, quiet=quiet)
         usd = sum(c["input_tokens"] / 1e6 * prices.get(c["model"], [0, 0])[0]
                   + c["output_tokens"] / 1e6 * prices.get(c["model"], [0, 0])[1] for c in costs)
         log(f"AI費用の目安：${usd:.3f}")
