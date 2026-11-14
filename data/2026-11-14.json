@@ -1,0 +1,2474 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T09:11:30.237622+00:00",
+ "article_count": 284,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日はAIと権利（Suno訴訟に出資者のNVIDIAが関わる）、サンプル使用の許可と作り手の価値観など、業界の仕組みと倫理に関わる話題が目立ちます。一方で、アニメ発のグループのワールドツアーや、Dolly Partonの最後の録音を収めたU2の新作など、話題の大きいエンタメ寄りのニュースも出ています。",
+  "top": [
+   {
+    "id": "s19",
+    "title_ja": "Kanye West、使用を拒否されたサンプルを巡る訴訟で和解",
+    "genre": "Hip-Hop",
+    "summary_ja": "ドイツのシンガーソングライターの楽曲のサンプルを巡る訴訟で、Kanye West（現Ye）が和解したと報じられています。彼女はホロコースト生存者の子孫で、Yeの反ユダヤ的な発言を理由にサンプリングを断ったと述べています。和解の条件などの詳細は、渡された情報には含まれていません。",
+    "why_ja": "Rolling Stoneが報じた話題です。サンプル使用の許可を、作り手が相手の言動を理由に拒否できるのかという、権利と価値観の両面から語れるテーマです。",
+    "debate_ja": "作り手が相手の言動を理由にサンプル使用を断るのはアリ？",
+    "line_point": "Kanye West、反ユダヤ発言を理由に使用を拒否されたサンプルを巡る訴訟で和解と報道",
+    "reels": [
+     {
+      "hook": "自分の曲、使わせたくない相手がいたら？",
+      "angle": "拒否の経緯と和解の事実を紹介→作品の権利と作り手の価値観の関係を論点に→自分の見解を述べる→断るのはアリかコメントで募集"
+     },
+     {
+      "hook": "サンプルって、勝手に使えないって知ってた？",
+      "angle": "サンプリングには原曲側の許可が要るという仕組みを図解し、今回は許可が下りなかったケースとして紹介。和解の詳細は未公表だと補足"
+     }
+    ]
+   },
+   {
+    "id": "s11",
+    "title_ja": "NVIDIAの投資部門、Suno訴訟での証言に抵抗",
+    "genre": "Dance",
+    "summary_ja": "AI音楽生成サービスSunoを巡る争いで、UniversalとSonyがSunoの事業について説明を求めています。これに対し、Sunoに出資しているNVIDIAの投資部門が、証言録取に抵抗していると報じられています。",
+    "why_ja": "AllHipHopが報じた話題です。Sunoは過去にもEminemの楽曲出版社などから提訴されており、AIと権利を巡る争いが出資者にまで広がりつつある点が注目です。",
+    "debate_ja": "AI音楽の責任、出資した企業も負うべき？",
+    "line_point": "Suno訴訟で、出資者のNVIDIA投資部門が大手レーベル側の証言要求に抵抗と報道",
+    "reels": [
+     {
+      "hook": "AI音楽の争い、ついにNVIDIAまで？",
+      "angle": "UniversalとSonyが説明を求め、出資者が抵抗という事実→出資者に責任はあるかを論点に→自分の見解→コメントで意見を募集"
+     },
+     {
+      "hook": "Suno訴訟、ここまでの流れを1分で",
+      "angle": "これまでのSunoを巡る訴訟の流れを時系列で整理し、今回は出資者に注目が移った点を解説。今後どうなるかは未確定だと添える"
+     }
+    ]
+   },
+   {
+    "id": "s27",
+    "title_ja": "Young Thug、Gunnaとの和解を呼びかけたQuavoに反応",
+    "genre": "Hip-Hop",
+    "summary_ja": "QuavoがYoung ThugとGunnaの和解を呼びかけました。これに対しYoung Thugは、自分が壊したわけではないものをなぜ自分が直すのか、という趣旨で応じたと報じられています。Offsetも、YSLのRICO裁判の後にGunnaを支持した理由をPopcastで語っています。",
+    "why_ja": "BillboardとXXLの2媒体が報じた話題です。仲間同士の関係修復に周囲がどこまで関わるべきか、という点で意見が分かれそうです。",
+    "debate_ja": "仲直りは周りが促すもの？本人たちに任せるべき？",
+    "line_point": "Quavoの和解呼びかけに、Young Thugは自分が直す話ではないという趣旨で反応",
+    "reels": [
+     {
+      "hook": "和解しろって言われて、できる？",
+      "angle": "Quavoの呼びかけとThugの返答という事実→周囲が仲裁するのはアリかを論点に→自分の見解→コメントで意見を募集"
+     },
+     {
+      "hook": "Young ThugとGunna、何があった？",
+      "angle": "YSLのRICO裁判を軸に、Offsetが語ったGunna支持の理由も交えて関係図で整理。不確かな点は報道ベースだと明示"
+     }
+    ]
+   },
+   {
+    "id": "s64",
+    "title_ja": "『KPop Demon Hunters』、2027年に35都市のアリーナツアー",
+    "genre": "POP",
+    "summary_ja": "アニメ作品『KPop Demon Hunters』のHUNTR/Xが、2027年に「Golden World Tour」を開催すると発表しました。北米・英国・欧州の35都市を回り、英国では来年10月にアリーナで7公演を行います。アニメのキャラクターをステージ上で実現すると報じられていますが、具体的な見せ方は渡された情報からは分かりません。",
+    "why_ja": "Billboard、Variety、NMEなど4媒体が報じ、関連動画は15時間で約34.8万回再生されています。アニメ発のグループがアリーナを回るという点が話題です。",
+    "debate_ja": "アニメ発のグループのライブ、観に行きたい？",
+    "line_point": "『KPop Demon Hunters』のHUNTR/X、2027年に北米・英国・欧州35都市のアリーナツアーへ",
+    "reels": [
+     {
+      "hook": "アニメのグループがアリーナツアー？",
+      "angle": "35都市ツアーという事実→キャラクターのライブは成立するかを論点に→自分の見解→行きたいかをコメントで募集"
+     },
+     {
+      "hook": "35都市・アリーナ規模の意味",
+      "angle": "発表された地域と公演規模を数字で整理。アニメ発の作品が現実のツアーに広がる流れとして解説し、演出の詳細は未発表と補足"
+     }
+    ]
+   },
+   {
+    "id": "s47",
+    "title_ja": "U2、9年ぶりの新作にDolly Partonの最後の録音",
+    "genre": "Other",
+    "summary_ja": "U2が、9年ぶりとなる全曲新作のフルアルバム『Carnaval de Luz』を発表しました。収録曲「Torn」には、亡くなったDolly Partonの最後の録音とされる歌唱が収められています。カントリー版も同時に公開されました。",
+    "why_ja": "「Torn」のリリック動画は28時間で約122万回再生され、YouTube音楽チャートで米国11位・英国19位に入っています。Varietyは、80年代より90年代の作風を思わせる作品だと評しています。",
+    "debate_ja": "故人の最後の歌声を新曲で届けること、どう感じる？",
+    "line_point": "U2が9年ぶりの新作『Carnaval de Luz』、「Torn」にDolly Partonの最後の録音",
+    "reels": [
+     {
+      "hook": "最後の歌声が、U2の新曲に",
+      "angle": "新作と「Torn」の事実→故人の録音を新曲で届けることを論点に→自分の見解→どう感じるかをコメントで募集"
+     },
+     {
+      "hook": "U2の新作、90年代寄りって本当？",
+      "angle": "Varietyのレビューを手がかりに、80年代と90年代のU2の作風を比較。カントリー版との聴き比べも提案"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s26",
+     "title_ja": "John SummitやDavid Guettaら、無料フェスに出演",
+     "note": "大学アメフトの決勝週末に、1月23〜24日ラスベガスで無料フェスを開催。"
+    },
+    {
+     "id": "s65",
+     "title_ja": "映画『Club Kid』の関連EP、Shygirlらが参加",
+     "note": "Arthur Russellの曲のカバー2曲を含む関連EPが公開された。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s60",
+     "title_ja": "Robyn、Eurovisionを「恥ずかしい」と批判",
+     "note": "RobynがEurovisionについて、とても恥ずかしいと語ったと報じられた。"
+    },
+    {
+     "id": "s72",
+     "title_ja": "Taylor Swift、13年ぶりにCMAでパフォーマンス",
+     "note": "『Toy Story 5』の提供曲がシングル部門にノミネートされている。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s41",
+     "title_ja": "IDK、Shady Recordsと契約しEminemとの新曲を公開",
+     "note": "J Dillaプロデュースの「WELCOME」がYouTube英国チャート10位に。"
+    },
+    {
+     "id": "s34",
+     "title_ja": "Offset、ギャンブルの問題を認める",
+     "note": "Offsetがギャンブルの問題を認め、Cardi Bとの関係の現状も語った。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s109",
+     "title_ja": "60年前のThe Beatles来日公演の未使用チケットを展示",
+     "note": "入間市民が所蔵していた来日公演の未使用チケットが、市立博物館で展示されるという話題。"
+    },
+    {
+     "id": "s81",
+     "title_ja": "テクノの生みの親、Juan Atkinsの名曲10選",
+     "note": "テクノのサウンドと、テクノという名前そのものを生んだと言われる人物の歩みを紹介できる。"
+    },
+    {
+     "id": "s96",
+     "title_ja": "電子音楽はテクノロジーにどう形作られたか",
+     "note": "新刊『Transients』を手がかりに、機材や技術が電子音楽を変えてきた裏話を紹介できる。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s0",
+    "title_ja": "Alan Walker、11月19日に緊急来日",
+    "note": "11/19東京・六本木で無料ファンミ＆interfm公開収録。抽選招待、応募締切17日"
+   }
+  ],
+  "tour_candidates": 3
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s30",
+   "label": "Rosalia wins historic third Latin Grammy album award",
+   "artists": [
+    "Rosalia"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "AP通信",
+    "BBC",
+    "Complex",
+    "NME"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "AP通信",
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 6,
+   "latest": "2026-11-13T20:35:19+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Rosalía Makes Latin Grammys History With Third Album of the Year Win",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON0FsRElUcW9fN2xVNUctYkYtTjBhQVRjSXUtRTdvTm00cUpzNF8xVjB1TWRzalBpcWpVWHlnZFlSclN2enRKNmpEUFVXMVo0cU1wU2NOYlVkWGtTbnpyVF9QRm9rQ0F5NFY3a083N0xMSV9tMXpsSmYxOTNCZGp0ajdacG1DN2dRbEZnZEswZk9XWGw0SHNNUVlMRQ?oc=5",
+     "published": "2026-11-13T20:35:19+00:00",
+     "summary": "Rosalía Makes Latin Grammys History With Third Album of the Year Win Complex"
+    },
+    {
+     "outlet": "NME",
+     "title": "Rosalía makes history with Album Of The Year award win at Latin Grammys and performs ‘Lux’ medley",
+     "link": "https://www.nme.com/news/music/rosalia-album-year-award-latin-grammys-performs-lux-medley-3975928",
+     "published": "2026-11-13T17:47:55+00:00",
+     "summary": "The Spanish singer became the first solo female to win the award three times, while ‘La Perla’ was also named Song Of The Year The post Rosalía makes history with Album Of The Year award win at Latin Grammys and performs ‘Lux’ medley appear"
+    },
+    {
+     "outlet": "BBC",
+     "title": "Rosalía scoops historic third best album award at Latin Grammys",
+     "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-13T11:38:54+00:00",
+     "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews."
+    },
+    {
+     "outlet": "AP通信",
+     "title": "Rosalía wins album of the year 2026 at the Latin Grammy Awards for 'Lux,' capping a thrilling night",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXROUWxpZzdDQUdnSzV6SlNpY1hIWEotZGZ6cVZlNDByRzUwZ2tJQ3VjdmwwdFRhcVN6Z0FuNlpmOGozajJpNVpZZEVUMEtSeG1KXzVYNFRqTlpDMVRPUVg5bmpqOUdaZm5GV2M5aG5QNzZVczZyMTA3YkxwbkVyU055dmc?oc=5",
+     "published": "2026-11-13T04:47:00+00:00",
+     "summary": "Rosalía wins album of the year 2026 at the Latin Grammy Awards for 'Lux,' capping a thrilling night AP News"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "XyMDNMqlN_Q",
+    "title": "Rosalía makes history at the 2026 Latin Grammy Awards! Five wins  #rosalia #viral",
+    "channel": "The Old North",
+    "published": "2026-11-13T11:05:45Z",
+    "hours_since": 22,
+    "views": 49240,
+    "url": "https://www.youtube.com/watch?v=XyMDNMqlN_Q",
+    "views_per_hour": 2238
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s27",
+   "label": "Young Thug responds to Quavo reunion calls",
+   "artists": [
+    "Young Thug",
+    "Quavo"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 2,
+   "outlets": [
+    "Billboard",
+    "XXL"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-13T23:13:43+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Young Thug Responds to Quavo’s Attempt to Have Him Reconcile With Gunna: ‘How Uma Fix Some Sh– I Didn’t Break Qua?’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/young-thug-quavo-gunna-offset-reconciliation-ysl-trial-1236382064/",
+     "published": "2026-11-13T23:13:43+00:00",
+     "summary": "Offset detailed why he stood by Gunna following the YSL RICO trial during a Popcast appearance."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Young Thug Responds to Quavo Calling for a Reunion With Gunna",
+     "link": "https://www.xxlmag.com/young-thug-responds-quavo-gunna-reunion/",
+     "published": "2026-11-13T19:06:01+00:00",
+     "summary": "Thug basically feels there's nothing for him to make right. Continue reading…"
+    },
+    {
+     "outlet": "XXL",
+     "title": "Quavo Calls for Young Thug and Gunna to Reconcile",
+     "link": "https://www.xxlmag.com/offset-quavo-ysl-trial-atlanta-young-thug-gunna/",
+     "published": "2026-11-13T17:37:36+00:00",
+     "summary": "Set also explained why he never had an issue with Gunna. Continue reading…"
+    }
+   ],
+   "chart": [
+    {
+     "id": "rChk58FS-ws",
+     "title": "YFN Lucci - EXPOSED. (feat. Quavo) [Official Music Video]",
+     "channel": "YFN Lucci",
+     "published": "2026-11-06T05:00:01Z",
+     "hours_since": 196,
+     "views": 1105994,
+     "url": "https://www.youtube.com/watch?v=rChk58FS-ws",
+     "region": "US",
+     "rank": 16
+    }
+   ],
+   "video": {
+    "id": "rChk58FS-ws",
+    "title": "YFN Lucci - EXPOSED. (feat. Quavo) [Official Music Video]",
+    "channel": "YFN Lucci",
+    "published": "2026-11-06T05:00:01Z",
+    "hours_since": 196,
+    "views": 1105994,
+    "url": "https://www.youtube.com/watch?v=rChk58FS-ws",
+    "region": "US",
+    "rank": 16
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Journey drummer Deen Castronovo exits tour for health",
+   "artists": [
+    "Journey"
+   ],
+   "genre": "Other",
+   "kind": "health",
+   "talk": 1,
+   "outlets": [
+    "Billboard",
+    "Consequence",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-11-14T06:59:25+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Journey Drummer Deen Castronovo Exits Mid-Tour to Focus on His Health",
+     "link": "https://www.billboard.com/music/rock/journey-deen-castronovo-steps-away-steve-murphy-drummer-1236382208/",
+     "published": "2026-11-14T06:59:25+00:00",
+     "summary": "Steve Murphy will fill in for the rest of November, weeks after Castronovo suffered an onstage medical emergency in Tulsa."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Drummer Deen Castronovo Steps Away from Journey",
+     "link": "https://consequence.net/2026/11/drummer-deen-castronovo-steps-away-from-journey/",
+     "published": "2026-11-14T00:25:37+00:00",
+     "summary": "The drummer is exiting the band's tour to \"focus on personal health matters.\" Drummer Deen Castronovo Steps Away from Journey Spencer Kaufman"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Journey Go Their Separate Ways With Longtime Drummer",
+     "link": "https://www.rollingstone.com/music/music-news/journey-part-ways-with-drummer-1235658141/",
+     "published": "2026-11-13T22:42:06+00:00",
+     "summary": "Deen Castronovo has left Journey's stage mid-show at two recent stops due to a medical issue, and now is handing off his drum sticks to veteran musician Steve Murphy"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Snow Tha Product on speaking up in music business",
+   "artists": [
+    "Snow Tha Product"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T09:01:58+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Snow Tha Product Refuses To Stay Quiet For The Music Business",
+     "link": "https://allhiphop.com/news/snow-tha-product-refuses-to-stay-quiet-for-the-music-business/",
+     "published": "2026-11-14T09:01:58+00:00",
+     "summary": "Snow Tha Product weighs the career cost of speaking up as she balances community advocacy with running her own operation."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "NVIDIA fights music labels over Suno AI deposition",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T04:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "NVIDIA’s Suno Investor Fights Music Labels Over Court Testimony",
+     "link": "https://allhiphop.com/news/nvidias-suno-investor-fights-music-labels-over-court-testimony/",
+     "published": "2026-11-14T04:00:00+00:00",
+     "summary": "NVIDIA's investment arm resists a Suno deposition as Universal and Sony seek answers about the AI company's business."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "Boosie and Adam22 beef over Chrisean Rock",
+   "artists": [
+    "Boosie",
+    "Adam22"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 2,
+   "outlets": [
+    "XXL"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T02:43:29+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "Boosie Slams Adam22 Over Chrisean Rock, Adam Calls Him a Rat",
+     "link": "https://www.xxlmag.com/boosie-badazz-adam22-feud-chrisean-rock-parenting/",
+     "published": "2026-11-14T02:43:29+00:00",
+     "summary": "Boosie and Adam go back and forth. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "9-ZCBFkDwXU",
+    "title": "WAIT..DID BOOSIE'S POLICE REPORT JUST GET EXPOSED BY ADAM22?! #shorts",
+    "channel": "soseriuzradio",
+    "published": "2026-11-13T17:50:20Z",
+    "hours_since": 15,
+    "views": 58965,
+    "url": "https://www.youtube.com/watch?v=9-ZCBFkDwXU",
+    "views_per_hour": 3931
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s60",
+   "label": "Robyn slams Eurovision as embarrassing",
+   "artists": [
+    "Robyn"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T00:32:01+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Robyn Slams Eurovision: ‘It’s So Embarrassing’",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSE1feVVPRTZrWDRpOWY0elFYbnc1SUNJcmVVSUhlcEpxR0RoWWdhejk2NU1JMEh5UV96WGRyODJUdlpHd0hfWlJ0UVRFYlozamV2ZG9XRVo2SWRSUFBZQ2IxdFVuZXNKSVNDUUdHd1haZTRNWkwzelVwaTZuWHotLWt5NjNfN0dPMFJpNkJ5azBUaHk4aWs5RA?oc=5",
+     "published": "2026-11-14T00:32:01+00:00",
+     "summary": "Robyn Slams Eurovision: ‘It’s So Embarrassing’ Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s38",
+   "label": "Lil Baby points to hip-hop decline amid claims",
+   "artists": [
+    "Lil Baby"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T05:05:12+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Lil Baby Points to Hip-Hop Decline Amid Claims That He Fell Off",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2Z5SklRNGV3dUtNTjFZUm95Uzh1S2RpeFdtRWktQTFpR2M1eXItRTN2cHcxQ095UHhJVTZfbEVLUV9wVHhocngtWnR2R1BfSnNWSndxWkRoWmlDbzMxYzg0YXAybHZ5X2JJbUxiUWp6US16YXdlUkxrUUp5emZxNlAtTnFaZllhTy1r?oc=5",
+     "published": "2026-11-13T05:05:12+00:00",
+     "summary": "Lil Baby Points to Hip-Hop Decline Amid Claims That He Fell Off Complex"
+    }
+   ],
+   "chart": [
+    {
+     "id": "3EeJub4m1-E",
+     "title": "Lil Baby - Mr. Do Something",
+     "channel": "LilBabyVEVO",
+     "published": "2026-11-06T05:00:37Z",
+     "hours_since": 196,
+     "views": 3022218,
+     "url": "https://www.youtube.com/watch?v=3EeJub4m1-E",
+     "region": "US",
+     "rank": 4
+    },
+    {
+     "id": "3EeJub4m1-E",
+     "title": "Lil Baby - Mr. Do Something",
+     "channel": "LilBabyVEVO",
+     "published": "2026-11-06T05:00:37Z",
+     "hours_since": 196,
+     "views": 3022218,
+     "url": "https://www.youtube.com/watch?v=3EeJub4m1-E",
+     "region": "GB",
+     "rank": 26
+    }
+   ],
+   "video": {
+    "id": "3EeJub4m1-E",
+    "title": "Lil Baby - Mr. Do Something",
+    "channel": "LilBabyVEVO",
+    "published": "2026-11-06T05:00:37Z",
+    "hours_since": 196,
+    "views": 3022218,
+    "url": "https://www.youtube.com/watch?v=3EeJub4m1-E",
+    "region": "US",
+    "rank": 4
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "IDK partners with Shady Records, releases Eminem collab",
+   "artists": [
+    "IDK",
+    "Eminem"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "collab",
+   "talk": 0,
+   "outlets": [
+    "Complex",
+    "Consequence",
+    "Rolling Stone",
+    "The Fader"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 4,
+   "latest": "2026-11-13T17:31:27+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "IDK Taps Eminem for J Dilla-Produced New Song “WELCOME”: Stream",
+     "link": "https://consequence.net/2026/11/idk-eminem-j-dilla-new-song-welcome/",
+     "published": "2026-11-13T17:31:27+00:00",
+     "summary": "The new track celebrates IDK's new partnership with Shady Records and Interscope Records. IDK Taps Eminem for J Dilla-Produced New Song “WELCOME”: Stream Eddie Fu"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "IDK Brings Together Eminem and J Dilla for First Time on New Song ‘Welcome’",
+     "link": "https://www.rollingstone.com/music/music-news/idk-eminem-j-dilla-new-song-welcome-1235657529/",
+     "published": "2026-11-13T16:56:34+00:00",
+     "summary": "Detroit legends finally link up on fellow Motor City rapper’s first single from upcoming album"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Eminem and IDK Link Up for J Dilla-Produced New Track \"Welcome,\" Drop 'No Plan B' Mini-Documentary",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXFVZXhjQmVSZzA1cG12S1RDb1g0MVllS3pzdW4zQUdzdmdyLTVQeWowOXl3cTd2VmI2UTJEcG45SGpLdEtrZjRFdEhCSHF1OTdKZVZQQk1yN3VMWjhCSHlFV2FNMGRRMmRyRjNHNzNZbzhHdzI5YlhyQTBTZWE2bkVn?oc=5",
+     "published": "2026-11-13T13:05:11+00:00",
+     "summary": "Eminem and IDK Link Up for J Dilla-Produced New Track \"Welcome,\" Drop 'No Plan B' Mini-Documentary Complex"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "IDK announces partnership with Eminem’s Shady Records and Interscope Records",
+     "link": "https://www.thefader.com/2026/11/13/idk-signs-to-eminem-shady-records",
+     "published": "2026-11-13T10:44:14-05:00",
+     "summary": "Hear his new single “WELCOME” with Eminem and J Dilla."
+    }
+   ],
+   "chart": [
+    {
+     "id": "zT104EktdOc",
+     "title": "IDK & Eminem — WELCOME (Prd. By J Dilla) [Official Music Video]",
+     "channel": "idk",
+     "published": "2026-11-13T05:00:03Z",
+     "hours_since": 28,
+     "views": 763490,
+     "url": "https://www.youtube.com/watch?v=zT104EktdOc",
+     "region": "GB",
+     "rank": 10
+    },
+    {
+     "id": "zT104EktdOc",
+     "title": "IDK & Eminem — WELCOME (Prd. By J Dilla) [Official Music Video]",
+     "channel": "idk",
+     "published": "2026-11-13T05:00:03Z",
+     "hours_since": 28,
+     "views": 763490,
+     "url": "https://www.youtube.com/watch?v=zT104EktdOc",
+     "region": "US",
+     "rank": 24
+    }
+   ],
+   "video": {
+    "id": "zT104EktdOc",
+    "title": "IDK & Eminem — WELCOME (Prd. By J Dilla) [Official Music Video]",
+    "channel": "idk",
+    "published": "2026-11-13T05:00:03Z",
+    "hours_since": 28,
+    "views": 763490,
+    "url": "https://www.youtube.com/watch?v=zT104EktdOc",
+    "region": "GB",
+    "rank": 10
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s64",
+   "label": "KPop Demon Hunters announces 2027 Golden World Tour",
+   "artists": [
+    "KPop Demon Hunters"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Consequence",
+    "NME",
+    "Variety"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 4,
+   "latest": "2026-11-13T15:19:07+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "KPop Demon Hunters Sets 2027 “Golden World Tour” Dates",
+     "link": "https://consequence.net/2026/11/kpop-demon-hunters-golden-world-tour-dates/",
+     "published": "2026-11-13T15:19:07+00:00",
+     "summary": "The arena run will stop in 35 cities across North America, the UK, and Europe. KPop Demon Hunters Sets 2027 “Golden World Tour” Dates Eddie Fu"
+    },
+    {
+     "outlet": "NME",
+     "title": "‘KPop Demon Hunters’ announces 2027 ‘GOLDEN’ world tour – including UK dates",
+     "link": "https://www.nme.com/news/music/kpop-demon-hunters-2027-golden-world-tour-uk-dates-tickets-3975892",
+     "published": "2026-11-13T14:36:32+00:00",
+     "summary": "The animated HUNTR/X stars will be brought to life for seven UK arena performances next October The post ‘KPop Demon Hunters’ announces 2027 ‘GOLDEN’ world tour – including UK dates appeared first on NME ."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "HUNTR/X Hitting the Road for 2027 KPop Demon Hunters Golden World Tour: See Dates",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0F1MmxrYkI4V1k1UU1WbE0tVXJiOG12c2x4ako0YVpWUkRKM3dRN2FMQ093TGFRbjJUNGxCRllyT3NQSXg5NGdqa0VQaERUSGFYYzlBcmg0UUV0WUlRNFFWaDVRNG9zRjdaRHJIUlg3d2E3eDhscVNJdkdiaXd3UEVSaGNFYzlpZE0tRkU3MlhCUUVtMGhULXA3YTRHSExFM0NTNmRsaTNmM2lY?oc=5",
+     "published": "2026-11-13T14:05:54+00:00",
+     "summary": "HUNTR/X Hitting the Road for 2027 KPop Demon Hunters Golden World Tour: See Dates Billboard"
+    },
+    {
+     "outlet": "Variety",
+     "title": "‘KPop Demon Hunters’ Golden World Tour Sets 2027 Arena Dates",
+     "link": "https://variety.com/2026/music/news/kpop-demon-hunters-golden-world-tour-2027-arena-dates-1236946944/",
+     "published": "2026-11-13T13:55:59+00:00",
+     "summary": "Netflix’s “KPop Demon Hunters” is heading to arenas, with the Golden World Tour set to open June 5, 2027, at Baltimore’s CFG Bank Arena, Netflix and AEG Presents said Friday. The Mastercard-presented show puts the film’s animated K-pop trio"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "KVk823g0k-w",
+    "title": "KPop Demon Hunters Golden World Tour",
+    "channel": "aegpresents",
+    "published": "2026-11-13T18:24:39Z",
+    "hours_since": 15,
+    "views": 347891,
+    "url": "https://www.youtube.com/watch?v=KVk823g0k-w",
+    "views_per_hour": 23193
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "Offset admits to gambling problem",
+   "artists": [
+    "Offset"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-14T00:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Offset Reveals The Surprising Status Of His Relationship With Cardi B",
+     "link": "https://www.hotnewhiphop.com/1016568-offset-cardi-b-status-of-relationship",
+     "published": "2026-11-14T00:00:00+00:00",
+     "summary": "Offset and Cardi B have had an up-and-down relationship over the years, and Offset recently revealed where the two are at. The post Offset Reveals The Surprising Status Of His Relationship With Cardi B appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Offset Finally Admits To Having A Gambling Problem",
+     "link": "https://www.hotnewhiphop.com/1016554-offset-gambling-problem",
+     "published": "2026-11-13T18:00:00+00:00",
+     "summary": "Offset's gambling has been widely discussed as of late, and now, the artist is offering his side of the story. The post Offset Finally Admits To Having A Gambling Problem appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Offset Discusses Whether He Has a Gambling Problem",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEtWQmNvZmxJZk5hY28wWWxoNm1HUEE0Y1RDVXhZSU5TVGQ4RkZHQkdUMnF6bGswa2FJRy1lMG5raEIwTUN0TnJQTVVHR0VsUVdfRTZsbW1Gc3lWaERod0lTVXBiU211MDZ1bmtYV1hXSnVFQzlpc3JFRG02cU5nbWVUN0k?oc=5",
+     "published": "2026-11-13T10:01:35+00:00",
+     "summary": "Offset Discusses Whether He Has a Gambling Problem Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "Queen Latifah and The Roots at Macy's parade",
+   "artists": [
+    "Queen Latifah",
+    "The Roots"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop",
+    "Billboard",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-11-14T03:00:17+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Queen Latifah & The Roots Join 100th Macy’s Thanksgiving Parade",
+     "link": "https://allhiphop.com/news/queen-latifah-the-roots-join-100th-macys-thanksgiving-parade/",
+     "published": "2026-11-14T03:00:17+00:00",
+     "summary": "Queen Latifah adds a Thanksgiving TV date as The Roots, Keke Palmer and Wyclef Jean join Macy's milestone celebration."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Megan Moroney, Teddy Swims, Ejae to Perform at 100th Macy’s Thanksgiving Parade",
+     "link": "https://www.rollingstone.com/music/music-news/megan-moroney-teddy-swims-ejae-macys-thanksgiving-parade-1235658100/",
+     "published": "2026-11-13T21:49:29+00:00",
+     "summary": "Queen Latifah, Devo, the Roots, and Keke Palmer are among the star-studded lineup for this year's edition of the annual event"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "EJAE, Megan Moroney, Queen Latifah & More to Perform at 100th Macy’s Thanksgiving Parade: See the Lineup",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2pSRVlWM2ktT2M5MFZyaHZfTktyQTMtS1I4TEpPNG1JNVhtekV3dFF4N0c0dVhBeVFuN3pLekF2RHo5U0ZHY05CTFF6M2dVZE9UWHRBcENsbFd5dzE0cllBQ2dFbExPQng1V1ltN0ZKLV9pZlVrbUdVdUppY01XR1UwWEVIMFppcVB3R29Ua3U5REJtTUJWYWxjVzViUDNDZ3R0ZFRBdTNmQQ?oc=5",
+     "published": "2026-11-13T19:22:01+00:00",
+     "summary": "EJAE, Megan Moroney, Queen Latifah & More to Perform at 100th Macy’s Thanksgiving Parade: See the Lineup Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s47",
+   "label": "U2 releases first full album in nine years Carnaval",
+   "artists": [
+    "U2"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "NME",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-11-13T16:01:46+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "U2 Gets On Its Boots for First All-New Full-Length Record in Nine Years, ‘Carnaval de Luz,’ With More Callbacks to Band’s ’90s Peaks Than ’80s Glories: Album Review",
+     "link": "https://variety.com/2026/music/album-reviews/u2-carnaval-de-luz-album-review-1236947053/",
+     "published": "2026-11-13T16:01:46+00:00",
+     "summary": "“The past and me have got to break up,” Bono sings in the verse that opens “Carnaval de Luz,” U2’s first full-length album of all-new material in nine years. It sounds like a mission statement, doesn’t it? The singer doesn’t linger long on "
+    },
+    {
+     "outlet": "NME",
+     "title": "Check out Dolly Parton’s “traditional country version” of new U2 duet ‘Torn’",
+     "link": "https://www.nme.com/news/music/check-out-dolly-parton-country-version-new-u2-duet-torn-3975905",
+     "published": "2026-11-13T15:36:05+00:00",
+     "summary": "Both versions of the late country icon's final recording are out now The post Check out Dolly Parton’s “traditional country version” of new U2 duet ‘Torn’ appeared first on NME ."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Dolly Parton’s Final Recorded Performance Arrives on U2’s “Torn”",
+     "link": "https://consequence.net/2026/11/dolly-parton-final-recorded-performance-u2-torn/",
+     "published": "2026-11-13T14:41:48+00:00",
+     "summary": "The duet with Bono closes U2’s first full-length album of new material in nine years, released during the band’s 50th anniversary year. Dolly Parton’s Final Recorded Performance Arrives on U2’s “Torn” Alex Krinsky"
+    }
+   ],
+   "chart": [
+    {
+     "id": "Y8ASCUN00_c",
+     "title": "U2 - Torn (feat. Dolly Parton) [Lyric Video]",
+     "channel": "U2",
+     "published": "2026-11-13T05:00:30Z",
+     "hours_since": 28,
+     "views": 1226213,
+     "url": "https://www.youtube.com/watch?v=Y8ASCUN00_c",
+     "region": "US",
+     "rank": 11
+    },
+    {
+     "id": "Y8ASCUN00_c",
+     "title": "U2 - Torn (feat. Dolly Parton) [Lyric Video]",
+     "channel": "U2",
+     "published": "2026-11-13T05:00:30Z",
+     "hours_since": 28,
+     "views": 1226213,
+     "url": "https://www.youtube.com/watch?v=Y8ASCUN00_c",
+     "region": "GB",
+     "rank": 19
+    }
+   ],
+   "video": {
+    "id": "Y8ASCUN00_c",
+    "title": "U2 - Torn (feat. Dolly Parton) [Lyric Video]",
+    "channel": "U2",
+    "published": "2026-11-13T05:00:30Z",
+    "hours_since": 28,
+    "views": 1226213,
+    "url": "https://www.youtube.com/watch?v=Y8ASCUN00_c",
+    "region": "US",
+    "rank": 11
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Travis Thompson on recovery and screenwriting",
+   "artists": [
+    "Travis Thompson"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T05:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Travis Thompson Trades Rap's Approval Chase For Sobriety & Screenwriting",
+     "link": "https://allhiphop.com/news/travis-thompson-trades-raps-approval-chase-for-sobriety-screenwriting/",
+     "published": "2026-11-14T05:02:00+00:00",
+     "summary": "Travis Thompson puts movie and TV writing on his agenda while opening up about recovery and a life beyond rap validation."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Kanye West sued over confined musician in opera",
+   "artists": [
+    "Kanye West"
+   ],
+   "genre": "POP",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T02:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Kanye West Sued By Musician Claiming He Was Locked In A Room To Finish Opera",
+     "link": "https://www.hotnewhiphop.com/1016574-kanye-west-sued-musicial-opera",
+     "published": "2026-11-14T02:00:00+00:00",
+     "summary": "A musician sued Ye in federal court, alleging he was confined in a Wyoming school and pressed to finish the opera Nebuchadnezzar in four days. The post Kanye West Sued By Musician Claiming He Was Locked In A Room To Finish Opera appeared fi"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Kanye West settles Holocaust sample lawsuit",
+   "artists": [
+    "Kanye West"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T00:59:53+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Kanye West Settles Lawsuit Over Sample Blocked by Descendant of Holocaust Survivors",
+     "link": "https://www.rollingstone.com/music/music-news/kanye-west-settles-lawsuit-alice-merton-holocaust-survivors-1235658191/",
+     "published": "2026-11-14T00:59:53+00:00",
+     "summary": "The German singer-songwriter said she refused to let West, nown known as Ye, sample her song because of his antisemitic remarks"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "LISA opens Las Vegas residency with history-making show",
+   "artists": [
+    "LISA"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T22:32:15+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Viva La Lisa! 5 Best Moments From LISA’s Opening Night in Las Vegas",
+     "link": "https://www.billboard.com/lists/lisa-las-vegas-opening-night-review-best-moments/",
+     "published": "2026-11-13T22:32:15+00:00",
+     "summary": "The BLACKPINK superstar made history at The Colosseum at Caesars Palace with seven live debuts & an unreleased song."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s25",
+   "label": "Tay-K first in-depth interview in nearly a decade",
+   "artists": [
+    "Tay-K"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T22:24:59+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Tay-K Gives First In-Depth Interview in Nearly a Decade",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFpzWTRtQUsxdVBVdDhFRUE2RU43Z1JyZTNtb1AwTzJjRUJFUWI0eDNBdTlKM2FRODVtQjRtQ05YSWZnZ3otNnV4aTBkb05NVzN5NEdUeExVdF9SZmNlWFRjdFQxY1lMWnFJeEVrZ3EtbERXZ1l3MnhmZ1RCdzU4bVdReTJWaldCUThqeFYxZ2tNMmc?oc=5",
+     "published": "2026-11-13T22:24:59+00:00",
+     "summary": "Tay-K Gives First In-Depth Interview in Nearly a Decade Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s31",
+   "label": "Mal speculates Drake country album pivot",
+   "artists": [
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T20:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Mal Suggests Drake Is Dropping A Country Album",
+     "link": "https://www.hotnewhiphop.com/1016562-mal-drake-country-album",
+     "published": "2026-11-13T20:00:00+00:00",
+     "summary": "Drake has moved to Texas, and because of this, Mal seems to believe a country pivot is inevitable for the Canadian megastar. The post Mal Suggests Drake Is Dropping A Country Album appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [
+    {
+     "id": "Sh4pJYJOT7M",
+     "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+     "channel": "Future",
+     "published": "2026-11-10T17:46:05Z",
+     "hours_since": 87,
+     "views": 2960057,
+     "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "Sh4pJYJOT7M",
+     "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+     "channel": "Future",
+     "published": "2026-11-10T17:46:05Z",
+     "hours_since": 87,
+     "views": 2960057,
+     "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+     "region": "GB",
+     "rank": 6
+    }
+   ],
+   "video": {
+    "id": "Sh4pJYJOT7M",
+    "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+    "channel": "Future",
+    "published": "2026-11-10T17:46:05Z",
+    "hours_since": 87,
+    "views": 2960057,
+    "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s46",
+   "label": "Chrisean Rock punches Adam22 over parenting joke",
+   "artists": [
+    "Chrisean Rock",
+    "Adam22"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 1,
+   "outlets": [
+    "XXL"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T16:17:44+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "Chrisean Rock Punches Adam22 After Parenting Joke",
+     "link": "https://www.xxlmag.com/chrisean-rock-punches-adam22/",
+     "published": "2026-11-13T16:17:44+00:00",
+     "summary": "The No Jumper host is considering legal action. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "T_jIREWSlqo",
+    "title": "Chrisean Rock Punches Adam22 on 'Wild 'N Out' Stage After Parenting Joke",
+    "channel": "Tallie Spencer",
+    "published": "2026-11-13T08:44:16Z",
+    "hours_since": 24,
+    "views": 2511228,
+    "url": "https://www.youtube.com/watch?v=T_jIREWSlqo",
+    "views_per_hour": 104634
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s36",
+   "label": "Yella Beezy sentenced to life in prison",
+   "artists": [
+    "Yella Beezy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "HotNewHipHop",
+    "XXL"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-14T00:23:26+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "Yella Beezy Faces Strict Texas Prison Rules, One Shower a Day",
+     "link": "https://www.xxlmag.com/yella-beezy-texas-prison-rules-no-conjugal-visits-shower-a-day/",
+     "published": "2026-11-14T00:23:26+00:00",
+     "summary": "Beezy begins his life in prison. Continue reading…"
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Yella Beezy’s Longtime Girlfriend Delivers Emotional Plea Following Guilty Verdict",
+     "link": "https://www.hotnewhiphop.com/1016571-yella-beezy-dandrea-harris-comments",
+     "published": "2026-11-13T21:00:00+00:00",
+     "summary": "Yella Beezy received a message of support from his longtime girlfriend, D'Andrea Harris, as he goes to prison for life. The post Yella Beezy’s Longtime Girlfriend Delivers Emotional Plea Following Guilty Verdict appeared first on HotNewHipH"
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Bradford Cohen Believes Yella Beezy Has A Real Shot At Successfully Appealing His Conviction",
+     "link": "https://www.hotnewhiphop.com/1016559-bradford-cohen-yella-beezy-appeal",
+     "published": "2026-11-13T19:00:00+00:00",
+     "summary": "Yella Beezy was sentenced to life in prison without parole for orchestrating the murder of Mo3, although an appeal is on the horizon. The post Bradford Cohen Believes Yella Beezy Has A Real Shot At Successfully Appealing His Conviction appe"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "Gu_3jbD7pZo",
+    "title": "Yella Beezy’s Life Sentence 🤦🏾‍♂️💔 #yellabeezy #mo3 #dallas #texas #hiphop #rap #shorts",
+    "channel": "Street Stamped TV",
+    "published": "2026-11-13T03:00:36Z",
+    "hours_since": 30,
+    "views": 805014,
+    "url": "https://www.youtube.com/watch?v=Gu_3jbD7pZo",
+    "views_per_hour": 26834
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s26",
+   "label": "John Summit performs College Football Playoff festival",
+   "artists": [
+    "John Summit"
+   ],
+   "genre": "Dance",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "EDM.com"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-13T23:17:25+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "John Summit To Play College Football Playoff Championship Weekend",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3l1ZzFrdGw1MFNCamxlcXc4amJpT3RGVDRVTTZZeVljbndpVnF0dUlsUUtseFk4cXJTaThEVXprSU1sWHdNSmRVWkJjYWVCTkpRYnpScndEVVJ0bHNKOEhCdS1jR2ZxTjVPSnpKY19WS00yLTNyZ2I1aXRtdzIzYU93RU9tZWJ0LVZTTDJZT0JSN2RkdVp1MTc0ZV9EWldkU2FYdEtuWEFieDU4RlQxeGlwMA?oc=5",
+     "published": "2026-11-13T23:17:25+00:00",
+     "summary": "John Summit To Play College Football Playoff Championship Weekend Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "John Summit, David Guetta, Alison Wonderland & More to Play College Football Playoff National Championship Weekend",
+     "link": "https://www.billboard.com/music/music-news/las-vegas-college-football-champship-music-festival-summit-1236382125/",
+     "published": "2026-11-13T23:16:54+00:00",
+     "summary": "The free AT&T Playoff Playlist Live festival happens Jan. 23-24 in Las Vegas."
+    },
+    {
+     "outlet": "EDM.com",
+     "title": "David Guetta, John Summit, FISHER and More DJing Free College Football Playoff Festival in Las Vegas",
+     "link": "https://edm.com/events/free-edm-festival-college-football-playoff-las-vegas/",
+     "published": "2026-11-13T14:36:42+00:00",
+     "summary": "A year after turning Miami Beach into the largest concert venue South Beach has hosted, the College Football Playoff is hosting a free EDM festival inside a Formula 1 building. The post David Guetta, John Summit, FISHER and More DJing Free "
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s65",
+   "label": "Shygirl Nirosta Steel Club Kid companion EP",
+   "artists": [
+    "Shygirl",
+    "Nirosta Steel"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Pitchfork",
+    "The Fader"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-13T16:59:26+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Shygirl, Brutalismus 3000, Nirosta Steel Feature on Club Kid Companion EP",
+     "link": "https://pitchfork.com/story/shygirl-brutalismus-3000-nirosta-steel-feature-on-club-kid-ep/",
+     "published": "2026-11-13T16:59:26+00:00",
+     "summary": "Out now, the record includes two covers of Arthur Russell’s “Boy With a Smile”"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "‘Club Kid’ releases new EP with Shygirl, Nirosta Steel, and more",
+     "link": "https://www.thefader.com/2026/11/13/club-kid-new-ep-shygirl-nirosta-steel",
+     "published": "2026-11-13T11:38:18-05:00",
+     "summary": "The EP is composed of music inspired by Jordan Firstman’s breakout film."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s72",
+   "label": "Taylor Swift performs at CMAs first time in 13 years",
+   "artists": [
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-13T15:06:04+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Taylor Swift Sets First CMA Awards Performance in 13 Years",
+     "link": "https://www.rollingstone.com/music/music-news/taylor-swift-will-perform-2026-cma-awards-1235657442/",
+     "published": "2026-11-13T15:06:04+00:00",
+     "summary": "The singer-songwriter’s Toy Story 5 soundtrack song, “I Knew It, I Knew You,” is nominated for Single of the Year"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Taylor Swift to Perform at CMAs for the First Time in 13 Years",
+     "link": "https://variety.com/2026/music/news/taylor-swift-to-perform-cma-awards-first-time-13-years-1236946968/",
+     "published": "2026-11-13T14:59:13+00:00",
+     "summary": "Taylor Swift will perform on the CMA Awards Wednesday for the first time in 13 years, ABC and the Country Music Association announced Friday morning. Swift had already publicly declared, upon getting a CMA nomination this year, that she wou"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s112",
+   "label": "WADDLE presents LE KACANG & Guests at Mood Ring, New York City ⟋ RA Tickets",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Resident Advisor"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T22:21:36+00:00",
+   "articles": [
+    {
+     "outlet": "Resident Advisor",
+     "title": "WADDLE presents LE KACANG & Guests at Mood Ring, New York City ⟋ RA Tickets",
+     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56WUdoZFZpVU1EZWF0X3NremsxZm5ibWgtb1o2dzUtRGRlVlhUVmRCa2JTdFlwaGtIVjBwdDRQR0dCdw?oc=5",
+     "published": "2026-11-13T22:21:36+00:00",
+     "summary": "WADDLE presents LE KACANG & Guests at Mood Ring, New York City ⟋ RA Tickets Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s0",
+   "label": "Alan Walker emergency Japan visit with fan meet",
+   "artists": [
+    "Alan Walker"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "CINEMAS＋ -",
+    "EDM MAXX",
+    "tvgroove",
+    "エイベックス・ポータル"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "CINEMAS＋ -",
+    "EDM MAXX",
+    "tvgroove",
+    "エイベックス・ポータル"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-14T09:02:09+00:00",
+   "articles": [
+    {
+     "outlet": "CINEMAS＋ -",
+     "title": "アラン・ウォーカー、11月19日に六本木でファンミ＆公開収録！抽選で無料招待 - CINEMAS＋ -",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMQ01MRTRnd2NWLU1kaUVyM0MtMG12NkJOZW5xLWtGUUgwc3o4MjQ2UW9fT2NjYmZIOXM4V2taSl9UVXUxOVhJd0tIMnYxeWVRSHhV?oc=5",
+     "published": "2026-11-14T09:02:09+00:00",
+     "summary": "アラン・ウォーカー、11月19日に六本木でファンミ＆公開収録！抽選で無料招待 CINEMAS＋ -"
+    },
+    {
+     "outlet": "tvgroove",
+     "title": "アラン・ウォーカー緊急来日！ 11月19日に東京・六本木で無料ファンミーティング開催！ 本人に会えるチャンス、応募締切は17日",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YMjFFZWVtNmM1b09MeUFsZ0d4emg0bXdZb3pqSC00ZThWdEd5ekhjQ1o2bGZCZFVucHM5LVdndDZIT1RJYUxFekln?oc=5",
+     "published": "2026-11-13T14:09:00+00:00",
+     "summary": "アラン・ウォーカー緊急来日！ 11月19日に東京・六本木で無料ファンミーティング開催！ 本人に会えるチャンス、応募締切は17日 tvgroove"
+    },
+    {
+     "outlet": "エイベックス・ポータル",
+     "title": "アラン・ウォーカー緊急来日決定！ 本人に会えるファンミーティング＆interfm「THE TRAXX」公開収録を11月19日に開催",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JYjdxc2xaZVJHR0lTLXRQLXZ3ZmVqVXBLZ2N6VEVNSVdoV3JVbzVvazZxekdYbkV5MXUtbEl4Q2R5MlY2eGc?oc=5",
+     "published": "2026-11-13T12:38:09+00:00",
+     "summary": "アラン・ウォーカー緊急来日決定！ 本人に会えるファンミーティング＆interfm「THE TRAXX」公開収録を11月19日に開催 エイベックス・ポータル"
+    },
+    {
+     "outlet": "EDM MAXX",
+     "title": "Alan Walker 緊急来日決定 – 六本木OCTAGONにて本人に会えるファンミ ＆ interfm”THE TRAXX”公開収録を開催",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5jOU1hckEtbXVUb1R5THpnMWR4NzlLakpuY2FpMUU5M05yZ0JXdGpqdjRBNWFiOXk3M0ZkZ0o4N1d0RGpD?oc=5",
+     "published": "2026-11-13T11:10:07+00:00",
+     "summary": "Alan Walker 緊急来日決定 – 六本木OCTAGONにて本人に会えるファンミ ＆ interfm”THE TRAXX”公開収録を開催 EDM MAXX"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s37",
+   "label": "Radiohead announces 19-year first Japan solo tour",
+   "artists": [
+    "Radiohead"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "山陽新聞"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-13T20:32:28+00:00",
+   "articles": [
+    {
+     "outlet": "山陽新聞",
+     "title": "レディオヘッド、“19年ぶり”単独来日公演が決定 計5公演＆チケット種類など発表【一覧】",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcnRscFJxNVlseWFENG45M2pjNEdPakhUc21Wek9OcVRpWWVWeFRUdmd4UDhidkQ0Vk1yZ2FSNE0xV0lLbktTb0JLbEU5RjFSOG15bWNjUnhyS1IzS2g1Mm9DLUpYaEtlX1JUYnl3UFRQalpkUm1kY1NSckRFUGU5SjR4OXoyakc5NmRQbmNvUFJKWTRMRWxtakZVbXBiZG9NLUQ2bURTY3ZmMHRmbVdQSkFjNGh1bk5ITkVhMzhwWk55MGZQREJZWTZOS0NuSzIydnZoWmI4a0syLVlwcnNXcjlB?oc=5",
+     "published": "2026-11-13T20:32:28+00:00",
+     "summary": "レディオヘッド、“19年ぶり”単独来日公演が決定 計5公演＆チケット種類など発表【一覧】 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s50",
+   "label": "Moodymann Japan tour with best-of album",
+   "artists": [
+    "Moodymann"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Clubberia"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Clubberia"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-13T13:40:18+00:00",
+   "articles": [
+    {
+     "outlet": "Clubberia",
+     "title": "Moodymann来日ツアー、東京・京都の全ラインアップ決定。20年ぶりのベスト盤もリリース",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lSFZGMFF1OXhVUWtRRXhJanQ3VTVvM1VRU1JfZkF4TlkyamN1bDZnbmFrZjJnbE5uTEduOGd0d2F2eFh0encwcUUzZXR4Z2FzVXg4eTBDazZkY29aV2c?oc=5",
+     "published": "2026-11-13T13:40:18+00:00",
+     "summary": "Moodymann来日ツアー、東京・京都の全ラインアップ決定。20年ぶりのベスト盤もリリース Clubberia"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s81",
+   "label": "Juan Atkins techno originator retrospective",
+   "artists": [
+    "Juan Atkins"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag",
+    "Mixmag"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-13T15:59:55+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "10 essential Juan Atkins tracks that set techno in motion",
+     "link": "https://djmag.com/features/10-essential-juan-atkins-tracks-set-techno-motion",
+     "published": "2026-11-13T15:59:55+00:00",
+     "summary": "Few artists have altered the course of music quite like Juan Atkins. The architect of techno, the Detroit artist gave the genre its sound and, famously, its name, first with Cybotron and later through his groundbreaking solo work as Model 5"
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "12 DJs pay tribute to Juan Atkins",
+     "link": "https://mixmag.net/feature/12-djs-pay-tribute-to-juan-atkins",
+     "published": null,
+     "summary": "The late techno originator seeded influence across the very breadth of dance music, inspiring DJs all over the globe. We ask 12 artists what Juan Atkins meant to them. Continue reading..."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s109",
+   "label": "Beatles 60 years ago Japan tour unused ticket",
+   "artists": [
+    "The Beatles"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Yahoo!ニュース"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Yahoo!ニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-13T23:34:06+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "埼玉・入間市民所蔵のお宝展示 60年前のビートルズ来日公演未使用チケット 市立博物館（産経新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBbExrWmVsbjFEUXBKdXFpd1dVdHBlR21lTml6UEhraW95RzBUUkFXeE8td0htZkE5aHItYkZDcjZ4NXZUb1NKM19ZQW4yMkRDZDJocmJVN09fSHR3LUk1a2p6NDJiejE4Y0FEem1EUTdiRVlwb1ZrOFNRTE5kZDA?oc=5",
+     "published": "2026-11-13T23:34:06+00:00",
+     "summary": "埼玉・入間市民所蔵のお宝展示 60年前のビートルズ来日公演未使用チケット 市立博物館（産経新聞） Yahoo!ニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s102",
+   "label": "New Music Friday hip-hop and R&B releases",
+   "artists": [],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Vibe"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T19:00:29+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "New Music Friday: 50 Hip-Hop and R&B Releases You Need on Your Playlist",
+     "link": "https://www.vibe.com/lists/new-music-friday-50-hip-hop-rb-releases-for-your-playlist/",
+     "published": "2026-11-13T19:00:29+00:00",
+     "summary": "Offset, IDK, Eminem, J Dilla, DJ Premier, Feid, Lil Supa, Leon Thomas, 2 Chainz, Lil Baby, and more stars unveil new tracks"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s104",
+   "label": "EDM.com On-Deck Circle DJ roundup",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T15:10:22+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "EDM.com On-Deck Circle: Afrojack, Gorgon City, VASSY & More",
+     "link": "https://edm.com/music-releases/on-deck-circle-afrojack-gorgon-city-vassy-more/",
+     "published": "2026-11-13T15:10:22+00:00",
+     "summary": "Dropping weekly on Fridays, ‘On-Deck Circle’ is EDM.com’s weekly roundup of 9 brand-new tracks from the scene’s biggest DJs and producers. The post EDM.com On-Deck Circle: Afrojack, Gorgon City, VASSY & More appeared first on EDM ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s103",
+   "label": "EDM.com Fresh Picks electronic music roundup",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T15:10:17+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "EDM.com Fresh Picks: Loosid, Amy Wiles, Moore Kismet & More",
+     "link": "https://edm.com/music-releases/fresh-picks-loosid-amy-wiles-moore-kismet-more/",
+     "published": "2026-11-13T15:10:17+00:00",
+     "summary": "Every Friday, EDM.com’s ‘Fresh Picks’ series showcases bold new electronic music from the scene’s most promising DJs and producers. The post EDM.com Fresh Picks: Loosid, Amy Wiles, Moore Kismet & More appeared first on EDM ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s106",
+   "label": "Nine new albums you should listen to now",
+   "artists": [
+    "2hollis",
+    "Ecco2k",
+    "Armand Hammer"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Pitchfork"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T14:59:02+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "9 New Albums You Should Listen to Now: 2hollis, Armand Hammer, and More",
+     "link": "https://pitchfork.com/story/9-new-albums-you-should-listen-to-now-2hollis-armand-hammer-and-more/",
+     "published": "2026-11-13T14:59:02+00:00",
+     "summary": "Stream new releases from 2hollis, Ecco2k, Armand Hammer, and U2"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s96",
+   "label": "Electronic music shaped by technology book",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T14:23:59+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "New book, Transients, explores how electronic music has been shaped by technology and time",
+     "link": "https://djmag.com/news/new-book-transients-explores-how-electronic-music-has-been-shaped-technology-and-time",
+     "published": "2026-11-13T14:23:59+00:00",
+     "summary": "Author David Reid drew on three decades of experience in the music industry to write the book"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s80",
+   "label": "Laufey evergreen profile",
+   "artists": [
+    "Laufey"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T14:11:52+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Laufey",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IcWRRc3A2cDdvZjVYNFFUSldTWndjZUVhdzlqYnFpNkw3Wk5ydHpRa3NKb1NKenVVaWp1ZDBhRDlXa3RmNmduay1MeDBjV1JOY1E?oc=5",
+     "published": "2026-11-13T14:11:52+00:00",
+     "summary": "Laufey Billboard"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s85",
+   "label": "Floating Points Sunflower Sound System Head Trip",
+   "artists": [
+    "Floating Points"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T14:10:52+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "Listen to Floating Points' Sunflower Sound System sets from Ben UFO, Avalon Emerson, more",
+     "link": "https://djmag.com/news/listen-floating-points-sunflower-sound-system-sets-ben-ufo-avalon-emerson-more",
+     "published": "2026-11-13T14:10:52+00:00",
+     "summary": "The sets were recorded at this summer's Head Trip festival in Indio, California"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s99",
+   "label": "DATAMOSH genre-bending electronic music universe",
+   "artists": [
+    "DATAMOSH"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Your EDM"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-13T12:03:48+00:00",
+   "articles": [
+    {
+     "outlet": "Your EDM",
+     "title": "HIGHSOCIETY: Inside the DATAMOSH Universe of Genre-Bending Electronic Music",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDBCODhnZXA3Rmgyb1hvZ1RwQmFVbEd5dUdJS0hoU2lQZTZaWllvVlA2R1FEVjJLMk1peWpmWF9NMlR0VWJYdjJwZ3NLWmtQX2oyeEtuOTdQZk9BcmNLZFZBSVJsWElMSmN0V2RmeDR5emltanRrTTlzZ1BrNnB3N3dPRUQyYWdoNXdHYmpjUnRJYkdZVkd1QkFmc0F6UDB1NmxuVjJ2bl9waWpMa0p3?oc=5",
+     "published": "2026-11-13T12:03:48+00:00",
+     "summary": "HIGHSOCIETY: Inside the DATAMOSH Universe of Genre-Bending Electronic Music Your EDM"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Rock & Roll Hall of Fame induction in Los Angeles",
+   "artists": [],
+   "genre": "Other",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "AP通信",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "AP通信"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-14T05:15:00+00:00",
+   "articles": [
+    {
+     "outlet": "AP通信",
+     "title": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0RVLUUtOEhac3A3Mm9TT0FhM0FVY3RVS3ByZHF5MDZTQ3YyQ2xCSkV2WjJYQ19JdnhfNXlZa28yd2FVOW5TLXpCeVRSYUFzeENQcUpVRTQydnBQS2x0ekg2Y2hRR1VIanFtbzJBdy1GNXRkamRKQlIxX1ZKX0ZxMnZLSGEwR1JlRGpMeGNMREc4elFXeEtzaHFWb2l5Um8?oc=5",
+     "published": "2026-11-14T05:15:00+00:00",
+     "summary": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage AP News"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Rock & Roll Hall of Fame Induction Ceremony to Kick Off as Planned Amid FAA Grounding Flights Debacle",
+     "link": "https://www.rollingstone.com/music/music-news/rock-and-roll-hall-of-fame-induction-ceremony-flights-1235658269/",
+     "published": "2026-11-14T02:49:03+00:00",
+     "summary": "There will be no changes to the artists set to appear and perform"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s52",
+   "label": "Duran Duran drummer Roger Taylor steps down",
+   "artists": [
+    "Duran Duran"
+   ],
+   "genre": "Other",
+   "kind": "health",
+   "talk": 0,
+   "outlets": [
+    "CNN",
+    "DJ Mag"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "CNN"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-13T13:05:49+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "Duran Duran drummer Roger Taylor steps down from band following tinnitus diagnosis",
+     "link": "https://djmag.com/news/duran-duran-drummer-roger-taylor-steps-down-band-following-tinnitus-diagnosis",
+     "published": "2026-11-13T13:05:49+00:00",
+     "summary": "He was part of the band from 1979 to 1985 before rejoining in 2001"
+    },
+    {
+     "outlet": "CNN",
+     "title": "Roger Taylor quits as Duran Duran drummer due to tinnitus",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWJGQ2F3c0ZFM2p6SFpiSTlHZE9KMVhKRHNoYkRKdTFNQWYyNDh2cjNKbnM0bVV3dFg0NjV2MGE1N3BxNk0zenVZVkdReWJnV1FDUXhLb3lMYjNWektrU0t6bWNQVWFSUWp3NXdYR1pfQThhTHVpclVOMkJuelZyLS1qMFVhX2RNZlRGWnN1S2JQdw?oc=5",
+     "published": "2026-11-13T10:18:23+00:00",
+     "summary": "Roger Taylor quits as Duran Duran drummer due to tinnitus CNN"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s53",
+   "label": "Pearl Jam Mike McCready Farewell to Seasons title track",
+   "artists": [
+    "Pearl Jam"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-13T18:47:35+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Pearl Jam’s Mike McCready Unveils Title Track to Rock Opera Farewell to Seasons: Stream",
+     "link": "https://consequence.net/2026/11/pearl-jam-mike-mccready-farewell-to-seasons-song/",
+     "published": "2026-11-13T18:47:35+00:00",
+     "summary": "The song is the title track of the graphic novel and its upcoming 11-track companion album due out December 1st. Pearl Jam’s Mike McCready Unveils Title Track to Rock Opera Farewell to Seasons: Stream Langdon Hickman"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Pearl Jam’s Mike McCready Debuts ‘Farewell to Seasons’ Title Track, an Ode to Seattle’s Music Scene",
+     "link": "https://www.rollingstone.com/music/music-news/pearl-jam-mike-mccready-farewell-to-seasons-title-track-1235657381/",
+     "published": "2026-11-13T13:03:44+00:00",
+     "summary": "The musician released the single alongside an animated music video directed by Cyrus Entezam"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s39",
+   "label": "Roger Waters files for divorce from fifth wife",
+   "artists": [
+    "Roger Waters"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-13T17:06:38+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Roger Waters Files for Divorce from Fifth Wife",
+     "link": "https://consequence.net/2026/11/roger-waters-divorce-fifth-wife/",
+     "published": "2026-11-13T17:06:38+00:00",
+     "summary": "The Pink Floyd legend and Kamilah Chavis had been married for five years. Roger Waters Files for Divorce from Fifth Wife Heavy Consequence Staff"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ロジャー・ウォーターズ、五番目の妻との離婚を申請したことが明らかに",
+     "link": "https://nme-jp.com/news/174349/",
+     "published": "2026-11-13T11:30:48+00:00",
+     "summary": "ロジャー・ウォーターズは五番目の妻であるカミラ・チェイヴィスとの離婚を申請したことが明らかになっている。"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s74",
+   "label": "Queens of the Stone Age From the Cliff video",
+   "artists": [
+    "Queens of the Stone Age"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "NME",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-13T16:42:35+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Watch Queens Of The Stone Age’s NSFW ‘From The Cliff’ video, co-written by Josh Homme",
+     "link": "https://www.nme.com/news/music/queens-of-the-stone-ages-nsfw-from-the-cliff-video-josh-homme-3975920",
+     "published": "2026-11-13T16:42:35+00:00",
+     "summary": "The frontman stars in the bloody short film, the latest accompaniment to their chart-topping album 'Perfecth' The post Watch Queens Of The Stone Age’s NSFW ‘From The Cliff’ video, co-written by Josh Homme appeared first on NME ."
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "クイーンズ・オブ・ザ・ストーン・エイジ、最新作より“From the Cliff”のミュージック・ビデオが公開",
+     "link": "https://nme-jp.com/news/174327/",
+     "published": "2026-11-13T10:30:47+00:00",
+     "summary": "クイーンズ・オブ・ザ・ストーン・エイジは最新作より“From the Cliff”のミュージック・ビデオが公開されている。"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s81",
+   "label": "Juan Atkins techno originator retrospective",
+   "artists": [
+    "Juan Atkins"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag",
+    "Mixmag"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-13T15:59:55+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "10 essential Juan Atkins tracks that set techno in motion",
+     "link": "https://djmag.com/features/10-essential-juan-atkins-tracks-set-techno-motion",
+     "published": "2026-11-13T15:59:55+00:00",
+     "summary": "Few artists have altered the course of music quite like Juan Atkins. The architect of techno, the Detroit artist gave the genre its sound and, famously, its name, first with Cybotron and later through his groundbreaking solo work as Model 5"
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "12 DJs pay tribute to Juan Atkins",
+     "link": "https://mixmag.net/feature/12-djs-pay-tribute-to-juan-atkins",
+     "published": null,
+     "summary": "The late techno originator seeded influence across the very breadth of dance music, inspiring DJs all over the globe. We ask 12 artists what Juan Atkins meant to them. Continue reading..."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s56",
+   "label": "Beastie Boys Licensed to Ill 40th anniversary reissue",
+   "artists": [
+    "Beastie Boys"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-13T12:45:06+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "Beastie Boys’ ‘Licensed To Ill’ gets 40th anniversary vinyl reissue",
+     "link": "https://djmag.com/news/beastie-boys-licensed-ill-gets-40th-anniversary-vinyl-reissue",
+     "published": "2026-11-13T12:45:06+00:00",
+     "summary": "The album has been remastered and comes with new liner notes by Public Enemy’s Chuck D"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ビースティ・ボーイズ、デビュー作『ライセンスト・トゥ・イル』の40周年盤がリリース決定",
+     "link": "https://nme-jp.com/news/174337/",
+     "published": "2026-11-13T10:00:19+00:00",
+     "summary": "ビースティ・ボーイズはデビュー・アルバム『ライセンスト・トゥ・イル』の40周年記念盤を2027年3月18日にリリースすることを発表している。"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 4
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 10
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 26
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 7,
+   "kept": 5
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 65,
+   "kept": 17
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 7
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 4
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 16
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 7
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 22
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 2
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 38,
+   "kept": 20
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 23,
+   "kept": 9
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 2
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 25
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 2,
+   "kept": 1
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 7,
+   "kept": 5
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 19,
+   "kept": 4
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 2,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 19,
+   "kept": 2
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 12,
+   "kept": 2
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 25,
+   "kept": 11
+  }
+ ],
+ "cost": {
+  "usd": 0.3032,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 20950,
+    "output_tokens": 11138
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 17748,
+    "output_tokens": 7776
+   }
+  ]
+ }
+}
