@@ -2,9 +2,11 @@ name: 今週の音楽話題（Discord）
 
 on:
   schedule:
-    # GitHubの予約実行は数時間遅れることがあるので、早めに起動して18:00まで待ってから投稿する
-    - cron: "30 3 * * 6"   # 毎週土曜 12:30（日本時間）に起動
-    - cron: "30 5 * * 6"   # 予備：土曜 14:30（1回目が来なかったとき用。投稿済みなら何もしない）
+    # GitHubの予約実行は数時間遅れることがあるので、何回か早めに起動し、18:00まで待ってから投稿する。
+    # 18:00まで5時間30分より前に届いた回は何もせず終わり、投稿済みなら後の回も何もしない。
+    - cron: "30 0 * * 6"   # 土曜 9:30（日本時間）：GitHubが大きく遅れた日のため
+    - cron: "30 3 * * 6"   # 土曜 12:30：遅れがない日はこの回が18:00まで待って投稿
+    - cron: "30 5 * * 6"   # 土曜 14:30：予備
   workflow_dispatch:        # 手動実行ボタン
     inputs:
       post:
@@ -29,13 +31,16 @@ jobs:
           ref: main
 
       - name: 投稿時刻（18:00）まで待つ
+        id: wait
         if: github.event_name == 'schedule'
         run: python3 weekly.py --wait
 
       - name: 最新のまとめを取り込む
+        if: steps.wait.outputs.post != 'false'
         run: git pull --ff-only origin main || true
 
       - name: 今週の話題を選んでDiscordに投稿
+        if: steps.wait.outputs.post != 'false'
         run: python3 weekly.py
         env:
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && !inputs.post }}
@@ -46,7 +51,7 @@ jobs:
           LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
 
       - name: 結果を保存
-        if: always()
+        if: always() && steps.wait.outputs.post != 'false'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
