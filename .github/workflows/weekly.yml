@@ -2,7 +2,9 @@ name: 今週の音楽話題（Discord）
 
 on:
   schedule:
-    - cron: "50 8 * * 6"   # 毎週土曜 17:50（日本時間）に起動 → 18時ごろ投稿
+    # GitHubの予約実行は数時間遅れることがあるので、早めに起動して18:00まで待ってから投稿する
+    - cron: "30 3 * * 6"   # 毎週土曜 12:30（日本時間）に起動
+    - cron: "30 5 * * 6"   # 予備：土曜 14:30（1回目が来なかったとき用。投稿済みなら何もしない）
   workflow_dispatch:        # 手動実行ボタン
     inputs:
       post:
@@ -14,22 +16,30 @@ permissions:
   contents: write
 
 concurrency:
-  group: daily-digest
+  group: weekly-discord
   cancel-in-progress: false
 
 jobs:
   weekly:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v7
         with:
           ref: main
 
+      - name: 投稿時刻（18:00）まで待つ
+        if: github.event_name == 'schedule'
+        run: python3 weekly.py --wait
+
+      - name: 最新のまとめを取り込む
+        run: git pull --ff-only origin main || true
+
       - name: 今週の話題を選んでDiscordに投稿
         run: python3 weekly.py
         env:
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && !inputs.post }}
+          SCHEDULED: ${{ github.event_name == 'schedule' }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
