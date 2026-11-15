@@ -1,0 +1,1808 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T09:40:31.615830+00:00",
+ "article_count": 180,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日はEurovision初のアジア版、AIアーティストの受賞、ツアー赤字の告白など、音楽の評価やお金の仕組みを考えさせる話題が目立ちます。Hip-Hopでは不仲説やポッドキャスト同士の論争が続いています。",
+  "top": [
+   {
+    "id": "s0",
+    "title_ja": "初のEurovisionアジア版、フィリピンのCarmelleが優勝",
+    "genre": "POP",
+    "summary_ja": "バンコクで開かれた初のEurovision Song Contest Asiaで、フィリピンの19歳の歌手Carmelleが「Sobra-Sobra」で優勝しました。審査員票と一般投票の両方で1位だったと報じられています。本人は、この曲は女性のエンパワーメントを祝う曲で、すべてのフィリピン女性へのトリビュートだと語っています。",
+    "why_ja": "BBC・AP通信などの一般メディアを含む5媒体が報じました。結果へのリアクション動画は、公開14時間で約3.4万回再生されています。",
+    "debate_ja": "アジア版Eurovisionは、本家のように定着すると思う？",
+    "line_point": "初のEurovisionアジア版でフィリピンの19歳Carmelleが優勝。審査員票と一般投票の両方で1位。",
+    "reels": [
+     {
+      "hook": "Eurovisionのアジア版、知ってた？",
+      "angle": "初開催と優勝者を紹介→アジア版は定着するかを論点に→可能性と課題について自分の見解→コメントで、出てほしい国やアーティストを募る"
+     },
+     {
+      "hook": "19歳がアジア初代王者に",
+      "angle": "Carmelleの経歴と、曲に込めたフィリピン女性へのメッセージを解説。審査員と一般投票の両方で1位という仕組みにも触れる"
+     }
+    ]
+   },
+   {
+    "id": "s30",
+    "title_ja": "AI歌手Xania Monet、AI音楽賞で3部門を受賞",
+    "genre": "Hip-Hop",
+    "summary_ja": "AI Music Awardsで、Xania Monetがアーティスト・楽曲・アルバムの3部門を受賞したと報じられました。Xania Monetは、Sunoで生成したボーカルを使うプロジェクトで、R&Bのラジオでも流れるようになったとされています。制作者のプロジェクトは、Hallwood Mediaとの契約を足がかりに広がっていると伝えられています。",
+    "why_ja": "報じたのはAllHipHopの1媒体ですが、過去1週間には大手の音楽出版社がSunoを提訴するなど、AI音楽をめぐる議論が続いており、その流れにある話題です。",
+    "debate_ja": "AIが歌う曲が賞を取ること、あなたはアリ派？ナシ派？",
+    "line_point": "Sunoのボーカルを使うAI歌手Xania Monetが、AI Music Awardsで3部門を受賞。",
+    "reels": [
+     {
+      "hook": "AIの歌手が3冠。これ、認められる？",
+      "angle": "受賞の事実→人間の賞と同じように評価してよいかを論点に→自分の見解→コメントでアリかナシかを募る"
+     },
+     {
+      "hook": "Sunoをめぐる争い、今どうなってる？",
+      "angle": "Sunoへの訴訟など最近の流れを振り返り、AI歌手がラジオや賞にまで広がっている現状を時系列で整理する"
+     }
+    ]
+   },
+   {
+    "id": "s17",
+    "title_ja": "Kate Nash、ツアーで1.6万ドルの赤字見込みを告白",
+    "genre": "POP",
+    "summary_ja": "Kate Nashが、現在のツアーで1万6000ドルの赤字になる見込みだと明かし、OnlyFansの収入で生活を支えていると報じられました。本人は、音楽の仕事に就ける人への扉が急速に閉ざされつつある、と危機感を示しています。",
+    "why_ja": "NMEが報じました。ツアーの経費の高さや、アーティストがどう生計を立てるかという業界の仕組みの話題につながります。",
+    "debate_ja": "有名でもツアーが赤字になる音楽業界、何が問題だと思う？",
+    "line_point": "Kate Nash、ツアーで1.6万ドルの赤字見込み。OnlyFansの収入で生活を支えていると告白。",
+    "reels": [
+     {
+      "hook": "ツアーをやるほど赤字って、おかしくない？",
+      "angle": "告白の内容→ツアーの収益構造はなぜ厳しいのかを論点に→自分の見解→コメントで、どうすれば変わるか意見を募る"
+     },
+     {
+      "hook": "アーティストの本当の収入源は？",
+      "angle": "ツアー・配信・副業など、アーティストの収入の種類を整理し、Kate Nashの発言が示す業界の課題を読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s2",
+    "title_ja": "ロックの殿堂2026、Wu-Tang ClanやJoy Divisionが殿堂入り",
+    "genre": "Other",
+    "summary_ja": "2026年のロックの殿堂の式典が開かれ、Joy Division/New Order、Wu-Tang Clan、Oasis、Phil Collins、Iron Maidenらが殿堂入りしました。Joy Division/New OrderはTrent Reznorの紹介を受けてPeter Hookがスピーチを行い、Wu-Tang Clanはパフォーマンスを披露しました。Iron Maidenの部では、Jack BlackやSt. Vincentが、MetallicaやRATMらのメンバーと共演しています。",
+    "why_ja": "AP通信・Billboard・Consequenceなど4媒体が報じました。欠席の見通しが伝えられていたOasisも含む、豪華な顔ぶれの式典の続報です。",
+    "debate_ja": "ラップグループがロックの殿堂入り、違和感ある？それとも当然？",
+    "line_point": "ロックの殿堂2026の式典。Wu-Tang Clan、Joy Division/New Order、Oasisらが殿堂入り。",
+    "reels": [
+     {
+      "hook": "Wu-Tangがロックの殿堂って、アリ？",
+      "angle": "殿堂入りした顔ぶれ→ロックの殿堂にラップやポップが入ることの是非を論点に→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "今年の殿堂入り、名前を全部言える？",
+      "angle": "Joy Division/New Order、Wu-Tang Clan、Oasis、Iron Maidenらの功績と、式典での共演の見どころを紹介する"
+     }
+    ]
+   },
+   {
+    "id": "s11",
+    "title_ja": "Chris BrownとUsherの共演ツアー、9月に7740万ドルの興収",
+    "genre": "Hip-Hop",
+    "summary_ja": "Chris BrownとUsherのR&B Tourが、9月に7740万ドルの興行収入を上げたと報じられました。一方で、アトランタでの反発をきっかけに、ネット上では2人の不仲説が広がっていると伝えられています。",
+    "why_ja": "HotNewHipHopが報じました。過去1週間に公演中止や不仲説が話題になった2人の、興行面での続報です。",
+    "debate_ja": "不仲説があっても大ヒット。共演ツアー成功のカギは何だと思う？",
+    "line_point": "Chris BrownとUsherのツアー、9月の興収が7740万ドル。不仲説の中でも大ヒット。",
+    "reels": [
+     {
+      "hook": "不仲説の2人が、ツアーで大稼ぎ？",
+      "angle": "興収の数字と不仲説を紹介→不仲説は動員に影響するかを論点に→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "7740万ドルってどれくらいすごい？",
+      "angle": "公演中止のニュースから現在までを時系列で整理し、R&Bの2大スターが組むツアーの集客力を数字から読み解く"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [],
+   "POP": [
+    {
+     "id": "s5",
+     "title_ja": "Kids' Choice Awards 2026、BTSとROSÉが受賞",
+     "note": "Kids' Choice Awards 2026でBTSとROSÉが受賞し、K-POP勢が躍進。"
+    },
+    {
+     "id": "s34",
+     "title_ja": "James Blunt、意に反してCelebrity Traitorsに出場",
+     "note": "英Guardianの取材で、知らないうちに番組出演が決まっていた話などを語った。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s35",
+     "title_ja": "Joe Budden陣営、Tupacの番組を巡りAkademiksを批判",
+     "note": "Netflixで配信予定のTupacの番組を巡り、Akademiksの発言をJoe Buddenが批判。"
+    },
+    {
+     "id": "s20",
+     "title_ja": "Lil PeepとLil Tracyの新曲「backseat」が公開",
+     "note": "生前に何度も共作したLil Tracyとの新曲として、Lil Peepの曲が公開された。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s6",
+     "title_ja": "Brandi Carlile、全曲リクエスト制のツアー",
+     "note": "セットリストを決めず、観客のリクエストだけで進めるライブの裏側がネタになる。"
+    },
+    {
+     "id": "s18",
+     "title_ja": "Robyn、Tiny Deskで名曲をアコースティックに",
+     "note": "「Show Me Love」などの名曲を小編成で歌い直した、Tiny Desk公演の見どころ。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s31",
+    "title_ja": "The Roots、来日ツアーを開催",
+    "note": "Mikikiが来日ツアーのセットリストを予想。日程や会場は候補の情報からは不明。"
+   },
+   {
+    "id": "s32",
+    "title_ja": "T.O.P、「PRE-STUDIO 2026 in JAPAN」を開催",
+    "note": "日本で開いた公演「PRE-STUDIO 2026 in JAPAN」のライブレポートが公開された。"
+   }
+  ],
+  "tour_candidates": 3
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s0",
+   "label": "Carmelle wins inaugural Eurovision Song Contest Asia",
+   "artists": [
+    "Carmelle"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "AP通信",
+    "BBC",
+    "Billboard",
+    "NME",
+    "Variety"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "AP通信",
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 5,
+   "score": 7,
+   "latest": "2026-11-15T09:35:03+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Philippines crowned first Eurovision Asia winners as Carmelle triumphs with ‘Sobra-Sobra’",
+     "link": "https://www.nme.com/news/music/philippines-crowned-first-eurovision-asia-winners-as-carmelle-triumphs-with-sobra-sobra-3975977",
+     "published": "2026-11-15T09:35:03+00:00",
+     "summary": "The 19-year-old singer topped both the jury and public votes at the inaugural contest in Bangkok The post Philippines crowned first Eurovision Asia winners as Carmelle triumphs with ‘Sobra-Sobra’ appeared first on NME ."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Filipino Singer Carmelle Storms to Victory in Eurovision Asia Debut in Bangkok",
+     "link": "https://www.billboard.com/music/music-news/carmelle-eurovision-asia-winner-2026-1236382296/",
+     "published": "2026-11-15T02:26:10+00:00",
+     "summary": "The 19-year-old said her winning song celebrated female empowerment and was intended as \"a tribute to all Filipino women.\""
+    },
+    {
+     "outlet": "AP通信",
+     "title": "Filipino singer Carmelle storms to victory in Eurovision Asia debut in Bangkok",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDRZWlBFRGthQ2o4OXBZWGVtU1lfNDNHMTVkTlFhM3lSR1NSbGFxR3RUdy04MW9Va0JmV29GQTNzM0RPcmIxM1AtNDFmOTdiMzFKYkZUaFVUN1pUX3VWNnJEZWEtUW1EQlllVUctRnBWdnZsYlhfUDJDcWFfR3dJV1hSaUYzUmlTeFBrR3NPQVlDUm1XbldzWHdUMHFnYXl6Njh4LUNfNTU?oc=5",
+     "published": "2026-11-15T00:24:11+00:00",
+     "summary": "Filipino singer Carmelle storms to victory in Eurovision Asia debut in Bangkok AP News"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Philippines Wins Inaugural Eurovision Song Contest Asia in Thailand",
+     "link": "https://variety.com/2026/tv/global/philippines-wins-eurovision-song-contest-asia-carmelle-1236947812/",
+     "published": "2026-11-14T22:07:26+00:00",
+     "summary": "The Philippines has won the first ever Eurovision Song Contest Asia. Carmelle, representing the Phillippines, scooped first place with the track “Sobra-Sobra,” earning 211 points. She beat Thailand’s act Mang x Daou, who came second place w"
+    },
+    {
+     "outlet": "BBC",
+     "title": "Philippines wins first Eurovision Song Contest Asia",
+     "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-14T18:17:58+00:00",
+     "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "1Lw6vxX85hY",
+    "title": "Eurovision Asia 2026 RESULTS REACTION | Philippines WINS with Carmelle! 🇵🇭",
+    "channel": "wiwibloggs",
+    "published": "2026-11-14T19:20:08Z",
+    "hours_since": 14,
+    "views": 34296,
+    "url": "https://www.youtube.com/watch?v=1Lw6vxX85hY",
+    "views_per_hour": 2450
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "2026 Rock & Roll Hall of Fame induction ceremony",
+   "artists": [
+    "Joy Division",
+    "New Order",
+    "Wu-Tang Clan",
+    "Oasis",
+    "U2"
+   ],
+   "genre": "Other",
+   "kind": "award",
+   "talk": 1,
+   "outlets": [
+    "AP通信",
+    "AllHipHop",
+    "Billboard",
+    "Consequence"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "AP通信"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 5,
+   "latest": "2026-11-15T08:44:19+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Peter Hook Accepts Joy Division/New Order’s Rock Hall Induction Following Introduction from Trent Reznor",
+     "link": "https://consequence.net/2026/11/peter-hook-joy-division-new-order-rock-hall-induction-trent-reznor/",
+     "published": "2026-11-15T08:44:19+00:00",
+     "summary": "The induction recognizes Ian Curtis, Bernard Sumner, Peter Hook, Stephen Morris, and Gillian Gilbert across two closely linked eras of music history. Peter Hook Accepts Joy Division/New Order’s Rock Hall Induction Following Introduction fro"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Wu-Tang Clan Get Their Flowers, Perform at Rock & Roll Hall of Fame Induction Ceremony",
+     "link": "https://consequence.net/2026/11/wu-tang-clan-rock-hall-induction-speech/",
+     "published": "2026-11-15T08:33:15+00:00",
+     "summary": "The Staten Island rap group ascended into Rock Hall alongside the likes of Oasis, Phil Collins, Joy Division/New Order, and more. Wu-Tang Clan Get Their Flowers, Perform at Rock & Roll Hall of Fame Induction Ceremony Travis Bland"
+    },
+    {
+     "outlet": "AP通信",
+     "title": "A look at the Rock & Roll Hall of Fame 2026 inductees and how they were honored",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGk4cWg4eUNUN19CVi12MXFKWXo3WVVYb1NuNnFrMkUxeEtDM2kyTlhadnQxNHlwNWdkSzZLcF9fcXRtWUQxUEl0ZzFlRFA2YXEzMU9OejdaQnNIcHpuVDZ4dVZUeExUUXZlTFQ2NHlRN2RHZEpkWEY4YUk4SVBhc3dLNlpWRVZpOG1rQnJHaFBfR0ZIWkQ5ajFoeDBzZw?oc=5",
+     "published": "2026-11-15T07:43:00+00:00",
+     "summary": "A look at the Rock & Roll Hall of Fame 2026 inductees and how they were honored AP News"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Iron Maiden Rock Hall Induction: Jack Black, St. Vincent Perform with Members of Metallica, RATM, and Mötley Crüe",
+     "link": "https://consequence.net/2026/11/iron-maiden-rock-hall-induction-jack-black-st-vincent-metallica-ratm-motley-crue/",
+     "published": "2026-11-15T07:41:49+00:00",
+     "summary": "The all-star supergroup performed \"The Trooper\" in honor of the legendary metal band. Iron Maiden Rock Hall Induction: Jack Black, St. Vincent Perform with Members of Metallica, RATM, and Mötley Crüe Spencer Kaufman"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Deftones, Lauren Mayberry, and Peter Hook Perform Joy Division and New Order Classics at Rock & Roll Hall of Fame Ceremony",
+     "link": "https://consequence.net/2026/11/deftones-joy-division-new-order-rock-roll-hall-of-fame-ceremony/",
+     "published": "2026-11-15T07:06:50+00:00",
+     "summary": "The one-off supergroup performed \"Love Will Tear Us Apart\" and \"Bizarre Love Triangle.\" Deftones, Lauren Mayberry, and Peter Hook Perform Joy Division and New Order Classics at Rock & Roll Hall of Fame Ceremony Spencer Kaufman"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "U2 Opens 2026 Rock & Roll Hall of Fame Ceremony With Surprise Performance",
+     "link": "https://www.billboard.com/music/rock/u2-surprise-performance-2026-rock-hall-induction-ceremony-1236382327/",
+     "published": "2026-11-15T07:06:30+00:00",
+     "summary": "Bono and co. played “Silencio” and “Pride (In the Name of Love)” at the Peacock Theatre, with riot police staging on the new song."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Rick Rubin Inducted into Rock & Roll Hall of Fame: “Can’t Kill Rock and Roll”",
+     "link": "https://consequence.net/2026/11/rick-rubin-rock-hall-neil-young-rhcp/",
+     "published": "2026-11-15T07:04:36+00:00",
+     "summary": "Neil Young introduced the producer with a lengthy, rambling speech. Rick Rubin Inducted into Rock & Roll Hall of Fame: “Can’t Kill Rock and Roll” Alex Young and Alex Krinsky"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Red Hot Chili Peppers All Dress as Rick Rubin for Rock & Roll Hall of Fame Performance",
+     "link": "https://consequence.net/2026/11/red-hot-chili-peppers-rick-rubin-rock-roll-hall-of-fame-performance/",
+     "published": "2026-11-15T06:27:55+00:00",
+     "summary": "RHCP performed \"Give It Away\" off the Rubin-produced Blood Sugar Sex Magik. Red Hot Chili Peppers All Dress as Rick Rubin for Rock & Roll Hall of Fame Performance Spencer Kaufman"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Bob Odenkirk Thinks It Made Sense for Oasis to Skip the Rock Hall Ceremony",
+     "link": "https://consequence.net/2026/11/bob-odenkirk-oasis-rock-hall-ceremony/",
+     "published": "2026-11-15T05:32:50+00:00",
+     "summary": "The band's music is \"a dose of Viagra for the ego,\" according to the Better Call Saul star. Bob Odenkirk Thinks It Made Sense for Oasis to Skip the Rock Hall Ceremony Liz Shannon Miller"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Phil Collins Tells Rock Hall Crowd: ‘You Haven’t Heard the Last of Me’",
+     "link": "https://www.billboard.com/music/rock/phil-collins-rock-hall-induction-speech-travis-barker-cynthia-erivo-1236382323/",
+     "published": "2026-11-15T05:28:25+00:00",
+     "summary": "Travis Barker inducted the Genesis frontman as a solo artist, while Cynthia Erivo performed “In the Air Tonight” in his place."
+    }
+   ],
+   "chart": [
+    {
+     "id": "Y8ASCUN00_c",
+     "title": "U2 - Torn (feat. Dolly Parton) [Lyric Video]",
+     "channel": "U2",
+     "published": "2026-11-13T05:00:30Z",
+     "hours_since": 53,
+     "views": 2057982,
+     "url": "https://www.youtube.com/watch?v=Y8ASCUN00_c",
+     "region": "US",
+     "rank": 7
+    },
+    {
+     "id": "Y8ASCUN00_c",
+     "title": "U2 - Torn (feat. Dolly Parton) [Lyric Video]",
+     "channel": "U2",
+     "published": "2026-11-13T05:00:30Z",
+     "hours_since": 53,
+     "views": 2057982,
+     "url": "https://www.youtube.com/watch?v=Y8ASCUN00_c",
+     "region": "GB",
+     "rank": 14
+    }
+   ],
+   "video": {
+    "id": "Y8ASCUN00_c",
+    "title": "U2 - Torn (feat. Dolly Parton) [Lyric Video]",
+    "channel": "U2",
+    "published": "2026-11-13T05:00:30Z",
+    "hours_since": 53,
+    "views": 2057982,
+    "url": "https://www.youtube.com/watch?v=Y8ASCUN00_c",
+    "region": "US",
+    "rank": 7
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s35",
+   "label": "Joe Budden Podcast criticizes DJ Akademiks over Angie Martinez's 2Pac interview",
+   "artists": [
+    "Joe Budden",
+    "DJ Akademiks",
+    "Angie Martinez"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 2,
+   "outlets": [
+    "Complex",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-14T21:46:55+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "'Joe Budden Podcast' Rips Akademiks Over Angie Martinez's 2Pac Interview Comments",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbndwMVUyYmRZQ0pzZEs1NnFnMklZaTRPcVVlWmtmb1JqcUoxR0RNTXkzV2pJNmtYMm44V1JLVFRxX1l0b2V5RGRQNUw3T0Y5RDBRZ2xRTExlZlFzM1cybWVSYjZyWFhNT2pneGFZYmtnRnRFLWRKM18tSGE4S3BDZFNWeFhVdlNCX3pxeGJVY0I0MmhI?oc=5",
+     "published": "2026-11-14T21:46:55+00:00",
+     "summary": "'Joe Budden Podcast' Rips Akademiks Over Angie Martinez's 2Pac Interview Comments Complex"
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Joe Budden Rips DJ Akademiks For “Obtuse” Take On Angie Martinez-Tupac Interview",
+     "link": "https://www.hotnewhiphop.com/1016594-joe-budden-dj-akademiks-angie-martinez-tupac",
+     "published": "2026-11-14T21:00:00+00:00",
+     "summary": "Joe Budden accused DJ Akademiks of being “willfully obtuse” over his Tupac Tapes criticism as the Netflix series nears its November 27 premiere. The post Joe Budden Rips DJ Akademiks For “Obtuse” Take On Angie Martinez-Tupac Interview appea"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Young Thug rejects Quavo's call to reunite with Gunna",
+   "artists": [
+    "Young Thug",
+    "Quavo",
+    "Gunna"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-15T04:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Young Thug Pushes Back On Quavo’s Call To Reunite With Gunna",
+     "link": "https://allhiphop.com/news/young-thug-pushes-back-on-quavos-call-to-reunite-with-gunna/",
+     "published": "2026-11-15T04:02:00+00:00",
+     "summary": "Young Thug rejects the burden of repairing his Gunna relationship after Quavo makes a public appeal for Atlanta unity."
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Offset Stands By Gunna As Atlanta’s Rap Unity Frays",
+     "link": "https://allhiphop.com/news/offset-stands-by-gunna-as-atlantas-rap-unity-frays/",
+     "published": "2026-11-15T00:00:00+00:00",
+     "summary": "Offset keeps Gunna close and argues Atlanta's public splits are costing the city the strength that once made it dominant."
+    }
+   ],
+   "chart": [
+    {
+     "id": "rChk58FS-ws",
+     "title": "YFN Lucci - EXPOSED. (feat. Quavo) [Official Music Video]",
+     "channel": "YFN Lucci",
+     "published": "2026-11-06T05:00:01Z",
+     "hours_since": 221,
+     "views": 1230173,
+     "url": "https://www.youtube.com/watch?v=rChk58FS-ws",
+     "region": "US",
+     "rank": 19
+    }
+   ],
+   "video": {
+    "id": "rChk58FS-ws",
+    "title": "YFN Lucci - EXPOSED. (feat. Quavo) [Official Music Video]",
+    "channel": "YFN Lucci",
+    "published": "2026-11-06T05:00:01Z",
+    "hours_since": 221,
+    "views": 1230173,
+    "url": "https://www.youtube.com/watch?v=rChk58FS-ws",
+    "region": "US",
+    "rank": 19
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s40",
+   "label": "Katt Williams reveals what it took to forgive Kevin Hart",
+   "artists": [
+    "Katt Williams"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T18:26:09+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Katt Williams Reveals What It Took for Him to Forgive Kevin Hart After Feud",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGlrdFJFNWItNXdNTjdYalFndWNlQVN5a0oyT1FTZHVFZEhMeFZ4YXdsUGRYT3ZMOWJwdGgtbWtiNTZJUUdQQ2hMR0hwTktwajdia1UtVVhqVzVhWWdzM0ZjdjNCWUttVkZTSXhnVTM1ODhuazlTMTVSZ1Q4eU1yU2VXWGRIRVBac20yR3JockdHSXZzSmxKcHFvTjY3NDNEaTZlM3pqQncybE5NVHhHSTFn?oc=5",
+     "published": "2026-11-14T18:26:09+00:00",
+     "summary": "Katt Williams Reveals What It Took for Him to Forgive Kevin Hart After Feud Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Kate Nash loses $16,000 from tour, uses OnlyFans income",
+   "artists": [
+    "Kate Nash"
+   ],
+   "genre": "POP",
+   "kind": "business",
+   "talk": 2,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T11:37:51+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Kate Nash to lose $16,000 from current tour as she keeps afloat with OnlyFans money",
+     "link": "https://www.nme.com/news/music/kate-nash-lose-16000-current-tour-keeps-afloat-onlyfans-money-3975948",
+     "published": "2026-11-14T11:37:51+00:00",
+     "summary": "\"The doors are quickly closing on who can access a career in music\" The post Kate Nash to lose $16,000 from current tour as she keeps afloat with OnlyFans money appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Robyn criticizes Eurovision as 'just shit'",
+   "artists": [
+    "Robyn"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T09:30:27+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Robyn says Eurovision is “just shit” now: “It really is embarrassing”",
+     "link": "https://www.nme.com/news/music/robyn-says-eurovision-is-just-shit-now-it-really-is-embarrassing-3975940",
+     "published": "2026-11-14T09:30:27+00:00",
+     "summary": "The Swedish pop star shared her thoughts on the competition during an appearance on Amy Poehler's ‘Good Hang’ podcast The post Robyn says Eurovision is “just shit” now: “It really is embarrassing” appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Richard Sterban of Oak Ridge Boys dies at 83",
+   "artists": [
+    "Oak Ridge Boys"
+   ],
+   "genre": "Other",
+   "kind": "death",
+   "talk": 0,
+   "outlets": [
+    "AP通信",
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "AP通信"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-11-15T03:02:07+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Richard Sterban, Oak Ridge Boys Bass Singer Who Helped Make ‘Elvira’ a Hit, Dies at 83",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOEJfTnYtRVRrLWFUeU5kS2FmWXFpMHYweU9kd3NGRkk0cFNoYlF4MVVsSFZpakFsSXlPNnlZbi1oVXFTLUNueGN6Z2pjcHl0aE9nVTJKaEhpYjFEcnphLTVoTHVPcmZqOU5FSG8tRXd2dDhnNjBaV2p5WERweVR5MC1xY1dKNnlJaUl2VExzRndUZw?oc=5",
+     "published": "2026-11-15T03:02:07+00:00",
+     "summary": "Richard Sterban, Oak Ridge Boys Bass Singer Who Helped Make ‘Elvira’ a Hit, Dies at 83 Billboard"
+    },
+    {
+     "outlet": "AP通信",
+     "title": "Richard Sterban, member of the celebrated country and gospel group The Oak Ridge Boys, dies at 83",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWhPalZxcm16Vzh4cEh1WEZkRVBUUXdNWXBmTnpLU1ExbEFyc1g0Vm85cGxKZmF4QW9tdlJTdnM1YmRrbVZmLUh5ZmlNZnB5T0hnQ0tuVmFyMFNwdzhNQllFamNoUEdTcG9kVUZUMWpuOW9ZOFMwclZGM2FsdUFscUNyNm1qYi1VbFl5R081UmlzRERZbWV0MGFQVQ?oc=5",
+     "published": "2026-11-15T01:07:00+00:00",
+     "summary": "Richard Sterban, member of the celebrated country and gospel group The Oak Ridge Boys, dies at 83 AP News"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Oak Ridge Boys’ Richard Sterban, Whose Distinctive Bass Voice Powered ‘Elvira’ and Other Country Smashes, Dies at 83",
+     "link": "https://variety.com/2026/music/people-news/richard-sterban-dead-oak-ridge-boys-bass-vocalist-1236947870/",
+     "published": "2026-11-15T01:05:06+00:00",
+     "summary": "Richard Sterban, the bass vocalist of the Oak Ridge Boys, died Saturday in Hendersonville, Tenn., following complications from bronchitis and pneumonia after a battle with cancer. He was 83. Both his family and the band announced his death."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s36",
+   "label": "Katt Williams refuses to do Last Friday if Faizon Love is in it",
+   "artists": [
+    "Katt Williams"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-14T23:39:08+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Katt Williams Objects To Faizon Love In “Last Friday” & Jokes About Comedian’s Financial Problems",
+     "link": "https://allhiphop.com/news/katt-williams-objects-to-faizon-love-in-last-friday-jokes-about-comedians-financial-problems/",
+     "published": "2026-11-14T23:39:08+00:00",
+     "summary": "Katt Williams gives Ice Cube and Mike Epps two different answers about sharing the next Friday movie with Faizon Love."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Katt Williams Says He Won't Do 'Last Friday' If Faizon Love Is in It",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFZQVEFvODE1d3BlN2dBNXpwTzJySnpjTG5PRF9xMHE3dG1sTkFOUjlHSGRzZXdicHFvdUY1aXFWRlZKZk1YNno1SzNDZUMydV9sdDhkUDIwYlE2bTBuRXBjWlkxbklsc0tJUmpZMlR2Y1ZpVW5Jd1p5WDBCczJYUEwwZnhMNGNNNmhYMzJMNGlQNVZiRlE?oc=5",
+     "published": "2026-11-14T04:01:24+00:00",
+     "summary": "Katt Williams Says He Won't Do 'Last Friday' If Faizon Love Is in It Complex"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "f1W7F4abs_w",
+    "title": "Faizon Love Responds To Katt Williams Dissing Him On Listen Laugh Podcast With Ice Cube & Mike Epps ",
+    "channel": "Forgotten KingzTv 2.0",
+    "published": "2026-11-14T12:09:35Z",
+    "hours_since": 21,
+    "views": 160917,
+    "url": "https://www.youtube.com/watch?v=f1W7F4abs_w",
+    "views_per_hour": 7663
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "James Blunt interview with The Guardian",
+   "artists": [
+    "James Blunt"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-14T14:00:46+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "James Blunt: ‘Do I have a nickname? Yes, it rhymes with blunt’",
+     "link": "https://www.theguardian.com/music/2026/nov/15/james-blunt-10-chaotic-questions-interview",
+     "published": "2026-11-14T14:00:46+00:00",
+     "summary": "The singer on his love for Ibiza, the weirdest thing he’s done in the name of romance, and being signed up for Celebrity Traitors against his will You were a punching bag for such a long time after You’re Beautiful became a massive hit but "
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "Hoobastank, Simple Plan, The Used perform mid-flight concert",
+   "artists": [
+    "Hoobastank",
+    "Simple Plan",
+    "The Used",
+    "LØLØ"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-11-14T20:06:51+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Hoobastank, Simple Plan and More Bands Performed Mid-Flight During Nationwide Air Travel Ground Stop",
+     "link": "https://variety.com/2026/music/news/hoobastank-simple-plan-mid-flight-southwest-ground-stop-1236947751/",
+     "published": "2026-11-14T20:06:51+00:00",
+     "summary": "Southwest Airlines brought back its “Live at 35” program during Friday’s nationwide grounding of air travel with performances from artists on their way to Vans Warped Tour. Hoobastank, The Used, Simple Plan and Lolo performed aboard a South"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Hoobastank, Simple Plan Play Mid-Flight Concert Aboard Warped Tour-Bound Plane",
+     "link": "https://www.rollingstone.com/music/music-news/hoobastank-simple-plan-concert-warped-tour-plane-1235658405/",
+     "published": "2026-11-14T19:23:34+00:00",
+     "summary": "The Used and LØLØ also played as part of Southwest's Live at 35 gig that coincided with nationwide air travel shutdown"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Simple Plan, Hoobastank, and The Used Turn Southwest Flight into In-Air Concert",
+     "link": "https://consequence.net/2026/11/simple-plan-hoobastank-and-the-used-turn-southwest-flight-into-in-air-concert/",
+     "published": "2026-11-14T17:32:55+00:00",
+     "summary": "The bands performed “The Reason,” “I’m Just a Kid,” and “The Taste of Ink” just hours before the FAA issued a nationwide ground stop. Simple Plan, Hoobastank, and The Used Turn Southwest Flight into In-Air Concert Alex Krinsky"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "Chrisean Rock vs Adam22 confrontation takes weird turn",
+   "artists": [
+    "Chrisean Rock"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-15T04:09:09+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Chrisean Rock Vs Adam22 Takes A Very Weird Turn",
+     "link": "https://allhiphop.com/rumors/chrisean-rock-vs-adam22-takes-a-very-weird-turn/",
+     "published": "2026-11-15T04:09:09+00:00",
+     "summary": "Chrisean Rock’s confrontation with Adam22 has sparked a theory about her hand."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Xania Monet wins at AI Music Awards",
+   "artists": [
+    "Xania Monet"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "award",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-15T02:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Xania Monet Wins Artist, Song & Album Honors At AI Music Awards",
+     "link": "https://allhiphop.com/news/xania-monet-wins-artist-song-album-honors-at-ai-music-awards/",
+     "published": "2026-11-15T02:30:00+00:00",
+     "summary": "Xania Monet's path runs from Suno-generated vocals to R&B radio as her creator's project builds on its Hallwood Media deal."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s27",
+   "label": "Drake praises Sexyy Red",
+   "artists": [
+    "Drake",
+    "Sexyy Red"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T19:31:26+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Drake Gushes Over 'Supportive, Attentive and in Touch' Sexyy Red",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmJ3Q3ZYa1Y5bDZGdDhGb19aaWVyaHdmQWN1d2NsRk56djB2RUc5eGU0bFRnSl9rbk00dVlxS2ljNGpFRkk1SHdEX3g4QmR3MWw2TWdtWG95VThFZUdLMU4td2NoR1VBTGg3LWJleGtqa1FKYnpmT0lBNnNDbTVOa0FaLU1IUVhWcE91d1Jzd3FFdlJES2xRdGExMzlvT00?oc=5",
+     "published": "2026-11-14T19:31:26+00:00",
+     "summary": "Drake Gushes Over 'Supportive, Attentive and in Touch' Sexyy Red Complex"
+    }
+   ],
+   "chart": [
+    {
+     "id": "Sh4pJYJOT7M",
+     "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+     "channel": "Future",
+     "published": "2026-11-10T17:46:05Z",
+     "hours_since": 112,
+     "views": 3443482,
+     "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "Sh4pJYJOT7M",
+     "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+     "channel": "Future",
+     "published": "2026-11-10T17:46:05Z",
+     "hours_since": 112,
+     "views": 3443482,
+     "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+     "region": "GB",
+     "rank": 6
+    }
+   ],
+   "video": {
+    "id": "Sh4pJYJOT7M",
+    "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+    "channel": "Future",
+    "published": "2026-11-10T17:46:05Z",
+    "hours_since": 112,
+    "views": 3443482,
+    "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "Chris Brown and Usher R&B Tour grosses $77.4 million",
+   "artists": [
+    "Chris Brown",
+    "Usher"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "chart",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T19:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Chris Brown & Usher Tour Rakes In Serious Cash Despite Alleged Feud",
+     "link": "https://www.hotnewhiphop.com/1016589-chris-brown-usher-tour-earnings-alleged-feud",
+     "published": "2026-11-14T19:00:00+00:00",
+     "summary": "Usher and Chris Brown’s R&B Tour grossed $77.4 million in September, a Billboard first, while Atlanta backlash fuels feud rumors online. The post Chris Brown & Usher Tour Rakes In Serious Cash Despite Alleged Feud appeared first on HotNewHi"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s38",
+   "label": "Meek Mill concerned for Yella Beezy's son after life sentence",
+   "artists": [
+    "Meek Mill",
+    "Yella Beezy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T17:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Meek Mill Is Concerned For Yella Beezy’s Son After Life Sentence",
+     "link": "https://www.hotnewhiphop.com/1016586-meek-mill-yella-beezy-son",
+     "published": "2026-11-14T17:00:00+00:00",
+     "summary": "Meek Mill says Yella Beezy’s son faces a hard lesson about America after the rapper’s life sentence for the MO3 murder. Here is the full story. The post Meek Mill Is Concerned For Yella Beezy’s Son After Life Sentence appeared first on HotN"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Phoebe Bridgers performs on SNL with John Mulaney",
+   "artists": [
+    "Phoebe Bridgers"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-15T08:05:34+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "‘SNL’: Watch Phoebe Bridgers Perform ‘Bobby,’ ‘Still Standing’",
+     "link": "https://www.rollingstone.com/music/music-news/snl-watch-phoebe-bridgers-performs-bobby-still-standing-1235658394/",
+     "published": "2026-11-15T08:05:34+00:00",
+     "summary": "Both are from her acclaimed album, Lost Weekend"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "John Mulaney and Phoebe Bridgers on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+     "link": "https://www.billboard.com/culture/product-recommendations/watch-snl-2026-john-mulaney-phoebe-bridgers-live-online-1236380661/",
+     "published": "2026-11-15T01:30:00+00:00",
+     "summary": "Livestream the comedian host and the singer-songwriter perform on Nov. 14 — watch live online for free."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s25",
+   "label": "Usher seeks sanctions in $700K restaurant loan fight",
+   "artists": [
+    "Usher"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-14T20:30:06+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Usher Seeks Sanctions In $700K Restaurant Loan Fight",
+     "link": "https://allhiphop.com/news/usher-seeks-sanctions-in-700k-restaurant-loan-fight/",
+     "published": "2026-11-14T20:30:06+00:00",
+     "summary": "Usher pushes for court action over a lawyer's disputed answers as his attempt to recover a restaurant loan takes another turn."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Usher Seeks Default Judgment Against Lawyer in Battle Over $700,000 Loan",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2c2UG9jOFdOTFlPYldMMGZpQ1pJMEVMeElfREctc0IzS3U4ak9sOVJLRHI5YW10UHpzVlNCV0J2Uy1qWHE3N1dybThtd00tOGRZNDVGZjZkSVEzZ01zOWxCM3ZLcm1OSVNIaUxSMUQyVzY3aHhVQU9pZHljWEJ0VkdhWS10S1pmbnZzTzZObC1zdWMxTkE?oc=5",
+     "published": "2026-11-14T16:40:54+00:00",
+     "summary": "Usher Seeks Default Judgment Against Lawyer in Battle Over $700,000 Loan Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Judah Weston, Veeze, Jorjiana release 'Hair 4 Love'",
+   "artists": [
+    "Judah Weston",
+    "Veeze",
+    "Jorjiana"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-15T08:01:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Hair 4 Love – Song by Judah Weston, Veeze, Jorjiana",
+     "link": "https://www.hotnewhiphop.com/1016513-hair-4-love-judah-weston-veeze-jorjiana",
+     "published": "2026-11-15T08:01:00+00:00",
+     "summary": "Judah Weston, Veeze, and Jorjiana have all teamed up on the brand-new single, \"Hair 4 Love,\" which dropped on Friday, November 13. The post Hair 4 Love – Song by Judah Weston, Veeze, Jorjiana appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Lil Peep and Lil Tracy release new track 'backseat'",
+   "artists": [
+    "Lil Peep",
+    "Lil Tracy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-15T05:58:34+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "backseat – Song by Lil Peep & Lil Tracy",
+     "link": "https://www.hotnewhiphop.com/1016510-backseat-lil-peep-lil-tracy",
+     "published": "2026-11-15T05:58:34+00:00",
+     "summary": "Lil Peep and Lil Tracy were frequent collaborators prior to the former's passing, and now, they have a new track out, \"backseat.\" The post backseat – Song by Lil Peep & Lil Tracy appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "BTS and ROSÉ win at 2026 Kids' Choice Awards",
+   "artists": [
+    "BTS",
+    "ROSÉ"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-15T04:41:25+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "BTS & ROSÉ Lead a Big Night for K-Pop at 2026 Kids’ Choice Awards: Full Winners List",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaUhadm1kUXRQdjZTSzZueG9kVGd0RUU5U0xXNVZRZGl0R1poWDdaMUdDMDUwZmFRQWI0c09BYnJodnVaQ3BPb0hYV2l4VmF5TnNyWDVCNEdYbjluaTRfSVlnem8yUjFYMlFabEpKN2FRQmVpY3FkVkM0MmZSVm8?oc=5",
+     "published": "2026-11-15T04:41:25+00:00",
+     "summary": "BTS & ROSÉ Lead a Big Night for K-Pop at 2026 Kids’ Choice Awards: Full Winners List Billboard"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s42",
+   "label": "Chrisean Rock Morgan Cook fight moves to March",
+   "artists": [
+    "Chrisean Rock"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-15T03:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Chrisean Rock’s Morgan Cook Fight Moves To March",
+     "link": "https://allhiphop.com/news/chrisean-rocks-morgan-cook-fight-moves-to-march/",
+     "published": "2026-11-15T03:00:00+00:00",
+     "summary": "Chrisean Rock gets a March fight date against Morgan Cook as their November booking becomes a faceoff ahead of the bout."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "Drake and Adin Ross Stake case remains partly frozen",
+   "artists": [
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-15T02:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "EXCLUSIVE: Drake’s Stake Case Remains Partly Frozen As Judge Keeps Dismissal Bids Alive",
+     "link": "https://allhiphop.com/news/exclusive-drakes-stake-case-remains-partly-frozen-as-judge-keeps-dismissal-bids-alive/",
+     "published": "2026-11-15T02:00:00+00:00",
+     "summary": "Drake and Adin Ross can still seek dismissal as a new court order extends the pause in their New Mexico Stake lawsuit."
+    }
+   ],
+   "chart": [
+    {
+     "id": "Sh4pJYJOT7M",
+     "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+     "channel": "Future",
+     "published": "2026-11-10T17:46:05Z",
+     "hours_since": 112,
+     "views": 3443482,
+     "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "Sh4pJYJOT7M",
+     "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+     "channel": "Future",
+     "published": "2026-11-10T17:46:05Z",
+     "hours_since": 112,
+     "views": 3443482,
+     "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+     "region": "GB",
+     "rank": 6
+    }
+   ],
+   "video": {
+    "id": "Sh4pJYJOT7M",
+    "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+    "channel": "Future",
+    "published": "2026-11-10T17:46:05Z",
+    "hours_since": 112,
+    "views": 3443482,
+    "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s26",
+   "label": "Young Thug and Birdman removed from Lil Wayne tour bus shooting lawsuit",
+   "artists": [
+    "Young Thug",
+    "Birdman",
+    "Lil Wayne"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T23:41:11+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Young Thug and Birdman Removed From Lil Wayne Tour Bus Shooting Civil Lawsuit",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRnkzYUNpcktsSmdYbHhsLUFwOUQzZlpHSkhoRU12UWRPU2J6TFQ1ck02M1VRU2tJcHNad19sNzR2ZHdVZklobVlTWnBIMTZBbmdFbXdoMkdOa2o1M3JuR3pKWTRRR19mRDRlOXg5TWUxWHZEWmwyaE5lRlp3T3BSX2l4NTdnY2RvVlhCTWdtN2s?oc=5",
+     "published": "2026-11-14T23:41:11+00:00",
+     "summary": "Young Thug and Birdman Removed From Lil Wayne Tour Bus Shooting Civil Lawsuit Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s44",
+   "label": "Koro style and BOGL Japan debut concert in Shibuya",
+   "artists": [
+    "Koro style",
+    "BOGL"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "indiegrab"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "indiegrab"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-15T03:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "indiegrab",
+     "title": "【NEWS】イベント情報：LAのKOROstyleと、サンフランシスコのBOGLの初来日公演 渋谷のR Loungeにて開催",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kMEU2MC05MkhRZ1k0Y3lORjhscThuTVR2MHlRY1NXd0pWaEpaVWVxVndEQWdJcVFzNklpTTVidjNzVHJuYkRWQw?oc=5",
+     "published": "2026-11-15T03:00:00+00:00",
+     "summary": "【NEWS】イベント情報：LAのKOROstyleと、サンフランシスコのBOGLの初来日公演 渋谷のR Loungeにて開催 indiegrab"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s32",
+   "label": "T.O.P performs PRE-STUDIO 2026 concert in Japan",
+   "artists": [
+    "T.O.P"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "韓流エンターテインメント"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "韓流エンターテインメント"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-14T12:03:45+00:00",
+   "articles": [
+    {
+     "outlet": "韓流エンターテインメント",
+     "title": "T.O.Pの「PRE-STUDIO 2026 in JAPAN」ライブレポート、ファンとの共創で生まれた圧巻のパフォーマンスを振り返る",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HNmQ4S2lBeWkxZk9XdTBMaVVyeTdDT05GMHJqejJpZXhkaGdXOWcwZl9pekRXcDRDLWtyUnRNSS0yQ21YdEg0RXI4VQ?oc=5",
+     "published": "2026-11-14T12:03:45+00:00",
+     "summary": "T.O.Pの「PRE-STUDIO 2026 in JAPAN」ライブレポート、ファンとの共創で生まれた圧巻のパフォーマンスを振り返る 韓流エンターテインメント"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s31",
+   "label": "The Roots Japan tour setlist preview",
+   "artists": [
+    "The Roots"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Mikiki by TOWER RECORDS"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Mikiki by TOWER RECORDS"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-14T09:01:25+00:00",
+   "articles": [
+    {
+     "outlet": "Mikiki by TOWER RECORDS",
+     "title": "ザ・ルーツ（The Roots）来日ツアーのセットリストを大予想 名曲とカバーで体現するブラックミュージックの歴史",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43dzlVTUE4UHRzSEY5emJtVDdTNlBIYTZIZERNSkJxNEpRYzhxd1lBdzNfSmV0NHBwb01RSzkwVGhQNnMzRjUxNXJyeW9YZzZ0OVE?oc=5",
+     "published": "2026-11-14T09:01:25+00:00",
+     "summary": "ザ・ルーツ（The Roots）来日ツアーのセットリストを大予想 名曲とカバーで体現するブラックミュージックの歴史 Mikiki by TOWER RECORDS"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Brandi Carlile All-Requests Tour concert review",
+   "artists": [
+    "Brandi Carlile"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Variety"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-15T03:24:07+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Brandi Carlile’s All-Requests Tour Isn’t Just a Magnificent Stunt, but an Unusually Moving Transaction Between Performer and Audience: Concert Review",
+     "link": "https://variety.com/2026/music/concert-reviews/brandi-carlile-all-request-tour-burn-setlist-concert-review-1236947885/",
+     "published": "2026-11-15T03:24:07+00:00",
+     "summary": "Is it possible to plan for magic, serendipity, peak-level proficiency and finally sublimity by… really not planning at all? That is the question. On Brandi Carlile’s current “Burn the Setlist!” tour, the answer is clear: Sometimes Shangri-L"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Robyn performs songs for NPR Tiny Desk",
+   "artists": [
+    "Robyn"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-14T14:51:23+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "See Robyn Strip Down ‘Sexistential’ Songs for Tiny Desk Performance",
+     "link": "https://www.rollingstone.com/music/music-news/robyn-sexistential-songs-show-me-love-tiny-desk-performance-1235658322/",
+     "published": "2026-11-14T14:51:23+00:00",
+     "summary": "Swedish pop icon also revisits \"Show Me Love\" and \"Ever Again\" for NPR mini-concert"
+    }
+   ],
+   "shortlisted": true
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 4
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 84,
+   "kept": 24
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 5,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 47,
+   "kept": 6
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 7
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 30,
+   "kept": 0
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 11
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 0
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 97,
+   "kept": 14
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 0
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 11
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 32,
+   "kept": 8
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 23,
+   "kept": 10
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 1
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 26
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 1,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 0
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 8,
+   "kept": 0
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 27,
+   "kept": 13
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 24,
+   "kept": 9
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 16,
+   "kept": 1
+  }
+ ],
+ "cost": {
+  "usd": 0.219,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 14314,
+    "output_tokens": 4836
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 15997,
+    "output_tokens": 5828
+   }
+  ]
+ }
+}
