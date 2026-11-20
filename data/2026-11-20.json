@@ -1,0 +1,2391 @@
+{
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T10:15:41.897348+00:00",
+ "article_count": 282,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "『GTA VI』のサントラ公開やSpotifyのAI方針など、ゲームやテクノロジーと音楽の関係が目立つ一日でした。アーティストがテック界や政治に向けて意見を表明する話題も続いています。",
+  "top": [
+   {
+    "id": "s21",
+    "title_ja": "『GTA VI』サントラ全34曲が公開、JENNIEらが参加",
+    "genre": "Hip-Hop",
+    "summary_ja": "『Grand Theft Auto VI』のコンパニオンアルバム『Grand Theft Auto VI: The Album』が全34曲で公開された。Lana Del Rey、Dua Lipa、Travis Scott、JENNIE、Playboi Carti、Cardi Bらが参加していると報じられている。",
+    "why_ja": "BillboardとConsequenceの2媒体が報じた。先週話題になった曲目流出に続く正式公開で、日本でも人気のJENNIEやDua Lipaが参加している。",
+    "debate_ja": "ゲームのサントラは、いまやアルバムより強い新曲発表の場？",
+    "line_point": "『GTA VI』サントラ全34曲が公開。JENNIE、Dua Lipa、Lana Del Reyらが参加。",
+    "reels": [
+     {
+      "hook": "ゲームが新曲の最強の発表の場になってない？",
+      "angle": "豪華な参加陣を紹介→ゲーム発の新曲はヒットにつながるかを論点に→自分の見解→コメントで推し曲と意見を募る"
+     },
+     {
+      "hook": "JENNIEも参加、GTAサントラの中身",
+      "angle": "参加アーティストをジャンル別に整理し、曲目流出から正式公開までの流れを解説。日本で人気のJENNIEやDua Lipaを中心に紹介する"
+     }
+    ]
+   },
+   {
+    "id": "s51",
+    "title_ja": "Grimes、AIを巡りElon Muskに「もっと良くなって」と苦言",
+    "genre": "POP",
+    "summary_ja": "GrimesがAIに関する「sex slave」という表現を巡ってElon Muskを批判し、「step up」「do better」と呼びかけたとNMEが報じた。「Elonが公の場で女性を尊重すれば、世界は変わり得る」という趣旨の発言も伝えられている。",
+    "why_ja": "NMEが報じた。アーティストがテック界の大物に公の場で苦言を呈した形で、AIと女性の扱いという社会的なテーマにも関わる。",
+    "debate_ja": "アーティストがテック企業のトップに公に意見するのはアリ？",
+    "line_point": "Grimes、AIを巡りElon Muskに苦言。女性を尊重すれば世界は変わると訴えたと報道。",
+    "reels": [
+     {
+      "hook": "アーティストがテック界に物申すの、どう思う？",
+      "angle": "報じられた発言を事実として紹介→AIと女性の扱いを論点に→自分の見解→コメントで意見を募る。個人攻撃にせず、発言の内容に絞る"
+     },
+     {
+      "hook": "Grimesの発言、何を問題提起してる？",
+      "angle": "見出しにあるstep up、do better、the king he used to beを訳してメッセージを読み解く。批判と擁護、両方の見方も紹介する"
+     }
+    ]
+   },
+   {
+    "id": "s75",
+    "title_ja": "Spotify、AI曲の誤った紐付けから「アーティストを守る」と表明",
+    "genre": "Dance",
+    "summary_ja": "Spotifyが、別のアーティストの作品として誤って登録されるAI楽曲からアーティストを守ると表明した。一方で、プラットフォームでのAIの利用は引き続き認めており、2027年にAIリミックスサービスの開始を準備していると報じられている。",
+    "why_ja": "Mixmagが報じた。先週の偽リリース対策の開放に続く動きで、アーティストの保護とAIの活用を同時に進める姿勢が注目されている。",
+    "debate_ja": "AIから守りつつAIリミックスも始める、これって矛盾？",
+    "line_point": "Spotify、AI曲の誤紐付けからアーティストを保護。2027年のAIリミックス開始も準備中と報道。",
+    "reels": [
+     {
+      "hook": "守るのにAIリミックスも始める？",
+      "angle": "保護策とAIリミックス準備という2つの事実を紹介→矛盾か両立かを論点に→自分の見解→コメントで使ってみたいかを募る"
+     },
+     {
+      "hook": "好きな曲をAIでリミックスできる時代？",
+      "angle": "AIリミックスで何が変わり得るかを可能性として解説し、SunoやSoundCloudなど最近のAIへの対応と並べて比較する"
+     }
+    ]
+   },
+   {
+    "id": "s16",
+    "title_ja": "The Beatles「In My Life」新MVにOwen Cooperが主演",
+    "genre": "Other",
+    "summary_ja": "The Beatlesが「In My Life」の新しいMVを公開した。ドラマ『アドレセンス』で注目された16歳の英国俳優Owen Cooperが主演し、リヴァプールの名所を舞台に、世代を超えて受け継がれる家族の音楽愛を描いている。",
+    "why_ja": "BBC、Rolling Stone、日本のuDiscoverMusic Japanが報じた。公開18時間で約62万回再生され、英国のYouTube音楽チャートで12位に入っている。",
+    "debate_ja": "名曲に新しいMVを付けるのは、若い世代に届ける正解？",
+    "line_point": "The Beatles「In My Life」新MV公開。16歳の俳優Owen Cooperが主演し、英チャート12位。",
+    "reels": [
+     {
+      "hook": "昔の名曲に新MV、アリ？ナシ？",
+      "angle": "MVの内容を紹介→名曲に新しい映像を付ける意味を論点に→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "公開18時間で62万回、なぜ？",
+      "angle": "話題の若手俳優の起用、リヴァプールの名所、世代をつなぐストーリーの3点から、再生数の伸びを読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s70",
+    "title_ja": "Yazz、英政党Reform UKによる自身のヒット曲の使用を非難",
+    "genre": "Dance",
+    "summary_ja": "英国の歌手Yazzが、Coldcutがプロデュースした1988年のヒット曲「The Only Way Is Up」がReform UKの選挙運動動画で使われたことを非難した。「彼らの政党は、私とこの曲が象徴するすべてに反する」と応じたと報じられている。",
+    "why_ja": "DJ Magが報じた。政党による楽曲の使用とアーティストの意思という、議論になりやすいテーマに関わる話題。",
+    "debate_ja": "政党が楽曲を使うとき、アーティストの同意は必要？",
+    "line_point": "Yazz、1988年のヒット曲を英政党が動画に使ったことに反発。",
+    "reels": [
+     {
+      "hook": "自分の曲が政治に使われたらどうする？",
+      "angle": "事実を紹介→使用の権利とアーティストの意思のどちらを重視するかを論点に→自分の見解→コメントで意見を募る。政党の評価には踏み込まない"
+     },
+     {
+      "hook": "1988年のこの曲、知ってる？",
+      "angle": "「The Only Way Is Up」とプロデューサーのColdcutを紹介し、曲のメッセージと今回の使われ方のズレを解説する"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s24",
+     "title_ja": "Hans Zimmer、Rüfüs Du Solの「Innerbloom」を再解釈",
+     "note": "Hans ZimmerがRüfüs Du Solの名曲「Innerbloom」をスケールの大きなアレンジで再解釈した。"
+    },
+    {
+     "id": "s74",
+     "title_ja": "Berlin Atonal、AI軍事イベントを開いた会場Kraftwerkを非難",
+     "note": "フェスは、自らの価値観に反する場所で開催するべきではないとの立場を示した。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s11",
+     "title_ja": "Jisoo、映画『The Angry Birds Movie 3』の新曲を公開",
+     "note": "BLACKPINKのJisooが、アニメ映画のために制作した新曲「Sun Showers」を公開した。"
+    },
+    {
+     "id": "s2",
+     "title_ja": "Blondie、新作『High Noon』から新曲を公開",
+     "note": "新曲「Come Back Home」を公開し、新作でのJohnny Marrとの制作についても語った。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s43",
+     "title_ja": "D'Angeloの未発表曲が『GTA VI』に収録",
+     "note": "未発表曲「Kamikazi」が『GTA VI』のゲーム内ラジオで流れると報じられた。"
+    },
+    {
+     "id": "s45",
+     "title_ja": "Marlon Jackson、ステージ4の前立腺がんを公表",
+     "note": "Jackson 5のMarlon Jacksonががんを公表し、治療を経て現在は順調だと語った。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s66",
+     "title_ja": "Jeff Buckley、Z世代に「yearner」の象徴として人気",
+     "note": "90年代のシンガーが、叶わぬ恋を歌う象徴としてZ世代に再評価されているという話。"
+    },
+    {
+     "id": "s4",
+     "title_ja": "Kanye Westの『Graduation』、19年後もSpotifyで首位",
+     "note": "19年前の作品が、Spotifyのラップの日間再生で首位だとChart Dataが伝えた話。"
+    },
+    {
+     "id": "s29",
+     "title_ja": "Childish Gambino「This Is America」、10億回再生を突破",
+     "note": "銃暴力や人種差別を描いた曲が、YouTubeで10億回再生に到達した背景を語れる。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s1",
+    "title_ja": "Bon Jovi、来日公演のCMでロバート秋山がナレーション",
+    "note": "来日公演のテレビCMを11月21日から放送。ナレーションはロバートの秋山竜次。"
+   },
+   {
+    "id": "s32",
+    "title_ja": "5 Seconds of Summer、来日公演の当日券と公式グッズを発表",
+    "note": "11月22日のSGC HALL ARIAKE公演で、16時から会場で当日券を販売。公式グッズも公開。"
+   },
+   {
+    "id": "s20",
+    "title_ja": "Wolf Alice、来日東京公演のサポートアクトが決定",
+    "note": "東京公演に出演するサポートアクトが決定し、当日券のお知らせも出ている。"
+   },
+   {
+    "id": "s30",
+    "title_ja": "Iron Maiden、Kアリーナ横浜公演の当日券を販売",
+    "note": "11月24日と25日のKアリーナ横浜公演で、各日17時30分から会場で当日券を販売。"
+   },
+   {
+    "id": "s31",
+    "title_ja": "Reytons、大阪公演の当日券を販売",
+    "note": "11月24日の梅田Shangri-La公演で、18時から当日券を販売。9,000円、別途1ドリンク。"
+   },
+   {
+    "id": "s46",
+    "title_ja": "Public Image Ltd、2027年2月に来日ツアー決定",
+    "note": "John Lydon率いるバンドが愛知、大阪、神奈川、東京の4都市を巡る。"
+   },
+   {
+    "id": "s47",
+    "title_ja": "KK's Priest、来日公演が決定",
+    "note": "元Judas PriestのK.K. Downing率いるバンド。"
+   },
+   {
+    "id": "s17",
+    "title_ja": "H.E.R.O.、来日公演を前に新曲を公開",
+    "note": "来日公演を間近に控え、約1年9か月ぶりの新曲「Buried In Bloom」をリリース。"
+   },
+   {
+    "id": "s36",
+    "title_ja": "Freya Sky、来年の来日公演を前に新曲を発表",
+    "note": "新曲「crushed」を12月2日にリリース。来年の来日公演はすでに決定している。"
+   }
+  ],
+  "tour_candidates": 12
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s2",
+   "label": "Blondie announce new album High Noon",
+   "artists": [
+    "Blondie"
+   ],
+   "genre": "POP",
+   "kind": "announcement",
+   "talk": 1,
+   "outlets": [
+    "NME",
+    "NME Japan",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-20T09:30:04+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Blondie drop sweeping single ‘Come Back Home’ and tell us about their “big metropolis” of a new album",
+     "link": "https://www.nme.com/news/music/blondie-interview-new-single-come-back-home-album-high-noon-rosalia-geese-tour-3976474",
+     "published": "2026-11-20T09:30:04+00:00",
+     "summary": "Chris Stein and Debbie Harry talk to NME about working with Johnny Marr on new album ‘High Noon’, their love of Rosalía, thoughts on Geese and the current NYC indie scene, the chances of touring, and if they plan to keep going following the"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ブロンディ、来たるニュー・アルバムより新曲“Come Back Home”の音源が公開",
+     "link": "https://nme-jp.com/news/174580/",
+     "published": "2026-11-20T08:30:42+00:00",
+     "summary": "ブロンディは来たるニュー・アルバムより新曲“Come Back Home”の音源が公開されている。"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Blondie Are Waiting for the Clouds to Part on Wistful New Song ‘Come Back Home’",
+     "link": "https://www.rollingstone.com/music/music-news/blondie-release-new-song-come-back-home-1235661533/",
+     "published": "2026-11-20T05:01:29+00:00",
+     "summary": "The tender track will appear on the band's new album, High Noon , out February"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s48",
+   "label": "Phoebe Bridgers covers Adrianne Lenker holiday",
+   "artists": [
+    "Phoebe Bridgers",
+    "Adrianne Lenker"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 1,
+   "outlets": [
+    "NME",
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-11-19T17:13:14+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Phoebe Bridgers Covers Adrianne Lenker’s “Anything” for the Holidays",
+     "link": "https://pitchfork.com/story/phoebe-bridgers-covers-adrianne-lenkers-anything-for-the-holidays/",
+     "published": "2026-11-19T17:13:14+00:00",
+     "summary": "Proceeds from the track will benefit Palestine Children’s Relief Fund"
+    },
+    {
+     "outlet": "NME",
+     "title": "Check out Phoebe Bridgers’ cosy festive cover of Adrianne Lenker’s ‘Anything’",
+     "link": "https://www.nme.com/news/music/phoebe-bridgers-releases-festive-cover-of-adrianne-lenkers-anything-listen-3976434",
+     "published": "2026-11-19T16:09:13+00:00",
+     "summary": "Proceeds go to the Palestine Children's Relief Fund (PCRF) The post Check out Phoebe Bridgers’ cosy festive cover of Adrianne Lenker’s ‘Anything’ appeared first on NME ."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Rejoice: Phoebe Bridgers Rings in the Holidays With an Adrianne Lenker Cover",
+     "link": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-adrianne-lenker-holiday-cover-1235660592/",
+     "published": "2026-11-19T15:35:08+00:00",
+     "summary": "Bridgers dropped her rendition of the Big Thief singer’s solo classic “Anything”"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s40",
+   "label": "Macklemore pledges concert proceeds to Gaza",
+   "artists": [
+    "Macklemore"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T05:30:36+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Macklemore Pledges “Where Is Our Love” Proceeds To Gaza Mothers And Children",
+     "link": "https://allhiphop.com/news/macklemore-pledges-where-is-our-love-proceeds-to-gaza-mothers-and-children/",
+     "published": "2026-11-20T05:30:36+00:00",
+     "summary": "Macklemore pledges proceeds from \"Where Is Our Love\" to the Mother of Hind Fund after his Palestinian benefit concerts."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Conway the Machine responds to Westside Gunn",
+   "artists": [
+    "Conway the Machine",
+    "Westside Gunn"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 2,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T05:03:38+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Conway the Machine Demands Respect From Westside Gunn in Latest Response",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFVnRkpQcnpRTmdZYUZuLXdEc3l5X0VJVGtFRlBmcnZiS2JyS1l2UFN3eHJhYnZrMERnd1pldGFhQUh1b1pPTktSUXpiVHVicUdZVS1LbS1tTFRjaUMtQTJTRThyM1BzeDVEOUllOW1GQ0k4b1lqSlpNS196RG50R3ZqMlM4dEYxT2c?oc=5",
+     "published": "2026-11-20T05:03:38+00:00",
+     "summary": "Conway the Machine Demands Respect From Westside Gunn in Latest Response Complex"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "PFwFnXe6D6I",
+    "title": "Westside Gunn On Why He Won’t Give A Piece Of Griselda To Conway The Machine & Benny The Butcher 🤔",
+    "channel": "Change The Game TV",
+    "published": "2026-11-17T19:55:28Z",
+    "hours_since": 62,
+    "views": 345285,
+    "url": "https://www.youtube.com/watch?v=PFwFnXe6D6I",
+    "views_per_hour": 5569
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s51",
+   "label": "Grimes calls out Elon Musk over AI",
+   "artists": [
+    "Grimes"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-19T15:22:34+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Grimes calls out Elon Musk over AI “sex slave” and urges him to “step up”, “do better” and be “the king he used to be”",
+     "link": "https://www.nme.com/news/music/grimes-calls-out-elon-musk-over-ai-sex-slave-and-urges-him-to-step-up-do-better-and-be-the-king-he-used-to-be-3976419",
+     "published": "2026-11-19T15:22:34+00:00",
+     "summary": "\"If Elon respected women in public the whole world [could] change\" The post Grimes calls out Elon Musk over AI “sex slave” and urges him to “step up”, “do better” and be “the king he used to be” appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s70",
+   "label": "Yazz condemns Reform UK use of Coldcut",
+   "artists": [
+    "Yazz",
+    "Coldcut"
+   ],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-19T13:48:52+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "Yazz condemns Reform UK’s use of Coldcut-produced 1988 hit ‘The Only Way Is Up’ in campaign video",
+     "link": "https://djmag.com/news/yazz-condemns-reform-uks-use-of-coldcut-produced-1988-hit-only-way-campaign-video",
+     "published": "2026-11-19T13:48:52+00:00",
+     "summary": "“Their political party goes against everything I and this song stands for,” the British singer responded"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s74",
+   "label": "Berlin Atonal condemns Kraftwerk venue",
+   "artists": [
+    "Kraftwerk"
+   ],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "Berlin Atonal \"strongly condemns\" Kraftwerk venue following AI military event",
+     "link": "https://mixmag.net/read/berlin-atonal-slams-kraftwerk-following-exhibition-for-ai-military-firm-news",
+     "published": null,
+     "summary": "The festival, which insisted it \"should not be housed in a space that goes against its values\", will return to the former Mitte power station for its next edition Continue reading..."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s75",
+   "label": "Spotify protects artists from AI tracks",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "business",
+   "talk": 2,
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "Spotify says it will “protect” artists from misattributed AI tracks",
+     "link": "https://mixmag.net/read/spotify-says-protect-artists-misattributed-ai-tracks-news",
+     "published": null,
+     "summary": "The streaming giant continues to allow the use of AI on its platform however, as it prepares to launch an AI remix service in 2027 Continue reading..."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Beabadoobee announces album Bananas 4 Cats",
+   "artists": [
+    "Beabadoobee"
+   ],
+   "genre": "Other",
+   "kind": "announcement",
+   "talk": 0,
+   "outlets": [
+    "NME",
+    "NME Japan",
+    "Pitchfork",
+    "The Fader"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-11-20T10:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "ビーバドゥービー、新作のリリースを発表＆新曲“No Punctuation”の音源が公開",
+     "link": "https://nme-jp.com/news/174594/",
+     "published": "2026-11-20T10:00:00+00:00",
+     "summary": "ビーバドゥービーは通算5作目となるニュー・アルバム『バナナズ・フォー・キャッツ』を2027年2月19日にリリースすることを発表している。"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Beabadoobee Goes Bananas 4 Cats on New Album and Song",
+     "link": "https://pitchfork.com/story/beabadoobee-goes-bananas-4-cats-on-new-album-and-song/",
+     "published": "2026-11-19T18:01:19+00:00",
+     "summary": "“No Punctuation” leads the indie rock singer-songwriter’s quick follow-up to Pylon"
+    },
+    {
+     "outlet": "NME",
+     "title": "Beabadoobee announces surprise new album ‘Bananas 4 Cats’ with sweet single ‘No Punctuation’",
+     "link": "https://www.nme.com/news/music/beabadoobee-announces-surprise-new-album-bananas-4-cats-with-single-no-punctuation-listen-3976453",
+     "published": "2026-11-19T17:02:01+00:00",
+     "summary": "\"I got back home and felt inspired, and made another album,\" the singer said of the follow-up to 'Pylon', which arrived in the autumn The post Beabadoobee announces surprise new album ‘Bananas 4 Cats’ with sweet single ‘No Punctuation’ appe"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "beabadoobee announces ‘Bananas 4 Cats,’ her second album in under a year",
+     "link": "https://www.thefader.com/2026/11/19/beabadoobee-announces-bananas-4-cats-her-second-album-in-under-a-year",
+     "published": "2026-11-19T13:36:01-05:00",
+     "summary": "It’s a cozier follow-up to her rollicking September album, Pylon ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "Beatles In My Life video features Owen Cooper",
+   "artists": [
+    "The Beatles"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "BBC",
+    "Rolling Stone",
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 4,
+   "latest": "2026-11-20T06:22:29+00:00",
+   "articles": [
+    {
+     "outlet": "BBC",
+     "title": "Actor Owen Cooper stars in new Beatles music video",
+     "link": "https://www.bbc.co.uk/news/articles/ckx280084z2go?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-20T06:22:29+00:00",
+     "summary": "The film follows a family's love of music across generations and features Liverpool landmarks."
+    },
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "ビートルズ「In My Life」新MVを公開。『アドレセンス』で注目の英若手俳優オーウェン・クーパー主演",
+     "link": "https://www.udiscovermusic.jp/news/the-beatles-in-my-life-bideo",
+     "published": "2026-11-20T00:42:00+00:00",
+     "summary": "ザ・ビートルズは「In My Life」の新しいMVを公開した。16才の英国俳優オーウェン・クーパーが主演し、ジェシカ・スウェールとイリーナ・アレクシウが監督を務める。 The post ビートルズ「In My Life」新MVを公開。『アドレセンス』で注目の英若手俳優オーウェン・クーパー主演 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "The Beatles Celebrate Liverpool in New Video for ‘In My Life’",
+     "link": "https://www.rollingstone.com/music/music-news/the-beatles-celebrate-liverpool-new-video-in-my-life-1235661140/",
+     "published": "2026-11-19T17:51:37+00:00",
+     "summary": "Adolescence ’s Owen Cooper stars in visual that coincides with Rubber Soul reissue and The Beatles Story’s move to bigger location in band’s hometown"
+    }
+   ],
+   "chart": [
+    {
+     "id": "KePvp0-hcn0",
+     "title": "The Beatles - In My Life (Official Music Video starring Owen Cooper)",
+     "channel": "TheBeatlesVEVO",
+     "published": "2026-11-19T16:00:06Z",
+     "hours_since": 18,
+     "views": 617618,
+     "url": "https://www.youtube.com/watch?v=KePvp0-hcn0",
+     "region": "GB",
+     "rank": 12
+    }
+   ],
+   "video": {
+    "id": "KePvp0-hcn0",
+    "title": "The Beatles - In My Life (Official Music Video starring Owen Cooper)",
+    "channel": "TheBeatlesVEVO",
+    "published": "2026-11-19T16:00:06Z",
+    "hours_since": 18,
+    "views": 617618,
+    "url": "https://www.youtube.com/watch?v=KePvp0-hcn0",
+    "region": "GB",
+    "rank": 12
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "GTA VI soundtrack released with major artists",
+   "artists": [
+    "Lana Del Rey",
+    "Dua Lipa",
+    "Travis Scott",
+    "JENNIE",
+    "Playboi Carti"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "talk": 1,
+   "outlets": [
+    "Billboard",
+    "Consequence"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-20T05:39:46+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "‘Grand Theft Auto VI’ Soundtrack, Gracie Abrams, LISA, Tomorrow x Together & More: New Music Friday Guide",
+     "link": "https://www.billboard.com/music/music-news/grand-theft-auto-vi-gracie-abrams-new-music-friday-guide-1236385829/",
+     "published": "2026-11-20T05:39:46+00:00",
+     "summary": "Check out the must-hear releases of the week."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Grand Theft Auto VI Releases Full 34-Song Soundtrack Album",
+     "link": "https://consequence.net/2026/11/gta-6-soundtrack-album-stream/",
+     "published": "2026-11-20T05:00:51+00:00",
+     "summary": "The companion album boasts new music from Lana Del Rey, Dua Lipa, Travis Scott, JENNIE, Playboi Carti, and more. Grand Theft Auto VI Releases Full 34-Song Soundtrack Album Alex Krinsky"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "‘Grand Theft Auto VI: The Album’ Is Here: Stream the Project Featuring Dua Lipa, Playboi Carti, Lana Del Rey, Cardi B & More",
+     "link": "https://www.billboard.com/music/music-news/grand-theft-auto-vi-the-album-1236385865/",
+     "published": "2026-11-20T05:00:00+00:00",
+     "summary": "The long-awaited video game, which was released on Thursday (Nov. 19), has already reportedly generated seven figures in sales."
+    }
+   ],
+   "chart": [
+    {
+     "id": "Sh4pJYJOT7M",
+     "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+     "channel": "Future",
+     "published": "2026-11-10T17:46:05Z",
+     "hours_since": 232,
+     "views": 4987270,
+     "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+     "region": "US",
+     "rank": 5
+    },
+    {
+     "id": "Sh4pJYJOT7M",
+     "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+     "channel": "Future",
+     "published": "2026-11-10T17:46:05Z",
+     "hours_since": 232,
+     "views": 4987270,
+     "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+     "region": "GB",
+     "rank": 17
+    }
+   ],
+   "video": {
+    "id": "Sh4pJYJOT7M",
+    "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+    "channel": "Future",
+    "published": "2026-11-10T17:46:05Z",
+    "hours_since": 232,
+    "views": 4987270,
+    "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+    "region": "US",
+    "rank": 5
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s45",
+   "label": "Marlon Jackson reveals stage 4 cancer",
+   "artists": [
+    "Marlon Jackson"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "health",
+   "talk": 0,
+   "outlets": [
+    "Rolling Stone",
+    "Variety",
+    "Vibe"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 3,
+   "latest": "2026-11-19T20:46:57+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "Marlon Jackson Reveals Stage 4 Prostate Cancer Diagnosis",
+     "link": "https://www.vibe.com/news/entertainment/marlon-jackson-reveal-stage-4-prostate-cancer-diagnosis-1235203666/",
+     "published": "2026-11-19T20:46:57+00:00",
+     "summary": "\"I've had my prostate gland removed and I've had radiation treatment and everything is fine,\" Jackson 5 singer and Rock Hall inductee says of current condition"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Marlon Jackson Reveals Stage Four Prostate Cancer Diagnosis: ‘Don’t Worry About It. God Got Me’",
+     "link": "https://variety.com/2026/music/news/marlon-jackson-prostate-cancer-1236953546/",
+     "published": "2026-11-19T20:36:44+00:00",
+     "summary": "Marlon Jackson, Michael Jackson’s older brother who also sang in the Jackson 5, has revealed that he has stage four prostate cancer. He shared the health update while appearing as a guest on “The Farah Shammas Podcast.” When asked by Shamma"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Marlon Jackson Reveals Stage 4 Prostate Cancer Diagnosis",
+     "link": "https://www.rollingstone.com/music/music-news/marlon-jackson-reveal-stage-4-prostate-cancer-diagnosis-1235661255/",
+     "published": "2026-11-19T19:07:56+00:00",
+     "summary": "“I’ve had my prostate gland removed and I’ve had radiation treatment and everything is fine,” Jackson 5 singer and Rock Hall inductee says of current condition"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "8W5Tzpl1Ou4",
+    "title": "Marlon Jackson Reveals Stage 4 Cancer Diagnosis",
+    "channel": "Entertainment Tonight",
+    "published": "2026-11-19T22:00:23Z",
+    "hours_since": 12,
+    "views": 47089,
+    "url": "https://www.youtube.com/watch?v=8W5Tzpl1Ou4",
+    "views_per_hour": 3924
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "Hans Zimmer remixes Rüfüs Du Sol Innerbloom",
+   "artists": [
+    "Hans Zimmer",
+    "Rüfüs Du Sol"
+   ],
+   "genre": "Dance",
+   "kind": "collab",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Your EDM"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-20T05:03:24+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Hear Hans Zimmer’s Sweeping Take on Rüfüs Du Sol’s Classic ‘Innerbloom’",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMndYX1JIRHE1VVJOaEhHaDdINkVnR0RRMHdrVWVZaGZRY1BXQTdJaEw4ZUNhVGR3eWlfenB3LWZYQjlsS0E3Um1fSVg0MjZhRkkyYlNIUWN4RXN6TnpkVlNYQXVTRVF1ZkpwNXFNYmtQUkFRMGJtdGRXbEdseV8waVhzd2xXNElSd3JVS2VZakFSX1pFQ1hMZ3Vqck03dzFoLW5BLUN3?oc=5",
+     "published": "2026-11-20T05:03:24+00:00",
+     "summary": "Hear Hans Zimmer’s Sweeping Take on Rüfüs Du Sol’s Classic ‘Innerbloom’ Billboard"
+    },
+    {
+     "outlet": "Your EDM",
+     "title": "RÜFÜS DU SOL and Hans Zimmer Reimagine ‘Innerbloom’",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS0pLWkd6d2NLdXNtX0lnckxBRzFRRE9JaTUycTB0RGdCWXFGbE9RTjRsWEQtX0xEeXBOdFpWWC1BU0hGNHV6aHpmT2NtU2RoZVEzY3hoMVZ3WURhaDF1cmgzRTUxWlRBcTFDeFhmU1BVMUNVOUt5OUhsd1pFNkZWUHUxMHpyNjE1YmtsTVdR?oc=5",
+     "published": "2026-11-19T12:06:49+00:00",
+     "summary": "RÜFÜS DU SOL and Hans Zimmer Reimagine ‘Innerbloom’ Your EDM"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s43",
+   "label": "D'Angelo unreleased track in GTA VI",
+   "artists": [
+    "D'Angelo"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "HotNewHipHop"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-20T01:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Unreleased D’Angelo Track Makes Its Way To GTA VI",
+     "link": "https://www.hotnewhiphop.com/1016826-kamikaze-dangelo-gta-vi",
+     "published": "2026-11-20T01:00:00+00:00",
+     "summary": "D'Angelo is an artist who worked with Rockstar Games in the past, and a previously unreleased song is now in GTA VI. The post Unreleased D’Angelo Track Makes Its Way To GTA VI appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Unreleased D’Angelo Song “Kamikazi” Appears in GTA 6",
+     "link": "https://consequence.net/2026/11/dangelo-kamikazi-gta-6-radio/",
+     "published": "2026-11-19T22:24:08+00:00",
+     "summary": "“Kamikazi” plays alongside D’Angelo’s “Lady” elsewhere on the dial, continuing his unusual history with Rockstar after Red Dead Redemption 2. Unreleased D’Angelo Song “Kamikazi” Appears in GTA 6 Alex Krinsky"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Kenny Jammin Jason Chicago house pioneer dies",
+   "artists": [
+    "Kenny 'Jammin' Jason"
+   ],
+   "genre": "Dance",
+   "kind": "death",
+   "talk": 0,
+   "outlets": [
+    "Resident Advisor"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T09:49:26+00:00",
+   "articles": [
+    {
+     "outlet": "Resident Advisor",
+     "title": "Kenny 'Jammin' Jason, Chicago house pioneer and Hot Mix 5 member, dies · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE84STVBM2xaQl9rZkg5dFBuTnFQUTBjb3huRjFFTkhyWTRMaHZqSzdWSnVJSkVQOUpsRXlhRg?oc=5",
+     "published": "2026-11-20T09:49:26+00:00",
+     "summary": "Kenny 'Jammin' Jason, Chicago house pioneer and Hot Mix 5 member, dies · News ⟋ RA Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Chloe x Halle reunite for Christmas single",
+   "artists": [
+    "Chloe x Halle"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T09:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Chloe x Halle Reunite As A Duo For Christmas Single",
+     "link": "https://allhiphop.com/news/chloe-x-halle-return-christmas-single/",
+     "published": "2026-11-20T09:30:00+00:00",
+     "summary": "Chloe x Halle return with a Christmas single after years of solo albums and guest appearances on each other's records."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s78",
+   "label": "Jordan Brunoli, Bassist With Australian Indie Rockers Bugs, Dies at 31",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T08:43:31+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Jordan Brunoli, Bassist With Australian Indie Rockers Bugs, Dies at 31",
+     "link": "https://www.billboard.com/music/music-news/jordan-brunoli-bugs-obituary-1236386241/",
+     "published": "2026-11-20T08:43:31+00:00",
+     "summary": "Brunoli was diagnosed with stage 4 colorectal cancer in 2025."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s39",
+   "label": "Erica Campbell granted restraining order",
+   "artists": [
+    "Erica Campbell"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T08:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Erica Campbell Gets Temporary Restraining Order After Unwanted Visits",
+     "link": "https://allhiphop.com/news/erica-campbell-temporary-restraining-order-unwanted-visits/",
+     "published": "2026-11-20T08:30:00+00:00",
+     "summary": "A judge granted Mary Mary singer Erica Campbell a temporary restraining order after she reported repeated visits to her home."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "Jisoo debuts single for Angry Birds Movie",
+   "artists": [
+    "Jisoo"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T07:46:19+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Blackpink’s Jisoo Debuts Buoyant Single ‘Sun Showers’",
+     "link": "https://www.rollingstone.com/music/music-news/blackpink-jisoo-sun-showers-single-angry-birds-movie-1235661547/",
+     "published": "2026-11-20T07:46:19+00:00",
+     "summary": "The song was written and recorded for upcoming animated film The Angry Birds Movie 3"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "Jhene Aiko tops album chart with arena tour",
+   "artists": [
+    "Jhené Aiko"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T07:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Jhené Aiko Takes First No. 1 Album On 37-City Arena Tour",
+     "link": "https://allhiphop.com/news/jhene-aiko-37-city-westside-whimsy-arena-tour/",
+     "published": "2026-11-20T07:30:00+00:00",
+     "summary": "Jhené Aiko takes Westside Whimsy to 37 cities with Swae Lee and Karri, plus H.E.R. on select dates and VIP sound baths."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "JT appears in GTA VI as DJ and artist",
+   "artists": [
+    "JT"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T07:01:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "JT Hits GTA VI Radio As A DJ And An Artist",
+     "link": "https://allhiphop.com/news/jt-vice-city-rap-radio-gta-vi-dj-gma/",
+     "published": "2026-11-20T07:01:00+00:00",
+     "summary": "Rockstar's GTA VI credits put JT behind the mic on Vice City Rap Radio, where players can also hear her solo track \"GMA.\""
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Gracie Abrams Daughter from Hell gets deluxe",
+   "artists": [
+    "Gracie Abrams"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T05:52:40+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Gracie Abrams’ ‘Daughter from Hell’ Gets Deluxe Treatment: Stream It Now",
+     "link": "https://www.billboard.com/music/pop/gracie-abrams-daughter-from-hell-deluxe-treatment-1236386211/",
+     "published": "2026-11-20T05:52:40+00:00",
+     "summary": "The expanded version of her Billboard 200 leader now features five fresh cuts."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "Yves releases new EP Cute & Anxiety",
+   "artists": [
+    "Yves"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T05:16:15+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Yves releases new EP ‘Cute & Anxiety’ and tells us about her “rock star” collaboration with Akriila",
+     "link": "https://www.nme.com/news/music/yves-interview-cute-and-anxiety-ep-akriila-3976501",
+     "published": "2026-11-20T05:16:15+00:00",
+     "summary": "NME also chats with the South Korean artist (and former NME Cover star) about touring, the duality of her new EP, and her huge 2026 The post Yves releases new EP ‘Cute & Anxiety’ and tells us about her “rock star” collaboration with Akriila"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s26",
+   "label": "GTA VI festival donates proceeds to Miami",
+   "artists": [
+    "Cardi B"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T05:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Rockstar Sends GTA VI Festival Ticket Proceeds To Miami Charities",
+     "link": "https://allhiphop.com/news/rockstar-gta-vi-festival-miami-charities-ticket-proceeds/",
+     "published": "2026-11-20T05:02:00+00:00",
+     "summary": "Rockstar will donate all GTA VI festival ticket proceeds to Miami charities and has released set times for Cardi B and more."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Bon Jovi Japan tour CM features Robert Akiyama",
+   "artists": [
+    "Bon Jovi"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Infoseek",
+    "NME Japan",
+    "Yahoo!ニュース",
+    "ウドー音楽事務所",
+    "激ロック"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [
+    "Infoseek",
+    "NME Japan",
+    "Yahoo!ニュース",
+    "ウドー音楽事務所",
+    "激ロック"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T09:04:39+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "ボン・ジョヴィ来日公演、ナレーションをロバート・秋山竜次が担当したテレビCMを放送（CDJournal）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QckdTZzFuWVY4NnVCdF8yZGdHZFU5WTJvWVFPbndDODBDMlBFemtJcG1WaTc3TmFya2h6VmRnWGo4SVdFcUp0RVh4c0hYak1WY2pjakFWLUp5SkZHa3lmaVVrajNabHN6dTVUQV9GalROTF9fYm1HZVZGYXdNb1E?oc=5",
+     "published": "2026-11-20T09:04:39+00:00",
+     "summary": "ボン・ジョヴィ来日公演、ナレーションをロバート・秋山竜次が担当したテレビCMを放送（CDJournal） Yahoo!ニュース"
+    },
+    {
+     "outlet": "ウドー音楽事務所",
+     "title": "【BON JOVI / ボン・ジョヴィ】TV CMが11月21日から放送！ナレーションを務めるのはロバート・秋山竜次！",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51NTNZdkF1Q1pqSGVtS19QWkVieGU2TktlbE5fVHN2QnlVbWtQaE9MSGNlZlExUWlRX3RsdEl4UVNzNzlJOFRScHZpVnM1UmpPQ0Zn?oc=5",
+     "published": "2026-11-20T09:01:01+00:00",
+     "summary": "【BON JOVI / ボン・ジョヴィ】TV CMが11月21日から放送！ナレーションを務めるのはロバート・秋山竜次！ ウドー音楽事務所"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ボン・ジョヴィ、ロバート・秋山竜次がナレーターを務めた来日公演のテレビCMが放送されることが決定",
+     "link": "https://nme-jp.com/news/174589/",
+     "published": "2026-11-20T09:00:05+00:00",
+     "summary": "ボン・ジョヴィはロバート・秋山竜次がナレーターを務めた来日公演のテレビCMが放送されることが決定している。"
+    },
+    {
+     "outlet": "激ロック",
+     "title": "BON JOVI来日公演のTVCMナレーションを秋山竜次（ロバート）が担当！明日11/21より放送開始！",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTDE0dmxvNjk4Yk5GNXJNUkswd2E5UmxYRGlpeEs3dlZIVG1nQ29QVmNZSURUelVJU0ZQcUxqQ3BJX2FNTTQ5NTY3enZseVNORGlGcm1CR28xMGRrREFjMg?oc=5",
+     "published": "2026-11-20T09:00:00+00:00",
+     "summary": "BON JOVI来日公演のTVCMナレーションを秋山竜次（ロバート）が担当！明日11/21より放送開始！ 激ロック"
+    },
+    {
+     "outlet": "Infoseek",
+     "title": "ロバート秋山竜次「素直にムチャクチャうれしい」、「ＢＯＮ ＪＯＶＩ」９年ぶり来日公演のテレビＣＭのナレーション担当",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2THAyS094N1RxWW1CWVJZTEdzUC1kMUVXcHlrTVI4WjYxeDFXTVQyTFRzNlhpMW80eVZ2R1J3eWlKUlRLZzYxcWVkd3liLXhudnR0RHItNnZkX2Nuak1PMDZEeUpkSFZXUHVUam5GanlrQl9h0gF0QVVfeXFMUDZMcDJLT3g3VHFZbUJZUllMR3NQLWQxRVdweWtNUjhaNjF4MVdNVDJMVHM2WGkxbzR5VnZHUnd5aUpSVEtnNjFxZWR3eWIteG52dHREci02dmRfY25qTU8wNkR5SmRIVldQdVRqbkZqeWtCX2E?oc=5",
+     "published": "2026-11-20T09:00:00+00:00",
+     "summary": "ロバート秋山竜次「素直にムチャクチャうれしい」、「ＢＯＮ ＪＯＶＩ」９年ぶり来日公演のテレビＣＭのナレーション担当 Infoseek"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s32",
+   "label": "5 Seconds of Summer Japan tour merch announced",
+   "artists": [
+    "5 Seconds of Summer"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "UNIVERSAL MUSIC JAPAN",
+    "djplumadventuretimes.com",
+    "クリエイティブマン"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "UNIVERSAL MUSIC JAPAN",
+    "djplumadventuretimes.com",
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T04:43:10+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "5 SECONDS OF SUMMER 当日券のお知らせ",
+     "link": "https://www.creativeman.co.jp/2026/11/20/109538/",
+     "published": "2026-11-20T04:43:10+00:00",
+     "summary": "2026/11/22（日）SGC HALL ARIAKE 公演の当日券を以下のように販売いたします。 2026/11/22（日）SGC HALL ARIAKE 16:00～会場当日券売場にて販売 当日券金額は前売金額＋￥ […] The post 5 SECONDS OF SUMMER 当日券のお知らせ first appeared on CREATIVEMAN PRODUCTIONS ."
+    },
+    {
+     "outlet": "djplumadventuretimes.com",
+     "title": "5SOS、2026年来日公演に向けて聴くべきおすすめ曲",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnNHZ1X0Fodm1ENUxoSU5DYTB0eU9va0NoSnpjcUVzQjNBYjJzcUVobnhJb0lpRWVlczY4OTloWEE3S1VTd1RZdjRkNm1JXzlTMnMwc0xGaURWUk5BRzg5Z2NfUHBTY052Snp5YU45bw?oc=5",
+     "published": "2026-11-19T12:46:48+00:00",
+     "summary": "5SOS、2026年来日公演に向けて聴くべきおすすめ曲 https://djplumadventuretimes.com/"
+    },
+    {
+     "outlet": "djplumadventuretimes.com",
+     "title": "5SOS、2026年来日公演の公式グッズが明らかに",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRkZtelA5anZjOGtSUWpnVXE0SG5ybHlod1NMNXdUVnMxUncwU0hkSVExaEd5U1BMUWkzNDNTRVFxYjF6WVl3M3pEMW53NmpUWHBtelRyMkoyV3pkWUhRRTl6RUMtNEYwRkhjVnFydkUwZ2FTc25kOFhXWVBuTnNoU25vZmc0OU5JUTBiM3BYcXJaTWhlZGVNbV9oUi03bFJfRHVqckdUQjQ0OXAtU3h0bUxmcFBDcFlpUUQ3TVRnVm5mX3FMVXUyWWl6TFVaemc?oc=5",
+     "published": "2026-11-19T11:51:27+00:00",
+     "summary": "5SOS、2026年来日公演の公式グッズが明らかに https://djplumadventuretimes.com/"
+    },
+    {
+     "outlet": "UNIVERSAL MUSIC JAPAN",
+     "title": "5 Seconds of Summer 来日公演グッズが情報解禁！",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pRGZmUnY1Rm1aRm5OM0trWXlOSDhUVmduNFctSDNhcWU4UE9pWlBaRGZOUWZHZ2h4T3diOUNfM1RhdTNoNjlHdjU5bVA4Z0lSb3plMHZ5R04tQW9VSFJiOUZEUUlRNEF4?oc=5",
+     "published": "2026-11-19T09:45:01+00:00",
+     "summary": "5 Seconds of Summer 来日公演グッズが情報解禁！ UNIVERSAL MUSIC JAPAN"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Wolf Alice Japan tour support acts announced",
+   "artists": [
+    "Wolf Alice"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "LMusic-音楽ニュース-",
+    "クリエイティブマン"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-",
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T05:51:00+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "Wolf Alice、来日公演の東京公演に出演するサポート・アクトが決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TVHdKc255TlQ3SDNkUEtudFc3RXBoNGRqV1RGcUZ5RkRVZllxLWdtR1hCRXk1T2ZzV0FISDJfZmQwRmNyMzRv?oc=5",
+     "published": "2026-11-20T05:51:00+00:00",
+     "summary": "Wolf Alice、来日公演の東京公演に出演するサポート・アクトが決定 LMusic-音楽ニュース-"
+    },
+    {
+     "outlet": "クリエイティブマン",
+     "title": "WOLF ALICE 当日券のお知らせ",
+     "link": "https://www.creativeman.co.jp/2026/11/20/109545/",
+     "published": "2026-11-20T05:17:09+00:00",
+     "summary": "2026/11/23(月・祝) 豊洲PIT 公演の当日券を17:00～会場の当日券売場において ￥10,900-(税込/All Standing/1Drink別) にて販売いたします。 公演詳細はこちら The post WOLF ALICE 当日券のお知らせ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "H.E.R.O. releases new single before Japan tour",
+   "artists": [
+    "H.E.R.O."
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "激ロック"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "激ロック"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T06:20:00+00:00",
+   "articles": [
+    {
+     "outlet": "激ロック",
+     "title": "来日公演を間近に控えたH.E.R.O.、約1年9ヶ月ぶり新曲「Buried In Bloom」リリース！",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FMEwwcDBZOEc4Z3h6TTZzYVpqYlVoSl9jUFVoV0FYVGNSQ2hFQldFYXRnd3J3N0hmcTZrRmZ1azc5Vk9NMzY5Zm9ZV29ucExPTkkwaWRNNThxWkx3emFielVhNm5zOUI3VHc?oc=5",
+     "published": "2026-11-20T06:20:00+00:00",
+     "summary": "来日公演を間近に控えたH.E.R.O.、約1年9ヶ月ぶり新曲「Buried In Bloom」リリース！ 激ロック"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Iron Maiden Japan concert day tickets available",
+   "artists": [
+    "Iron Maiden"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "クリエイティブマン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T05:23:37+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "IRON MAIDEN 当日券のお知らせ",
+     "link": "https://www.creativeman.co.jp/2026/11/20/109551/",
+     "published": "2026-11-20T05:23:37+00:00",
+     "summary": "2026/11/24(火)・25(水)Kアリーナ横浜 公演の当日券を以下のように販売いたします。 2026/11/24(火)・25(水)Kアリーナ横浜 各日17:30～会場当日券売場にて販売 当日券金額は前売金額＋￥1, […] The post IRON MAIDEN 当日券のお知らせ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s31",
+   "label": "Reytons day tickets for Japan show",
+   "artists": [
+    "Reytons"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "クリエイティブマン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T05:19:39+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "REYTONS 当日券のお知らせ",
+     "link": "https://www.creativeman.co.jp/2026/11/20/109548/",
+     "published": "2026-11-20T05:19:39+00:00",
+     "summary": "2026/11/24(火) 梅田Shangri-La 公演の当日券を18:00～会場の当日券売場において ￥9,000-(税込/All Standing/1Drink別) にて販売いたします。 公演詳細はこちら The post REYTONS 当日券のお知らせ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s35",
+   "label": "Lucy St Louis makes Japan debut",
+   "artists": [
+    "Lucy St Louis"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Yahoo!ニュース"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Yahoo!ニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T04:30:41+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "英国ミュージカル界屈指のソプラノ、ルーシー・セントルイスが初来日！ 『ニューイヤー・ミュージカル・コンサート 2027』全出演者決定（チケットぴあ）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHcUk2ZUV4T3BwaDhpOFJrRXlsYzU0bXJ1bG1wQTFGVEE3b1ZNeHZVZk9Sb1dTZVVQS0h6a1dXR205SHJibldVLU85VHFzWTFwbVNKV0RBRDVLYzJua243MXREYWJodzRXdTVYT0lvTFVYMzd5Tno2WWN4V3g1cXM?oc=5",
+     "published": "2026-11-20T04:30:41+00:00",
+     "summary": "英国ミュージカル界屈指のソプラノ、ルーシー・セントルイスが初来日！ 『ニューイヤー・ミュージカル・コンサート 2027』全出演者決定（チケットぴあ） Yahoo!ニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s36",
+   "label": "Freya Sky announces new single crushed",
+   "artists": [
+    "Freya Sky"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "USENの音楽情報サイト"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "USENの音楽情報サイト"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T03:49:14+00:00",
+   "articles": [
+    {
+     "outlet": "USENの音楽情報サイト",
+     "title": "来年来日公演も決定しているフレイヤ・スカイ、新曲「crushed」を12月2日リリースと発表！",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83LWM2T1htOTdZbjB2cTk2YlJldS1HekNFTUxCTzRkVFNmNlNXYzhqX19OSnZ5Z0N6Qk1mMDlLd1FOVjN6MGNqdkpXVEY2Wm5HLTlUUW8yVG5KbUxtSGtob2JR?oc=5",
+     "published": "2026-11-20T03:49:14+00:00",
+     "summary": "来年来日公演も決定しているフレイヤ・スカイ、新曲「crushed」を12月2日リリースと発表！ USENの音楽情報サイト"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s46",
+   "label": "Public Image Ltd Japan tour February 2027",
+   "artists": [
+    "Public Image Ltd"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "山陽新聞"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-19T17:15:26+00:00",
+   "articles": [
+    {
+     "outlet": "山陽新聞",
+     "title": "ジョン・ライドン率いるPUBLIC IMAGE LTD.、来年2月に来日ツアー決定 愛知、大阪、神奈川、東京の4都市巡る",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeV9WNVMxWjducGh2a2EwSE5KYnNUQm1idGFFaVBablpPek1heXRoWWo1SWIwLTZvd2E4c2JtRGE4UmQ4Y2dwMkVucDRvOGhkQUVFM3FmYmt2T0VLN2NNVWxTRkVyMDUydGZNelZzclVEY0ZjUE1hRllIWTlzSjVoMGgzMmFVdw?oc=5",
+     "published": "2026-11-19T17:15:26+00:00",
+     "summary": "ジョン・ライドン率いるPUBLIC IMAGE LTD.、来年2月に来日ツアー決定 愛知、大阪、神奈川、東京の4都市巡る 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s47",
+   "label": "KK's Priest Japan tour announced",
+   "artists": [
+    "KK's Priest"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "amass"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "amass"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-19T12:45:00+00:00",
+   "articles": [
+    {
+     "outlet": "amass",
+     "title": "元ジューダス・プリーストのK・K・ダウニング率いるKK's プリースト 来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE96X2Z0ZWhmb3lpTkt2OU84VVNtSFpCb1JwNm0wOXZCaWEwNWJIZ3lSWlpVTmFwWUhJdEx4YQ?oc=5",
+     "published": "2026-11-19T12:45:00+00:00",
+     "summary": "元ジューダス・プリーストのK・K・ダウニング率いるKK's プリースト 来日公演決定 amass"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s38",
+   "label": "Benson Boone performs in Japan",
+   "artists": [
+    "Benson Boone"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-19T09:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "＜ライブレポート＞ベンソン・ブーン、胸を震わせる歌声とアクロバティックなパフォーマンスで魅了した一夜の来日公演",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zMzJhSmx2LTBxNTVHZDdLSXRsNFM1S0tiZGwyS2VzNzBsTGRxODlkT0UwUE5EWnQxbHZnYmUzOFBVbFJHOXpUX3NtZnFsS0pZcXptYVJxTExrTUs4c2c5VTF3?oc=5",
+     "published": "2026-11-19T09:00:00+00:00",
+     "summary": "＜ライブレポート＞ベンソン・ブーン、胸を震わせる歌声とアクロバティックなパフォーマンスで魅了した一夜の来日公演 Billboard JAPAN"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s37",
+   "label": "CMDM releases Our Lives Beyond during Japan tour",
+   "artists": [
+    "CMDM"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "韓流エンターテインメント"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "韓流エンターテインメント"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-19T08:05:12+00:00",
+   "articles": [
+    {
+     "outlet": "韓流エンターテインメント",
+     "title": "CMDMが新曲「Our Lives Beyond」をリリース。来日公演は11月29日まで熱狂継続中",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16eFdodWdUbENQOXJmY2MzMExuTFI5eUhOUnRiU3NCV1JtLXh4a3BEODR0UjVvOG5xMmF2NEw1bEdtZUpJUXdiSHFNUQ?oc=5",
+     "published": "2026-11-19T08:05:12+00:00",
+     "summary": "CMDMが新曲「Our Lives Beyond」をリリース。来日公演は11月29日まで熱狂継続中 韓流エンターテインメント"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Stella Z ambient album Thunder Is the Sky",
+   "artists": [
+    "Stella Z"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-20T09:00:26+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "The month’s best experimental album: Stella Z’s ambient adventures into lucid dreaming",
+     "link": "https://www.theguardian.com/music/2026/nov/20/stella-z-thunder-is-the-sky-dreaming-review-cdr",
+     "published": "2026-11-20T09:00:26+00:00",
+     "summary": "(CDR) Based around sounds recorded on her trips back to China, the Fujian-born, London-based producer creates a curious nocturnal collage on Thunder Is the Sky Dreaming Lucid dreaming is one of the influences behind Thunder Is the Sky Dream"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "Peter Gabriel returns with new album",
+   "artists": [
+    "Peter Gabriel"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 2,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-20T05:00:22+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "‘We will become cyborgs!’ Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants – and why AI will make great music",
+     "link": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
+     "published": "2026-11-20T05:00:22+00:00",
+     "summary": "From sampling to streaming, the rock legend has always been in thrall to technology – but is superintelligence a step too far? Back with an epic new album, he unpacks his remarkable ideas Peter Gabriel asks me to fetch my laptop: he wants t"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s66",
+   "label": "Jeff Buckley 90s indie yearner moment",
+   "artists": [
+    "Jeff Buckley"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 2,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-19T13:00:49+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "Jeff Buckley was a 90s indie darling. Now gen Z think he’s the ‘yearner final boss’",
+     "link": "https://www.theguardian.com/music/2026/nov/19/jeff-buckley-gen-z-nostalgia",
+     "published": "2026-11-19T13:00:49+00:00",
+     "summary": "With his unguarded lyricism and earnest delivery, the late singer-songwriter is having a moment among a generation that fetishizes unrequited desire Sydney Tripoli has collected Jeff Buckley memorabilia since 2019. She keeps her collection "
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s67",
+   "label": "Sinead O'Connor best songs ranked",
+   "artists": [
+    "Sinéad O'Connor"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-19T13:00:48+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "Nothing compares to her: Sinéad O’Connor’s 20 best songs – ranked!",
+     "link": "https://www.theguardian.com/culture/2026/nov/19/sinead-oconnors-best-songs-ranked",
+     "published": "2026-11-19T13:00:48+00:00",
+     "summary": "The Irish singer-songwriter would have turned 60 in early December. To mark the occasion, we revisit the best of a catalogue that’s far more than a certain Prince cover This suitably uncompromising opener to the lengthy Faith and Courage of"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s64",
+   "label": "Lorenzo Senni All Ages album",
+   "artists": [
+    "Lorenzo Senni"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-19T12:00:07+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "Trance, prog synths, guttural screaming: Lorenzo Senni’s All Ages is the year’s wildest electronic album",
+     "link": "https://www.theguardian.com/music/2026/nov/19/lorenzo-senni-all-ages-review-warp-milan-producer",
+     "published": "2026-11-19T12:00:07+00:00",
+     "summary": "(Warp) The Milan producer revisits his youth as a straight-edge punk fan voyeuristically dabbling in rave – and finds a thrilling interzone between both genres The opening line of the biography on Lorenzo Senni’s Bandcamp page is striking. "
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Kanye West Graduation streams top Spotify rap",
+   "artists": [
+    "Kanye West"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T09:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Ye’s 19-Year-Old “Graduation” Leads Daily Spotify Rap Streams, Chart Data Says",
+     "link": "https://allhiphop.com/news/ye-graduation-leads-daily-spotify-rap-streams-chart-data/",
+     "published": "2026-11-20T09:02:00+00:00",
+     "summary": "Chart Data puts Ye's Graduation first in daily Spotify rap streams, 19 years after it beat 50 Cent to No. 1 on Billboard."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "System of a Down Toxicity 25th anniversary",
+   "artists": [
+    "System of a Down"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "NME Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T06:00:05+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "システム・オブ・ア・ダウン、『毒性』25周年盤の発売に際して国内アーティストからのコメントが公開",
+     "link": "https://nme-jp.com/news/174582/",
+     "published": "2026-11-20T06:00:05+00:00",
+     "summary": "システム・オブ・ア・ダウンは本日11月20日に2001年発表のセカンド・アルバム『毒性』の25周年記念盤がリリースされたことを記念して、国内アーティストからのコメントが公開されている。"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "Childish Gambino This Is America hits billion",
+   "artists": [
+    "Childish Gambino"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "talk": 2,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T04:45:30+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Childish Gambino’s Politically-Charged ‘This Is America’ Joins YouTube’s Billion Views Club",
+     "link": "https://www.billboard.com/music/awards/childish-gambino-this-is-america-youtube-billion-views-club-1236386157/",
+     "published": "2026-11-20T04:45:30+00:00",
+     "summary": "“This Is America’ was a politically-charged shot that rung out around the globe, a hit that touches on gun violence, racism and discrimination in America."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s63",
+   "label": "Doors 60th anniversary deluxe edition",
+   "artists": [
+    "The Doors"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Consequence"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-19T18:35:03+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "60th Anniversary Edition of The Doors’ Iconic Debut Album Loaded with Bonus Tracks",
+     "link": "https://consequence.net/2026/11/the-doors-60th-anniversary-edition/",
+     "published": "2026-11-19T18:35:03+00:00",
+     "summary": "The anniversary editions include a double-disc set, two different reel-to-reel editions, a picture disc, and a reissue of the \"Light My Fire\" single. 60th Anniversary Edition of The Doors’ Iconic Debut Album Loaded with Bonus Tracks Langdon"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s68",
+   "label": "Azzi On The Beat debut album Mara Gram",
+   "artists": [
+    "Azzi On The Beat"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-19T16:46:16+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "Listen to Azzi On The Beat’s debut album, ‘Mara Gram’",
+     "link": "https://djmag.com/news/listen-azzi-beats-debut-album-mara-gram",
+     "published": "2026-11-19T16:46:16+00:00",
+     "summary": "The Lagos-born producer is a leading figure in mara, a fast-paced dance sound rooted in the city’s street party culture"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "U2 release ninth album Carnaval De Luz",
+   "artists": [
+    "U2"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 1,
+   "outlets": [
+    "Billboard",
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-20T09:00:35+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "U2と政治～様々な意見を超えたところでの存在意義：9年ぶり新作発売記念連載⑨",
+     "link": "https://www.udiscovermusic.jp/columns/u2-and-politics",
+     "published": "2026-11-20T09:00:35+00:00",
+     "summary": "9年ぶりの新作『Carnaval De Luz（邦題：光の祝祭～カルナバル・デ・ルス）』発売にあわせて、元ロッキング・オン編集長であり、U2を追い続けてきた宮嵜広司さんに様々な角度で長期連載として寄稿いただきます The post U2と政治～様々な意見を超えたところでの存在意義：9年ぶり新作発売記念連載⑨ appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "U2 Ride to No. 1 on ARIA Chart With ‘Carnaval De Luz’",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGNEdk1ySVFKemdLTkNTVWprcmtuRVZzRGRKbldsQ3FWZVhpa2M2bnREYW4yVThhaW1RLTRKemRzWVUtUEtmR2tKcFR0QVF2UU9pTE9QNjI4S0xmQnJWajBJWXk1TWs5RVZQNHo4ZFF4bGJFWTJPUGxhSmlBbkZRRFg4NmFiRmdaNWdReV9B?oc=5",
+     "published": "2026-11-20T07:25:52+00:00",
+     "summary": "U2 Ride to No. 1 on ARIA Chart With ‘Carnaval De Luz’ Billboard"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 4
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 6
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 30
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 5,
+   "kept": 4
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 58,
+   "kept": 20
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 29,
+   "kept": 5
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 4
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 17
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 4
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 20
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 2
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 35,
+   "kept": 9
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 16,
+   "kept": 10
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 7
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 23
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 1,
+   "kept": 1
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 6,
+   "kept": 2
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 19,
+   "kept": 8
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 2,
+   "kept": 2
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 28,
+   "kept": 7
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 19,
+   "kept": 6
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 14,
+   "kept": 3
+  }
+ ],
+ "cost": {
+  "usd": 0.3402,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 21809,
+    "output_tokens": 7740
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 19285,
+    "output_tokens": 10130
+   }
+  ]
+ }
+}
