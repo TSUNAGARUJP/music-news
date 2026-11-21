@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-21",
+ "start": "2026-11-15",
+ "intro": "今週はグラミー賞のノミネートとGlastonburyのラインナップ発表が大きな話題に。ダンス系ではSkrillexの新曲などが注目されました。",
+ "cost_usd": 0.1969,
+ "news": [
+  {
+   "ref": "11-17:s27",
+   "title_ja": "2027年グラミー賞ノミネート発表、RAYEやRosalíaらが上位に",
+   "summary_ja": "2027年のグラミー賞ノミネートが100部門で発表されました。RAYE、Rosalía、Taylor Swift、Olivia Rodrigoらが上位に名を連ねています。Beyoncéは史上初めて通算100回目のノミネートを達成しました。",
+   "point_ja": "AP通信、BBC、CNN、The Guardianを含む13媒体が報じ、今週最多の報道数でした。"
+  },
+  {
+   "ref": "11-18:s13",
+   "title_ja": "Glastonbury 2027、Harry Stylesらが大トリに",
+   "summary_ja": "Glastonbury Festivalが2027年の第1弾ラインナップを発表しました。Harry Styles、Billie Eilish、Sam Fender、Cherがヘッドライナーを務めます。Kraftwerkらも出演予定です。",
+   "point_ja": "BBCやThe Guardianなど7媒体がトップで報じ、翌日にはファンの反応も報じられました。"
+  },
+  {
+   "ref": "11-16:s26",
+   "title_ja": "ロックの殿堂式典、Wu-Tang ClanやNew Orderらが殿堂入り",
+   "summary_ja": "2026年のロックの殿堂入り式典が行われ、Joy Division／New OrderがTrent Reznorの紹介で殿堂入りし、Wu-Tang Clanもパフォーマンスを披露しました。Phil Collinsは公演の可能性に触れました。",
+   "point_ja": "2日連続でトップに選ばれて計11媒体が報じ、関連動画は約252万回再生されました。"
+  }
+ ],
+ "dj": [
+  {
+   "ref": "11-17:s53",
+   "title_ja": "Skrillex、TohjiとMechatokを迎えた新曲「W1000」を公開",
+   "summary_ja": "SkrillexがTohji、Mechatokとの新曲「W1000」をリリースしました。Tohjiは東京ドームでの公演を最後に引退予定で、本作が最後のリリースになると報じられています。",
+   "dj_point_ja": "話題性の高い新曲なので、自分のセットにどう組み込めるか早めに試聴しておきましょう。"
+  },
+  {
+   "ref": "11-19:s84",
+   "title_ja": "Mau P、マディソン・スクエア・ガーデンでオープン・トゥ・クローズ公演",
+   "summary_ja": "Mau Pが、米ニューヨークのマディソン・スクエア・ガーデンでの2027年の公演を発表しました。同会場で史上初のオープン・トゥ・クローズ公演になると報じられています。",
+   "dj_point_ja": "開演から終演まで1人で回すオープン・トゥ・クローズは、長時間のセット構成を学ぶ良い題材です。"
+  }
+ ]
+}
