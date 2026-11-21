@@ -1,0 +1,2556 @@
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T10:02:18.003567+00:00",
+ "article_count": 271,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日は『GTA VI』を巡るアーティストの発言が目立ち、ゲームと音楽の関係が議論の中心です。ほかに、ライブの安全管理やレーベル契約など、業界の仕組みに関わる話題も出ています。",
+  "top": [
+   {
+    "id": "s49",
+    "title_ja": "Doja Cat、『GTA VI』に曲が選ばれず「悔しい」と本音",
+    "genre": "Hip-Hop",
+    "summary_ja": "NMEによると、Doja Catは『GTA VI』に自分の曲が1曲も使われなかったことについて、とても悔しいという趣旨の発言をした。ゲームには800曲以上が収録されているとされる。",
+    "why_ja": "800曲を超える楽曲が収録されたなかで外れたことが話題になっている。『GTA VI』は発売1日で売上が40億ドル近くに達したと報じられており、ゲームへの楽曲起用の影響力の大きさも注目されている。",
+    "debate_ja": "ゲームへの楽曲起用は、いまやチャート入りより価値がある？",
+    "line_point": "Doja Cat、800曲超の『GTA VI』に自分の曲がなく「悔しい」と本音を明かす",
+    "reels": [
+     {
+      "hook": "Doja Catが本気で悔しがってる理由",
+      "angle": "発言の事実→ゲーム起用の価値という論点→自分の見解→アーティストにとってゲーム起用は重要か、コメントで募る"
+     },
+     {
+      "hook": "800曲入ってDoja Catはゼロ",
+      "angle": "収録曲数や発売1日の売上報道など数字を並べ、ゲームが音楽を広める場としてどれだけ大きいかを読み解く"
+     }
+    ]
+   },
+   {
+    "id": "s84",
+    "title_ja": "Waka Flocka Flame、35歳以上で『GTA VI』を遊ぶ男性に苦言",
+    "genre": "Hip-Hop",
+    "summary_ja": "XXLによると、Waka Flocka Flameが『GTA VI』をプレイしている35歳以上の男性を批判した。発言の詳しい内容は、報道の概要からは限られている。",
+    "why_ja": "大人とゲームという身近なテーマで、関連動画は公開から17時間で1万4625回再生されている。",
+    "debate_ja": "大人がゲームに夢中になるのはアリ？ナシ？",
+    "line_point": "Waka Flocka Flame、35歳以上で『GTA VI』を遊ぶ男性に苦言",
+    "reels": [
+     {
+      "hook": "35歳以上のゲームはナシ？",
+      "angle": "発言の事実→年齢と趣味という論点→自分の見解→何歳までゲームOKだと思うか、コメントで募る"
+     },
+     {
+      "hook": "GTA VIの話題、ラッパーまで参戦中",
+      "angle": "Doja Catの発言など、今週『GTA VI』を巡ってアーティストが語った話題をまとめて紹介する"
+     }
+    ]
+   },
+   {
+    "id": "s29",
+    "title_ja": "Rosalía、Taylor Swiftを「名ソングライター」と絶賛",
+    "genre": "POP",
+    "summary_ja": "Rolling Stoneによると、RosalíaはTaylor Swiftをmaster songwriterと評した。さらに「Wildest Dreams」は人生で最もよく聴いた曲のひとつだと明かした。",
+    "why_ja": "Taylor SwiftのCMA Awardsでのライブ映像は、公開から47時間で約496万回再生され、YouTube音楽チャートで米国1位、英国4位に入っている。",
+    "debate_ja": "Taylor Swiftのいちばんの武器はソングライティング？",
+    "line_point": "Rosalía、Taylor Swiftを名ソングライターと絶賛。愛聴曲は「Wildest Dreams」",
+    "reels": [
+     {
+      "hook": "Taylorの真の才能は曲作り？",
+      "angle": "発言の事実→Taylorの魅力はどこかという論点→自分の見解→あなたのTaylorの推し曲をコメントで募る"
+     },
+     {
+      "hook": "Rosalíaが一番聴いたのはこの曲",
+      "angle": "「Wildest Dreams」を軸に、ジャンルの違うアーティスト同士が互いを評価し合う面白さを解説する"
+     }
+    ]
+   },
+   {
+    "id": "s48",
+    "title_ja": "OsamaSonのNY公演が混乱、負傷者が出たと報道",
+    "genre": "POP",
+    "summary_ja": "The Faderによると、OsamaSonのニューヨーク公演の終盤、DJ Nino Andrettiが観客に物販ブースへ押し寄せるよう呼びかけたとされる。その結果混乱が起き、重傷者が出たと報じられている。",
+    "why_ja": "The Faderが報じたもので、演者の呼びかけが観客の安全にどこまで影響するのかという問いにつながる話題。",
+    "debate_ja": "ライブの安全の責任は、演者と運営のどちらにある？",
+    "line_point": "OsamaSonのNY公演、DJの呼びかけで混乱し負傷者が出たと報道",
+    "reels": [
+     {
+      "hook": "ライブの盛り上げ、どこまでOK？",
+      "angle": "報道された事実→演者の煽りと安全という論点→自分の見解→ライブで怖い思いをした経験をコメントで募る"
+     },
+     {
+      "hook": "物販ブースで何が起きたのか",
+      "angle": "報じられた経緯を時系列で整理し、過去のライブ事故の事例と比べて、観客の安全対策の課題を解説する"
+     }
+    ]
+   },
+   {
+    "id": "s86",
+    "title_ja": "Saweetieの新曲、レーベル表記が10K Projectsに変化",
+    "genre": "Hip-Hop",
+    "summary_ja": "AllHipHopによると、Saweetieの新曲2曲がApple Musicで10K Projectsのクレジットになっている。2025年のEPでは、ICYとWarner Recordsの表記だった。契約変更の詳細は、報道の範囲では明らかになっていない。",
+    "why_ja": "AllHipHopが、2025年のEPからクレジットが変わった点を報じた。レーベルの動きを示している可能性があり、考察の余地がある。",
+    "debate_ja": "クレジットの変化から、何が起きていると考える？",
+    "line_point": "Saweetieの新曲2曲、Apple Musicでレーベル表記が10K Projectsに変化",
+    "reels": [
+     {
+      "hook": "Saweetie、レーベルが変わった？",
+      "angle": "表記の変化という事実→移籍の可能性という論点→自分の見解→どう読むかコメントで募る"
+     },
+     {
+      "hook": "クレジット欄から分かること",
+      "angle": "配信サービスのクレジット欄の見方を解説し、レーベル表記が変わると何を意味しうるのかを紹介する"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s56",
+     "title_ja": "Steve Aoki、LinkedInで就職活動を2時間で断念",
+     "note": "Steve AokiがLinkedInでまともな仕事を探すネタ投稿をし、2時間でやめた"
+    },
+    {
+     "id": "s59",
+     "title_ja": "ESG、2027年に最後のアルバムをリリースへ",
+     "note": "ESGが2027年に最後のアルバムを出す予定だとResident Advisorが報道"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s53",
+     "title_ja": "Bruno Mars、父の死去を受けて追悼",
+     "note": "Bruno Marsが、父Peter Hernandezさんの死去に追悼の言葉を寄せた"
+    },
+    {
+     "id": "s108",
+     "title_ja": "Jung Kookのファン、もっと新曲を聴きたいと声",
+     "note": "Jung Kookのファンが応援投稿を共有し、新しい音楽を望む声を上げている"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s85",
+     "title_ja": "DJ Akademiks、Drakeの「ICEMAN」映画から外されかけたと語る",
+     "note": "Drakeが映画への起用をためらった理由を、DJ Akademiksが説明した"
+    },
+    {
+     "id": "s82",
+     "title_ja": "Eminemのストーカーとされる人物、子の父親だと主張",
+     "note": "ストーカーとされる人物が、Eminemを子の父親だと主張していると報道"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s7",
+     "title_ja": "Phil Collins、Live Aidで自分のパートをCherが歌っていたと回想",
+     "note": "コンコルドの機内でCherに会い、早く帰った後に自分の歌唱パートを彼女が歌っていた裏話"
+    },
+    {
+     "id": "s41",
+     "title_ja": "Duff McKagan、80年代に失くした初のベースをGibsonと捜索",
+     "note": "Guns N' Rosesのベーシストが失くした、赤いGibson EB-0を探すエピソード"
+    },
+    {
+     "id": "s88",
+     "title_ja": "バズ曲「LEGACY」の謎の英国アーティストPIXYとは",
+     "note": "正体が謎に包まれたままヒットした英国アーティストPIXYの素顔を探るネタ"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s4",
+    "title_ja": "人気英歌手、2027年2月に横浜で来日公演決定",
+    "note": "2年半ぶりの来日で、横浜で一夜限りの公演。見出しにアーティスト名の記載なし"
+   },
+   {
+    "id": "s6",
+    "title_ja": "Dolphin Hyperspace、2027年2月に来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s12",
+    "title_ja": "NCT JNJM、1月にK.at Walk 2027 in Japanへ出演",
+    "note": "2027年1月10日（日）パシフィコ横浜。音楽・ファッション・ビューティーが融合するイベント"
+   }
+  ],
+  "tour_candidates": 9
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s86",
+   "label": "Saweetie's new songs credit 10K Projects",
+   "artists": [
+    "Saweetie"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T07:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Saweetie’s New Songs Carry A 10K Projects Credit After Warner EP",
+     "link": "https://allhiphop.com/news/saweetie-details-in-ya-face-10k-projects-label-credit/",
+     "published": "2026-11-21T07:00:00+00:00",
+     "summary": "Saweetie's two new tracks list 10K Projects on Apple Music, a change from the ICY and Warner Records credit on her 2025 EP."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Summer Walker sues Interscope for $20 million",
+   "artists": [
+    "Summer Walker"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T01:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Summer Walker Hits Interscope With $20 Million Countersuit Amid Ongoing Contract Battle",
+     "link": "https://www.hotnewhiphop.com/1016914-summer-walker-countersuit-interscope",
+     "published": "2026-11-21T01:00:00+00:00",
+     "summary": "Summer Walker is countersuing Interscope for $20 million, alleging the label improperly profited from her independently created digital content. The post Summer Walker Hits Interscope With $20 Million Countersuit Amid Ongoing Contract Battl"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Michael Jackson Estate lawsuit by Cascio family",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "genre": "POP",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T00:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Michael Jackson Estate Deal Leads Cascio Family To Sue Bryan Freedman",
+     "link": "https://allhiphop.com/news/michael-jackson-estate-deal-leads-cascio-family-to-sue-bryan-freedman/",
+     "published": "2026-11-21T00:30:00+00:00",
+     "summary": "The Cascio siblings and James Porte allege Bryan Freedman failed to disclose his ties to Michael Jackson's estate."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s81",
+   "label": "Conway The Machine demands respect from Westside Gunn",
+   "artists": [
+    "Conway The Machine",
+    "Westside Gunn"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 2,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T19:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Conway The Machine Demands Respect From Westside Gunn, Takes Shot At Mach-Hommy",
+     "link": "https://www.hotnewhiphop.com/1016899-conway-the-machine-westside-gunn-tension",
+     "published": "2026-11-20T19:00:00+00:00",
+     "summary": "Conway The Machine didn't like being compared to a McDonald's worker, and has addressed Westside Gunn online. The post Conway The Machine Demands Respect From Westside Gunn, Takes Shot At Mach-Hommy appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s82",
+   "label": "Eminem's alleged stalker accuses him of fathering child",
+   "artists": [
+    "Eminem"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T17:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Eminem’s Alleged Stalker Accuses Legendary Rapper Of Fathering Her Child",
+     "link": "https://www.hotnewhiphop.com/1016892-eminem-stalker-father-child-allegations",
+     "published": "2026-11-20T17:00:00+00:00",
+     "summary": "Eminem is currently dealing with an alleged stalker, who is now accusing him of fathering a child with her. The post Eminem’s Alleged Stalker Accuses Legendary Rapper Of Fathering Her Child appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [
+    {
+     "id": "zT104EktdOc",
+     "title": "IDK & Eminem — WELCOME (Prd. By J Dilla) [Official Music Video]",
+     "channel": "idk",
+     "published": "2026-11-13T05:00:03Z",
+     "hours_since": 197,
+     "views": 6465106,
+     "url": "https://www.youtube.com/watch?v=zT104EktdOc",
+     "region": "GB",
+     "rank": 9
+    },
+    {
+     "id": "zT104EktdOc",
+     "title": "IDK & Eminem — WELCOME (Prd. By J Dilla) [Official Music Video]",
+     "channel": "idk",
+     "published": "2026-11-13T05:00:03Z",
+     "hours_since": 197,
+     "views": 6465106,
+     "url": "https://www.youtube.com/watch?v=zT104EktdOc",
+     "region": "US",
+     "rank": 26
+    }
+   ],
+   "video": {
+    "id": "zT104EktdOc",
+    "title": "IDK & Eminem — WELCOME (Prd. By J Dilla) [Official Music Video]",
+    "channel": "idk",
+    "published": "2026-11-13T05:00:03Z",
+    "hours_since": 197,
+    "views": 6465106,
+    "url": "https://www.youtube.com/watch?v=zT104EktdOc",
+    "region": "GB",
+    "rank": 9
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s48",
+   "label": "OsamaSon concert in NYC ends in chaos",
+   "artists": [
+    "OsamaSon"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "The Fader"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T13:53:04-05:00",
+   "articles": [
+    {
+     "outlet": "The Fader",
+     "title": "OsamaSon concert in NYC ends in chaos and reported injuries",
+     "link": "https://www.thefader.com/2026/11/20/osamason-terminal-5-crowd-crush-injuries",
+     "published": "2026-11-20T13:53:04-05:00",
+     "summary": "DJ Nino Andretti allegedly told fans to “rush the merch booth” at the end of last night’s concert, leading to serious injuries."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s50",
+   "label": "Tresor condemns Helsing AI military event at Kraftwerk",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "DJ Mag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T13:30:50+00:00",
+   "articles": [
+    {
+     "outlet": "DJ Mag",
+     "title": "Tresor issues statement condemning Helsing AI military event at Kraftwerk Berlin",
+     "link": "https://djmag.com/news/tresor-issues-statement-condemning-helsing-ai-military-event-kraftwerk-berlin",
+     "published": "2026-11-20T13:30:50+00:00",
+     "summary": "The legendary Berlin institution said that such an event “has no place in the spaces our community has built”"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s49",
+   "label": "Doja Cat bitter about being snubbed by GTA VI",
+   "artists": [
+    "Doja Cat"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T11:12:12+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Doja Cat “so fucking bitter” after being snubbed by ‘Grand Theft Auto 6’",
+     "link": "https://www.nme.com/news/gaming-news/doja-cat-bitter-snubbed-grand-theft-auto-6-soundtrack-radio-album-3976530",
+     "published": "2026-11-20T11:12:12+00:00",
+     "summary": "The game features more than 800 tracks – none of them by her The post Doja Cat “so fucking bitter” after being snubbed by ‘Grand Theft Auto 6’ appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s37",
+   "label": "Unreleased D'Angelo song Kamikazi emerges in GTA VI",
+   "artists": [
+    "D'Angelo"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "release",
+   "talk": 1,
+   "outlets": [
+    "Rolling Stone",
+    "Vibe"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-20T21:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "Unreleased D’Angelo Song “Kamakazi” Emerges in ‘GTA VI’",
+     "link": "https://www.vibe.com/music/music-news/dangelo-unreleased-song-kamakazi-grand-theft-auto-6-1235204015/",
+     "published": "2026-11-20T21:00:00+00:00",
+     "summary": "Late singer previously contributed \"Unshaken\" to Rockstar Games' 'Red Dead Redemption 2'"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Unreleased D’Angelo Song ‘Kamikazi’ Emerges in ‘GTA VI’",
+     "link": "https://www.rollingstone.com/music/music-news/dangelo-unreleased-song-kamakazi-grand-theft-auto-6-1235661667/",
+     "published": "2026-11-20T17:27:05+00:00",
+     "summary": "Late singer previously contributed \"Unshaken\" to Rockstar Games' Red Dead Redemption 2"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s32",
+   "label": "Beastie Boys' Mike D performs at Tiny Desk",
+   "artists": [
+    "Mike D"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "NME Japan",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-20T18:05:41+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Beastie Boys’ Mike D Brings Solo Album — and His Sons — to Tiny Desk Concert",
+     "link": "https://www.rollingstone.com/music/music-news/beastie-boys-mike-d-brings-album-thank-you-to-tiny-desk-1235659577/",
+     "published": "2026-11-20T18:05:41+00:00",
+     "summary": "The former Beastie Boys member performed six tracks off his solo album with his sons"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Mike D Delivers Lively Performance of Debut Solo Album at NPR’s Tiny Desk: Watch",
+     "link": "https://consequence.net/2026/11/mike-d-npr-tiny-desk-concert-thank-you/",
+     "published": "2026-11-20T15:37:39+00:00",
+     "summary": "The Beastie Boys member ran through a six-song set from Thank You while joined by his sons in backing band 5D. Mike D Delivers Lively Performance of Debut Solo Album at NPR’s Tiny Desk: Watch Eddie Fu"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ビースティ・ボーイズのマイク・D、タイニー・デスク・コンサートのパフォーマンス映像が公開",
+     "link": "https://nme-jp.com/news/174614/",
+     "published": "2026-11-20T10:30:33+00:00",
+     "summary": "ビースティ・ボーイズのマイク・DはNPRの名物企画「タイニー・デスク・コンサート」で披露したパフォーマンス映像が公開されている。"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "r5W4W6aWw_M",
+    "title": "Mike D: Tiny Desk Concert",
+    "channel": "NPR Music",
+    "published": "2026-11-20T10:00:06Z",
+    "hours_since": 24,
+    "views": 392280,
+    "url": "https://www.youtube.com/watch?v=r5W4W6aWw_M",
+    "views_per_hour": 16345
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Jill Scott signs with Independent Artist Group",
+   "artists": [
+    "Jill Scott"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "business",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T08:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Jill Scott Signs With Independent Artist Group After Five Grammy Nods",
+     "link": "https://allhiphop.com/news/jill-scott-signs-independent-artist-group/",
+     "published": "2026-11-21T08:00:00+00:00",
+     "summary": "Jill Scott signs with Independent Artist Group for film, TV, branding, literary work and international touring."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "Robert Glasper and Brittany Howard collaborate on 14th",
+   "artists": [
+    "Robert Glasper",
+    "Brittany Howard"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "collab",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T02:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Robert Glasper Says New Track For “14th” With Brittany Howard Gave Him Freedom To Create",
+     "link": "https://allhiphop.com/news/robert-glasper-brittany-howard-ava-duvernay-14th-makings-of-tomorrow/",
+     "published": "2026-11-21T02:30:00+00:00",
+     "summary": "Robert Glasper and Brittany Howard join forces for Ava DuVernay's '14th,' a decade after his Emmy-winning work on '13th.'"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s84",
+   "label": "Waka Flocka Flame calls out older men playing GTA VI",
+   "artists": [
+    "Waka Flocka Flame"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "XXL"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T00:37:26+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "Waka Flocka Flame Calls Out Men Over 35 Who Are Playing GTA VI",
+     "link": "https://www.xxlmag.com/waka-flocka-flame-gta-6-men-over-35/",
+     "published": "2026-11-21T00:37:26+00:00",
+     "summary": "Waka slams older GTA VI players. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "L9goiVIRUsc",
+    "title": "Waka Flocka Flame Calls Out Adult Men Playing 'Grand Theft Auto VI'",
+    "channel": "TMZ",
+    "published": "2026-11-20T17:00:56Z",
+    "hours_since": 17,
+    "views": 14625,
+    "url": "https://www.youtube.com/watch?v=L9goiVIRUsc",
+    "views_per_hour": 860
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Kylie Cantrall talks new music and Disney fanbase transition",
+   "artists": [
+    "Kylie Cantrall"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T00:20:22+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Kylie Cantrall Talks ‘Bold, Grown & Messy’ New Music, How Her Disney Fans ‘Coexist’ With Growing Audience",
+     "link": "https://www.billboard.com/music/pop/kyliecantrall-opens-up-about-new-music-its-bold-grown-messy-1236385194/",
+     "published": "2026-11-21T00:20:22+00:00",
+     "summary": "The Disney alum gets candid about her new music era at intimate Moxy Hotels Check-In Sessions."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s85",
+   "label": "DJ Akademiks explains Drake almost excluded him from ICEMAN movie",
+   "artists": [
+    "DJ Akademiks",
+    "Drake"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T00:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "DJ Akademiks Explains Why Drake Almost Excluded Him From The “ICEMAN” Movie",
+     "link": "https://www.hotnewhiphop.com/1016919-dj-akademiks-drake-iceman-livestream",
+     "published": "2026-11-21T00:00:00+00:00",
+     "summary": "DJ Akademiks was infamously part of the \"ICEMAN\" rollout, but Drake had some reservations about giving him that look. The post DJ Akademiks Explains Why Drake Almost Excluded Him From The “ICEMAN” Movie appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [
+    {
+     "id": "Sh4pJYJOT7M",
+     "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+     "channel": "Future",
+     "published": "2026-11-10T17:46:05Z",
+     "hours_since": 256,
+     "views": 5211081,
+     "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+     "region": "US",
+     "rank": 6
+    },
+    {
+     "id": "Sh4pJYJOT7M",
+     "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+     "channel": "Future",
+     "published": "2026-11-10T17:46:05Z",
+     "hours_since": 256,
+     "views": 5211081,
+     "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+     "region": "GB",
+     "rank": 19
+    }
+   ],
+   "video": {
+    "id": "Sh4pJYJOT7M",
+    "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+    "channel": "Future",
+    "published": "2026-11-10T17:46:05Z",
+    "hours_since": 256,
+    "views": 5211081,
+    "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+    "region": "US",
+    "rank": 6
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "Rosalía calls Taylor Swift master songwriter",
+   "artists": [
+    "Rosalía",
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T22:35:32+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Rosalía Calls Taylor Swift a ‘Master Songwriter,’ Reveals Her Favorite Swift Track",
+     "link": "https://www.rollingstone.com/music/music-news/rosalia-praises-taylor-swift-master-songwriter-1235661869/",
+     "published": "2026-11-20T22:35:32+00:00",
+     "summary": "The Spanish singer said \"Wildest Dreams\" is \"one of the songs I’ve listened to the most in my entire life\""
+    }
+   ],
+   "chart": [
+    {
+     "id": "LJC7mgjp5FQ",
+     "title": "Taylor Swift - I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
+     "channel": "Taylor Swift",
+     "published": "2026-11-19T11:00:19Z",
+     "hours_since": 47,
+     "views": 4962381,
+     "url": "https://www.youtube.com/watch?v=LJC7mgjp5FQ",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "LJC7mgjp5FQ",
+     "title": "Taylor Swift - I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
+     "channel": "Taylor Swift",
+     "published": "2026-11-19T11:00:19Z",
+     "hours_since": 47,
+     "views": 4962381,
+     "url": "https://www.youtube.com/watch?v=LJC7mgjp5FQ",
+     "region": "GB",
+     "rank": 4
+    }
+   ],
+   "video": {
+    "id": "LJC7mgjp5FQ",
+    "title": "Taylor Swift - I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
+    "channel": "Taylor Swift",
+    "published": "2026-11-19T11:00:19Z",
+    "hours_since": 47,
+    "views": 4962381,
+    "url": "https://www.youtube.com/watch?v=LJC7mgjp5FQ",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s108",
+   "label": "Jung Kook fans share support and want more music",
+   "artists": [
+    "Jung Kook"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T20:00:03+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Jung Kook fans share support posts, outfit comparisons and clips while saying they want to hear more of his music 💜",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfVWRzdVI2REpudGFXRWlQaUtHLVNFM1FXYVNDOUhud3FCdUlTMlRtcmNTb0FYQlppMXdLU01qUG0tdWtfMnVsYUJIaU9hNWFqLVE4aGFLQXBmNVRtS0dRN1BLSFFtNkE?oc=5",
+     "published": "2026-11-20T20:00:03+00:00",
+     "summary": "Jung Kook fans share support posts, outfit comparisons and clips while saying they want to hear more of his music 💜 Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s83",
+   "label": "Keffe D's lawyer dies during appeal process",
+   "artists": [
+    "Keffe D"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "XXL"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T18:40:02+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "911 Call Released Detailing Death of Lawyer Representing Keffe D",
+     "link": "https://www.xxlmag.com/911-call-keffe-d-lawyer-michael-sanft/",
+     "published": "2026-11-20T18:40:02+00:00",
+     "summary": "Keffe D's appeal was accepted just after the lawyer's death. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s87",
+   "label": "Lloyd Banks names Prodigy biggest influence",
+   "artists": [
+    "Lloyd Banks"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T18:27:44+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Lloyd Banks Names Prodigy His Biggest Influence on New \"Money in the Bank\" Track",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHNELWVWTEZjMWpNb1U3a1JPUzRaOVR2a1dLWU5nYS1RbGVUeXJyVW1xdlVqSUNXYy1YYkdKUGVEb0Y5TGhlZGxPVDktNTBoNG4zeEc1RGN5UE9QUE9SbXg0OV9GMy1vRjJMbG1qZG43Q2E0aWVLckQySllKT05lSklhSlE1SWtIYmVmMXJkSkp4UUl6ZWpxSEJzaU91UQ?oc=5",
+     "published": "2026-11-20T18:27:44+00:00",
+     "summary": "Lloyd Banks Names Prodigy His Biggest Influence on New \"Money in the Bank\" Track Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s90",
+   "label": "Megan Moroney and Alex Warren discuss music in car",
+   "artists": [
+    "Megan Moroney",
+    "Alex Warren"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T17:58:00+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Megan Moroney and Alex Warren Know a Good Song When They Hear It in the Car",
+     "link": "https://www.rollingstone.com/music/music-news/megan-moroney-alex-warren-know-good-song-in-the-car-1235654145/",
+     "published": "2026-11-20T17:58:00+00:00",
+     "summary": "For two artists whose lives revolve around music, the road offers a different kind of listening experience."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s64",
+   "label": "Ravenscoon discusses sobriety and new album",
+   "artists": [
+    "Ravenscoon"
+   ],
+   "genre": "Dance",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "EDM.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T15:35:52+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Ravenscoon on Sobriety, Community and the Album He Hopes Is “a Little Bit of Magic for People to Exist In”",
+     "link": "https://edm.com/interviews/ravenscoon-interview-new-album-sanctuary/",
+     "published": "2026-11-20T15:35:52+00:00",
+     "summary": "In an exclusive interview, the surging bass music producer opens up about the genres that shaped him and how electronic music became a refuge for him and his fans. The post Ravenscoon on Sobriety, Community and the Album He Hopes Is “a Litt"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s53",
+   "label": "Bruno Mars mourns his father's death",
+   "artists": [
+    "Bruno Mars"
+   ],
+   "genre": "POP",
+   "kind": "death",
+   "talk": 1,
+   "outlets": [
+    "Vibe"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T13:17:53+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "Bruno Mars Mourns His Father’s Death: “The Man That Taught Me Everything I Know”",
+     "link": "https://www.vibe.com/news/national/bruno-mars-mourns-father-death-peter-hernandez-1235203863/",
+     "published": "2026-11-20T13:17:53+00:00",
+     "summary": "The singer praised his father, Peter “Dr. Doo-Wop” Hernandez, often during interviews and credited him for his signature style"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s56",
+   "label": "Steve Aoki tries to get real job on LinkedIn",
+   "artists": [
+    "Steve Aoki"
+   ],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T12:28:41+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Steve Aoki tries to “get a real job” on LinkedIn, gives up two hours later, becomes “thought leader”",
+     "link": "https://www.nme.com/news/music/steve-aoki-tries-to-get-a-real-job-on-linkedin-gives-up-two-hours-later-becomes-thought-leader-3976537",
+     "published": "2026-11-20T12:28:41+00:00",
+     "summary": "\"Please hire me. I don’t know how much more thought leadership I have in me\" The post Steve Aoki tries to “get a real job” on LinkedIn, gives up two hours later, becomes “thought leader” appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s59",
+   "label": "ESG to release last-ever album in 2027",
+   "artists": [
+    "ESG"
+   ],
+   "genre": "Dance",
+   "kind": "announcement",
+   "talk": 1,
+   "outlets": [
+    "Resident Advisor"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T12:18:56+00:00",
+   "articles": [
+    {
+     "outlet": "Resident Advisor",
+     "title": "ESG to release last-ever album in 2027 · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9FSkJPOXJRQ3pnS1ZKcmVIN2MxNE00MXd4TGE2b0FtdDZ2M0syZGdpdkp1ZWFEVnM5eGN2dQ?oc=5",
+     "published": "2026-11-20T12:18:56+00:00",
+     "summary": "ESG to release last-ever album in 2027 · News ⟋ RA Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Popular UK singer announces Japan concert February 2027",
+   "artists": [],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Yahoo!ニュース",
+    "デイリースポーツ",
+    "ｄメニューニュース"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Yahoo!ニュース",
+    "デイリースポーツ",
+    "ｄメニューニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-21T07:10:06+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "人気英歌手、2年半ぶりの来日公演が決定 来年2月に横浜で一夜限り",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TUlpuSzIwYW9LcWdWZExUTU9vSE52aHc3RmlYS2NrQXp3MUVmcmNsN0lUQWdFMGpiSlZCa2JLUk1meTdlenRhYXF2dDltcVBFMXNNc3NzVDRZUWpldEpuQzNSV0MydG5xVzMyZDhLazN3ajlFZFlqZERZZVdBT3c?oc=5",
+     "published": "2026-11-21T07:10:06+00:00",
+     "summary": "人気英歌手、2年半ぶりの来日公演が決定 来年2月に横浜で一夜限り Yahoo!ニュース"
+    },
+    {
+     "outlet": "ｄメニューニュース",
+     "title": "人気英歌手、2年半ぶりの来日公演が決定 来年2月に横浜で一夜限り",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVUN1ZFowX2w4MFVObzlkUjd4U1BROWptS1ZLQUVRTWVxZElJQ2RnYTlRNUU2QXJTbTJkSC13eTVwNWpHcHhnNFkyUGMyZTd6TW91eWF4bVlxeldPTlNQZVV5VGJadURJbzEwQXh6bGsyc29kWVFjaWo1SUlLY0c3b3EwYzBBVHFpdm9paTNLY9IBlAFBVV95cUxPdjNMZHU2MVUwS2lyczlKeFNQLU9xZGJWM1pvZVVfcE9nNFptZjNnM3JFVk5nYmpkY25iQVFOellHRHo3T3ZEZUxpbnN1RFZfUFpJcVJBbXpac2tyUGJFcXNSMndiMDRIZUFMbUF5NlE4aVc5OUs4OUlVUmRLQ2lVcHMtNGlkZ1ZONFpXUDBJY2dOSjZ3?oc=5",
+     "published": "2026-11-21T07:10:00+00:00",
+     "summary": "人気英歌手、2年半ぶりの来日公演が決定 来年2月に横浜で一夜限り ｄメニューニュース"
+    },
+    {
+     "outlet": "デイリースポーツ",
+     "title": "人気英歌手、2年半ぶりの来日公演が決定 来年2月に横浜で一夜限り",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzV3NsYk5acEI2RlRIcGdUZHBrQTNkU010dzJPcnVsYUc3YVdHUExiczBoSWJGbzlXbGdObWFwTXpWZ2FUWW43bnI1Zi1OQnhXREl3cC1lMXA1UWJjbXd1MW9oeF9wY0pQOHZBRm41VXJKNVBNZnZYVVo4WmcxQQ?oc=5",
+     "published": "2026-11-21T07:10:00+00:00",
+     "summary": "人気英歌手、2年半ぶりの来日公演が決定 来年2月に横浜で一夜限り デイリースポーツ"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Bon Jovi announces 9 years later Japan comeback concerts",
+   "artists": [
+    "Bon Jovi"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 1,
+   "outlets": [
+    "zakⅡ",
+    "山陽新聞"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "zakⅡ",
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-21T07:04:49+00:00",
+   "articles": [
+    {
+     "outlet": "zakⅡ",
+     "title": "ロバート秋山、ネタから現実へ ボン・ジョヴィCMでウドー音楽事務所公式に",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOG9TTUdjM3QzWU50VHBLY3N0NTlBSWZBcVRhV1gwdXpuLW1IUXk1SEtTNkU4dTZYVnBOc3J2WW05QVlVOENnblIzQk1rYkNYZ05uMlNIM2UtcWx5M3hwMzlpTEtXWXJyeG5YZkV4bGFIejUzM012UjhzWVRCSHlGVzI2ZlJlNmpNRmZYNdIBjAFBVV95cUxQOG9TTUdjM3QzWU50VHBLY3N0NTlBSWZBcVRhV1gwdXpuLW1IUXk1SEtTNkU4dTZYVnBOc3J2WW05QVlVOENnblIzQk1rYkNYZ05uMlNIM2UtcWx5M3hwMzlpTEtXWXJyeG5YZkV4bGFIejUzM012UjhzWVRCSHlGVzI2ZlJlNmpNRmZYNQ?oc=5",
+     "published": "2026-11-21T07:04:49+00:00",
+     "summary": "ロバート秋山、ネタから現実へ ボン・ジョヴィCMでウドー音楽事務所公式に zakⅡ"
+    },
+    {
+     "outlet": "山陽新聞",
+     "title": "ボン・ジョヴィ、9年ぶり来日公演決定 声帯手術から奇跡の復活、来年2月に東京ドーム2Days",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNVNaZy13ZjJZV0hmSkxBdWVRMERURTVMalJLT2ZtYWQwX2tWbEtObnQxV1lHVnlyaVp1XzhUaDJCYndqRXA0aHFUaEpPc2RnYUg5eWRZMTlSU0FDSng0VUpvdElTcHdlMERFQTVETG9zdUxiYS1ndzdCTzdUZDNvajF2RExib3ZYSDdSUUVOWUdlS0Y3VDJqaURkSnJqeFlyeGhOZ3Q5X2U2S3Jfdy1maXJ5UW5qbC1LZTd2MGdYODIycHE0Wm9FU01aMA?oc=5",
+     "published": "2026-11-20T16:28:06+00:00",
+     "summary": "ボン・ジョヴィ、9年ぶり来日公演決定 声帯手術から奇跡の復活、来年2月に東京ドーム2Days 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Dolphin Hyperspace announces February 2027 Japan shows",
+   "artists": [
+    "Dolphin Hyperspace"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-21T06:52:33+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "Dolphin Hyperspace、2027年2月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5EMU5ZRXBZRTJVLXN2aEcteHR3c2lGeEN4bjB4YXU5M0pQR1dQWklKaURIYWxNYXpqd0dPUVFoVmJPQVh1QWlB?oc=5",
+     "published": "2026-11-21T06:52:33+00:00",
+     "summary": "Dolphin Hyperspace、2027年2月に来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "NCT JNJM performs at K.at Walk 2027 in Japan",
+   "artists": [
+    "NCT JNJM"
+   ],
+   "genre": "POP",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "PR TIMES"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "PR TIMES"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-21T03:00:02+00:00",
+   "articles": [
+    {
+     "outlet": "PR TIMES",
+     "title": "【NCT JNJM出演！】音楽・ファッション・ビューティーが融合する「K.at Walk 2027 in Japan」2027年1月10日（日）、パシフィコ横浜にて開催決定！ | 株式会社STONE.Bのプレスリリース",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XekJtQjA2OGtsODR5NTlvLVl2OWFMLWhseThHLWRJTkRSa2lVZVhRd0VYcHc2VHdRQTdSTmNRWDF0UWlQVzY2TVl6Vjd1NnVKR3RNbjNveDRsRzczYUl1dVg4VnRSZUhfV2c?oc=5",
+     "published": "2026-11-21T03:00:02+00:00",
+     "summary": "【NCT JNJM出演！】音楽・ファッション・ビューティーが融合する「K.at Walk 2027 in Japan」2027年1月10日（日）、パシフィコ横浜にて開催決定！ | 株式会社STONE.Bのプレスリリース PR TIMES"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s96",
+   "label": "H.E.R.O. releases new single before Japan tour",
+   "artists": [
+    "H.E.R.O."
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "ソニーミュージックオフィシャルサイト"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "ソニーミュージックオフィシャルサイト"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T20:46:32+00:00",
+   "articles": [
+    {
+     "outlet": "ソニーミュージックオフィシャルサイト",
+     "title": "来日公演を間近に控えたデンマークのロック・バンドH.E.R.O.、約1年9か月ぶりの新曲「Buried in Bloom」をリリース！",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rOTYxb2pWaklZcWkyVFFoak1pbW1OQVlHU0k5MHRSUDNjVWZMT0FaMVQwREozQ3FHM1c4TndLbmgxWDQxN0lLWVRVdnhIcVRZVGcyYlVKQXg2aFlkZzZWRQ?oc=5",
+     "published": "2026-11-20T20:46:32+00:00",
+     "summary": "来日公演を間近に控えたデンマークのロック・バンドH.E.R.O.、約1年9か月ぶりの新曲「Buried in Bloom」をリリース！ ソニーミュージックオフィシャルサイト"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s74",
+   "label": "Radiohead announces 19 years later Japan shows",
+   "artists": [
+    "Radiohead"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "山陽新聞"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T18:19:41+00:00",
+   "articles": [
+    {
+     "outlet": "山陽新聞",
+     "title": "レディオヘッド、“19年ぶり”単独来日公演が決定 計5公演＆チケット種類など発表【一覧】",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6NmNHWnpsaHpVekpaY01XbXBDaU1Eb0Z4dmg4XzZoSzRuSHFkRWJBbVY4ZVdja3ljUkRPVzhmbjcyVU5jbVZxNnhPWVFrTzFDZ3JTS1lZODY5b3BrZUhfVVR6UQ?oc=5",
+     "published": "2026-11-20T18:19:41+00:00",
+     "summary": "レディオヘッド、“19年ぶり”単独来日公演が決定 計5公演＆チケット種類など発表【一覧】 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s95",
+   "label": "Tori Kelly announces Japan comeback tour",
+   "artists": [
+    "Tori Kelly"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "千葉日報オンライン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "千葉日報オンライン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T13:45:24+00:00",
+   "articles": [
+    {
+     "outlet": "千葉日報オンライン",
+     "title": "TORI KELLY／GOD MUST REALLY LOVE ME WORLD TOUR あの歌声が再び日本へ グラミー賞に3度輝いた実力派シンガー 待望の来日公演が決定！",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YTzJaRU4tZC1yUVYtdDlvb0Zsd2F6MmpYdDk5c2EyOHFsdDdncWpVOXZ2ckJQU0puSEx3NUF5cjREZXN4dDdGWk1nQVlPejE1U2RyQ0hB?oc=5",
+     "published": "2026-11-20T13:45:24+00:00",
+     "summary": "TORI KELLY／GOD MUST REALLY LOVE ME WORLD TOUR あの歌声が再び日本へ グラミー賞に3度輝いた実力派シンガー 待望の来日公演が決定！ 千葉日報オンライン"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s93",
+   "label": "Freya Skye releases new single with Japan shows planned",
+   "artists": [
+    "Freya Skye"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "UNIVERSAL MUSIC JAPAN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "UNIVERSAL MUSIC JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T09:51:27+00:00",
+   "articles": [
+    {
+     "outlet": "UNIVERSAL MUSIC JAPAN",
+     "title": "来年来日公演も決定しているフレイヤ・スカイ、新曲「crushed」を12月2日リリースと発表！ティザー音源もあわせて解禁！BBC Radio 1のライブ・パフォーマンス映像も公開！",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBISndWcVhWNTRMQW1SVDNEbF96SVlNdDRhcjdoLU5MWktERjZKX1lLblVxb1RNQnZFNC1VVFN2T3RUTXlKQjFZRnQ5UWhKQVJfWW5oUUFtbjd2aERoNlBWSnN4ZEF6bTRFRUFVUUZ3?oc=5",
+     "published": "2026-11-20T09:51:27+00:00",
+     "summary": "来年来日公演も決定しているフレイヤ・スカイ、新曲「crushed」を12月2日リリースと発表！ティザー音源もあわせて解禁！BBC Radio 1のライブ・パフォーマンス映像も公開！ UNIVERSAL MUSIC JAPAN"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s94",
+   "label": "Lucy St. Louis performs at New Year Musical Concert 2027",
+   "artists": [
+    "Lucy St. Louis"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Yahoo!ニュース"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Yahoo!ニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-20T04:30:41+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "英国ミュージカル界屈指のソプラノ、ルーシー・セントルイスが初来日！ 『ニューイヤー・ミュージカル・コンサート 2027』全出演者決定 (チケットぴあ)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnNsMktoTl9GUnZTNDAxNzVqVHdSUG1SZVE0ZVFLLXJNbi01SG5va1B2QTdpNEhZNEVBSHQyM09yakYydHZfbjZwWTdpSUpLNlRFVEUxUWxabkRxUkxaYXNuOGRTRF94ZGROT09YZ1JZUzhaRWpMTV9KVTd5NmxuTDRNeklkZ0FDX01wdC1R?oc=5",
+     "published": "2026-11-20T04:30:41+00:00",
+     "summary": "英国ミュージカル界屈指のソプラノ、ルーシー・セントルイスが初来日！ 『ニューイヤー・ミュージカル・コンサート 2027』全出演者決定 (チケットぴあ) Yahoo!ニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s101",
+   "label": "Every music cameo in Grand Theft Auto VI",
+   "artists": [
+    "Bad Bunny",
+    "Sexyy Red"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "Consequence",
+    "DJ Mag",
+    "XXL"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 5,
+   "score": 5,
+   "latest": "2026-11-21T01:11:58+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "From Bad Bunny to Sexyy Red, Here’s Every Music Cameo in ‘Grand Theft Auto VI’",
+     "link": "https://www.billboard.com/lists/gta-vi-music-celebrity-cameos-bad-bunny-anitta/",
+     "published": "2026-11-21T01:11:58+00:00",
+     "summary": "GTA VI sales are nearing $4 billion after just one day."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "From LISA of BLACKPINK & Gracie Abrams to the ‘GTA VI’ Album, Which Music Release Is Your Favorite This Week? Vote!",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODJJTnRzU2RjNUxJRzNNQWtia3pReThWMFAySzR0cnkzLTJDbExUcF90NWxIUTY4X1R3YkxmM0hTS2p5SVRVVDAtMkpIRkpUak9Ba3lfUUtDUjdOSXZORHg5RDhwdXYtUlVjbm9Zb2V2a2xTRzRwMEhBMWdQdml1SlQ4dWZCdWZtRUw5aXNiZ21neFc4VGdQZVh3Qm5vWGtlTzg0aFY2UVFmTTBRNEZV?oc=5",
+     "published": "2026-11-20T22:12:39+00:00",
+     "summary": "From LISA of BLACKPINK & Gracie Abrams to the ‘GTA VI’ Album, Which Music Release Is Your Favorite This Week? Vote! Billboard"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Every Song Across All 24 Radio Stations in Grand Theft Auto VI",
+     "link": "https://consequence.net/2026/11/gta-6-radio-stations-songs-soundtrack/",
+     "published": "2026-11-20T21:39:10+00:00",
+     "summary": "Explore every track across Leonida's 24-channel dial, from classic hits to previously unreleased exclusives. Every Song Across All 24 Radio Stations in Grand Theft Auto VI Eddie Fu"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "'Grand Theft Auto VI: The Album': Every Song Ranked",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0dMOEFXTlZ3czBHUlFocmNtMXZaaGVEX0dUa09YTFp0YUF4RHFnb1E4Zm0yX0l2OW1jZE03SVJZY2RaTUJOVkhDa2hQTk9PdWFEZmtUaEwxTGpfVnU0b3JjMURRbXFCWndTbzk2UlFMUURHNzRheWR3T25WZjBoRw?oc=5",
+     "published": "2026-11-20T17:51:01+00:00",
+     "summary": "'Grand Theft Auto VI: The Album': Every Song Ranked Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "‘Grand Theft Auto VI’ Soundtrack, Gracie Abrams, LISA, Tomorrow x Together & More: New Music Friday Guide",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0tsR19lNElBVktObFZsVGJzSk1BY3FLdTNmWjZBOHp2U05JM0tQbU9fUUlhRUtrQkZ5c2tqU05fX3JONGlTN0dFQWVidWd0OWNROGFISU1NVWhEYWdIQ0toRGxZb2Q1a1hUay0tUjFoZ0MyVW1HeVU1bnozUEkweFI4RktQeVF2VnY1RDQtX1NzQmFXckVYQ2Z1bV9ibEVrdDRGVFlVeWh0cTA0YWpPTQ?oc=5",
+     "published": "2026-11-20T17:21:01+00:00",
+     "summary": "‘Grand Theft Auto VI’ Soundtrack, Gracie Abrams, LISA, Tomorrow x Together & More: New Music Friday Guide Billboard"
+    },
+    {
+     "outlet": "XXL",
+     "title": "Sexyy Red Brings Her Dance Moves to Grand Theft Auto VI",
+     "link": "https://www.xxlmag.com/sexyy-red-grand-theft-auto-vi/",
+     "published": "2026-11-20T16:39:16+00:00",
+     "summary": "You can find Sexyy in the club in Vice City! Continue reading…"
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "Listen to ‘Grand Theft Auto VI: The Album’, featuring Arca, Justice, Fcukers, more",
+     "link": "https://djmag.com/news/listen-grand-theft-auto-vi-album-featuring-arca-justice-fcukers-more",
+     "published": "2026-11-20T13:27:42+00:00",
+     "summary": "The release of the LP follows on from the game’s long-awaited launch earlier this week"
+    },
+    {
+     "outlet": "Complex",
+     "title": "'Grand Theft Auto VI: The Album' Is Here: Listen",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUndFN0FBSERtc01hVXVPeHk4MEJfLVJRY2tabW1tTnlrbjNmMWExcGhZd2dGdkc0V2tZZUZyTlBEQUJZSTkxcEw2VlZCdkxJRkZvUzV1VElyM2lnZjVnUjlsLXpucWphUEk5cWowSW0tTW4tVUh0X25kS3VYdUlOcVVhQWZUTW1VY3FZ?oc=5",
+     "published": "2026-11-20T11:01:44+00:00",
+     "summary": "'Grand Theft Auto VI: The Album' Is Here: Listen Complex"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "'GTA VI' Album Is Here: Stream Dua Lipa, Cardi B, Lana Del Rey & More",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWZlXzF6Qi1ucVM2VHhla3k5dTVseWhvSVpISklhUEtza2ZZSXYtWnJCT1dHSDlacVo3NzRBWWNVQ3huUXRTTnNzSVdKTWcxTlpQLUtGZHIzcWw0aWcwWG13aXNiLWpYeUJ4OWcySDBFVmlIa2ZwR0MxYWVBU1ZoVGg5X1RhdG1kM0drSA?oc=5",
+     "published": "2026-11-20T05:00:23+00:00",
+     "summary": "'GTA VI' Album Is Here: Stream Dua Lipa, Cardi B, Lana Del Rey & More Billboard"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s30",
+   "label": "Liam Gallagher and others pay tribute to Mani one year later",
+   "artists": [
+    "Liam Gallagher",
+    "Gary 'Mani' Mounfield",
+    "Primal Scream"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "NME",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-21T08:00:33+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "リアム・ギャラガーやプライマル・スクリームら、マニの命日に追悼の意を表明",
+     "link": "https://nme-jp.com/news/174616/",
+     "published": "2026-11-21T08:00:33+00:00",
+     "summary": "リアム・ギャラガー、ポール・“ボーンヘッド”・アーサーズ、プライマル・スクリームらはゲイリー・“マニ”・マウンフィールドが亡くなってから1年となることを受けて、追悼の意を表している。"
+    },
+    {
+     "outlet": "NME",
+     "title": "Liam Gallagher, Bonehead and Primal Scream lead tributes on one year anniversary of Mani’s death",
+     "link": "https://www.nme.com/news/music/liam-gallagher-bonehead-and-primal-scream-lead-tributes-on-one-year-anniversary-of-manis-death-3976584",
+     "published": "2026-11-20T16:31:16+00:00",
+     "summary": "\"A year ago today we lost our HERO our FRIEND the 1 n only GARY MANI MOUNFIELD\" The post Liam Gallagher, Bonehead and Primal Scream lead tributes on one year anniversary of Mani’s death appeared first on NME ."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s7",
+   "label": "Phil Collins recalls Cher singing his Live Aid part",
+   "artists": [
+    "Phil Collins",
+    "Cher"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T06:47:33+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Phil Collins Says Cher Sang His ‘We Are the World’ Line at Live Aid After He Left Early",
+     "link": "https://www.billboard.com/music/rock/phil-collins-live-aid-cher-concorde-eric-clapton-siriusxm-1236387268/",
+     "published": "2026-11-21T06:47:33+00:00",
+     "summary": "In a SiriusXM interview marking his second Rock Hall induction, Collins recalls the Concorde flight, meeting Cher mid-air, and discovering she'd taken his spot."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "Slayyyter's breakthrough year and Grammy nomination",
+   "artists": [
+    "Slayyyter"
+   ],
+   "genre": "Dance",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T01:54:17+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Inside Slayyyter’s Big Year: From ‘WOR$T GIRL’ Breakthrough to Best New Artist Grammy Nomination",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHNJRGhjeUNVUnhYcVAwU3BPWVZ1bmVISVVrLXVsQW5ZeDQtUWNBc3gyYkR4c05mMUhZemtBTVNuWTU2a1JRMURpVzRYbzh3V29aU1BXYldwaW1zTUlvb3ZYMWtOZVl6eWFSNUxQVlNORW9ialVPYUstdVVpVDBwZVZWUUZCUEdqVHNzdFR4VmRrQQ?oc=5",
+     "published": "2026-11-21T01:54:17+00:00",
+     "summary": "Inside Slayyyter’s Big Year: From ‘WOR$T GIRL’ Breakthrough to Best New Artist Grammy Nomination Billboard"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s104",
+   "label": "New Music Friday hip-hop and R&B releases",
+   "artists": [
+    "Conway the Machine",
+    "Tems",
+    "Latto",
+    "Cam'ron"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Vibe"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T19:30:09+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "New Music Friday: 50 Hip-Hop and R&B Releases You Need on Your Playlist",
+     "link": "https://www.vibe.com/lists/new-music-friday-50-hip-hop-rb-releases-need-your-playlist-7/",
+     "published": "2026-11-20T19:30:09+00:00",
+     "summary": "Conway the Machine, Tems, Latto, Cam'ron, MudKings, Robert Glasper, Fergie Baby, and more stars release new tunes"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s88",
+   "label": "PIXY emerges as mysterious artist behind viral hit LEGACY",
+   "artists": [
+    "PIXY"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T18:32:57+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Who Is PIXY? Meet the Mysterious UK Artist Behind the Viral Hit “LEGACY”",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPVnlGLVFfWTAzTXR2WmdVUXBaWU1TT0dtUnhQbGt0cXJZN2hjSVVuRFRQY1FyTGdHdjFnWWxmMjVrWXRMUjZSWWk2MkY5bnJxUDhTR04wR2NIblZycGUwMV9JaEZZU3NiQUlFVVQwR3pIS19naWc?oc=5",
+     "published": "2026-11-20T18:32:57+00:00",
+     "summary": "Who Is PIXY? Meet the Mysterious UK Artist Behind the Viral Hit “LEGACY” Complex"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s44",
+   "label": "Sleep members name 10 essential 1970s rock albums",
+   "artists": [
+    "Sleep"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Consequence"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T15:55:49+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Sleep’s Dale Crover & Bubba DuPree Name 10 Essential 1970s Classic Rock Albums",
+     "link": "https://consequence.net/2026/11/sleep-dale-crover-bubba-dupree-crate-digging-10-essential-1970s-classic-rock-albums/",
+     "published": "2026-11-20T15:55:49+00:00",
+     "summary": "The newest editions to Sleep pick albums by Alice Cooper, Robin Trower, Queen, Thin Lizzy, and more. Sleep’s Dale Crover & Bubba DuPree Name 10 Essential 1970s Classic Rock Albums Langdon Hickman"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "Guns N' Roses' Duff McKagan and Gibson search for lost bass",
+   "artists": [
+    "Duff McKagan"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Consequence"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T15:23:26+00:00",
+   "articles": [
+    {
+     "outlet": "Consequence",
+     "title": "Guns N’ Roses’ Duff McKagan and Gibson Launch Search for His First Bass Guitar",
+     "link": "https://consequence.net/2026/11/guns-n-roses-duff-mckagan-gibson-search-bass-guitar/",
+     "published": "2026-11-20T15:23:26+00:00",
+     "summary": "The GN'R icon lost his cherry red Gibson EB-0 back in the 1980s. Guns N’ Roses’ Duff McKagan and Gibson Launch Search for His First Bass Guitar Langdon Hickman"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s100",
+   "label": "Best songs on Grand Theft Auto VI The Album reviewed",
+   "artists": [],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "The Fader"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T15:21:34-05:00",
+   "articles": [
+    {
+     "outlet": "The Fader",
+     "title": "The best songs on Grand Theft Auto VI: The Album, reviewed",
+     "link": "https://www.thefader.com/2026/11/20/gta-6-soundtrack-album-best-songs",
+     "published": "2026-11-20T15:21:34-05:00",
+     "summary": "GTA VI strippers just got some heat to dance to."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s99",
+   "label": "5 new albums to listen to now",
+   "artists": [
+    "Atlas Sound",
+    "Toro y Moi",
+    "Lorenzo Senni"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Pitchfork"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-20T14:53:41+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "5 New Albums You Should Listen to Now: Atlas Sound, Toro y Moi, and More",
+     "link": "https://pitchfork.com/story/5-new-albums-you-should-listen-to-now-atlas-sound-toro-y-moi-and-more/",
+     "published": "2026-11-20T14:53:41+00:00",
+     "summary": "Stream new releases from Atlas Sound, Toro y Moi, and Lorenzo Senni"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s101",
+   "label": "Every music cameo in Grand Theft Auto VI",
+   "artists": [
+    "Bad Bunny",
+    "Sexyy Red"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "Consequence",
+    "DJ Mag",
+    "XXL"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 5,
+   "score": 5,
+   "latest": "2026-11-21T01:11:58+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "From Bad Bunny to Sexyy Red, Here’s Every Music Cameo in ‘Grand Theft Auto VI’",
+     "link": "https://www.billboard.com/lists/gta-vi-music-celebrity-cameos-bad-bunny-anitta/",
+     "published": "2026-11-21T01:11:58+00:00",
+     "summary": "GTA VI sales are nearing $4 billion after just one day."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "From LISA of BLACKPINK & Gracie Abrams to the ‘GTA VI’ Album, Which Music Release Is Your Favorite This Week? Vote!",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODJJTnRzU2RjNUxJRzNNQWtia3pReThWMFAySzR0cnkzLTJDbExUcF90NWxIUTY4X1R3YkxmM0hTS2p5SVRVVDAtMkpIRkpUak9Ba3lfUUtDUjdOSXZORHg5RDhwdXYtUlVjbm9Zb2V2a2xTRzRwMEhBMWdQdml1SlQ4dWZCdWZtRUw5aXNiZ21neFc4VGdQZVh3Qm5vWGtlTzg0aFY2UVFmTTBRNEZV?oc=5",
+     "published": "2026-11-20T22:12:39+00:00",
+     "summary": "From LISA of BLACKPINK & Gracie Abrams to the ‘GTA VI’ Album, Which Music Release Is Your Favorite This Week? Vote! Billboard"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Every Song Across All 24 Radio Stations in Grand Theft Auto VI",
+     "link": "https://consequence.net/2026/11/gta-6-radio-stations-songs-soundtrack/",
+     "published": "2026-11-20T21:39:10+00:00",
+     "summary": "Explore every track across Leonida's 24-channel dial, from classic hits to previously unreleased exclusives. Every Song Across All 24 Radio Stations in Grand Theft Auto VI Eddie Fu"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "'Grand Theft Auto VI: The Album': Every Song Ranked",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0dMOEFXTlZ3czBHUlFocmNtMXZaaGVEX0dUa09YTFp0YUF4RHFnb1E4Zm0yX0l2OW1jZE03SVJZY2RaTUJOVkhDa2hQTk9PdWFEZmtUaEwxTGpfVnU0b3JjMURRbXFCWndTbzk2UlFMUURHNzRheWR3T25WZjBoRw?oc=5",
+     "published": "2026-11-20T17:51:01+00:00",
+     "summary": "'Grand Theft Auto VI: The Album': Every Song Ranked Billboard"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "‘Grand Theft Auto VI’ Soundtrack, Gracie Abrams, LISA, Tomorrow x Together & More: New Music Friday Guide",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0tsR19lNElBVktObFZsVGJzSk1BY3FLdTNmWjZBOHp2U05JM0tQbU9fUUlhRUtrQkZ5c2tqU05fX3JONGlTN0dFQWVidWd0OWNROGFISU1NVWhEYWdIQ0toRGxZb2Q1a1hUay0tUjFoZ0MyVW1HeVU1bnozUEkweFI4RktQeVF2VnY1RDQtX1NzQmFXckVYQ2Z1bV9ibEVrdDRGVFlVeWh0cTA0YWpPTQ?oc=5",
+     "published": "2026-11-20T17:21:01+00:00",
+     "summary": "‘Grand Theft Auto VI’ Soundtrack, Gracie Abrams, LISA, Tomorrow x Together & More: New Music Friday Guide Billboard"
+    },
+    {
+     "outlet": "XXL",
+     "title": "Sexyy Red Brings Her Dance Moves to Grand Theft Auto VI",
+     "link": "https://www.xxlmag.com/sexyy-red-grand-theft-auto-vi/",
+     "published": "2026-11-20T16:39:16+00:00",
+     "summary": "You can find Sexyy in the club in Vice City! Continue reading…"
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "Listen to ‘Grand Theft Auto VI: The Album’, featuring Arca, Justice, Fcukers, more",
+     "link": "https://djmag.com/news/listen-grand-theft-auto-vi-album-featuring-arca-justice-fcukers-more",
+     "published": "2026-11-20T13:27:42+00:00",
+     "summary": "The release of the LP follows on from the game’s long-awaited launch earlier this week"
+    },
+    {
+     "outlet": "Complex",
+     "title": "'Grand Theft Auto VI: The Album' Is Here: Listen",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUndFN0FBSERtc01hVXVPeHk4MEJfLVJRY2tabW1tTnlrbjNmMWExcGhZd2dGdkc0V2tZZUZyTlBEQUJZSTkxcEw2VlZCdkxJRkZvUzV1VElyM2lnZjVnUjlsLXpucWphUEk5cWowSW0tTW4tVUh0X25kS3VYdUlOcVVhQWZUTW1VY3FZ?oc=5",
+     "published": "2026-11-20T11:01:44+00:00",
+     "summary": "'Grand Theft Auto VI: The Album' Is Here: Listen Complex"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "'GTA VI' Album Is Here: Stream Dua Lipa, Cardi B, Lana Del Rey & More",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWZlXzF6Qi1ucVM2VHhla3k5dTVseWhvSVpISklhUEtza2ZZSXYtWnJCT1dHSDlacVo3NzRBWWNVQ3huUXRTTnNzSVdKTWcxTlpQLUtGZHIzcWw0aWcwWG13aXNiLWpYeUJ4OWcySDBFVmlIa2ZwR0MxYWVBU1ZoVGg5X1RhdG1kM0drSA?oc=5",
+     "published": "2026-11-20T05:00:23+00:00",
+     "summary": "'GTA VI' Album Is Here: Stream Dua Lipa, Cardi B, Lana Del Rey & More Billboard"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s30",
+   "label": "Liam Gallagher and others pay tribute to Mani one year later",
+   "artists": [
+    "Liam Gallagher",
+    "Gary 'Mani' Mounfield",
+    "Primal Scream"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "NME",
+    "NME Japan"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-21T08:00:33+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "リアム・ギャラガーやプライマル・スクリームら、マニの命日に追悼の意を表明",
+     "link": "https://nme-jp.com/news/174616/",
+     "published": "2026-11-21T08:00:33+00:00",
+     "summary": "リアム・ギャラガー、ポール・“ボーンヘッド”・アーサーズ、プライマル・スクリームらはゲイリー・“マニ”・マウンフィールドが亡くなってから1年となることを受けて、追悼の意を表している。"
+    },
+    {
+     "outlet": "NME",
+     "title": "Liam Gallagher, Bonehead and Primal Scream lead tributes on one year anniversary of Mani’s death",
+     "link": "https://www.nme.com/news/music/liam-gallagher-bonehead-and-primal-scream-lead-tributes-on-one-year-anniversary-of-manis-death-3976584",
+     "published": "2026-11-20T16:31:16+00:00",
+     "summary": "\"A year ago today we lost our HERO our FRIEND the 1 n only GARY MANI MOUNFIELD\" The post Liam Gallagher, Bonehead and Primal Scream lead tributes on one year anniversary of Mani’s death appeared first on NME ."
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s16",
+   "label": "2026 CMA Awards see 55% ratings bump with Taylor Swift",
+   "artists": [
+    "Taylor Swift"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-21T01:54:57+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "2026 CMA Awards Jump to 7-Year Ratings High",
+     "link": "https://www.billboard.com/music/awards/2026-cma-awards-ratings-up-seven-year-high-1236387203/",
+     "published": "2026-11-21T01:54:57+00:00",
+     "summary": "The show drew more than 7 million total viewers across ABC and Disney+."
+    },
+    {
+     "outlet": "Variety",
+     "title": "CMA Awards See a 55% Ratings Bump in Key Adult Demo With Taylor Swift’s Return to the Show",
+     "link": "https://variety.com/2026/music/news/cma-awards-taylor-swift-big-ratings-increase-1236954677/",
+     "published": "2026-11-20T23:21:58+00:00",
+     "summary": "The CMA Awards’ producers knew it; they knew her. What they undoubtedly knew was that a performance by Taylor Swift would bring a ratings bonanza to the 60th annual telecast, with the only question being how big a boost. It was a substantia"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s23",
+   "label": "Ice Spice reacts to Madame Tussauds wax figure",
+   "artists": [
+    "Ice Spice"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "XXL"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-20T23:37:08+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Watch Ice Spice’s Speechless Reaction to Seeing Her Madame Tussauds Wax Figure for the First Time: ‘This Is So Accurate’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/ice-spice-wax-figure-photos-video-reaction-1236386894/",
+     "published": "2026-11-20T23:37:08+00:00",
+     "summary": "The figurine took it back to 2023 with her signature cropped orange curls."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Ice Spice Gets Her Own Wax Figure at Madame Tussauds",
+     "link": "https://www.xxlmag.com/ice-spice-wax-figure/",
+     "published": "2026-11-20T17:20:38+00:00",
+     "summary": "The life-size recreation is now on display at Madame Tussauds New York, located in Times Square. Continue reading…"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s61",
+   "label": "Micah Martin blends rock and electronic on debut album",
+   "artists": [
+    "Micah Martin"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "EDM.com",
+    "Your EDM"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-20T19:16:04+00:00",
+   "articles": [
+    {
+     "outlet": "Your EDM",
+     "title": "Micah Martin Blends Rock and Electronic Music on ‘All I Need’",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYTFkSWpEclhXLXhkY2lRbU1MRWd6S0FmN1BvUWJ5YmxoU0ZtLWRWdVU4MHVmRHZLT1otNkJoMUhabmkxbGowT1pzelg4VWlla0kzcDlsdkJkZHdKS2tqU0drdzFuMDRVeWJEVENxbXhrSWdrZzBseW1xSHhtTTRBOU45M2MtNDc3dmhjRG1uc0NyQWVkdHFBbEEzUQ?oc=5",
+     "published": "2026-11-20T19:16:04+00:00",
+     "summary": "Micah Martin Blends Rock and Electronic Music on ‘All I Need’ Your EDM"
+    },
+    {
+     "outlet": "EDM.com",
+     "title": "Micah Martin Bridges Rock and Rave on Debut Album, ‘All I Need’",
+     "link": "https://edm.com/music-releases/micah-martin-debut-album-all-i-need/",
+     "published": "2026-11-20T14:24:18+00:00",
+     "summary": "After lending his voice to electronic music heavyweights like SLANDER, Zomboy and Kayzo for the better part of a decade, Martin channels his rock roots into a deeply personal debut album. The post Micah Martin Bridges Rock and Rave on Debut"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s42",
+   "label": "Atlas Sound releases new album Thanatos",
+   "artists": [
+    "Atlas Sound"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 1,
+   "outlets": [
+    "Consequence",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-20T15:53:45+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Atlas Sound Returns With Surprise New Album ‘Thanatos,’ First LP in 15 Years",
+     "link": "https://www.rollingstone.com/music/music-news/atlas-sound-bradford-cox-surprise-new-album-thanatos-1235661600/",
+     "published": "2026-11-20T15:53:45+00:00",
+     "summary": "After a lengthy musical hiatus, Deerhunter singer Bradford Cox revives his long-dormant solo project"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Atlas Sound Releases New Album Thanatos: Stream",
+     "link": "https://consequence.net/2026/11/atlas-sound-new-album-thanatos-stream/",
+     "published": "2026-11-20T15:10:20+00:00",
+     "summary": "Bradford Cox's first new album as Atlas Sound in 15 years is out on streaming services now. Atlas Sound Releases New Album Thanatos: Stream Paolo Ragusa"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s67",
+   "label": "MPH releases club-oriented album with Skrillex and others",
+   "artists": [
+    "MPH"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "EDM MAXX",
+    "EDM.com"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "EDM MAXX"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-20T14:48:47+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "All Gas, No Brakes: Listen to MPH’s Hyperactive Album, ‘Here, Forever’",
+     "link": "https://edm.com/music-releases/mph-new-album-here-forever/",
+     "published": "2026-11-20T14:48:47+00:00",
+     "summary": "The breakout UKG producer's third album features collaborations with Skrillex, NOTION, 33 Below and more. The post All Gas, No Brakes: Listen to MPH’s Hyperactive Album, ‘Here, Forever’ appeared first on EDM ."
+    },
+    {
+     "outlet": "EDM MAXX",
+     "title": "MPH、SkrillexやChris Lorenzoらとの共作を収めたクラブ志向のNEWアルバムをリリース",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE56X3RMdk94OEdmZVgxS3JwUmlvM2hIY2pTS1FWVUFDOTRhU2JMa2QwQVo0LTB0eHNsVjBfWGVWSVktMFF0?oc=5",
+     "published": "2026-11-20T11:06:47+00:00",
+     "summary": "MPH、SkrillexやChris Lorenzoらとの共作を収めたクラブ志向のNEWアルバムをリリース EDM MAXX"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s62",
+   "label": "Hans Zimmer remixes RÜFÜS DU SOL's Innerbloom",
+   "artists": [
+    "Hans Zimmer",
+    "RÜFÜS DU SOL"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "DJ Mag",
+    "EDM.com"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-20T14:29:44+00:00",
+   "articles": [
+    {
+     "outlet": "EDM.com",
+     "title": "Hans Zimmer Adds Orchestral Grandeur to RÜFÜS DU SOL’s ‘Innerbloom’: Listen",
+     "link": "https://edm.com/music-releases/hans-zimmer-rufus-du-sol-innerbloom-xl-rework/",
+     "published": "2026-11-20T14:29:44+00:00",
+     "summary": "Out now, Zimmer's cinematic arrangement takes the generational dance anthem to greater emotional heights. The post Hans Zimmer Adds Orchestral Grandeur to RÜFÜS DU SOL’s ‘Innerbloom’: Listen appeared first on EDM ."
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "Listen to Hans Zimmer’s rework of RÜFÜS DU SOL’s ‘Innerbloom’",
+     "link": "https://djmag.com/news/listen-hans-zimmers-rework-of-rufus-du-sols-innerbloom",
+     "published": "2026-11-20T13:44:11+00:00",
+     "summary": "The trio teased the new 11th anniversary edition of their 2015 hit earlier this week"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 2
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 4
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 83,
+   "kept": 21
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 7,
+   "kept": 5
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 65,
+   "kept": 16
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 29,
+   "kept": 3
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 5
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 20
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 5
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 20
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 1
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 33,
+   "kept": 14
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 26,
+   "kept": 11
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 1
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 26
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 2,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 11,
+   "kept": 6
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 16,
+   "kept": 4
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 5,
+   "kept": 3
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 23,
+   "kept": 10
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 16,
+   "kept": 7
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 11,
+   "kept": 2
+  }
+ ],
+ "cost": {
+  "usd": 0.3166,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 21513,
+    "output_tokens": 10663
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 18225,
+    "output_tokens": 8443
+   }
+  ]
+ }
+}
