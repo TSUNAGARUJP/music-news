@@ -1,0 +1,1782 @@
+{
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T10:00:03.041627+00:00",
+ "article_count": 167,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日はEminem側とSunoのAI著作権訴訟の続報など、業界の仕組みに関わる話題が目立ちます。あわせて、GloRillaやBritney Spearsの人間関係にまつわる発言、『GTA VI』の現実の再現といった、視聴者が意見を言いやすい話題がそろいました。",
+  "top": [
+   {
+    "id": "s11",
+    "title_ja": "Eminem側、Suno訴訟にAI生成の疑い例108件を追加",
+    "genre": "Hip-Hop",
+    "summary_ja": "Eminemの楽曲の出版社が、AI音楽サービスSunoを相手取った著作権訴訟で、26曲に関係するとされるAI生成例108件を新たに追加したと報じられています。Suno側が主張する、アーティスト名や曲名を使った生成指示（プロンプト）を防いでいるという説明に異議を唱える内容です。",
+    "why_ja": "AllHipHopが報じた、AIと著作権をめぐる業界の大きな論点です。EminemはIDK & Eminem「WELCOME」のMVが英国のYouTube音楽チャート10位に入っており、いま注目度も高い状況です。",
+    "debate_ja": "AIの「アーティスト似せ防止」は本当に機能していると思う？",
+    "line_point": "Eminem側がSunoへの訴訟に、26曲に関わるAI生成の疑い例108件を追加。AIの似せ防止策が争点に。",
+    "reels": [
+     {
+      "hook": "AIの「似せ防止」、本当に効いてる？",
+      "angle": "事実：出版社が108件の例を追加→論点：Sunoの防止策の実効性→自分の見解→AI音楽の線引きをコメントで募る"
+     },
+     {
+      "hook": "108件・26曲、この数字の意味は？",
+      "angle": "追加された108件と26曲という数字を整理し、Suno側の主張と出版社側の反論を並べて、訴訟の争点を図解する"
+     }
+    ]
+   },
+   {
+    "id": "s3",
+    "title_ja": "GloRilla、Megan Thee Stallionとの関係の変化を示唆",
+    "genre": "Hip-Hop",
+    "summary_ja": "GloRillaが「Sometimes People Don't Feel the Same Way About You」（相手が自分と同じ気持ちとは限らない）と語り、Megan Thee Stallionとの関係に変化があった可能性を示唆したと報じられています。具体的に何があったかは、報道からは明らかになっていません。",
+    "why_ja": "Complexが報じた、人気女性ラッパー同士の関係をめぐる発言で、ファンの間で解釈が分かれやすい話題です。",
+    "debate_ja": "友人関係の変化、公の場で語るのはアリ？ナシ？",
+    "line_point": "GloRillaが「相手が同じ気持ちとは限らない」と発言し、Megan Thee Stallionとの関係の変化を示唆。",
+    "reels": [
+     {
+      "hook": "この一言、どう受け取る？",
+      "angle": "事実：GloRillaの発言→論点：関係の変化を示唆する発言を公にする是非→自分の見解→どちらかを責めずにコメントで意見を募る"
+     },
+     {
+      "hook": "女性ラッパー同士の友情、難しい？",
+      "angle": "報じられた発言の内容だけを整理し、断定を避けながら、アーティスト同士の関係が注目されやすい理由を解説する"
+     }
+    ]
+   },
+   {
+    "id": "s17",
+    "title_ja": "Britney Spears、Instagramで家族への謝罪を投稿",
+    "genre": "POP",
+    "summary_ja": "Britney SpearsがInstagramで家族に謝罪し、「I Just Miss Them Like Crazy」（家族がたまらなく恋しい）とつづったと報じられています。過去の不満を公に語ったことを後悔していると書いており、家族関係に溝を生んだ後見制度の終了から5年が経っての投稿です。",
+    "why_ja": "Billboardが報じた、本人による告白です。後見制度をめぐる過去の発言との違いから、受け止め方が分かれそうな話題です。",
+    "debate_ja": "過去の告白を後悔する気持ち、あなたはどう受け止める？",
+    "line_point": "Britney SpearsがInstagramで家族に謝罪。後見制度の終了から5年、過去の不満を公にしたことを後悔とつづる。",
+    "reels": [
+     {
+      "hook": "Britneyの謝罪、どう感じた？",
+      "angle": "事実：謝罪の投稿→論点：過去の告発と今回の後悔をどう両立して考えるか→複数の見方を示して自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "後見制度の終了から5年、何が変わった？",
+      "angle": "後見制度の終了から今回の投稿までを時系列で整理し、家族関係をめぐる本人の発信の変化を、茶化さずに解説する"
+     }
+    ]
+   },
+   {
+    "id": "s10",
+    "title_ja": "MAMA 2026、BTSやBIGBANG、CORTISが受賞",
+    "genre": "POP",
+    "summary_ja": "2026年のMAMA Awardsで、BTS、ENHYPEN、BIGBANG、CORTISが主な受賞者になったと報じられています。会場では、LE SSERAFIM、KATSEYE、ILLITが一緒に制作した「ICONIC BY MISTAKE」についても語られました。",
+    "why_ja": "Billboardが報じたほか、関連動画「GiiiRIP」が日本のYouTube音楽チャートで11位に入っています。ベテランから新人まで並んだ受賞結果は、日本のファンにも身近な話題です。",
+    "debate_ja": "ベテランと新人が並んだ受賞結果、K-POPの世代交代は進んでいる？",
+    "line_point": "MAMA 2026でBTS、ENHYPEN、BIGBANG、CORTISが受賞。LE SSERAFIM、KATSEYE、ILLITのコラボも話題に。",
+    "reels": [
+     {
+      "hook": "BIGBANGとCORTISが同じ日に受賞",
+      "angle": "事実：受賞したグループ→論点：ベテランと新人が並ぶ意味→自分の見解→K-POPの世代交代についてコメントで意見を募る"
+     },
+     {
+      "hook": "事務所の垣根を越えたコラボが話題",
+      "angle": "LE SSERAFIM、KATSEYE、ILLITによる「ICONIC BY MISTAKE」を取り上げ、グループ同士のコラボの見どころを紹介する"
+     }
+    ]
+   },
+   {
+    "id": "s38",
+    "title_ja": "The Weeknd、『GTA VI』で自身の豪邸の再現を発見",
+    "genre": "Hip-Hop",
+    "summary_ja": "The Weekndが、マイアミに持つ5000万ドルの豪邸を再現したとみられる建物を『GTA VI』の中で見つけたと報じられています。実在の場所をゲームがどこまで再現するのかに、注目が集まりそうです。",
+    "why_ja": "Complexが報じました。The Weekndの「Hong Kong」のMVは英国のYouTube音楽チャートで5位、米国で9位に入り、再生数は2299万回を超えています。",
+    "debate_ja": "実在する有名人の家をゲームで再現、アリ？ナシ？",
+    "line_point": "The Weekndが『GTA VI』に、自身の5000万ドルのマイアミの豪邸を再現した建物を発見したと報道。",
+    "reels": [
+     {
+      "hook": "自分の家がゲームに出てきたらどう思う？",
+      "angle": "事実：豪邸の再現→論点：実在の建物をゲームで再現することの是非→自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "『GTA VI』の世界、どこまで現実？",
+      "angle": "これまでに報じられた『GTA VI』と音楽界の話題を振り返り、今回の豪邸の再現を新しい切り口として紹介する"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s42",
+     "title_ja": "RAMBO、Glasgowでのイベント「Delusions」に出演",
+     "note": "Resident Advisorに、Vibes Glasgowでのイベント告知が掲載された。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s1",
+     "title_ja": "Miley Cyrus、Maxx Morandoとプールサイドで結婚式",
+     "note": "Flaming LipsのWayne Coyneが進行役を務めたと報道。BBCも報じた。"
+    },
+    {
+     "id": "s32",
+     "title_ja": "Becky G、手を貸した相手に共演を断られたと告白",
+     "note": "「Baraja Bendita」への参加を、過去に協力したアーティストに断られたと語った。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s5",
+     "title_ja": "Wu-Tang ClanとChad Smith、感謝祭のハーフタイムで共演",
+     "note": "2000年のスタジオでの共演以来の組み合わせで、デトロイトの舞台に立つ。"
+    },
+    {
+     "id": "s28",
+     "title_ja": "6lack、未発表曲を集めた新EPを準備",
+     "note": "「曲を埋もれさせるべきではない」と語り、眠っていた曲を出す意向を示した。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s31",
+     "title_ja": "2 Chainz、「Birthday Song」の共演は勘違いから",
+     "note": "Kanye Westとの共演が、思わぬ勘違いから生まれたという制作の裏話。"
+    },
+    {
+     "id": "s8",
+     "title_ja": "『Back To Black』20周年、Amy Winehouseの影響",
+     "note": "Amy Winehouseが後の世代のアーティストに与えた影響を振り返る解説。"
+    },
+    {
+     "id": "s21",
+     "title_ja": "Phoebe Bridgersのファン、スマホ禁止公演の記憶を絵に",
+     "note": "撮影できない公演の思い出を、ファンがアートで残すという珍しい現象。"
+    }
+   ]
+  },
+  "japan_tours": [],
+  "tour_candidates": 0
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s3",
+   "label": "GloRilla hints at fallout with Megan Thee Stallion",
+   "artists": [
+    "GloRilla",
+    "Megan Thee Stallion"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 2,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T08:01:25+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "GloRilla Hints at Megan Thee Stallion Fallout: ‘Sometimes People Don’t Feel the Same Way About You’",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0YwdU81M190UnBzUlN2V1NQZ0JYeHlncWdOLUdnUzRGWnhKdXk1UlNsYzNpdFlkVS1yWFlDcTlXcHFZTG1iQWJaZUNyU2FBVkZmTlljMkFLblZmN0doUS1Zbm1pSjM5TUw3LVU3WGxNWUJEZFBKMTZ4VGJsYm5lV1J2VXZMTkNBQnE0VFpn?oc=5",
+     "published": "2026-11-22T08:01:25+00:00",
+     "summary": "GloRilla Hints at Megan Thee Stallion Fallout: ‘Sometimes People Don’t Feel the Same Way About You’ Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "Eminem's publishers expand Suno copyright lawsuit with 108 new examples",
+   "artists": [
+    "Eminem"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T01:01:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Eminem’s Publishers Add 108 Examples To Suno Copyright Lawsuit",
+     "link": "https://allhiphop.com/news/eminem-publishers-suno-amended-complaint-108-outputs/",
+     "published": "2026-11-22T01:01:00+00:00",
+     "summary": "Eminem's publishers add 108 alleged AI outputs tied to 26 songs, challenging Suno's claim it blocks artist and song prompts."
+    }
+   ],
+   "chart": [
+    {
+     "id": "zT104EktdOc",
+     "title": "IDK & Eminem — WELCOME (Prd. By J Dilla) [Official Music Video]",
+     "channel": "idk",
+     "published": "2026-11-13T05:00:03Z",
+     "hours_since": 221,
+     "views": 6939265,
+     "url": "https://www.youtube.com/watch?v=zT104EktdOc",
+     "region": "GB",
+     "rank": 10
+    }
+   ],
+   "video": {
+    "id": "zT104EktdOc",
+    "title": "IDK & Eminem — WELCOME (Prd. By J Dilla) [Official Music Video]",
+    "channel": "idk",
+    "published": "2026-11-13T05:00:03Z",
+    "hours_since": 221,
+    "views": 6939265,
+    "url": "https://www.youtube.com/watch?v=zT104EktdOc",
+    "region": "GB",
+    "rank": 10
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Summer Walker countersues Interscope for $20 million over YouTube usage",
+   "artists": [
+    "Summer Walker"
+   ],
+   "genre": "POP",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T17:37:51+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Summer Walker Countersues Interscope for $20 Million, Claims Improper Usage of YouTube",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQk80TEVaazFUXzRkVkNLTGJybHhlMUhuQkNpbFFPaGNZdkpoZFZvVnI5eGp0SjdQOWZKVTZZVE1rZHBQOXhsTEVfSUpyQUszRmZrdU5Ib09YY29IWV92X3pQUUVtbEt0NlpBWEVTRFM0emg1OFd6WjAtRGZsWW0yRUY0WjczTUZZVzVMemNDc2d5QkktUW84ZFlGcUo2NDJEZ0NR?oc=5",
+     "published": "2026-11-21T17:37:51+00:00",
+     "summary": "Summer Walker Countersues Interscope for $20 Million, Claims Improper Usage of YouTube Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Miley Cyrus marries Maxx Morando in poolside ceremony",
+   "artists": [
+    "Miley Cyrus"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "BBC",
+    "Billboard"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-22T08:46:28+00:00",
+   "articles": [
+    {
+     "outlet": "BBC",
+     "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+     "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-22T08:46:28+00:00",
+     "summary": "The couple have been together for four years and were engaged in 2025."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Miley Cyrus Marries Maxx Morando in Poolside Ceremony Led by the Flaming Lips’ Wayne Coyne",
+     "link": "https://www.billboard.com/music/pop/miley-cyrus-marries-maxx-morando-palm-springs-wedding-1236387428/",
+     "published": "2026-11-22T05:24:42+00:00",
+     "summary": "It comes one month after the couple performed “Let’s Get Married” together at the Hollywood Bowl."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Britney Spears apologizes to family on Instagram",
+   "artists": [
+    "Britney Spears"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T07:03:05+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Britney Spears Apologizes to Her Family on Instagram: ‘I Just Miss Them Like Crazy’",
+     "link": "https://www.billboard.com/music/pop/britney-spears-instagram-apology-family-1236387442/",
+     "published": "2026-11-22T07:03:05+00:00",
+     "summary": "The pop star wrote that she regretted raising past grievances publicly, five years after the end of the conservatorship that fractured her relationship with her parents and sister."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s32",
+   "label": "Becky G says artists passed on 'Baraja Bendita' collaboration",
+   "artists": [
+    "Becky G"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T18:05:49+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Becky G Says Artists She Did Favors for Passed on 'Baraja Bendita'",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb1N4SjhIZVUweFJYcnlDUS0yV2RSZjg5Z293cEFfMHlMZm9sMDZWY2Z2WW81UzJkaEdqR2Q0SEtLcnp1UUNUdWY5T3hSRUtqeWVwc2dfZlRyWXYxZFBYa20xVHBqd0FJWjE3NGV1b2h2TEpwV0RudlMzcmp6RmgyaG9obW1iVVJqc0FVNU01OF9UdEZrVDFCRzVRSTR0U1UtX2c?oc=5",
+     "published": "2026-11-21T18:05:49+00:00",
+     "summary": "Becky G Says Artists She Did Favors for Passed on 'Baraja Bendita' Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s40",
+   "label": "Celina Powell reveals pregnancy with 6ix9ine's child",
+   "artists": [
+    "6ix9ine"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T17:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Celina Powell Reveals She Was Pregnant With 6ix9ine’s Child",
+     "link": "https://www.hotnewhiphop.com/1016929-celina-powell-6ix9ine-child",
+     "published": "2026-11-21T17:00:00+00:00",
+     "summary": "Celina Powell and 6ix9ine used to be together, but after getting pregnant, the dynamic of their relationship changed. The post Celina Powell Reveals She Was Pregnant With 6ix9ine’s Child appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s2",
+   "label": "Katseye brings out Camila Cabello at Los Angeles show",
+   "artists": [
+    "Katseye",
+    "Camila Cabello"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Variety"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T08:04:12+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Katseye Brings Out Camila Cabello for ‘Gabriela’ Dance at Los Angeles Show",
+     "link": "https://variety.com/2026/music/news/katseye-brings-out-camila-cabello-gabriela-los-angeles-1236955210/",
+     "published": "2026-11-22T08:04:12+00:00",
+     "summary": "Roughly six songs into their performance on Saturday night, Katseye made a girl group connection with Fifth Harmony member Camila Cabello as Daniela Avanzini brought her out to be the collective’s “Gabriela” for the evening, dancing to the "
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Sexyy Red appears in GTA VI and shares remix credit",
+   "artists": [
+    "Sexyy Red"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T08:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Sexyy Red Plays Herself & Joins Real Dimez On GTA VI Remix",
+     "link": "https://allhiphop.com/news/sexyy-red-gta-vi-real-dimez-cooties-remix/",
+     "published": "2026-11-22T08:00:00+00:00",
+     "summary": "Sexyy Red turns up as herself in GTA VI and shares a remix credit with Real Dimez, the game's fictional Vice City rap duo."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Wu-Tang Clan reunites with Chad Smith for Detroit Thanksgiving halftime",
+   "artists": [
+    "Wu-Tang Clan",
+    "Chad Smith"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T07:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Wu-Tang Clan Reunites With Red Hot Chili Peppers’ Chad Smith For Detroit’s Thanksgiving Halftime",
+     "link": "https://allhiphop.com/news/wu-tang-clan-chad-smith-detroit-lions-thanksgiving-halftime/",
+     "published": "2026-11-22T07:00:00+00:00",
+     "summary": "Wu-Tang Clan brings Chad Smith back into the fold, taking a studio pairing from 2000 to Detroit's Thanksgiving stage."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s37",
+   "label": "Joe Budden reacts to Lloyd Banks 'Money in the Bank 6' snippet",
+   "artists": [
+    "Joe Budden",
+    "Lloyd Banks"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T06:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Joe Budden Reacts to New Lloyd Banks 'Money in the Bank 6' Snippet in Clip",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXJVdnNTSlR4Y2VjQUdLeVMwZmJZWVlfUWI5Vmp2TnEtUDhDUkRFVlVzOWEyV0kwb01Dd2pRRjRSenVwMVQzWUFTYkk2YVNOZ19wUG0zOW9SZ3dqMWlWMmFuTFktTDN6SzFuTWY5OGJ2LXhXMTNxSmRRd1hWR1ZBUnlR?oc=5",
+     "published": "2026-11-22T06:00:00+00:00",
+     "summary": "Joe Budden Reacts to New Lloyd Banks 'Money in the Bank 6' Snippet in Clip Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Snoh Aalegra gets Stevie Wonder's nod for Babyface collab",
+   "artists": [
+    "Snoh Aalegra",
+    "Babyface",
+    "Stevie Wonder"
+   ],
+   "genre": "POP",
+   "kind": "collab",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T04:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Snoh Aalegra Gets Stevie Wonder’s Nod For Babyface & No I.D. Collaboration",
+     "link": "https://allhiphop.com/news/snoh-aalegra-gets-stevie-wonders-nod-for-babyface-no-i-d-collaboration/",
+     "published": "2026-11-22T04:00:00+00:00",
+     "summary": "Snoh Aalegra explains how a pair of dates led to a Babyface co-write and why she wanted Stevie Wonder in the mix."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "MAMA Awards 2026: BTS, ENHYPEN, BIGBANG, CORTIS win big",
+   "artists": [
+    "BTS",
+    "ENHYPEN",
+    "BIGBANG",
+    "CORTIS"
+   ],
+   "genre": "POP",
+   "kind": "award",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T00:36:18+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "CORTIS’ Martin Calls Panic “Legends” After Their “Left-Handed” Performance | MAMA Awards 2026",
+     "link": "https://www.billboard.com/video/cortis-martin-calls-panic-legends-after-left-handed-performance-mama-awards-2026/",
+     "published": "2026-11-22T00:36:18+00:00",
+     "summary": "CORTIS caught up with Billboard’s Tetris Kelly on the red carpet at the MAMA Awards 2026."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "LE SSERAFIM On Teaming Up With KATSEYE & ILLIT For “ICONIC BY MISTAKE” | MAMA Awards 2026",
+     "link": "https://www.billboard.com/video/le-sserafim-on-teaming-up-with-katseye-illit-iconic-by-mistake-mama-awards-2026/",
+     "published": "2026-11-22T00:22:54+00:00",
+     "summary": "LE SSERAFIM caught up with Billboard’s Tetris Kelly on the red carpet at the MAMA Awards 2026."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "BTS, ENHYPEN, BIGBANG & CORTIS Are Big Winners of 2026 MAMA Awards",
+     "link": "https://www.billboard.com/music/awards/2026-mama-awards-winners-list-1236387006/",
+     "published": "2026-11-21T18:31:43+00:00",
+     "summary": "The K-pop awards were presented over the course of two nights in Osaka, Japan."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "ILLIT Talk Creating “ICONIC BY MISTAKE” With LE SSERAFIM and KATSEYE | MAMA Awards 2026",
+     "link": "https://www.billboard.com/video/illit-on-creating-icon-by-mistake-with-le-sserafim-and-katseye-mama-awards-2026/",
+     "published": "2026-11-21T15:28:11+00:00",
+     "summary": "ILLIT caught up with Billboard’s Tetris Kelly on the red carpet at the MAMA Awards 2026."
+    }
+   ],
+   "chart": [
+    {
+     "id": "RjJGRCo5y-I",
+     "title": "GiiiRIP",
+     "channel": "BIGBANG - Topic",
+     "published": "2026-11-20T05:00:08Z",
+     "hours_since": 53,
+     "views": 210925,
+     "url": "https://www.youtube.com/watch?v=RjJGRCo5y-I",
+     "region": "JP",
+     "rank": 11
+    }
+   ],
+   "video": {
+    "id": "RjJGRCo5y-I",
+    "title": "GiiiRIP",
+    "channel": "BIGBANG - Topic",
+    "published": "2026-11-20T05:00:08Z",
+    "hours_since": 53,
+    "views": 210925,
+    "url": "https://www.youtube.com/watch?v=RjJGRCo5y-I",
+    "region": "JP",
+    "rank": 11
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s39",
+   "label": "Diddy's former chief of staff faces delayed sex trafficking ruling",
+   "artists": [
+    "Diddy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T23:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Diddy’s Former Chief Of Staff Could Still Face Sex Trafficking Claim",
+     "link": "https://allhiphop.com/news/diddys-former-chief-of-staff-could-still-face-sex-trafficking-claim/",
+     "published": "2026-11-21T23:02:00+00:00",
+     "summary": "A judge delayed a decision until December on the civil sex trafficking claim against Diddy's former chief of staff."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "Snoop Dogg backs and stars in Bigg Jah's first movie",
+   "artists": [
+    "Snoop Dogg",
+    "Bigg Jah"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "collab",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T22:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Snoop Dogg Backs Bigg Jah’s First Movie & Takes A Role In It",
+     "link": "https://allhiphop.com/news/snoop-dogg-bigg-jah-bigg-homies-tubi/",
+     "published": "2026-11-21T22:00:00+00:00",
+     "summary": "Snoop Dogg joins Bigg Jah on both sides of the camera as the Los Angeles comedian brings his first feature film to Tubi."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "6lack readies new EP, plans to release buried songs",
+   "artists": [
+    "6lack"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T20:42:31+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "6lack Ready to Empty the Vault for New EP: 'Songs Don't Deserve to be Buried'",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3hpc1dLaGFoOHp5WV83UFk0NFo0Y3liYzBXbHdFOUFPdXVVUWRGQ2RkcDBLTVVCVEY0d3NmMm1KSGphNWNYemt2QUM0MkIzZXBabHRNSmE1NDBVVm84dE03cnBkNzJZREtvZG9OcE5xU0Q4UkxSbTZOZnNBOGZ3aGJBeHFfU2M?oc=5",
+     "published": "2026-11-21T20:42:31+00:00",
+     "summary": "6lack Ready to Empty the Vault for New EP: 'Songs Don't Deserve to be Buried' Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "Boosie Badazz avoids charges after Houston nightclub incident",
+   "artists": [
+    "Boosie Badazz"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 0,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T20:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Boosie Badazz Avoids Charges After Alleged Hookah Incident At Texas Nightclub",
+     "link": "https://www.hotnewhiphop.com/1016932-boosie-badazz-nightclub-hookah-charges-avoided",
+     "published": "2026-11-21T20:00:00+00:00",
+     "summary": "Boosie Badazz will not face charges after a Houston grand jury declined to indict him in the Dome Nightclub hookah case. Here is what happens next. The post Boosie Badazz Avoids Charges After Alleged Hookah Incident At Texas Nightclub appea"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Snoop Dogg donates $100,000 to DOC's Youth Academy",
+   "artists": [
+    "Snoop Dogg"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T19:16:16+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Snoop Dogg Donates $100,000 to DOC's Youth Academy as It Launches Year-End Campaign",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtaUFDZWthVFcyWWZVRlhQbkd2d3FadFJ5eXNyRVVLQ21BR2RnWEJZMWhKblpVZ3V2YTlfVGJJQzdSUUpMSHQxeFdTV3dWUktIdXVObEJfY2hORllYVTFnRjl5VFBmYmFYUGx1TjdwbW1heXo4cHlWOWY4SElQQnc?oc=5",
+     "published": "2026-11-21T19:16:16+00:00",
+     "summary": "Snoop Dogg Donates $100,000 to DOC's Youth Academy as It Launches Year-End Campaign Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "Ariana Grande recalls wildest place hearing her music",
+   "artists": [
+    "Ariana Grande"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T17:31:31+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Ariana Grande Recalls ‘Wildest Place’ She’s Heard Her Music Playing: ‘Getting a Bikini Wax’",
+     "link": "https://www.billboard.com/music/pop/ariana-grande-bikini-wax-song-story-focker-in-law-interview-1236387309/",
+     "published": "2026-11-21T17:31:31+00:00",
+     "summary": "The star told the story of the slightly awkward encounter while promoting new movie Focker-in-Law ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s34",
+   "label": "Jaafar Jackson lost his voice singing Michael Jackson's 'Don't Stop'",
+   "artists": [
+    "Jaafar Jackson"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T16:11:50+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Jaafar Jackson Says He Lost His Voice Singing Michael Jackson's 'Don't Stop 'Til You Get Enough'",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUjFIUHNjZFRsWERBN3ptV2FxQ2JmQTR1MTdtZVhxTExfSlU0ajZjUUFLNklWOFRsWG8tOTdVZXNQRG0wTkxhN2U1TzFCenRhNG13RzU3S3NDT1Y4a3BHVjliMUxadjJZSi1jdXNkX19kX3dZRmlfSklUSFVjcDNGWi1jZmc0OURqVFE4V2JfUm9Ibi02YlBVRXRQWGt1Qmh0QXU2c2wxazZHd3Nm?oc=5",
+     "published": "2026-11-21T16:11:50+00:00",
+     "summary": "Jaafar Jackson Says He Lost His Voice Singing Michael Jackson's 'Don't Stop 'Til You Get Enough' Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Feid, Anthony Ramos, others join 100th Macy's Thanksgiving Day Parade",
+   "artists": [
+    "Feid",
+    "Anthony Ramos"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T15:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Feid, Anthony Ramos & More to Join 100th Macy’s Thanksgiving Day Parade & More Uplifting Moments in Latin Music",
+     "link": "https://www.billboard.com/music/latin/feid-macys-thanksgiving-day-parade-100th-edition-uplifting-1236386980/",
+     "published": "2026-11-21T15:00:00+00:00",
+     "summary": "Plus, Eladio Carrión’s charity golf tournament returns to Puerto Rico, Erika Ender celebras 35-year career in Panama."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s38",
+   "label": "The Weeknd spots recreation of his Miami mansion in GTA VI",
+   "artists": [
+    "The Weeknd"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T14:50:56+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "The Weeknd Spots Recreation of His $50 Million Miami Mansion In 'GTA VI'",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMllaVjFiZGplSWZMcmJYSHdiUllncHFJQkx1cmVWSDhtTGdMZVp5d2I1YWlXV25INEozWVQ4b2pXYU81OW53RzRzcGl6SVVPVFRNd01waWhBenU5SFQxa00xeFlTT3JiZEM1R0NyN0ZUQThENmx2dmtmeVBJVVNFZnZ5SDBWUEZad3NCVDNFSWdYcm1OUE1tQWFNTkFKdw?oc=5",
+     "published": "2026-11-21T14:50:56+00:00",
+     "summary": "The Weeknd Spots Recreation of His $50 Million Miami Mansion In 'GTA VI' Complex"
+    }
+   ],
+   "chart": [
+    {
+     "id": "hX9S94XsySk",
+     "title": "The Weeknd - Hong Kong (feat. 王菲季候風) (Official Music Video)",
+     "channel": "The Weeknd",
+     "published": "2026-11-12T16:00:33Z",
+     "hours_since": 234,
+     "views": 22994486,
+     "url": "https://www.youtube.com/watch?v=hX9S94XsySk",
+     "region": "GB",
+     "rank": 5
+    },
+    {
+     "id": "hX9S94XsySk",
+     "title": "The Weeknd - Hong Kong (feat. 王菲季候風) (Official Music Video)",
+     "channel": "The Weeknd",
+     "published": "2026-11-12T16:00:33Z",
+     "hours_since": 234,
+     "views": 22994486,
+     "url": "https://www.youtube.com/watch?v=hX9S94XsySk",
+     "region": "US",
+     "rank": 9
+    }
+   ],
+   "video": {
+    "id": "hX9S94XsySk",
+    "title": "The Weeknd - Hong Kong (feat. 王菲季候風) (Official Music Video)",
+    "channel": "The Weeknd",
+    "published": "2026-11-12T16:00:33Z",
+    "hours_since": 234,
+    "views": 22994486,
+    "url": "https://www.youtube.com/watch?v=hX9S94XsySk",
+    "region": "GB",
+    "rank": 5
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s36",
+   "label": "2 Chainz & Statik Selektah unveil tracklist for 'Playaz Only Live Once'",
+   "artists": [
+    "2 Chainz",
+    "Statik Selektah"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "talk": 0,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T13:48:16+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "2 Chainz & Statik Selektah Unveil Tracklist for “Playaz Only Live Once”",
+     "link": "https://www.hotnewhiphop.com/1016923-2-chainz-statik-selektah-playaz-only-live-once-tracklist",
+     "published": "2026-11-21T13:48:16+00:00",
+     "summary": "2 Chainz and Statik Selektah drop their new album on December 4, and the tracklist for \"Playaz Only Live Once\" is here. The post 2 Chainz & Statik Selektah Unveil Tracklist for “Playaz Only Live Once” appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "BAD NEWS – Song by Boohavinn",
+   "artists": [],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T10:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "BAD NEWS – Song by Boohavinn",
+     "link": "https://www.hotnewhiphop.com/1016875-bad-news-boohavinn",
+     "published": "2026-11-21T10:00:00+00:00",
+     "summary": "Boohavinn has just dropped off his brand-new single, \"BAD NEWS,\" and it is another solid effort from the artist. The post BAD NEWS – Song by Boohavinn appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s42",
+   "label": "Delusions presents: RAMBO +support a Vibes Glasgow, Glasgow ⟋ RA",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Resident Advisor"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T09:44:21+00:00",
+   "articles": [
+    {
+     "outlet": "Resident Advisor",
+     "title": "Delusions presents: RAMBO +support a Vibes Glasgow, Glasgow ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BcnpuQ0VWdUlVUmdsOVZwLVBQeXVpTU5oWlZ2NVlIczNfLXRHQ2hvUkNjSHR0RE50TjhDSDlGRUN0S29EWWc?oc=5",
+     "published": "2026-11-21T09:44:21+00:00",
+     "summary": "Delusions presents: RAMBO +support a Vibes Glasgow, Glasgow ⟋ RA Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s43",
+   "label": "Fuerza Regida",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T05:50:34+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Fuerza Regida",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMk5jRWYyYVJHbDQzeTEtUm5nZnJ2blJIYUdkNGhKOUtyRWVVWVpUdzZZZ2VfMVMxbjV6R052WjhUeUUyenZCdDVTR25jY1R0UUY4aG1MRnYwYjg?oc=5",
+     "published": "2026-11-21T05:50:34+00:00",
+     "summary": "Fuerza Regida Billboard"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "Frank Sinatra 1970 London performance retrospective",
+   "artists": [
+    "Frank Sinatra"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-22T05:40:07+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "フランク・シナトラ、1970年ロンドン公演を振り返る：ロイヤル・フェスティバル・ホールでの名演",
+     "link": "https://www.udiscovermusic.jp/stories/sinatra-in-concert-at-the-royal-festival-hall",
+     "published": "2026-11-22T05:40:07+00:00",
+     "summary": "1970年11月16日、フランク・シナトラがロンドンのロイヤル・フェスティバル・ホールで行ったチャリティ公演を解説。グレース公妃による紹介から「My Way」まで、貴重なBBC映像に残る名演を振り返る。 The post フランク・シナトラ、1970年ロンドン公演を振り返る：ロイヤル・フェスティバル・ホールでの名演 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "Amy Winehouse's influence on subsequent artists",
+   "artists": [
+    "Amy Winehouse"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-22T04:57:55+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "エイミー・ワインハウスが後世に与えた影響：天才は、出会う人にトラウマを与える",
+     "link": "https://www.udiscovermusic.jp/columns/the-impact-amy-winehouse-had-on-future-generations",
+     "published": "2026-11-22T04:57:55+00:00",
+     "summary": "エイミー・ワインハウス（Amy Winehouse）の代表アルバム『Back To Black』が今年20周年を迎えた。これを記念して、エイミーが後世のアーティスト達に与えた影響について解説。 The post エイミー・ワインハウスが後世に与えた影響：天才は、出会う人にトラウマを与える appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "Big Boi recalls OutKast's early rejections before Christmas success",
+   "artists": [
+    "OutKast"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T02:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Big Boi Revisits The Two Rejections Before OutKast’s Christmas Breakthrough",
+     "link": "https://allhiphop.com/news/big-boi-revisits-the-two-rejections-before-outkasts-christmas-breakthrough/",
+     "published": "2026-11-22T02:00:00+00:00",
+     "summary": "Big Boi looks back on how two early setbacks led OutKast to an unlikely opening on a LaFace Christmas compilation."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "Mathew Knowles shares Destiny's Child 2001 BRIT Awards backstage footage",
+   "artists": [
+    "Destiny's Child"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T00:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Mathew Knowles Opens Destiny’s Child’s 2001 BRIT Awards Vault",
+     "link": "https://allhiphop.com/news/mathew-knowles-destinys-child-2001-brit-awards-archive/",
+     "published": "2026-11-22T00:00:00+00:00",
+     "summary": "Mathew Knowles shares a backstage look at Destiny's Child's 2001 BRIT Awards appearance, from rehearsals to getting dressed."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s31",
+   "label": "2 Chainz recalls mistyped Kanye West email led to 'Birthday Song' collab",
+   "artists": [
+    "2 Chainz",
+    "Kanye West"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T18:55:14+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "2 Chainz Recalls How Mistakingly Typecasting Kanye West Led to 'Birthday Song' Collab",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN1BiVEdKblI2Z3dxQzBtZThOeGl0TTYtZXhFT0JzcXRQZTlZSEtuZGdkT3ZiM2Eyc2taNHB1VS1sa3dUVHN2YmZlZ3pZMUhnMEtKSEZkX2Q3Sy02dWNiVFQ5Z2NFRXlySGR5OFI1anNmTExzTEdyeC0yWTZBeUVCRUVJai1oRWM?oc=5",
+     "published": "2026-11-21T18:55:14+00:00",
+     "summary": "2 Chainz Recalls How Mistakingly Typecasting Kanye West Led to 'Birthday Song' Collab Complex"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s35",
+   "label": "Stevie Wonder still a musical miracle at 'Songs in the Key of Life' anniversary show",
+   "artists": [
+    "Stevie Wonder"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T14:20:10+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Stevie Wonder Is Still a Musical Miracle: Inside His ‘Songs in the Key of Life’ Anniversary Show",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSTBkclUtclppblExaGlsOGFhbnJzZUJJdTh2aS01MjE5WEoxVHJMSVdwcWhrM0pOQkF3WHFHeFB3bXFtUmJ6MWMxckx0akw0UHI3a2plYmFXTUdWc1QwMUNoT1pwdGhTY0w1SmJpX1VsZEFEeU1nblpMbWxHOVdMMDdQVkUxR0RKOFo3TGlGYkJLTFpo?oc=5",
+     "published": "2026-11-21T14:20:10+00:00",
+     "summary": "Stevie Wonder Is Still a Musical Miracle: Inside His ‘Songs in the Key of Life’ Anniversary Show Complex"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Phoebe Bridgers fans creating artwork from phone-free concert memories",
+   "artists": [
+    "Phoebe Bridgers"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T11:34:27+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Phoebe Bridgers fans are creating artwork to remember her phone-free arena concerts",
+     "link": "https://www.nme.com/news/music/phoebe-bridgers-fans-are-creating-artwork-to-remember-her-phone-free-arena-concerts-3976631",
+     "published": "2026-11-21T11:34:27+00:00",
+     "summary": "The singer-songwriter has also shared a selection of artwork that has caught her eye The post Phoebe Bridgers fans are creating artwork to remember her phone-free arena concerts appeared first on NME ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s26",
+   "label": "Phil Collins recalls Cher singing his 'We Are the World' line at Live Aid",
+   "artists": [
+    "Phil Collins",
+    "Cher"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-21T06:51:05+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Phil Collins Says Cher Sang His ‘We Are the World’ Line at Live Aid After He Left Early",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmFJNmxaNXRxaWFXbmExZW1CZUNNVEM5Y2JicWlwclBPRGJyTXdZTHo1bHR2S1Y1d2prOERXTlJVRW45Skd3eGtlMGVTU0xoT2V5X1Vza0Z3akxkeXhTWXg4bU5zb1JPMVh1V2ZrU0FlRmdSVjRYcjkwTkJNZGQ5UFNEOUtRZ0N1WUlWX2M5YXRIdXI5OEk2dHNRZmFpYno0WEdGQUd2MW40Zw?oc=5",
+     "published": "2026-11-21T06:51:05+00:00",
+     "summary": "Phil Collins Says Cher Sang His ‘We Are the World’ Line at Live Aid After He Left Early Billboard"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s27",
+   "label": "Petition calls for Marilyn Manson removal from Slipknot Wembley shows",
+   "artists": [
+    "Marilyn Manson",
+    "Slipknot"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "BBC",
+    "NME"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-22T08:10:23+00:00",
+   "articles": [
+    {
+     "outlet": "BBC",
+     "title": "Calls for Marilyn Manson performance to be pulled",
+     "link": "https://www.bbc.co.uk/news/articles/cmn4kz7lj3jvo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-22T08:10:23+00:00",
+     "summary": "Marilyn Manson is due to support Slipknot at Wembley Stadium in July, ahead of a trial he faces."
+    },
+    {
+     "outlet": "NME",
+     "title": "Petition calling for Marilyn Manson to be removed from Slipknot’s 2027 Wembley Stadium show has over 20,000 signatures",
+     "link": "https://www.nme.com/news/music/petition-calling-for-marilyn-manson-to-be-removed-from-slipknots-2027-wembley-stadium-show-has-over-20000-signatures-3976617",
+     "published": "2026-11-21T10:21:09+00:00",
+     "summary": "Manson is set to perform as the support act for the masked metal band's '(sic)est Stadium Tour’ The post Petition calling for Marilyn Manson to be removed from Slipknot’s 2027 Wembley Stadium show has over 20,000 signatures appeared first o"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 2
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 33
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 5,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 74,
+   "kept": 13
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 29,
+   "kept": 0
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 1
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 13
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 0
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 9
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 3
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 28,
+   "kept": 8
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 25,
+   "kept": 10
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 3
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 16
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 8,
+   "kept": 3
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 15,
+   "kept": 4
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 22,
+   "kept": 5
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 18,
+   "kept": 8
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 7,
+   "kept": 4
+  }
+ ],
+ "cost": {
+  "usd": 0.2254,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 12962,
+    "output_tokens": 4914
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 16274,
+    "output_tokens": 6141
+   }
+  ]
+ }
+}
