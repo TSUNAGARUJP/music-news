@@ -1,0 +1,2120 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T10:59:40.987625+00:00",
+ "article_count": 190,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日はDon Toliverのマンチェスター公演での避難騒ぎが、BBC・CNNも報じる最大の話題です。ほかにATEEZの全米首位、Odd Futureの復活の可能性、Boy Georgeのイスラエル訪問を巡る発言など、記録・憶測・社会的発言といった語れる切り口のある話題がそろいました。",
+  "top": [
+   {
+    "id": "s2",
+    "title_ja": "Don Toliverの英公演、謎の物質で数千人が避難",
+    "genre": "Hip-Hop",
+    "summary_ja": "英マンチェスターのCo-op Liveで行われたDon Toliverの公演中に正体不明の物質が放出され、警察が重大事案を宣言したと報じられている。50人以上がその場で手当てを受け、数千人が避難し、1人が病院に搬送されたという。警察が原因を調べている。",
+    "why_ja": "BBC・CNNを含む6媒体が報じた。関連動画は公開4時間で約3.6万回再生されている。",
+    "debate_ja": "大規模ライブの安全対策、観客として何を一番求める？",
+    "line_point": "Don Toliver英公演で謎の物質が放出。50人超が手当てを受け、数千人が避難。警察が捜査中。",
+    "reels": [
+     {
+      "hook": "ライブの安全対策、気にしたことある？",
+      "angle": "報道された事実を整理→論点は大規模会場の安全対策→自分の見解→コメントで、ライブで安心できる条件を募る"
+     },
+     {
+      "hook": "原因はまだ不明。分かっていることだけ整理",
+      "angle": "BBCなどの報道をもとに、時系列・被害の規模・警察の対応を図で解説。未確認の点は未確認とはっきり伝える"
+     }
+    ]
+   },
+   {
+    "id": "s16",
+    "title_ja": "ATEEZ、Billboard 200で4度目の首位、今年3回目",
+    "genre": "POP",
+    "summary_ja": "ATEEZの『GOLDEN HOUR : Part.6』が、2026年11月28日付のBillboard 200で初登場1位を獲得した。同チャートでの首位は4作目で、今年だけで3回目となる。Billboard JAPANは、2020年代のTOP10入りでグループ単独最多の記録だと報じている。",
+    "why_ja": "Billboard・Variety・Billboard JAPANの3媒体が報じた。同じ週にはU2の『Carnaval de Luz』が4位に入っている。",
+    "debate_ja": "ATEEZがアメリカのアルバムチャートで強いのはなぜ？",
+    "line_point": "ATEEZ『GOLDEN HOUR : Part.6』が全米アルバム1位。通算4度目、今年だけで3回目の首位。",
+    "reels": [
+     {
+      "hook": "年3回の全米1位、これってすごすぎない？",
+      "angle": "首位獲得の事実→論点は強さの理由→自分の見解→コメントで、ATEEZが強い理由をみんなに聞く"
+     },
+     {
+      "hook": "同じ週、U2より上にいたのはATEEZ",
+      "angle": "4作目の首位、今年3回目、2020年代のグループ最多TOP10という数字を順に読み解き、記録の重みを解説"
+     }
+    ]
+   },
+   {
+    "id": "s31",
+    "title_ja": "Odd Futureが新ティザーを公開、復活の可能性",
+    "genre": "Hip-Hop",
+    "summary_ja": "かつて大きな人気を集めた音楽集団Odd Futureが新しいティザーを公開し、復活するのではという憶測が広がっていると報じられている。具体的な活動の内容はまだ明らかになっていない。",
+    "why_ja": "HotNewHipHopが、Odd Futureを最も愛された音楽集団の1つとして紹介し、ティザーへの反応を報じた。",
+    "debate_ja": "Odd Futureがもし再集結したら、今また見たい？",
+    "line_point": "Odd Futureが新ティザーを公開。復活の可能性に憶測が広がるが、詳細は未発表。",
+    "reels": [
+     {
+      "hook": "Odd Future、まさかの復活ある？",
+      "angle": "ティザー公開の事実→論点は再集結の可能性→自分の予想→コメントで、復活してほしいか募る"
+     },
+     {
+      "hook": "なぜ今もOdd Futureはここまで愛される？",
+      "angle": "集団としての歴史と、メンバーがソロで活躍してきた流れを振り返り、ティザーに注目が集まる背景を解説"
+     }
+    ]
+   },
+   {
+    "id": "s32",
+    "title_ja": "Boy George、イスラエル訪問と曲への反発を語る",
+    "genre": "POP",
+    "summary_ja": "Culture ClubのBoy GeorgeがRolling Stoneのインタビューで、テルアビブでの公演と10月7日の攻撃の生存者との面会について語った。自身の曲に向けられた反発や、反ユダヤ主義の高まりについても振り返り、「何か言わずにはいられなかった」と述べている。",
+    "why_ja": "Rolling Stoneが単独インタビューとして掲載した。音楽と紛争・政治の関わりという、意見が分かれやすいテーマを含む。",
+    "debate_ja": "アーティストが社会問題について発言すること、どう考える？",
+    "line_point": "Boy GeorgeがRolling Stoneで、イスラエル訪問と自身の曲への反発について語った。",
+    "reels": [
+     {
+      "hook": "アーティストは社会問題を語るべき？",
+      "angle": "インタビューの事実→論点は発言の意義と反発→賛否それぞれの見方を示して自分の考え→コメントで意見を募る"
+     },
+     {
+      "hook": "Boy Georgeは何を語り、何に反発が起きた？",
+      "angle": "インタビューの内容を整理し、本人の主張と反発の声を並べて紹介。どちらか一方に寄らず、事実をもとに解説"
+     }
+    ]
+   },
+   {
+    "id": "s20",
+    "title_ja": "Donny Osmond、名声と挫折とMichael Jacksonを語る",
+    "genre": "POP",
+    "summary_ja": "The OsmondsのDonny OsmondがThe Guardianの取材で、14歳で世界的なスターになり、21歳でキャリアが崩れた経験を語った。「自分の名前は毒だった」と振り返り、その時期をどう乗り越えたかや、友人だったMichael Jacksonについても明かしている。",
+    "why_ja": "一般紙のThe Guardianが掲載した。子役スターの光と影という、音楽ファン以外にも届くテーマを含む。",
+    "debate_ja": "10代前半でのデビューは、アーティストにとってプラス？マイナス？",
+    "line_point": "Donny Osmondが英紙で、14歳で頂点、21歳で転落した経験と友人Michael Jacksonについて語った。",
+    "reels": [
+     {
+      "hook": "14歳で世界的スター、21歳で転落",
+      "angle": "取材で語られた事実→論点は若すぎるデビューの是非→自分の見解→コメントで、デビュー年齢についての意見を募る"
+     },
+     {
+      "hook": "「自分の名前は毒だった」の意味",
+      "angle": "Donny Osmondの言葉と経歴をたどり、子役スターが直面する名声と挫折、そこからの立ち直りを解説"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s49",
+     "title_ja": "Carl Cox、音楽への貢献で大英帝国勲章OBEを受章",
+     "note": "Carl CoxがWindsor城で、音楽への貢献をたたえるOBEを受け取った。"
+    },
+    {
+     "id": "s50",
+     "title_ja": "Hannah Laing、主催フェスの2027年開催中止を発表",
+     "note": "Dundeeのフェスdoof in the Park 2027が、舞台裏の問題を理由に中止となった。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s58",
+     "title_ja": "UsherとChris Brownの公演で、火を使う演者が落下",
+     "note": "ファイヤーバトンを回していた演者が、炎に囲まれたステージから落ちたと報じられている。"
+    },
+    {
+     "id": "s53",
+     "title_ja": "LISA「Leave With Me」、Billboard読者投票で1位",
+     "note": "今週のお気に入り新曲を選ぶ読者投票で、84%以上の票を集めた。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s18",
+     "title_ja": "Skepta、UKラップチャートの上位4位を独占",
+     "note": "Central CeeとJorja Smithが参加した「Broken Hearts」を筆頭に、上位4枠を独占した。"
+    },
+    {
+     "id": "s56",
+     "title_ja": "Isaiah Rashad、ツアー後に気分が落ち込むと告白",
+     "note": "ツアーから家に戻ると「少し落ち込む」と、ツアー後の心境を明かした。"
+    }
+   ],
+   "Other": []
+  },
+  "japan_tours": [
+   {
+    "id": "s22",
+    "title_ja": "IU、3年ぶりの来日公演を東京ドームで開催へ",
+    "note": "療養中と報じられるなか、10都市を回るワールドツアーを発表。日本公演は東京ドーム。"
+   },
+   {
+    "id": "s40",
+    "title_ja": "KATSEYE、来日公演が決定",
+    "note": "interfmのリスナー先行予約を11月27日（金）から受け付ける。"
+   },
+   {
+    "id": "s52",
+    "title_ja": "De La Soul、LOVE SUPREME JAZZ FESTIVAL JAPANに出演",
+    "note": "同フェスは3年ぶりの開催で、初めて東京で行われる。"
+   },
+   {
+    "id": "s12",
+    "title_ja": "MONSTA X、12月に日本公演を開催",
+    "note": "韓国でのアンコール公演に続いて、12月に日本公演が控えている。"
+   },
+   {
+    "id": "s13",
+    "title_ja": "Iron Maiden、ツアー最終地の日本公演を開催",
+    "note": "11月24日から2日間開催。Bruce Dickinsonのメッセージ動画が公開された。"
+   },
+   {
+    "id": "s14",
+    "title_ja": "SEVENTEENのJxJ、日本公演で2日間6.2万人を動員",
+    "note": "ジョンハンとジョシュアのユニットとして初の単独公演を日本で開催した。"
+   },
+   {
+    "id": "s4",
+    "title_ja": "Alan Walker来日、Snow Manラウールとの共作を語る",
+    "note": "日本人アーティストとの初コラボ曲「YUME」について、来日時のインタビューで語った。"
+   },
+   {
+    "id": "s43",
+    "title_ja": "The Weeknd、ベルーナドーム公演のセットリストまとめ",
+    "note": "After Hours Til Dawn Tourのベルーナドーム公演のセットリストがまとめられた。"
+   },
+   {
+    "id": "s3",
+    "title_ja": "Touché Amoré、来日公演後に約2年ぶりの新曲を公開",
+    "note": "新曲「(I Can't Get Out Of) My Own Way」。プロデュースはRoss Robinson。"
+   }
+  ],
+  "tour_candidates": 15
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s2",
+   "label": "Don Toliver Manchester concert evacuated after unknown substance incident",
+   "artists": [
+    "Don Toliver"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "BBC",
+    "CNN",
+    "Complex",
+    "NME",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 6,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "BBC",
+    "CNN"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 6,
+   "score": 8,
+   "latest": "2026-11-23T10:54:04+00:00",
+   "articles": [
+    {
+     "outlet": "BBC",
+     "title": "Police investigate unknown substance that caused Manchester's Co-Op Live evacuation",
+     "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-23T10:54:04+00:00",
+     "summary": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver."
+    },
+    {
+     "outlet": "NME",
+     "title": "Manchester Co-op Live arena evacuated with more than 50 hurt after “unknown substance” was released at Don Toliver show as police declare major incident",
+     "link": "https://www.nme.com/news/music/manchester-co-op-live-arena-evacuated-with-more-than-50-hurt-after-unknown-substance-was-released-at-don-toliver-show-as-police-declare-major-incident-3976684",
+     "published": "2026-11-23T10:17:06+00:00",
+     "summary": "More than 50 people were treated on site and thousands were evacuated The post Manchester Co-op Live arena evacuated with more than 50 hurt after “unknown substance” was released at Don Toliver show as police declare major incident appeared"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Don Toliver’s Manchester Show Evacuated After ‘Unknown Substance’ Released in Crowd",
+     "link": "https://www.rollingstone.com/music/music-news/don-toliver-manchester-show-evacuation-unknown-substance-1235662518/",
+     "published": "2026-11-23T08:09:24+00:00",
+     "summary": "More than 12,000 people were safely removed from Co-op Live during the rapper's performance on Sunday night"
+    },
+    {
+     "outlet": "CNN",
+     "title": "Manchester Co-Op Live: Don Toliver concert evacuated as ‘unknown substance’ fills UK arena",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTWtpb1o5RWFXT3RIVlg3Si1jbUJLNmZKVkNwbF9iSE9nX3I4QUc0OWFnZERkaUw2c0RDWDhiYnVvS0NXb2ZMN2tJSDIwZFhRWlRZeTB5cC1XZ0VHVU1yMVJDOC1CSzFIaVlnbE1mQ3NfSUJVUS00eFljbFR1Z3JoODBZT2cxMmw4eGhxWTRJdXlpdw?oc=5",
+     "published": "2026-11-23T06:43:55+00:00",
+     "summary": "Manchester Co-Op Live: Don Toliver concert evacuated as ‘unknown substance’ fills UK arena CNN"
+    },
+    {
+     "outlet": "CNN",
+     "title": "Manchester Co-Op Live: Thousands evacuated as ‘unknown substance’ fills UK arena during US rapper’s show",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZGJyVnl1UHplanZQSWRlMmU5SkQzSnQ2S0dvYU03Q3ZsNHViSy1GV3VHenNGWkZEb21Rd3JHanFRbzlLYWstMWxtU1VKZ1Z0eWgzMXZ0ck1YUkhTVmN6Z3N5ZURGcTFHNWRHUTV0NHV6Ym1XNkgwdDlIbS16LUJjdlFDc29OSFRicFV5S1ZYbVQ0c2NKdVF3?oc=5",
+     "published": "2026-11-23T06:43:55+00:00",
+     "summary": "Manchester Co-Op Live: Thousands evacuated as ‘unknown substance’ fills UK arena during US rapper’s show CNN"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd",
+     "link": "https://variety.com/2026/music/news/don-toliver-manchester-concert-evacuated-tear-gas-1236955605/",
+     "published": "2026-11-23T02:00:46+00:00",
+     "summary": "Don Toliver’s concert at Co-op Live in Manchester, England ended in an evacuation as tear gas was released in the crowd on Sunday. “It is understood that a substance believed to be tear gas was let off in the crowd towards the end of a conc"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Incident",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUDVqTERRZ0dPZmhOVEVyUTBhWXpCODJHN3EzTUJxcWNSWFF2VFZfUm9lanlfS19uVGpWWGtVZDBzWlJzR1hWSUN0TlFvSmY3Ry0zYnFhR3JFQXhPYldHRUFoWEQ0ekZIaFJXeWRYT1E3Nk9kVktfQ0tYMXhEOVh2QkZNWW1nUUd2N2RjUXJkRQ?oc=5",
+     "published": "2026-11-23T01:40:12+00:00",
+     "summary": "Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Incident Complex"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "55go__rVGOc",
+    "title": "Thousands evacuated from Manchester Co-op Live after major incident declared at Don Toliver show",
+    "channel": "Sky News",
+    "published": "2026-11-23T06:59:38Z",
+    "hours_since": 4,
+    "views": 36302,
+    "url": "https://www.youtube.com/watch?v=55go__rVGOc",
+    "views_per_hour": 9076
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "Miley Cyrus marries drummer Maxx Morando in Palm Springs",
+   "artists": [
+    "Miley Cyrus",
+    "Maxx Morando"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "AP通信",
+    "Billboard",
+    "Billboard JAPAN",
+    "Complex",
+    "Consequence",
+    "Rolling Stone"
+   ],
+   "n_outlets": 6,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [
+    "AP通信"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 5,
+   "score": 7,
+   "latest": "2026-11-23T09:55:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "マイリー・サイラス、プールサイドの挙式でマックス・モランドと結婚",
+     "link": "https://www.billboard-japan.com/d_news/detail/167670",
+     "published": "2026-11-23T09:55:00+09:00",
+     "summary": "現地時間2026年11月21日、マイリー・サイラスが米カリフォルニア州パームスプリングスでプールサイドの挙式を行い、…"
+    },
+    {
+     "outlet": "AP通信",
+     "title": "Miley Cyrus marries rock drummer Maxx Morando in an intimate Palm Springs wedding",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQUlkclo1SlpxNkZuU0lxTUNlUkZoSHdsdEtEaEJ5bUNwQzhZUlNhTGNaVWd1OGlNS0ljTGNHU3VYNHJBUGpLOTZoLTRlNUQ5VERQU1Vnc3lfa1BqRzlzSE40ZmlvV1lqLUpaVTFYUGhySjZGSDdfNGVhelRfVEl0V3V1UWJRZw?oc=5",
+     "published": "2026-11-23T04:44:00+00:00",
+     "summary": "Miley Cyrus marries rock drummer Maxx Morando in an intimate Palm Springs wedding AP News"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Miley Cyrus & Maxx Morando’s Wedding Photos Are Here",
+     "link": "https://www.billboard.com/culture/lifestyle/miley-cyrus-wedding-photos-maxx-morando-1236387483/",
+     "published": "2026-11-22T19:57:07+00:00",
+     "summary": "The couple were married in Palm Springs, Calif., on Saturday (Nov. 21)."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Miley Cyrus and Maxx Morando Marry in Palm Springs One Year After Engagement",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2Q0OF9IMUpSb2xTUEdJa2g5UjV1ZTZFamFJaHlnNGNpQkxwZl9XdW96aXU0OXVBWlQ4dEpvVU81MjJMTjYzcjRPSllaUXU4S0ptbHp5SWpmcjVSc3VoRzBHVWkyeTJ3Z2stRi1hOUh2RWRDcHdEYUlWV2NyYXBDbU93Y0dOT2VyWVJiZ0t4LTMzaTEtRlNmWGhCQTRDVG5G?oc=5",
+     "published": "2026-11-22T19:34:13+00:00",
+     "summary": "Miley Cyrus and Maxx Morando Marry in Palm Springs One Year After Engagement Complex"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Wayne Coyne Officiates Miley Cyrus’ Wedding",
+     "link": "https://consequence.net/2026/11/wayne-coyne-officiates-miley-cyrus-wedding/",
+     "published": "2026-11-22T16:46:30+00:00",
+     "summary": "The Flaming Lips' frontman and the pop star have long been friends and musical collaborators. Wayne Coyne Officiates Miley Cyrus’ Wedding Travis Bland"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Miley Cyrus and Maxx Morando Marry at Palm Springs Wedding",
+     "link": "https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-married-springs-wedding-1235662077/",
+     "published": "2026-11-22T13:15:09+00:00",
+     "summary": "Singer and drummer became engaged in December 2025 after four years of dating"
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "_wMmsPOpXFc",
+    "title": "Miley Cyrus Marries Maxx Morando After 5 Years of Dating",
+    "channel": "E! News",
+    "published": "2026-11-22T00:56:17Z",
+    "hours_since": 34,
+    "views": 129408,
+    "url": "https://www.youtube.com/watch?v=_wMmsPOpXFc",
+    "views_per_hour": 3806
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s32",
+   "label": "Boy George discusses Israel trip and backlash to song",
+   "artists": [
+    "Boy George"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T15:28:36+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Boy George on His Israel Trip: ‘I Wasn’t Able to Not Say Something’",
+     "link": "https://www.rollingstone.com/music/music-news/boy-george-israel-trip-we-will-dance-again-interview-1235662143/",
+     "published": "2026-11-22T15:28:36+00:00",
+     "summary": "After performing in Tel Aviv and meeting survivors of the Oct. 7 attack, the Culture Club frontman reflects on the backlash to his song, rising antisemitism, and why he felt compelled to speak out"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s20",
+   "label": "Donny Osmond discusses fame, failure and Michael Jackson",
+   "artists": [
+    "Donny Osmond",
+    "Michael Jackson"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-23T05:00:47+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "‘My name was poison’: Donny Osmond on fame, failure – and his friend Michael Jackson",
+     "link": "https://www.theguardian.com/music/2026/nov/23/donny-osmond-interview-fame-failure-michael-jackson-friendship",
+     "published": "2026-11-23T05:00:47+00:00",
+     "summary": "He was the child star of the Osmonds who become a global celebrity by 14. Then, at 21, his career came crashing down. Here, he reveals how he survived his years in exile – and what happened when Jackson was accused of child abuse For a brie"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s16",
+   "label": "Ateez achieves fourth No. 1 on Billboard 200 with 'Golden Hour: Part.6'",
+   "artists": [
+    "ATEEZ"
+   ],
+   "genre": "POP",
+   "kind": "chart",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Billboard JAPAN",
+    "Variety"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-23T12:15:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "【米ビルボード・アルバム・チャート】ATEEZ『GOLDEN HOUR : Part.6』が初登場首位、2020年代TOP10グループ単独最多記録",
+     "link": "https://www.billboard-japan.com/d_news/detail/167669",
+     "published": "2026-11-23T12:15:00+09:00",
+     "summary": "今週（2026年11月28日付）の米ビルボード・アルバム・チャート“Billboard 200”は、ATEEZ（エイ…"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2’s ‘Carnaval de Luz’ Bows at No. 4",
+     "link": "https://variety.com/2026/music/news/ateez-u2-album-chart-debut-billboard-1236955537/",
+     "published": "2026-11-22T23:27:32+00:00",
+     "summary": "The K-pop group Ateez continued its string of chart successes with the No. 1 bow on the Billboard 200 album chart of “Golden Hour: Part 6.” It’s the third time in 2026 that the group has had an EP debut in the top spot; the last such occasi"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "ATEEZ Earn Fourth No. 1 on Billboard 200 With ‘GOLDEN HOUR : Part.6’",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1lmaEJwQzNWQW5pUnJWeVo1aTJKZ0RpYko1TTRPeURCVGdzVXdHVnBhd3BsWHJ6ZGk2VUEzdWVFWnFFdkRjMnE5LWZZdEd4NGdhNWhtZTVNNkpOMlRiZENaSFdQVG5BYm9mU1U2YVp5c3I5dTBKSURHU3NpTG9sWENiM1h5TURQSmNTb1FnOURBRUVXdWpuQ2ZKelZmSkdVZXFwRg?oc=5",
+     "published": "2026-11-22T21:41:28+00:00",
+     "summary": "ATEEZ Earn Fourth No. 1 on Billboard 200 With ‘GOLDEN HOUR : Part.6’ Billboard"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s57",
+   "label": "Chronic Law gets hearing on evidence in federal gun case",
+   "artists": [
+    "Chronic Law"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T10:01:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "EXCLUSIVE: Chronic Law Gets Hearing On Two Bids To Block Evidence In Federal Gun Case",
+     "link": "https://allhiphop.com/news/exclusive-chronic-law-gets-hearing-on-two-bids-to-block-evidence-in-federal-gun-case/",
+     "published": "2026-11-23T10:01:00+00:00",
+     "summary": "Chronic Law gets a December court date in Georgia to challenge the car search and FBI questioning behind his gun case."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s58",
+   "label": "Performer falls off stage while twirling fire batons at Usher concert",
+   "artists": [
+    "Usher",
+    "Chris Brown"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T09:56:15+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Performer Twirling Fire Batons at Usher and Chris Brown Concert Falls off Stage Surrounded by Flames",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3dVMjV0aThLQlQ4Nk1NbXctUDFLb1hxenZGYlptcW1rQmdvcGVtYzJVNTdMa0RQVVpSLUtXTDF0Y2tkS3RRUlI3WUVOYWRValF0WlRiYlJtaEtoZ08zbjVqR0JOYW1VZE05ZUN2T3ItWS1ZV3ZNT3N4SlliSEl4V0hGOUxaeWJhZlV1MnVsVWEzV0I3Y1h4WUd3?oc=5",
+     "published": "2026-11-23T09:56:15+00:00",
+     "summary": "Performer Twirling Fire Batons at Usher and Chris Brown Concert Falls off Stage Surrounded by Flames Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Brandy wants 'Moesha' revival after 'A Different World' theme",
+   "artists": [
+    "Brandy",
+    "Usher"
+   ],
+   "genre": "POP",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T07:04:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Brandy Wants ‘Moesha’ Back After Helping Revive ‘A Different World’",
+     "link": "https://allhiphop.com/news/brandy-wants-moesha-back-after-helping-revive-a-different-world/",
+     "published": "2026-11-23T07:04:00+00:00",
+     "summary": "Brandy sees a way back for Moesha after singing the theme for Netflix's A Different World sequel and reuniting with Usher."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s56",
+   "label": "Isaiah Rashad admits feeling depressed after tour",
+   "artists": [
+    "Isaiah Rashad"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T06:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Isaiah Rashad Admits to Feeling 'Kind of Depressed' After Returning Home From Tour",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHpxVHNxMEZLYnB0ZGYzTndwTzZkbC12dHhjcm43Q0dpTF91ME5keGEyTVJlWjJPTnQ4YXJ3TmNwelZOU0hReGxjbzlWQXhUMjVIZ21XRi1DRV9kVXB4bC1Fb1dsdFBSRFBtbFEtWWxxT3pOQVBsWnlpbXlCT2laVkVZZ0JBbS04ZDY4RkJ2VFJ6NHZjNVE?oc=5",
+     "published": "2026-11-23T06:00:00+00:00",
+     "summary": "Isaiah Rashad Admits to Feeling 'Kind of Depressed' After Returning Home From Tour Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s23",
+   "label": "Marlon Jackson reveals Stage 4 prostate cancer diagnosis",
+   "artists": [
+    "Marlon Jackson"
+   ],
+   "genre": "POP",
+   "kind": "health",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T04:01:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Marlon Jackson Reveals Stage 4 Prostate Cancer Diagnosis",
+     "link": "https://allhiphop.com/news/marlon-jackson-stage-4-prostate-cancer/",
+     "published": "2026-11-23T04:01:00+00:00",
+     "summary": "Jackson 5 member Marlon Jackson says he has lived with prostate cancer for four years and has undergone surgery and radiation."
+    }
+   ],
+   "chart": [],
+   "video": {
+    "id": "8W5Tzpl1Ou4",
+    "title": "Marlon Jackson Reveals Stage 4 Cancer Diagnosis",
+    "channel": "Entertainment Tonight",
+    "published": "2026-11-19T22:00:23Z",
+    "hours_since": 85,
+    "views": 106670,
+    "url": "https://www.youtube.com/watch?v=8W5Tzpl1Ou4",
+    "views_per_hour": 1255
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s59",
+   "label": "Leaf Ward plans return to studio after federal custody",
+   "artists": [
+    "Leaf Ward",
+    "Meek Mill",
+    "G Herbo"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T02:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Leaf Ward Plans A Return To The Studio After Federal Custody",
+     "link": "https://allhiphop.com/news/leaf-ward-plans-a-return-to-the-studio-after-federal-custody/",
+     "published": "2026-11-23T02:00:00+00:00",
+     "summary": "Leaf Ward talks fatherhood and recording again after federal custody, with Meek Mill and G Herbo calling in to welcome him."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Molly Santana says 'Rap Is Punk' ahead of new album",
+   "artists": [
+    "Molly Santana"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "interview",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T17:55:31+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Molly Santana Says 'Rap Is Punk' Ahead of New Album: 'Everything Is Punk to Me'",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0E3YWZfWVZnaGE0QkRoZEs3czdKSE02U3NIeWI2NGxKTmNSXzRFaVFRM1NkX0NwbVZKaDhZcjZnaUcyMUJiRC1kXzVWMnBuUjVyN3pfRHZncXZCRUlOWVYxMkpOck9VU1luemV2YWtHd3NEV0tQYjNSbnU2TFhiQXZqZU5TeF82OHU0c29QYVQ?oc=5",
+     "published": "2026-11-22T17:55:31+00:00",
+     "summary": "Molly Santana Says 'Rap Is Punk' Ahead of New Album: 'Everything Is Punk to Me' Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s31",
+   "label": "Odd Future releases new teaser, hints at possible return",
+   "artists": [
+    "Odd Future"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T16:12:05+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Odd Future Sparks Speculation With New Teaser",
+     "link": "https://www.hotnewhiphop.com/1016942-odd-future-announcement-teaser",
+     "published": "2026-11-22T16:12:05+00:00",
+     "summary": "Odd Future was one of the most beloved music collectives back in the day, and they could be returning soon. The post Odd Future Sparks Speculation With New Teaser appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s49",
+   "label": "Carl Cox awarded OBE for contribution to music",
+   "artists": [
+    "Carl Cox"
+   ],
+   "genre": "Dance",
+   "kind": "award",
+   "talk": 1,
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "Carl Cox has been awarded an OBE",
+     "link": "https://mixmag.net/read/carl-cox-has-been-awarded-an-obe-news",
+     "published": null,
+     "summary": "He picked up the prestigious honour at Windsor Castle for his outstanding contribution to music Continue reading..."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s50",
+   "label": "Hannah Laing cancels Doof in the Park 2027 festival",
+   "artists": [
+    "Hannah Laing"
+   ],
+   "genre": "Dance",
+   "kind": "festival",
+   "talk": 1,
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "“I’m gutted”: Hannah Laing announces cancellation of doof in the Park 2027",
+     "link": "https://mixmag.net/read/hannah-laing-announces-cancellation-doof-in-the-park-2027-news",
+     "published": null,
+     "summary": "Laing said that “behind the scenes” issues are to blame for the Dundee festival’s cancellation next year Continue reading..."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s1",
+   "label": "Justice, Cardi B, Travis Scott perform GTA 6 songs at festival launch",
+   "artists": [
+    "Justice",
+    "Cardi B",
+    "Travis Scott",
+    "Don Toliver"
+   ],
+   "genre": "POP",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T10:40:44+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Justice, Cardi B and Travis Scott give ‘Grand Theft Auto 6’ anthems their live debut at festival launch event",
+     "link": "https://www.nme.com/news/gaming-news/justice-cardi-b-travis-scott-grand-theft-auto-6-the-festival-footage-3976701",
+     "published": "2026-11-23T10:40:44+00:00",
+     "summary": "The Dare, Don Toliver and more also performed at ‘Grand Theft Auto 6: The Festival’ The post Justice, Cardi B and Travis Scott give ‘Grand Theft Auto 6’ anthems their live debut at festival launch event appeared first on NME ."
+    }
+   ],
+   "chart": [
+    {
+     "id": "Sh4pJYJOT7M",
+     "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+     "channel": "Future",
+     "published": "2026-11-10T17:46:05Z",
+     "hours_since": 305,
+     "views": 5545167,
+     "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+     "region": "US",
+     "rank": 12
+    }
+   ],
+   "video": {
+    "id": "Sh4pJYJOT7M",
+    "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+    "channel": "Future",
+    "published": "2026-11-10T17:46:05Z",
+    "hours_since": 305,
+    "views": 5545167,
+    "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+    "region": "US",
+    "rank": 12
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Lana Del Rey celebrates GTA 6 launch with Miami tour",
+   "artists": [
+    "Lana Del Rey"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T09:40:52+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Lana Del Rey celebrates ‘GTA 6’ launch with Miami tour and Vice City Birkin",
+     "link": "https://www.nme.com/news/gaming-news/lana-del-rey-grand-theft-auto-6-launch-miami-tour-vice-city-birkin-3976687",
+     "published": "2026-11-23T09:40:52+00:00",
+     "summary": "She hosts the game’s Back Country Radio station with her husband The post Lana Del Rey celebrates ‘GTA 6’ launch with Miami tour and Vice City Birkin appeared first on NME ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s8",
+   "label": "DJ CHAD95 unveils new single with Jlin remix",
+   "artists": [
+    "DJ CHAD95",
+    "Jlin"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Resident Advisor"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T09:05:27+00:00",
+   "articles": [
+    {
+     "outlet": "Resident Advisor",
+     "title": "DJ CHAD95, son of DJ Rashad, unveils new single with Jlin remix · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFB2bTg5QldXTkpCQ0pVeVNCcHUzN1Q1VEFFdS1EUlF3dS1zb2ZISjdYVGJucjctVkZqTjBuZA?oc=5",
+     "published": "2026-11-23T09:05:27+00:00",
+     "summary": "DJ CHAD95, son of DJ Rashad, unveils new single with Jlin remix · News ⟋ RA Resident Advisor"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Skepta sweeps UK Rap Chart top four positions",
+   "artists": [
+    "Skepta",
+    "Central Cee",
+    "Jorja Smith"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "chart",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T06:02:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Skepta Sweeps The Top Four Spots On The Official UK Rap Chart",
+     "link": "https://allhiphop.com/news/skepta-sweeps-top-four-official-uk-rap-chart-november-20/",
+     "published": "2026-11-23T06:02:00+00:00",
+     "summary": "Skepta claims all four top spots on the Official UK Rap Chart, led by Broken Hearts with Central Cee and Jorja Smith."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Nilosta Steel shares alternate versions of tracks",
+   "artists": [
+    "Nirosta Steel"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Pitchfork"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T05:03:35+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Nirosta Steel Shares Alternate Versions of My Skyscraper Tracks",
+     "link": "https://pitchfork.com/story/nirosta-steel-shares-alternate-versions-of-my-skyscraper-tracks/",
+     "published": "2026-11-23T05:03:35+00:00",
+     "summary": "“Grey Boy” and “Boss Trix” now have “Boss Mix” editions"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Olivia Rodrigo covers Jack White's 'Dead Leaves and the Dirty Ground'",
+   "artists": [
+    "Olivia Rodrigo",
+    "Jack White"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T03:35:49+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Watch Olivia Rodrigo Cover ‘Dead Leaves and the Dirty Ground’ at Jack White’s Blue Room",
+     "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-dead-leaves-and-the-dirty-ground-cover-live-1235662456/",
+     "published": "2026-11-23T03:35:49+00:00",
+     "summary": "The singer played a tight set during a performance recorded for Third Man Records"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s24",
+   "label": "Childish Gambino's 'This Is America' reaches 1 billion YouTube views",
+   "artists": [
+    "Childish Gambino"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "chart",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T00:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Childish Gambino’s “This Is America” Hits 1 Billion YouTube Views",
+     "link": "https://allhiphop.com/news/childish-gambino-this-is-america-billion-youtube-views/",
+     "published": "2026-11-23T00:30:00+00:00",
+     "summary": "Childish Gambino's \"This Is America\" is his first video to reach 1 billion YouTube views, eight years after its debut."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s53",
+   "label": "LISA's 'Leave With Me' wins fans' choice for favorite new music",
+   "artists": [
+    "LISA"
+   ],
+   "genre": "POP",
+   "kind": "chart",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T23:18:25+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Fans Choose LISA’s ‘Leave With Me’ as This Week’s Favorite New Music",
+     "link": "https://www.billboard.com/music/music-news/lisa-leave-with-me-best-new-music-poll-results-1236387524/",
+     "published": "2026-11-22T23:18:25+00:00",
+     "summary": "Her latest solo release brought in more than 84% of the vote."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s25",
+   "label": "Usher performs at New Orleans Superdome, receives No Limit chain",
+   "artists": [
+    "Usher",
+    "Master P"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-22T22:16:54+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Master P Surprises Usher With No Limit Soldier Chain During New Orleans Superdome Concert",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWZhWFd4aGVfRVFRVEtCbFVDVDRFdHFPaFZrXzNFclg0eHE2bWgxeGNkMXFBazNQVXR4V2YxdG1tZ0FBc3hPZzhrbXlmZXdfMWo4MllDazZDUXFLUUU1V2tkVE9tWUM5Z2NabXBLa1N4cEFQaGJRS2kwOE1nMklzX2NURmpMaHFySTU5VGR1MVBpdw?oc=5",
+     "published": "2026-11-22T22:16:54+00:00",
+     "summary": "Master P Surprises Usher With No Limit Soldier Chain During New Orleans Superdome Concert Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s63",
+   "label": "DJ Gigola, Hamdi and Skin on Skin new releases on radar",
+   "artists": [
+    "DJ Gigola",
+    "Hamdi",
+    "Skin on Skin"
+   ],
+   "genre": "Dance",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "New music on our radar this week: DJ Gigola, Skin on Skin, Hamdi",
+     "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-9-news",
+     "published": null,
+     "summary": "All the biggest releases on our radar Continue reading..."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s14",
+   "label": "SEVENTEEN unit Jx J completes Japan concert tour, 62,000 attendance",
+   "artists": [
+    "SEVENTEEN"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Kstyle",
+    "ｄメニューニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Kstyle",
+    "ｄメニューニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T06:54:53+00:00",
+   "articles": [
+    {
+     "outlet": "Kstyle",
+     "title": "【PHOTO】SEVENTEEN ジョシュア、日本公演を終えて韓国に到着",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IdHhHWGJpbVNNUjhtTmhVVV9RVkFJRmh1SXJGejk3OGlDWjdCbVF1T096dFZYWlFkNzlYc0hGdlJaWWJQVXlXWXVNZXhoVDNMNVdxN3l6cWVHbEtk?oc=5",
+     "published": "2026-11-23T06:54:53+00:00",
+     "summary": "【PHOTO】SEVENTEEN ジョシュア、日本公演を終えて韓国に到着 Kstyle"
+    },
+    {
+     "outlet": "Kstyle",
+     "title": "【REPORT】SEVENTEEN ジョンハン＆ジョシュア、日本でユニット初の単独公演を開催！2日で6万人を動員「心配が安心に変わった」",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJRUFocU1BT0dKakhVcWRTR3k1LXlCSlZzVnIwNi1FOHA3VktfVWJRRWdWY2pWdkZzTUg3bkJMeW12SVBkUmxyRFNVSHh4VkkyU3N1bDhlbXliOUFX?oc=5",
+     "published": "2026-11-23T01:39:16+00:00",
+     "summary": "【REPORT】SEVENTEEN ジョンハン＆ジョシュア、日本でユニット初の単独公演を開催！2日で6万人を動員「心配が安心に変わった」 Kstyle"
+    },
+    {
+     "outlet": "ｄメニューニュース",
+     "title": "ＳＥＶＥＮＴＥＥＮ新ユニットＪｘＪ、圧巻ビジュアルで魅了 ライブツアー日本公演２日で６万２０００人動員",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd2ppdEVvbU5TbWxxc3lEeXIyWmo0XzZNeUE3MkZDUkc1MlNuQ3VSTEpzLWc4NnJ5al9RbWs1N1hXdTFhdUFTQUFNY1BEdXY2bUZfZVRTUS1xZWcxTGYxNUR3LUtfZ1FFYXE5dzA1Y1UwNG1kaGtqdGpuNGFpb1dYQXlQVdIBiAFBVV95cUxPYmpOdHVCVS03dHRJUW1raEdWV3RVU3VkdlFRUURDVTN1SHdVdnVvREdxTVdhaUZhYklScEdvSkRSNE5CY2lPNDhzZ3lLRi01WXBXbFJyai1ybTVhSUhlYzRjeFJqMmZFVVhxZE5zZngzTXV5OUF2cHR3eDRBUWlZekpIUE1BUmsz?oc=5",
+     "published": "2026-11-22T20:00:00+00:00",
+     "summary": "ＳＥＶＥＮＴＥＥＮ新ユニットＪｘＪ、圧巻ビジュアルで魅了 ライブツアー日本公演２日で６万２０００人動員 ｄメニューニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "IU announces world tour with Tokyo Dome as Japan stop after recovery",
+   "artists": [
+    "IU"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "RBB TODAY",
+    "ライブドアニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "RBB TODAY",
+    "ライブドアニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T03:17:13+00:00",
+   "articles": [
+    {
+     "outlet": "RBB TODAY",
+     "title": "3年ぶりの来日公演は東京ドームで！療養中の歌手IU、10都市でワールドツアー開催を発表",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91OTdMZ3pRNG56NmNwMmNNdWVGZVNkYkJPVkp0dGdUZ1pKcTIxVndVOHJna3h1bjRNUDVHb21xbXUwTkt4VGhZci1qcTJLUHM1dmhPNlRRVlVtc245NHY5dmpIYTRhZw?oc=5",
+     "published": "2026-11-23T03:17:13+00:00",
+     "summary": "3年ぶりの来日公演は東京ドームで！療養中の歌手IU、10都市でワールドツアー開催を発表 RBB TODAY"
+    },
+    {
+     "outlet": "ライブドアニュース",
+     "title": "3年ぶりの来日公演は東京ドームで！療養中の歌手IU、10都市でワールドツアー開催を発表",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxc0pqcHltSlQtWEo1RU9GRk8xMTNpMHRLX0E3dlp1NEhzV2sxMFQxSjFJbjZUaUYzYXh1NkJXMW0wWGd1NmZPWTE0T1pIamREQzFhQzVCdU92RkFBcVVZ?oc=5",
+     "published": "2026-11-23T03:00:00+00:00",
+     "summary": "3年ぶりの来日公演は東京ドームで！療養中の歌手IU、10都市でワールドツアー開催を発表 ライブドアニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "Touché Amoré releases new single 'My Own Way', produced by Ross Robinson",
+   "artists": [
+    "Touché Amoré"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "PUNKLOID"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "PUNKLOID"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T10:12:02+00:00",
+   "articles": [
+    {
+     "outlet": "PUNKLOID",
+     "title": "来日公演を成功させたばかりのTouché Amoré、約2年ぶりの新曲「(I Can't Get Out Of) My Own Way」をリリース！Ross Robinsonがプロデュースを担当",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HdTdYZ0pWMjNiZEpMY0MyVTFvQkxsa3ZEZTVWVTR4SmhVYTZSNHZKZlVwUXRNMF9scU5Rc2NkWEpoc1dRbEdTQ0F4ZE9QNVI5eVRMQjQ5QVBGOEZsaHdmVWpiNkY0Q0FBRkh4bUlWM2pYYTYzdWxPcUYzc2o?oc=5",
+     "published": "2026-11-23T10:12:02+00:00",
+     "summary": "来日公演を成功させたばかりのTouché Amoré、約2年ぶりの新曲「(I Can't Get Out Of) My Own Way」をリリース！Ross Robinsonがプロデュースを担当 PUNKLOID"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Alan Walker collaborates with Snow Man's Lau on track 'YUME'",
+   "artists": [
+    "Alan Walker",
+    "Lau"
+   ],
+   "genre": "Dance",
+   "kind": "collab",
+   "talk": 1,
+   "outlets": [
+    "EDM MAXX"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "EDM MAXX"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T10:03:36+00:00",
+   "articles": [
+    {
+     "outlet": "EDM MAXX",
+     "title": "Alan Walker来日インタビュー：日本人アーティストとの初コラボ Snow Manラウールと「YUME」を作った理由",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBaLXVrYmNjbmxRdmQ5VDV5WEI2RjlxM08zSnpvbi1fUFh1Vy1NdTZuNEd3MXFvRVVlVVpLVzZBYUVhS0Zj?oc=5",
+     "published": "2026-11-23T10:03:36+00:00",
+     "summary": "Alan Walker来日インタビュー：日本人アーティストとの初コラボ Snow Manラウールと「YUME」を作った理由 EDM MAXX"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "Disturbed to perform in Japan, legendary tracks and greatest hits",
+   "artists": [
+    "Disturbed"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "InterFM"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "InterFM"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T08:56:38+00:00",
+   "articles": [
+    {
+     "outlet": "InterFM",
+     "title": "メタルの覇者ディスターブド、降臨 伝説の全曲と、最大のヒットが一夜に",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CWG9pQUhGMGVCRTRYSVpJcFVITUk5T2tkTDBpa2tCakFCWlhhNlpXc0JWbktYWll3NE02SGoyWHZwMnNMTk55M1dpZE1hX0lKRzFQTXpkZGFlVkxSQ3c?oc=5",
+     "published": "2026-11-23T08:56:38+00:00",
+     "summary": "メタルの覇者ディスターブド、降臨 伝説の全曲と、最大のヒットが一夜に InterFM"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s11",
+   "label": "Bon Jovi announces Japan tour dates",
+   "artists": [
+    "Bon Jovi"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Precious.jp"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Precious.jp"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T08:12:09+00:00",
+   "articles": [
+    {
+     "outlet": "Precious.jp",
+     "title": "「BON JOVI」来日公演決定！ ジョン・ボン・ジョヴィの軌跡｜若いころから現在まで【写真52枚】",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSRmtQQmNCNnR4UERlU3BGZ0NXdFR2ekdLSzJIYXR4eWtPV2F5ZFM3X1YxbHVqbjZZQW1wZnpCR0dKZ1lCek9QZDlhb3Q?oc=5",
+     "published": "2026-11-23T08:12:09+00:00",
+     "summary": "「BON JOVI」来日公演決定！ ジョン・ボン・ジョヴィの軌跡｜若いころから現在まで【写真52枚】 Precious.jp"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "MONSTA X holds encore concert in Korea, December Japan show upcoming",
+   "artists": [
+    "MONSTA X"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Kstyle"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Kstyle"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T08:09:31+00:00",
+   "articles": [
+    {
+     "outlet": "Kstyle",
+     "title": "入隊中のI.Mも客席で応援！MONSTA X、韓国でのアンコールコンサートが大盛況 12月の日本公演にも期待",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80RnZ3NHQyX3E2TTd6cWdXMUIyQWplcDhUTkdPNC14cjZRSDFZMnFtZGtnWTF4Q2VUU0c0b1dVZkZKYWhwX3dBVm9wRDhVM0x0S3FzaWRGQ29XSXA3?oc=5",
+     "published": "2026-11-23T08:09:31+00:00",
+     "summary": "入隊中のI.Mも客席で応援！MONSTA X、韓国でのアンコールコンサートが大盛況 12月の日本公演にも期待 Kstyle"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s13",
+   "label": "Iron Maiden performs final Japan dates of tour",
+   "artists": [
+    "Iron Maiden"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "クリエイティブマン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T08:01:16+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "＜IRON MAIDEN 開催直前！メッセージ動画到着！＞",
+     "link": "https://www.creativeman.co.jp/2026/11/23/109594/",
+     "published": "2026-11-23T08:01:16+00:00",
+     "summary": "IRON MAIDENの不動のヴォーカリスト、ブルース・ディッキンソンから メッセージ動画が到着！ 今回ツアーの最終地となる日本公演！いよいよ明日11/24から2日間開催！ 公演詳細はこちら The post ＜IRON MAIDEN 開催直前！メッセージ動画到着！＞ first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s52",
+   "label": "De La Soul performs at Love Supreme Jazz Festival Japan",
+   "artists": [
+    "De La Soul"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "山陽新聞"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-22T23:55:44+00:00",
+   "articles": [
+    {
+     "outlet": "山陽新聞",
+     "title": "De La Soulの出演決定 『LOVE SUPREME JAZZ FESTIVAL JAPAN』3年ぶり、初の東 京 開催",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85eWdYREdUbUJQQkVjTWN6UjlnZkpuOW81dlVlUEtUeHBaWnRUYzNnelc3Q3ctR056RHo0VHVhV0FpdjRobExSbUtlbWdxQVJvbXAtSGdhZE82dnM5elJWWFJlVQ?oc=5",
+     "published": "2026-11-22T23:55:44+00:00",
+     "summary": "De La Soulの出演決定 『LOVE SUPREME JAZZ FESTIVAL JAPAN』3年ぶり、初の東 京 開催 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s40",
+   "label": "KATSEYE announces Japan tour, interfm listener presale",
+   "artists": [
+    "KATSEYE"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "InterFM"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "InterFM"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-22T21:24:11+00:00",
+   "articles": [
+    {
+     "outlet": "InterFM",
+     "title": "世界が注目するグローバルガールグループ、KATSEYE来日 interfmリスナー先行予約11/27(金)〜！",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtUktReFItVmFCZjNFNXFxdGpxbXVlTDVmcnU2U0hmWlk1VFN5cWpRMkxnMm9OeWU4YUJOQjZ1M0FCbUNGMnBKSW95eTBvXzd6bHI3NURZb1lDRTU2ekEwbHdHcFZzZw?oc=5",
+     "published": "2026-11-22T21:24:11+00:00",
+     "summary": "世界が注目するグローバルガールグループ、KATSEYE来日 interfmリスナー先行予約11/27(金)〜！ InterFM"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "5 Seconds of Summer performs Japan tour",
+   "artists": [
+    "5 Seconds of Summer"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "djplumadventuretimes.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "djplumadventuretimes.com"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-22T13:52:36+00:00",
+   "articles": [
+    {
+     "outlet": "djplumadventuretimes.com",
+     "title": "5 Seconds of Summer、2026年来日公演 会場写真レポ",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaFdXalpwWlRNVTA5elVDN0ZRdkFTbG5vY1FHZ05ZMnRsWUI4dDVUTGw0MEl6c2VYOHBpTUFoNzJOZGJ2allRRGVMT0hhb3BYQVJVZEdKRTNSWV9hNGtpeFhGNWJ6TDVrM1lYdXZvci15aVpPdDh5Z19abVM4bmJHanRDNGZfZm1WaFFseXdFS3JVZUY4V2FaeVYwUm5JZnlJeGItM1cwVkc4NUJERmNwUDJZbXlzS21Xd0hiMU54ZTV5NmdaUDcyTE5XN2tmcGp4S0RjQ2JJS3Q1NW5rZDJkWjdqUUh4RWZSSERJQ28zMzM4TjRSMFB0Q253?oc=5",
+     "published": "2026-11-22T13:52:36+00:00",
+     "summary": "5 Seconds of Summer、2026年来日公演 会場写真レポ https://djplumadventuretimes.com/"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s43",
+   "label": "The Weeknd performs After Hours Til Dawn Tour in Japan",
+   "artists": [
+    "The Weeknd"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "もとりょこblog -"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "もとりょこblog -"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-22T12:32:34+00:00",
+   "articles": [
+    {
+     "outlet": "もとりょこblog -",
+     "title": "【THE WEEKNDセトリ】After Hours Til Dawn Tour@ベルーナドームセットリストまとめ - もとりょこblog -",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2bVJVenZWblphZVEzSkxJcXRUOTVUZmh0Z2Fpck9ZRHM3TzhRQjZ1eUdkZGNlY2VpbzlGcVRDaFdGYUxtd0cwQ2dn?oc=5",
+     "published": "2026-11-22T12:32:34+00:00",
+     "summary": "【THE WEEKNDセトリ】After Hours Til Dawn Tour@ベルーナドームセットリストまとめ もとりょこblog -"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s44",
+   "label": "Bruno Mars performs 24K Magic World Tour in Japan",
+   "artists": [
+    "Bruno Mars"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "もとりょこblog -"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "もとりょこblog -"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-22T12:32:25+00:00",
+   "articles": [
+    {
+     "outlet": "もとりょこblog -",
+     "title": "ブルーノ・マーズ 24K MAGIC WORLD TOUR 2018 来日公演 セットリストまとめ - もとりょこblog -",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tdUwtWk5CT01JaDR0WFZyT1ZTRGlfc2xBZTNtWm9ncVFpNEFvclhWVE1Fem9Eam5NaVlmekFjYm0zM1EwaGtHMEJ3?oc=5",
+     "published": "2026-11-22T12:32:25+00:00",
+     "summary": "ブルーノ・マーズ 24K MAGIC WORLD TOUR 2018 来日公演 セットリストまとめ もとりょこblog -"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s45",
+   "label": "IVE announces Seoul encore concert after Tokyo/Kyocera dates",
+   "artists": [
+    "IVE"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Yahoo!ニュース"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Yahoo!ニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-22T08:45:18+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "IVE、京セラ・東京ドームを経てソウルでアンコール公演決定！2027年1月に開催（Kstyle）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zaUg3UzVoVjFqMXVOdjIxYU5vcUxkRmFDNzhoWEJuWUl2Yjh6aDdELUdHMjZvNi1BYW05QUlOTXpwaE1fRjd6R04wbTV1Ym1VZDBIdlV3Y0tLQkxyLUlIQ1JveVQtbTRyWVNDVFZNdk1ya2lhaGJyRmhzcW5TUHM?oc=5",
+     "published": "2026-11-22T08:45:18+00:00",
+     "summary": "IVE、京セラ・東京ドームを経てソウルでアンコール公演決定！2027年1月に開催（Kstyle） Yahoo!ニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s46",
+   "label": "Radiohead announces 19-year solo tour with 5 Japan dates",
+   "artists": [
+    "Radiohead"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "山陽新聞"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-22T08:11:05+00:00",
+   "articles": [
+    {
+     "outlet": "山陽新聞",
+     "title": "レディオヘッド、“19年ぶり”単独来日公演が決定 計5公演＆チケット種類など発表【一覧】",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mczItaTMzbV9qclp3X1JqYkRqQjlxUW40RUlvVUl4SmZkdDFvZmlUZnNHUm5lWkYzNG10NXVNTUNJZ0ZmREQ1cTltWHBoaWpOeDNQLWxsSDE5Q2pQTDh6TTZnYw?oc=5",
+     "published": "2026-11-22T08:11:05+00:00",
+     "summary": "レディオヘッド、“19年ぶり”単独来日公演が決定 計5公演＆チケット種類など発表【一覧】 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s15",
+   "label": "Molly Meldrum, Australian music broadcaster, dies at 83",
+   "artists": [
+    "Molly Meldrum"
+   ],
+   "genre": "Other",
+   "kind": "death",
+   "talk": 1,
+   "outlets": [
+    "BBC",
+    "Billboard"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-23T06:55:52+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Molly Meldrum to Receive State Funeral as Kylie Minogue, Jimmy Barnes Lead Tributes",
+     "link": "https://www.billboard.com/music/music-news/molly-meldrum-state-funeral-tributes-kylie-minogue-jimmy-barnes-1236387665/",
+     "published": "2026-11-23T06:55:52+00:00",
+     "summary": "\"I'm going to turn the music up in your honour,\" wrote Minogue, who Meldrum welcomed onto Countdown as a teenager."
+    },
+    {
+     "outlet": "BBC",
+     "title": "Australian music legend Molly Meldrum dies aged 83",
+     "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-23T01:03:35+00:00",
+     "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades."
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Molly Meldrum, Australian Music Broadcaster and ‘Countdown’ Host, Dies at 83",
+     "link": "https://www.billboard.com/music/music-news/molly-meldrum-countdown-host-dies-83-1236387631/",
+     "published": "2026-11-23T00:30:36+00:00",
+     "summary": "\"Affectionately dubbed 'The Guru,' Molly was the heartbeat, the champion and the spirit of Australian music,\" his family said in a statement."
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 4
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 89,
+   "kept": 18
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "failed",
+   "method": "取得できず",
+   "url": "",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 22,
+   "kept": 3
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 7
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 29,
+   "kept": 1
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 2
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 0
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 68,
+   "kept": 13
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 0
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 16
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 1
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 25,
+   "kept": 11
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 23,
+   "kept": 6
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 4
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 25
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 2,
+   "kept": 2
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 7,
+   "kept": 3
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 17,
+   "kept": 8
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索・該当なし",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 27,
+   "kept": 10
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 44,
+   "kept": 24
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 9,
+   "kept": 0
+  }
+ ],
+ "cost": {
+  "usd": 0.2798,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 16138,
+    "output_tokens": 6790
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 17730,
+    "output_tokens": 7942
+   }
+  ]
+ }
+}
