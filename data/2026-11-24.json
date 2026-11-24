@@ -1,0 +1,3046 @@
+{
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24T12:47:24.825435+00:00",
+ "article_count": 361,
+ "picks": {
+  "model": "claude-opus-5-5",
+  "overview": "今日は、本人が自分の過去や噂について語る話題（Justin Timberlake、Stevie Wonder）が目立った。あわせて、ライブ会場の安全や表現の自由をめぐる社会的な話題（Ed Sheeran、Iran、Don Toliver）も多い。",
+  "top": [
+   {
+    "id": "s57",
+    "title_ja": "Justin Timberlake、新ドキュメンタリーで2004年スーパーボウルを再訪",
+    "genre": "POP",
+    "summary_ja": "Justin Timberlakeの4部構成のドキュメンタリーが、12月11日からApple TVで配信される。予告編では、Janet Jacksonと出演した2004年のスーパーボウルのハーフタイムショーが振り返られている。本人は「本当に話しにくいこと」にも触れると報じられている。",
+    "why_ja": "Billboard、Rolling Stone、Variety、Complexなど5媒体が報道。スターとしての栄光と挫折を本人が語る点に注目が集まっている。",
+    "debate_ja": "本人が過去の出来事を自ら語るドキュメンタリー、あなたは観たい？",
+    "line_point": "Justin Timberlake、Apple TVで4部構成のドキュメンタリー。2004年スーパーボウルも振り返る（12/11〜）",
+    "reels": [
+     {
+      "hook": "本人が語るあの夜、観たいと思う？",
+      "angle": "予告編の内容と配信日を紹介→当事者が自ら語る意味を論点に→自分の見解を話す→観る派か観ない派かをコメントで募る"
+     },
+     {
+      "hook": "4部構成で何が語られる？",
+      "angle": "予告編で触れられた2004年のハーフタイムショーを入口に、スターとしての栄光と挫折という作品のテーマと見どころを整理する"
+     }
+    ]
+   },
+   {
+    "id": "s4",
+    "title_ja": "Ed SheeranのChile公演、パレスチナ関連のシャツで入場拒否と訴え",
+    "genre": "POP",
+    "summary_ja": "Ed SheeranのChile公演で、サッカークラブPalestinoのシャツを着たファンが入場を拒否されたと主張していると報じられている。Palestinoはパレスチナ系移民が創設したクラブで、クラブ側は差別だとして非難し、ファンに法的支援を申し出た。",
+    "why_ja": "NMEが報道。ライブ会場の服装ルールと、政治的とみなされる表現の線引きを考えるきっかけになる話題。",
+    "debate_ja": "政治的とみなされる服装をライブ会場で制限するのはアリ？ナシ？",
+    "line_point": "Ed SheeranのChile公演、パレスチナ系クラブのシャツを着たファンが入場拒否を主張",
+    "reels": [
+     {
+      "hook": "サッカーのシャツで入場拒否、これアリ？",
+      "angle": "報道とファンの主張を整理→会場ルールと表現の線引きを論点に→まだ主張の段階であることを明示して自分の見解→コメントで意見を募る"
+     },
+     {
+      "hook": "Palestinoってどんなクラブ？",
+      "angle": "パレスチナ系移民が創設したクラブという背景を解説し、なぜクラブ側が声を上げたのかを読み解く。事実確認中である点も伝える"
+     }
+    ]
+   },
+   {
+    "id": "s3",
+    "title_ja": "Stevie Wonder、「目が見えている」説に「一緒に車に乗ろう」",
+    "genre": "POP",
+    "summary_ja": "「実は目が見えているのでは」という冗談や噂、陰謀論について、Stevie Wonderが言及した。「一緒に車に乗ってみよう、そうすれば分かる」とユーモアで返したと報じられている。Billboardは、本人がずっと前からこのジョークを楽しんでいると伝えている。",
+    "why_ja": "Billboard、Complexに加え、Billboard JAPANも報道。ネットで繰り返し話題になる噂に、本人が直接触れた点が注目されている。",
+    "debate_ja": "有名人の噂には、本人のユーモアで返すのが一番の対処法？",
+    "line_point": "Stevie Wonder、「目が見えている」陰謀論に「一緒に車に乗ってみよう」と返答",
+    "reels": [
+     {
+      "hook": "この返し、神対応だと思う",
+      "angle": "噂と本人の返答を紹介→噂にユーモアで向き合うことを論点に→自分の見解を話す→好きな神対応をコメントで募る"
+     },
+     {
+      "hook": "なぜこの噂は消えないのか",
+      "angle": "冗談や陰謀論がネットで繰り返し広がる構造を整理し、本人が笑いで返したことの意味を解説する"
+     }
+    ]
+   },
+   {
+    "id": "s90",
+    "title_ja": "Iran、ヒジャブなしで歌った女性歌手と公演関係者を鞭打ち刑に",
+    "genre": "POP",
+    "summary_ja": "CNNは、Iranでヒジャブを着けずに公演を行った女性歌手と、コンサートの関係者4人が鞭打ち刑を受けたと報じている。国の法や規範に基づく措置とみる立場と、表現の自由の観点から問題視する立場がありうる。",
+    "why_ja": "CNNが報じた、音楽ファン以外にも届く話題。音楽活動と、国の法律・宗教的な規範との関係を考えるきっかけになる。",
+    "debate_ja": "音楽の表現と国の法や規範、どこまで両立できると思う？",
+    "line_point": "CNN報道：Iranでヒジャブなしで歌った女性歌手と関係者4人が鞭打ち刑に",
+    "reels": [
+     {
+      "hook": "歌ったことで処罰。あなたはどう考える？",
+      "angle": "CNNの報道内容を事実として伝える→表現の自由と国の規範を論点に→複数の見方を示して自分の考えを話す→コメントで意見を募る"
+     },
+     {
+      "hook": "音楽と法律、国によってここまで違う",
+      "angle": "報道の事実を茶化さず丁寧に伝え、表現の自由をめぐる議論を感情的にならずに整理して解説する"
+     }
+    ]
+   },
+   {
+    "id": "s36",
+    "title_ja": "Don Toliver、Manchester公演の騒動を受けLondon公演2本を延期",
+    "genre": "Hip-Hop",
+    "summary_ja": "ManchesterのCo-op Liveで正体不明の物質が散布され観客が避難した件を受け、Don ToliverがLondonのアリーナ公演2本を延期した。約90人が症状を訴えたと報じられており、警察が物質の調査を続けている。Manchesterの観客には払い戻しが行われると伝えられている。",
+    "why_ja": "BBC、NME、Pitchforkなど8媒体が報道し、NME Japanも取り上げた。Don Toliverは『GTA VI』の収録曲「TF?」がUSのYouTube音楽チャート27位に入っている。",
+    "debate_ja": "ライブの安全対策、観客として何を一番求める？",
+    "line_point": "Don Toliver、Manchesterの物質散布騒動を受けLondon公演2本を延期。約90人が症状",
+    "reels": [
+     {
+      "hook": "公演延期、正しい判断だと思う？",
+      "angle": "騒動の経緯と延期・払い戻しを紹介→安全最優先か開催かの判断を論点に→自分の見解を話す→コメントで意見を募る"
+     },
+     {
+      "hook": "約90人が症状、何が起きた？",
+      "angle": "報道された事実を時系列で整理し、物質はまだ特定されておらず調査中である点を明確にしたうえで、会場の安全管理を考える"
+     }
+    ]
+   }
+  ],
+  "runners_up": {
+   "Dance": [
+    {
+     "id": "s72",
+     "title_ja": "デトロイト・ハウスの重要人物Delano Smithが死去",
+     "note": "DJ Mag、Mixmag、RAなどが報道。デトロイトのハウスを形づくった一人。"
+    },
+    {
+     "id": "s75",
+     "title_ja": "Zamnaの主催者、Tulumに4万人規模のUX Arenaを開設へ",
+     "note": "大晦日に、ジャングルの中の4万人収容アリーナを開くとBillboardが報道。"
+    }
+   ],
+   "POP": [
+    {
+     "id": "s22",
+     "title_ja": "Taylor Swift、Brenda Leeにダイヤモンド認定の記念盾を贈呈",
+     "note": "「Rockin' Around the Christmas Tree」の10xプラチナ認定を祝い、本人にサプライズで贈った。"
+    },
+    {
+     "id": "s5",
+     "title_ja": "Ariana Grande、ツアーのコンサート映画をPeacockで配信へ",
+     "note": "『Eternal Sunshine Tour』を収めた映画をSNSで予告した。"
+    }
+   ],
+   "Hip-Hop": [
+    {
+     "id": "s43",
+     "title_ja": "Jay-ZのSuper Bowlハーフタイムショー、IMAXで上映へ",
+     "note": "Super Bowl LXI（2027年）のハーフタイムショーを、IMAXシアターで上映すると報道。"
+    },
+    {
+     "id": "s65",
+     "title_ja": "Mary J. Blige「Real Love」、著作権訴訟の控訴審で勝訴",
+     "note": "「Impeach the President」の侵害にはあたらず、作品全体は別物と控訴裁判所が判断。"
+    }
+   ],
+   "Other": [
+    {
+     "id": "s28",
+     "title_ja": "Queen「We Are the Champions」はなぜ複数形？",
+     "note": "Freddie Mercuryが込めた思いと、卒業式にまつわる逸話がネタになる。"
+    },
+    {
+     "id": "s85",
+     "title_ja": "Led Zeppelin、49年前のMSG公演の未公開映像が浮上",
+     "note": "17歳のファンが上着にSuper 8カメラを隠し、1977年の公演を撮影したという裏話。"
+    },
+    {
+     "id": "s109",
+     "title_ja": "Visage「Fade to Grey」MV、予算の大半はメイク代",
+     "note": "Steve Strangeのメイクに予算の大半が消えたという、Midge Ureが語る制作裏話。"
+    }
+   ]
+  },
+  "japan_tours": [
+   {
+    "id": "s35",
+    "title_ja": "Chapterhouse、2月の来日ツアーに東京追加公演決定",
+    "note": "2月16日（火）吉祥寺CLUB SEATA。ゲストはcruyff in the bedroom。"
+   },
+   {
+    "id": "s21",
+    "title_ja": "Converge、2027年1月に来日公演決定",
+    "note": "新作『Hum Of Hurt』を携え、東名阪でジャパン・ツアーを開催。"
+   },
+   {
+    "id": "s10",
+    "title_ja": "EVAN、1月の東京3公演から初のファンライブツアー",
+    "note": "【EVAN FAN LIVE 'EVERLASTING'】。日本・韓国を皮切りに世界14都市を巡る。"
+   },
+   {
+    "id": "s17",
+    "title_ja": "Nina Kraviz、来日を前にイビサのクロージングセット公開",
+    "note": "イビサの名門クラブでシーズンを締めくくったセットを公開。"
+   },
+   {
+    "id": "s39",
+    "title_ja": "wave to earth、日本公演記念のGUESS JEANS POP-UP開催",
+    "note": "「the pieces tour」日本公演を記念し、11月26日から期間限定で開催。"
+   },
+   {
+    "id": "s29",
+    "title_ja": "Tori Kelly、2027年6月に来日公演決定",
+    "note": ""
+   },
+   {
+    "id": "s47",
+    "title_ja": "Queens of the Stone Age、来日公演のグッズ販売情報を発表",
+    "note": "先行販売：11/25 Zepp Haneda、11/26 Zepp Nagoya、11/28 Zepp Namba"
+   },
+   {
+    "id": "s92",
+    "title_ja": "TOTO、結成50周年の日本ツアー決定",
+    "note": "約4年ぶりの日本ツアー。大阪・東京で開催。"
+   },
+   {
+    "id": "s112",
+    "title_ja": "5 Seconds of Summer、来日公演東京Day1のセットリスト",
+    "note": ""
+   },
+   {
+    "id": "s113",
+    "title_ja": "Li Yilei、来日ツアーを開催",
+    "note": "鈴鹿HAPPY MOUTHでaus、鶴舞K.D JaponでRego、CazU-23と共演。"
+   },
+   {
+    "id": "s114",
+    "title_ja": "Ho Namjun、2027年1月24日に東京でアンコール公演",
+    "note": "日本のファンの声援に応えて決定。"
+   }
+  ],
+  "tour_candidates": 13
+ },
+ "compare": null,
+ "candidates": [
+  {
+   "id": "s36",
+   "label": "Don Toliver、Manchester公演で正体不明の物質散布で避難・ロンドン公演延期",
+   "artists": [
+    "Don Toliver"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop",
+    "BBC",
+    "Mixmag",
+    "NME",
+    "NME Japan",
+    "Pitchfork",
+    "Vibe",
+    "XXL"
+   ],
+   "n_outlets": 8,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [
+    "BBC"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 7,
+   "score": 9,
+   "latest": "2026-11-24T10:22:31+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Don Toliver postpones two London arena gigs after fans left “screaming in pain” by mystery substance at Manchester’s Co-op Live",
+     "link": "https://www.nme.com/news/music/don-toliver-postpones-london-fans-screaming-pain-mystery-substance-manchester-3976832",
+     "published": "2026-11-24T10:22:31+00:00",
+     "summary": "Almost 90 people reported symptoms following the incident, with police continuing to investigate the unidentified substance The post Don Toliver postpones two London arena gigs after fans left “screaming in pain” by mystery substance at Man"
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "ドン・トリヴァー、マンチェスター公演で正体不明の物質が散布されて観客が避難することに",
+     "link": "https://nme-jp.com/news/174645/",
+     "published": "2026-11-24T09:00:37+00:00",
+     "summary": "ドン・トリヴァーはマンチェスターのコープ・ライヴで行われた公演で「正体不明の物質」が散布され、観客が避難することなっている。"
+    },
+    {
+     "outlet": "AllHipHop",
+     "title": "Don Toliver Moves London O2 Show & Manchester Fans Get Refunds",
+     "link": "https://allhiphop.com/news/don-toliver-moves-london-o2-show-manchester-fans-get-refunds/",
+     "published": "2026-11-24T01:30:00+00:00",
+     "summary": "Don Toliver's O2 show moves to December 15, while Manchester ticket holders get automatic refunds after the evacuation."
+    },
+    {
+     "outlet": "BBC",
+     "title": "US rapper postpones two arena shows after Manchester evacuation",
+     "link": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-23T20:49:08+00:00",
+     "summary": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd."
+    },
+    {
+     "outlet": "XXL",
+     "title": "More Than 12,000 Fans Evacuated From Don Toliver’s U.K. Concert",
+     "link": "https://www.xxlmag.com/don-toliver-manchester-show-evacuated-tear-gas/",
+     "published": "2026-11-23T16:35:39+00:00",
+     "summary": "Don is now postponing his London show. Continue reading…"
+    },
+    {
+     "outlet": "Vibe",
+     "title": "Don Toliver’s Manchester Show Evacuated After ‘Unknown Substance’ Released in Crowd",
+     "link": "https://www.vibe.com/music/music-news/don-toliver-manchester-show-evacuation-unknown-substance-1235204337/",
+     "published": "2026-11-23T15:15:06+00:00",
+     "summary": "More than 12,000 people were safely removed from Co-op Live during the rapper's performance on Sunday night"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Don Toliver Concert Evacuated After Airborne Substance Released Into Crowd",
+     "link": "https://pitchfork.com/story/don-toliver-concert-evacuated-after-airborne-substance-released-into-crowd/",
+     "published": "2026-11-23T12:48:14+00:00",
+     "summary": "Fans were reportedly “screaming” and “coughing up blood” at UK arena Co-Op Live"
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "Don Toliver show in Manchester evacuated after \"unknown substance\" released into crowd",
+     "link": "https://mixmag.net/read/don-toliver-co-op-live-show-manchester-evacuated-unknown-subs-news",
+     "published": null,
+     "summary": "Greater Manchester Police evacuated 12,000 attendees from Co-op Live in a \"a major incident\" on Sunday evening, though no major injuries were reported Continue reading..."
+    }
+   ],
+   "chart": [
+    {
+     "id": "4ikPzZF2s08",
+     "title": "TF? (from GTAVI: The Album)",
+     "channel": "Don Toliver - Topic",
+     "published": "2026-11-19T10:04:54Z",
+     "hours_since": 123,
+     "views": 629777,
+     "url": "https://www.youtube.com/watch?v=4ikPzZF2s08",
+     "region": "US",
+     "rank": 27
+    }
+   ],
+   "video": {
+    "id": "4ikPzZF2s08",
+    "title": "TF? (from GTAVI: The Album)",
+    "channel": "Don Toliver - Topic",
+    "published": "2026-11-19T10:04:54Z",
+    "hours_since": 123,
+    "views": 629777,
+    "url": "https://www.youtube.com/watch?v=4ikPzZF2s08",
+    "region": "US",
+    "rank": 27
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s57",
+   "label": "Justin Timberlake、4部構成ドキュメンタリーApple TV配信12月11日スタート",
+   "artists": [
+    "Justin Timberlake"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop",
+    "Billboard",
+    "Complex",
+    "Rolling Stone",
+    "Variety"
+   ],
+   "n_outlets": 5,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 5,
+   "score": 5,
+   "latest": "2026-11-24T02:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Justin Timberlake’s Apple TV Trailer Revisits Janet Jackson’s Super Bowl",
+     "link": "https://allhiphop.com/news/justin-timberlakes-apple-tv-trailer-revisits-janet-jacksons-super-bowl/",
+     "published": "2026-11-24T02:30:00+00:00",
+     "summary": "Justin Timberlake's Apple TV trailer revisits the 2004 Super Bowl with Janet Jackson. The four-part series starts December 11."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Justin Timberlake Addresses 'Things That Are Really Hard to Talk About' in New Documentary Trailer",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFpodnZkN25MTGkyNUsxSHJJMi1ZM3dGelYxcWhpR0QzMWdHcjVYQVRya2pnQWkzdmowOFY3SDBPUE15SVFfUDFrSU04QXdxZC0xN1pKOGJRMWVFSElBdU9WbTIyNjRtemYzT3BjMlNqV0tXNHJqcnRGOHk1dkhNc0YwTFQ2NlV0ZmY5RG9PRDU?oc=5",
+     "published": "2026-11-23T16:32:42+00:00",
+     "summary": "Justin Timberlake Addresses 'Things That Are Really Hard to Talk About' in New Documentary Trailer Complex"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Justin Timberlake",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KT1RNaUdRVkpUMDN3MmpnNDdvdU9qLXVORlBhS2xnU0lhS1UzOWJ6TEtnRlQtaTBfWUwtUnZtX0piX0d1MUgzQUF0MmIxQmMxMnVqcjdHbHRYTjFka2Q3TA?oc=5",
+     "published": "2026-11-23T16:29:47+00:00",
+     "summary": "Justin Timberlake Billboard"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Justin Timberlake Will Open Up About Highs and Lows of Stardom on Four-Part Documentary",
+     "link": "https://www.rollingstone.com/music/music-news/justin-timberlake-apple-tv-documentary-1235662641/",
+     "published": "2026-11-23T16:28:32+00:00",
+     "summary": "First two parts of Timberlake premiere on Apple TV on Dec. 11, with trailer out now"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Justin Timberlake Documentary Trailer: Apple TV Series to Unpack Britney Spears, Janet Jackson Controversies",
+     "link": "https://variety.com/2026/music/news/justin-timberlake-documentary-trailer-britney-spears-janet-jackson-1236955955/",
+     "published": "2026-11-23T16:03:04+00:00",
+     "summary": "Apple TV has confirmed that it will launch “Timberlake,” a new four-part documentary on Justin Timberlake’s life and career helmed by Academy Award winner Fisher Stevens; Variety first reported the news earlier this month. The series premie"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s3",
+   "label": "スティーヴィー・ワンダー、目が見えているという陰謀論に応戦",
+   "artists": [
+    "Stevie Wonder"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "Billboard",
+    "Billboard JAPAN",
+    "Complex"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-24T13:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "スティーヴィー・ワンダー、実は目が見えているという陰謀論に応戦「一緒に車に乗ってみよう」",
+     "link": "https://www.billboard-japan.com/d_news/detail/167697",
+     "published": "2026-11-24T13:00:00+09:00",
+     "summary": "スティーヴィー・ワンダーは、実は目が見えているのではないかという冗談、噂、陰謀論をすべて耳にしてきた。そして今回、そ…"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "Stevie Wonder Addresses Conspiracy Theories About His Blindness: ‘Get in the Car With Me & We’ll See’",
+     "link": "https://www.billboard.com/music/rb-hip-hop/stevie-wonder-conspiracy-theories-blindness-comments-1236388335/",
+     "published": "2026-11-24T00:16:05+00:00",
+     "summary": "The legendary singer is in on the joke and has been for quite some time."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Stevie Wonder Challenges People Who Think He Can See: ‘Get in the Car with Me’",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUhTNjlseWQxUW44bXdxd1E1cFJSNnFic1pIZ1h1WmppcWpxM1FwRHdCbnlGNTVQNVJ3ZTIwRVVtZUxBaVNYM2NtbnE4MTZ5TmhDS24zQU9CR0d1aGhPSHlScURTbHdLLVYyd0Q1SkgtLS1nR0VjYWJ3WGhvWFMyb2hBajVQU2tvRXJ3NlJBdHFsWVJjeERiam93?oc=5",
+     "published": "2026-11-23T18:53:06+00:00",
+     "summary": "Stevie Wonder Challenges People Who Think He Can See: ‘Get in the Car with Me’ Complex"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s43",
+   "label": "Jay-Z、2027 Super Bowl LXI Halftime Show IMAX上映決定",
+   "artists": [
+    "Jay-Z"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "Consequence",
+    "HotNewHipHop",
+    "Variety",
+    "XXL"
+   ],
+   "n_outlets": 6,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 6,
+   "score": 6,
+   "latest": "2026-11-24T00:19:39+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Jay-Z’s 2027 Super Bowl Halftime Show Coming to IMAX Theaters",
+     "link": "https://www.billboard.com/music/rb-hip-hop/jay-z-super-bowl-halftime-show-imax-theaters-2027-1236388294/",
+     "published": "2026-11-24T00:19:39+00:00",
+     "summary": "Get your popcorn ready."
+    },
+    {
+     "outlet": "HotNewHipHop",
+     "title": "JAŸ-Z’s Super Bowl LXI Halftime Show is Coming To IMAX Theaters",
+     "link": "https://www.hotnewhiphop.com/1016995-jay-z-super-bowl-halftime-show-imax",
+     "published": "2026-11-23T22:00:00+00:00",
+     "summary": "JAŸ-Z is performing at the Super Bowl in a few months from now, and it appears as though he has everything figured out. The post JAŸ-Z’s Super Bowl LXI Halftime Show is Coming To IMAX Theaters appeared first on HotNewHipHop ."
+    },
+    {
+     "outlet": "XXL",
+     "title": "Jaÿ-Z’s Super Bowl Halftime Show Will Be Shown in IMAX Theaters",
+     "link": "https://www.xxlmag.com/jay-z-superbowl-halftime-show-movie-theaters/",
+     "published": "2026-11-23T20:49:20+00:00",
+     "summary": "This IS a movie, dog. Continue reading…"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Jay-Z Halftime Show, 2027 Super Bowl Coming to IMAX: What to Know",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Cb0N4N0VMODBBUDZQVzZ2djVyS2h3akJmY05jTk5QR1Jzam85eDFRMVVXb3FHakFGNmc3QldGaF94Uy1hMWZMc2loMENFSEltNE5vaUI2eThLeTNCNUFWalVkcnNvWVZwSWw5Z1RpWTd2N3ZXeGVLc1pjRFc?oc=5",
+     "published": "2026-11-23T19:50:11+00:00",
+     "summary": "Jay-Z Halftime Show, 2027 Super Bowl Coming to IMAX: What to Know Complex"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Super Bowl LXI to Be Shown in IMAX Theaters",
+     "link": "https://consequence.net/2026/11/super-bowl-lxi-in-imax-theaters/",
+     "published": "2026-11-23T19:15:30+00:00",
+     "summary": "The game, set for February 14th, 2017, and featuring JAY-Z as its halftime performer, will also be broadcast on ESPN, ABC, and Univision, and stream on Disney+. Super Bowl LXI to Be Shown in IMAX Theaters Alex Young"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Super Bowl 2027 and Jay-Z Halftime Show to Screen in Imax Theaters",
+     "link": "https://variety.com/2026/film/news/super-bowl-jay-z-halftime-show-imax-theaters-1236955971/",
+     "published": "2026-11-23T19:00:00+00:00",
+     "summary": "Can’t get a ticket to the big game? Worry not, because Imax is bringing Super Bowl LXI to the big screen. Imax is working with ESPN, the Walt Disney Company and the NFL to screen the Super Bowl in the company’s premium theaters for the firs"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s67",
+   "label": "GTA VI、Grand Theft Auto 6 Soundtrack Deluxe Edition 23曲追加",
+   "artists": [
+    "Travis Scott",
+    "Slayyyter",
+    "Offset",
+    "Anitta",
+    "D'Angelo"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Complex",
+    "Pitchfork",
+    "The Fader",
+    "Variety",
+    "Your EDM"
+   ],
+   "n_outlets": 6,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 6,
+   "score": 6,
+   "latest": "2026-11-23T17:12:28+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Travis Scott, Slayyyter, Offset, Anitta & More Power ‘Grand Theft Auto VI: The Album’ Deluxe Edition: Stream It Now",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTlydEJYeEVNZUMyNy1XNl9oNU85eEhiYWgtV2J3Xy1obG1vMm5BTk1kQmhySXRFV0EwZmxSQ2RiMDduMkhFT2NOc0VRWVYzTXpYbmZjdXVQb193TjFBTVl0SHNDMUUxTHc1OVF3MkZyclJwTE9ZZVFQYmt2c01RVUJjNDQ0Y25Cb3RhejNVcGZLT2IxaFFRY1NRSHBLODlUMkNGTlFJdDBkbzRWRGxB?oc=5",
+     "published": "2026-11-23T17:12:28+00:00",
+     "summary": "Travis Scott, Slayyyter, Offset, Anitta & More Power ‘Grand Theft Auto VI: The Album’ Deluxe Edition: Stream It Now Billboard"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Travis Scott, Slayyyter, the Dare Feature on Deluxe GTA VI Soundtrack",
+     "link": "https://pitchfork.com/story/travis-scott-slayyyter-the-dare-feature-on-deluxe-gta-vi-soundtrack/",
+     "published": "2026-11-23T16:54:39+00:00",
+     "summary": "The new version features 23 more songs, including contributions from Overmono and 21 Savage"
+    },
+    {
+     "outlet": "Complex",
+     "title": "'Grand Theft Auto VI: The Album' Enlists Travis Scott, Slayyyter, and More for Deluxe Edition",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY0xZeXYyWEJUd09QRkhQSUNTZDhQNG9nWE5ZNXdscGQ5TUV1VEQwMVYyN1FDekI3aWRLbjBBMmZvU29uNHlLMTdQNkZsU1A3UzlGZVEzOHh4MmdvMEFjSG9MZmhQdV9ERTd0RmJuaXdDODN6NkRvSFNOV21MZUZRLXZsTDFMN2t2RlE?oc=5",
+     "published": "2026-11-23T14:01:30+00:00",
+     "summary": "'Grand Theft Auto VI: The Album' Enlists Travis Scott, Slayyyter, and More for Deluxe Edition Complex"
+    },
+    {
+     "outlet": "Variety",
+     "title": "‘Grand Theft Auto VI: The Album’ Deluxe Adds 23 Original Songs From Travis Scott, Slayyyter, Offset, Sexyy Red and More",
+     "link": "https://variety.com/2026/music/news/gta-6-the-album-deluxe-travis-scott-slayyyter-1236955629/",
+     "published": "2026-11-23T14:00:00+00:00",
+     "summary": "As if a 34-track soundtrack wasn’t enough, Atlantic Records and Rockstar Games have added 23 more original songs to the surprise deluxe edition of “Grand Theft Auto VI: The Album,” featuring new tracks from Travis Scott, 21 Savage, Slayyyte"
+    },
+    {
+     "outlet": "The Fader",
+     "title": "Grand Theft Auto VI: The Album gets 23-track deluxe with Slayyyter, tana, and more",
+     "link": "https://www.thefader.com/2026/11/23/grand-theft-auto-vi-album-deluxe-slayyyter-tana-overmono",
+     "published": "2026-11-23T11:01:48-05:00",
+     "summary": "Listen to new tunes from HEALTH, Travis Scott, and Denzel Curry, to name a few."
+    },
+    {
+     "outlet": "Your EDM",
+     "title": "The Weeknd and Justice Reunite for GTA VI Soundtrack",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjFXQUMydkhTTnY0a01JcEFfZ3duUGVxb1NsOUxGcTZmNGFIc0F6N0cwcE8zdmItSHl1SXhVQ0tDZjZNakNfbkM0Z0FtaDZWZGR0UDgxNy1sQ25GbmR3Q3ZlOV81eUFBUzF4cTZKd3oxLUxPUUhlRWFnd08wcFhtYkZfbEpHcEROc2VBVVZzczlhUQ?oc=5",
+     "published": "2026-11-23T09:39:55+00:00",
+     "summary": "The Weeknd and Justice Reunite for GTA VI Soundtrack Your EDM"
+    }
+   ],
+   "chart": [
+    {
+     "id": "Sh4pJYJOT7M",
+     "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+     "channel": "Future",
+     "published": "2026-11-10T17:46:05Z",
+     "hours_since": 331,
+     "views": 5705909,
+     "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+     "region": "US",
+     "rank": 14
+    },
+    {
+     "id": "2sUhJahVWyQ",
+     "title": "Travis Scott - Burn This Shit Down [from Grand Theft Auto VI: The Album (Deluxe Edition)]",
+     "channel": "Atlantic Records",
+     "published": "2026-11-23T14:00:35Z",
+     "hours_since": 23,
+     "views": 561800,
+     "url": "https://www.youtube.com/watch?v=2sUhJahVWyQ",
+     "region": "GB",
+     "rank": 18
+    }
+   ],
+   "video": {
+    "id": "Sh4pJYJOT7M",
+    "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+    "channel": "Future",
+    "published": "2026-11-10T17:46:05Z",
+    "hours_since": 331,
+    "views": 5705909,
+    "url": "https://www.youtube.com/watch?v=Sh4pJYJOT7M",
+    "region": "US",
+    "rank": 14
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s98",
+   "label": "GloRilla、Megan Thee Stallionとの不和説に「Tea」を述べる",
+   "artists": [
+    "GloRilla",
+    "Megan Thee Stallion"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "beef",
+   "talk": 2,
+   "outlets": [
+    "Vibe",
+    "XXL"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-23T22:20:19+00:00",
+   "articles": [
+    {
+     "outlet": "Vibe",
+     "title": "GloRilla Spills the “Tea” on Rumored Fallout With Megan Thee Stallion",
+     "link": "https://www.vibe.com/news/entertainment/glorilla-breaks-silence-rumored-fallout-megan-thee-stallion-1235204336/",
+     "published": "2026-11-23T22:20:19+00:00",
+     "summary": "\"People wanna see you do good, but they don’t wanna see you do (great),” said Glo"
+    },
+    {
+     "outlet": "XXL",
+     "title": "GloRilla Addresses Rumored Beef With Megan Thee Stallion",
+     "link": "https://www.xxlmag.com/glorilla-addresses-megan-thee-stallion-beef/",
+     "published": "2026-11-23T18:16:48+00:00",
+     "summary": "Glo keeps it as honest as she can without throwing Megan under the bus. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s90",
+   "label": "Iran、ヒジャーブ無しで演奏した女性シンガー鞭打ち処罰",
+   "artists": [],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "CNN"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "CNN"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-23T21:25:27+00:00",
+   "articles": [
+    {
+     "outlet": "CNN",
+     "title": "Iran flogs female singer and four members of concert team over her performance without hijab",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbTEtek9vd2kzZGRybDFrOFhhTV85Wk90TFotZk9tNktZd2l2YmVMQ0FwZnhqSGgyRlNiRXlndkhVWUNmdXBMSzdOVkJMYWxqbXh4ZTNXaUgyQmdKZ0hnTnN2aE5ibHQ5LW56dmRZbXN1OHBSR0IwQnJQUHdRaE43VGd1ci1mUXN1dThIWjFXRlktQWQ3?oc=5",
+     "published": "2026-11-23T21:25:27+00:00",
+     "summary": "Iran flogs female singer and four members of concert team over her performance without hijab CNN"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s4",
+   "label": "Ed Sheeran Chile公演、Palestine関連サッカーシャツ着用で入場拒否",
+   "artists": [
+    "Ed Sheeran"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-24T12:40:23+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Ed Sheeran fans claim they were denied entry to Chile concert for wearing Palestine-linked football shirts",
+     "link": "https://www.nme.com/news/music/ed-sheeran-fans-denied-entry-chile-concert-wearing-palestine-football-shirts-3976858",
+     "published": "2026-11-24T12:40:23+00:00",
+     "summary": "Chilean football club Palestino, founded by Palestinian immigrants, have condemned the alleged discrimination and offered legal assistance to the fans The post Ed Sheeran fans claim they were denied entry to Chile concert for wearing Palest"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s38",
+   "label": "Mobb Deep、Havoc vs Prodigy Estate訴訟を友好的に解決希望",
+   "artists": [
+    "Mobb Deep",
+    "Havoc",
+    "Prodigy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "AllHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-24T02:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Havoc Hopes To Settle Mobb Deep Lawsuit With Prodigy’s Estate",
+     "link": "https://allhiphop.com/news/havoc-hopes-to-settle-mobb-deep-lawsuit-with-prodigys-estate/",
+     "published": "2026-11-24T02:30:00+00:00",
+     "summary": "Havoc responds to Prodigy's estate over Mobb Deep's concert and merch money and says he wants to resolve it amicably."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s64",
+   "label": "Jagged Edge、Brandon Casey被害者から児童強姦容疑で訴訟",
+   "artists": [
+    "Jagged Edge"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-24T00:23:25+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Jagged Edge Member Brandon Casey Sued by Woman Claiming Child Rape",
+     "link": "https://www.billboard.com/pro/jagged-edge-brandon-casey-lawsuit-child-rape/",
+     "published": "2026-11-24T00:23:25+00:00",
+     "summary": "The woman also alleges she wrote the R&B group’s hit song “Walked Outta Heaven” at age six. Casey \"flatly rejects the untrue allegations.\""
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s99",
+   "label": "Yella Beezy、Mo3殺害容疑控訴提出",
+   "artists": [
+    "Yella Beezy"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-24T00:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Yella Beezy Files Appeal Following Murder Conviction",
+     "link": "https://www.hotnewhiphop.com/1017000-yella-beezy-appeal",
+     "published": "2026-11-24T00:00:00+00:00",
+     "summary": "Yella Beezy was looking to appeal his murder conviction in the death of Mo3, and he has officially taken the next step. The post Yella Beezy Files Appeal Following Murder Conviction appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s65",
+   "label": "Mary J. Blige、『Real Love』copyright侵害訴訟で上訴審で勝訴",
+   "artists": [
+    "Mary J. Blige"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "legal",
+   "talk": 2,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T23:18:01+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Mary J. Blige’s ‘Real Love’ Did Not Infringe on ‘Impeach the President,’ Appeals Court Rules",
+     "link": "https://www.rollingstone.com/music/music-news/mary-j-blige-real-love-impeach-the-president-appeals-ruling-1235663099/",
+     "published": "2026-11-23T23:18:01+00:00",
+     "summary": "“The works as a whole are distinct,” the three-judge panel found"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s102",
+   "label": "Swae Lee、India Cherry Blossom Festival公演でビール瓶被弾",
+   "artists": [
+    "Swae Lee"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "health",
+   "talk": 2,
+   "outlets": [
+    "XXL"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T19:07:50+00:00",
+   "articles": [
+    {
+     "outlet": "XXL",
+     "title": "Swae Lee Gets Hit With Beer While Performing at India Show",
+     "link": "https://www.xxlmag.com/swae-lee-india-beer-thrown-fan/",
+     "published": "2026-11-23T19:07:50+00:00",
+     "summary": "The incident happened at the Cherry Blossom Festival. Continue reading…"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s105",
+   "label": "DJ Akademiks、自身をDrakeと比較しHip-Hop メディア批評",
+   "artists": [
+    "DJ Akademiks"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T17:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "DJ Akademiks Compares Himself To Drake While Popping Off On Hip-Hop Media",
+     "link": "https://www.hotnewhiphop.com/1016971-dj-akademiks-hip-hop-media-drake-dominance",
+     "published": "2026-11-23T17:00:00+00:00",
+     "summary": "DJ Akademiks has been attacked for his place in hip-hop media, and now, he is going on a rant about his dominance. The post DJ Akademiks Compares Himself To Drake While Popping Off On Hip-Hop Media appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s7",
+   "label": "D'Angelo、GTA6に登場した遺作「Kamikazi」ストリーミング配信",
+   "artists": [
+    "D'Angelo"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Complex",
+    "NME",
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 4,
+   "score": 4,
+   "latest": "2026-11-24T12:16:52+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "D’Angelo’s posthumous ‘GTA 6’ anthem ‘Kamikazi’ hits streaming with more music on the way",
+     "link": "https://www.nme.com/news/gaming-news/dangelo-posthumous-gta-6-kamikazi-stream-vinyl-more-music-on-the-way-3976859",
+     "published": "2026-11-24T12:16:52+00:00",
+     "summary": "“He was enthusiastic (to say the least) to have this record included in the game” The post D’Angelo’s posthumous ‘GTA 6’ anthem ‘Kamikazi’ hits streaming with more music on the way appeared first on NME ."
+    },
+    {
+     "outlet": "Complex",
+     "title": "D'Angelo Estate Issues Statement on 'Grand Theft Auto VI' Track \"Kamikazi,\" Announces Vinyl",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkFYdUQyZVJnbXhPamZmSWFBZ1psQ0JGbFNXdk9WeFl2RHJ1bEdyejh2UjhfSFJhZWNaTnMtQ2hCMHBVR0JxWXY4Ql92WDk3N2E2RnVCQmJsQWtSbkswb2VIRmFTU0ZrU0E2SWJZOTdpUDlya25oTTlSWmt1eHBldDFyN3F0WXlONDJn?oc=5",
+     "published": "2026-11-23T19:30:02+00:00",
+     "summary": "D'Angelo Estate Issues Statement on 'Grand Theft Auto VI' Track \"Kamikazi,\" Announces Vinyl Complex"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "D’Angelo’s ‘GTA VI’ Song ‘Kamikaze’ Released as Brother Teases Future Posthumous Songs",
+     "link": "https://www.rollingstone.com/music/music-news/dangelos-gta-vi-kamikaze-brother-new-music-1235662740/",
+     "published": "2026-11-23T17:14:37+00:00",
+     "summary": "“We look forward to sharing more of my brother’s legacy with you,” Luther Archer Jr. said"
+    },
+    {
+     "outlet": "Pitchfork",
+     "title": "Listen to D’Angelo’s Posthumous Song “Kamikazi”",
+     "link": "https://pitchfork.com/story/listen-to-dangelos-posthumous-song-kamikazi/",
+     "published": "2026-11-23T15:02:19+00:00",
+     "summary": "The previously unreleased track surfaced in Grand Theft Auto VI’s Worldwide FM radio station"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s72",
+   "label": "Delano Smith、Detroit house DJ/producer 90年代基礎人物逝去",
+   "artists": [
+    "Delano Smith"
+   ],
+   "genre": "Dance",
+   "kind": "death",
+   "talk": 0,
+   "outlets": [
+    "Clubberia",
+    "DJ Mag",
+    "Mixmag",
+    "Resident Advisor"
+   ],
+   "n_outlets": 4,
+   "jp_outlets": [
+    "Clubberia"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 3,
+   "score": 4,
+   "latest": "2026-11-24T09:09:38+00:00",
+   "articles": [
+    {
+     "outlet": "Clubberia",
+     "title": "Delano Smith逝去、デトロイトのハウスを形づくった一人",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkaXpzOHZ5UlVlV0F4MHZsQU45ekM0Uk4zWGRkSUItVENvWl9JRHRVdnJrTTZlMlVrRncxSXRucDRpWGRRMFZTQmhqU2lsSmNUakJLUkFHdFF3QXVXemc?oc=5",
+     "published": "2026-11-24T09:09:38+00:00",
+     "summary": "Delano Smith逝去、デトロイトのハウスを形づくった一人 Clubberia"
+    },
+    {
+     "outlet": "Resident Advisor",
+     "title": "Mix Of The Day: Delano Smith · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5ETnV0SlhDYzlEbndqOEFxdm5yZVlIR3lnOFZpeWxLVy1vMGp1TmhYTHVjdDYwOVdZZTMzSQ?oc=5",
+     "published": "2026-11-24T06:02:36+00:00",
+     "summary": "Mix Of The Day: Delano Smith · News ⟋ RA Resident Advisor"
+    },
+    {
+     "outlet": "DJ Mag",
+     "title": "Delano Smith, pioneering Detroit house DJ and producer, dies",
+     "link": "https://djmag.com/news/delano-smith-pioneering-detroit-house-dj-and-producer-dies",
+     "published": "2026-11-23T17:45:06+00:00",
+     "summary": "“His contributions to the development of DJ culture, house music and the worldwide recognition of Detroit's underground musical heritage are immeasurable”"
+    },
+    {
+     "outlet": "Resident Advisor",
+     "title": "Legendary Detroit house artist Delano Smith dies · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE85MXliaG52RWJLOVhSc1Z1N095ektNQ28xVWdfcnBhcElTd2RZRkVzTFhTWUk3YmpIN0NpZQ?oc=5",
+     "published": "2026-11-23T16:54:22+00:00",
+     "summary": "Legendary Detroit house artist Delano Smith dies · News ⟋ RA Resident Advisor"
+    },
+    {
+     "outlet": "Mixmag",
+     "title": "Legendary Detroit DJ and producer Delano Smith has died",
+     "link": "https://mixmag.net/read/legendary-detroit-dj-producer-delano-smith-rip-news",
+     "published": null,
+     "summary": "Born in Chicago and raised in Detroit, Smith was a foundational figure in the Motor City underground scene alongside contemporaries Juan Atkins, Kevin Saunderson and Jeff Mills Continue reading..."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s22",
+   "label": "Taylor Swift、Brenda Lee RIAA10xプラチナ記念パネル贈呈",
+   "artists": [
+    "Taylor Swift",
+    "Brenda Lee"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "Billboard JAPAN",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-24T08:05:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "テイラー・スウィフト、ブレンダ・リーにRIAAダイヤモンド記念パネルをサプライズで贈呈「本当に素晴らしい楽曲」",
+     "link": "https://www.billboard-japan.com/d_news/detail/167685",
+     "published": "2026-11-24T08:05:00+09:00",
+     "summary": "テイラー・スウィフトは、【ロックの殿堂】および【カントリー・ミュージックの殿堂】入りを果たしているブレンダ・リーに、…"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Taylor Swift, a Brenda Lee Superfan, Presents the Star With 10x Platinum Plaque for ‘Rockin’ Around the Christmas Tree’",
+     "link": "https://variety.com/2026/music/news/brenda-lee-taylor-swift-diamond-rockin-around-christmas-tree-1236956093/",
+     "published": "2026-11-23T18:22:51+00:00",
+     "summary": "Taylor Swift has gone on record from early in her teens forward as a Brenda Lee fan, and on her recent trip to Nashville she got to honor her predecessor in country-pop crossover stardom with a plaque honoring the diamond-selling status of "
+    }
+   ],
+   "chart": [
+    {
+     "id": "LJC7mgjp5FQ",
+     "title": "Taylor Swift - I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
+     "channel": "Taylor Swift",
+     "published": "2026-11-19T11:00:19Z",
+     "hours_since": 122,
+     "views": 6478906,
+     "url": "https://www.youtube.com/watch?v=LJC7mgjp5FQ",
+     "region": "US",
+     "rank": 1
+    },
+    {
+     "id": "LJC7mgjp5FQ",
+     "title": "Taylor Swift - I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
+     "channel": "Taylor Swift",
+     "published": "2026-11-19T11:00:19Z",
+     "hours_since": 122,
+     "views": 6478906,
+     "url": "https://www.youtube.com/watch?v=LJC7mgjp5FQ",
+     "region": "GB",
+     "rank": 2
+    }
+   ],
+   "video": {
+    "id": "LJC7mgjp5FQ",
+    "title": "Taylor Swift - I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
+    "channel": "Taylor Swift",
+    "published": "2026-11-19T11:00:19Z",
+    "hours_since": 122,
+    "views": 6478906,
+    "url": "https://www.youtube.com/watch?v=LJC7mgjp5FQ",
+    "region": "US",
+    "rank": 1
+   },
+   "shortlisted": true
+  },
+  {
+   "id": "s18",
+   "label": "Zwan、Billy Corgan supergroup『Mary Star of the Sea』再発・未発表曲公開",
+   "artists": [
+    "Zwan",
+    "Billy Corgan"
+   ],
+   "genre": "Other",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "NME Japan",
+    "Rolling Stone"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 3,
+   "latest": "2026-11-24T10:00:57+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "ズワン、デビュー・アルバムの再発が決定＆未発表曲“The Empty Sea”の音源が公開",
+     "link": "https://nme-jp.com/news/174636/",
+     "published": "2026-11-24T10:00:57+00:00",
+     "summary": "ズワンは2003年発表のデビュー・アルバム『メアリー・スター・オブ・ザ・シー』が2LPでリイシューされることが決定している。"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Billy Corgan’s Supergroup Zwan to Reissue Debut Album With 19 Unreleased Tracks",
+     "link": "https://www.rollingstone.com/music/music-news/zwan-reissue-mary-star-of-the-sea-unreleased-music-1235662842/",
+     "published": "2026-11-23T20:31:45+00:00",
+     "summary": "Mary Star of the Sea will also return to streaming services, where it hasn’t been available for years"
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Zwan, Billy Corgan and Jimmy Chamberlin’s Short-Lived Supergroup, Announce Deluxe Reissue of 2003 Album Mary Star of the Sea",
+     "link": "https://consequence.net/2026/11/zwan-mary-star-of-the-sea-deluxe-reissue-billy-corgan-jimmy-chamberlin-supergroup/",
+     "published": "2026-11-23T17:55:14+00:00",
+     "summary": "The group have also shared a previously unheard track, \"The Empty Sea.\" Zwan, Billy Corgan and Jimmy Chamberlin’s Short-Lived Supergroup, Announce Deluxe Reissue of 2003 Album Mary Star of the Sea Paolo Ragusa"
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s6",
+   "label": "Joy Crookes、Union Chapelで戦争チャリティ公演のヘッドライナー",
+   "artists": [
+    "Joy Crookes"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 1,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-24T12:25:27+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Joy Crookes on Speaking Out & Taking to the Stage for War Child: ‘I Felt I Had to Do Something’",
+     "link": "https://www.billboard.com/music/features/joy-crookes-interview-war-child-union-chapel-show-1236384835/",
+     "published": "2026-11-24T12:25:27+00:00",
+     "summary": "The Bangladeshi-Irish Londoner will headline a one-off show at Union Chapel next month."
+    }
+   ],
+   "chart": [],
+   "video": null,
+   "shortlisted": true
+  },
+  {
+   "id": "s33",
+   "label": "Ashanti、デビュー・アルバム再レコーディングの最新情報を公開",
+   "artists": [
+    "Ashanti"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "talk": 1,
+   "outlets": [
+    "Complex"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-24T05:23:01+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "Ashanti Shares Update on Debut Album Re-Recording, Reveals What Pushed Her To Do It",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2RnMTE3Tzc0V01tejg5aUwyNG5MNkNPVDJRT18wQkFXQTU3cHBUc3NLQUxxcm9lQ2JNdVViVlhRTG9iSTU4SEYtalpjNkdzazZmbVo1UkcxaUNod3llZkI4ckpGT3RucS16VnNaQkRDZ2EyVUlmaW9wcWhjYkdBcEFBbzIzSmdFU0dvRzI4QmlxOThKeVFhVFVR?oc=5",
+     "published": "2026-11-24T05:23:01+00:00",
+     "summary": "Ashanti Shares Update on Debut Album Re-Recording, Reveals What Pushed Her To Do It Complex"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s41",
+   "label": "Meek Mill、DC Club アプリで新作リリース予定",
+   "artists": [
+    "Meek Mill"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "announcement",
+   "talk": 1,
+   "outlets": [
+    "HotNewHipHop"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T21:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "HotNewHipHop",
+     "title": "Meek Mill Promises Fans New Music, But You’ll Have To Download A New App To Find It",
+     "link": "https://www.hotnewhiphop.com/1016992-meek-mill-new-music-dc-club-app",
+     "published": "2026-11-23T21:00:00+00:00",
+     "summary": "Meek Mill has been wanting to move away from the current music institutions, and his DC Club app lets him do that. The post Meek Mill Promises Fans New Music, But You’ll Have To Download A New App To Find It appeared first on HotNewHipHop ."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s55",
+   "label": "Molly Meldrum、76歳の音楽プロモーター逝去。AC/DC等が追悼",
+   "artists": [
+    "Molly Meldrum",
+    "AC/DC",
+    "Blondie",
+    "Kylie Minogue"
+   ],
+   "genre": "POP",
+   "kind": "death",
+   "talk": 1,
+   "outlets": [
+    "NME"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T16:36:45+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "AC/DC, Blondie and Kylie Minogue lead tributes after beloved music promoter Molly Meldrum dies, aged 83",
+     "link": "https://www.nme.com/news/music/ac-dc-blondie-and-kylie-minogue-lead-tributes-after-beloved-music-promoter-molly-meldrum-dies-aged-83-3976776",
+     "published": "2026-11-23T16:36:45+00:00",
+     "summary": "\"He shaped not only the sound of a nation but also the dreams of generations who grew up with his voice guiding them\" The post AC/DC, Blondie and Kylie Minogue lead tributes after beloved music promoter Molly Meldrum dies, aged 83 appeared "
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s73",
+   "label": "Titonton Duvanté、DJ視力喪失治療支援基金発足",
+   "artists": [
+    "Titonton Duvanté"
+   ],
+   "genre": "Dance",
+   "kind": "health",
+   "talk": 1,
+   "outlets": [
+    "Mixmag"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "",
+   "articles": [
+    {
+     "outlet": "Mixmag",
+     "title": "Fundraiser launched to support vision loss treatment for US DJ Titonton Duvanté",
+     "link": "https://mixmag.net/read/fundraiser-launched-support-vision-loss-treatment-us-dj-titonton-duvanté-news",
+     "published": null,
+     "summary": "The Ohio artist has suffered a “significant decline” in his vision over the last six months Continue reading..."
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s5",
+   "label": "アリアナ・グランデ、『エターナル・サンシャイン・ツアー』コンサート映画Peacock配信",
+   "artists": [
+    "Ariana Grande"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "Variety"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-24T12:30:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "アリアナ・グランデ、【エターナル・サンシャイン・ツアー】コンサート映画を予告",
+     "link": "https://www.billboard-japan.com/d_news/detail/167696",
+     "published": "2026-11-24T12:30:00+09:00",
+     "summary": "アリアナ・グランデの【エターナル・サンシャイン・ツアー】を収めたコンサート映画が、米Peacockで配信される。現地…"
+    },
+    {
+     "outlet": "Variety",
+     "title": "Ariana Grande Teases ‘Eternal Sunshine Tour’ Movie at Peacock",
+     "link": "https://variety.com/2026/music/news/ariana-grande-teases-eternal-sunshine-tour-movie-peacock-1236956068/",
+     "published": "2026-11-23T17:52:07+00:00",
+     "summary": "Ariana Grande is teasing a documentary or concert film of her “Eternal Sunshine” tour, posting a clip on social media that reveals the movie will air on Peacock. The singer posted a clip on Monday morning from the moment in her “Eternal Sun"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s75",
+   "label": "Zamna Promoter、Tulum Jungles 40,000キャパシティUX Arena元日前夜新年公演開設",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "festival",
+   "talk": 0,
+   "outlets": [
+    "Billboard"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-24T12:00:22+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Zamna Promoter to Open 40,000-Capacity UX Arena in Tulum Jungle on New Year’s Eve",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PZFNlSXlDWXo1U1NERGx6XzFLSmJNV3RILTJZMXU4bFN5cjNVTFVSYi1VSjRVZ291cnZBRWE3MWQ2S01JWGU5TXoxWm9GMDdTaDFxVXdFWG1oX0kwMG5pai0wUG1JRkRaVW5zU1pLcjVnOEZpWHc?oc=5",
+     "published": "2026-11-24T12:00:22+00:00",
+     "summary": "Zamna Promoter to Open 40,000-Capacity UX Arena in Tulum Jungle on New Year’s Eve Billboard"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s118",
+   "label": "KEPA Captures Summer Nostalgia With ‘Stay With Me Tonight’",
+   "artists": [],
+   "genre": "Dance",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Your EDM"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-24T09:42:04+00:00",
+   "articles": [
+    {
+     "outlet": "Your EDM",
+     "title": "KEPA Captures Summer Nostalgia With ‘Stay With Me Tonight’",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGZSVGtyRW5mTE5BaXVaaXdNaHcwaGJCdjJGMVdLVGtQUWk2R2lRTUNhTkd6NWZQeTRTQU8xcXZoRVdvNlhaZ0htRlhBMVFiTDVNOVBWVkpaMV9qQmQ5XzhGZ0FZZjNyVU83X1MyeDVfQUllaVdvOVNBTGI4SVN6STkweHM4eWRrX09BOUZ5ZlZkRDVIQWN3?oc=5",
+     "published": "2026-11-24T09:42:04+00:00",
+     "summary": "KEPA Captures Summer Nostalgia With ‘Stay With Me Tonight’ Your EDM"
+    }
+   ],
+   "chart": [],
+   "shortlisted": true
+  },
+  {
+   "id": "s35",
+   "label": "Chapterhouse、2027年2月来日ツアーに追加公演決定",
+   "artists": [
+    "Chapterhouse"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "NME Japan",
+    "Yahoo!ニュース",
+    "クリエイティブマン"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "NME Japan",
+    "Yahoo!ニュース",
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T09:01:20+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "CHAPTERHOUSE 東京追加公演決定！",
+     "link": "https://www.creativeman.co.jp/2026/11/24/109495/",
+     "published": "2026-11-24T09:01:20+00:00",
+     "summary": "東京公演への大きな反響を受け、2月16日（火）吉祥寺CLUB SEATAでの追加公演が決定！ O-EASTよりもコンパクトな会場で、CHAPTERHOUSEの音圧を間近で体感できる特別な一夜！ ゲストにはcruyff i […] The post CHAPTERHOUSE 東京追加公演決定！ first appeared on CREATIVEMAN PRODUCTIONS ."
+    },
+    {
+     "outlet": "NME Japan",
+     "title": "チャプターハウス、2027年2月に行われる来日公演に追加公演が決定",
+     "link": "https://nme-jp.com/news/174654/",
+     "published": "2026-11-24T09:00:42+00:00",
+     "summary": "チャプターハウスは2027年2月に行われる来日公演で追加公演が行われることが決定している。"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "Chapterhouse、17年ぶり来日ツアーの東京追加公演が決定 cruyff in the bedroomが初期曲を特別セットで披露",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YZzNydFJtQThzemtOZ0JYWVBpbHVsMU9HZmwyeHc1VzZtT2d2aGwtcVFMdW4tRlhvX0Y3VTBLdkpscDg2cGp0WWh5TEEwd0ZfSHpNV3pEeC1xX2UtbzVnRENhbDg4M24yUWdmXzR6ZG9oaENfLWFKZl9zTG1ZSUE?oc=5",
+     "published": "2026-11-24T09:00:00+00:00",
+     "summary": "Chapterhouse、17年ぶり来日ツアーの東京追加公演が決定 cruyff in the bedroomが初期曲を特別セットで披露 Yahoo!ニュース"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s21",
+   "label": "Converge、新アルバム『Hum Of Hurt』引っ提げ来年1月来日ツアー決定",
+   "artists": [
+    "Converge"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "NME Japan",
+    "amass",
+    "激ロック"
+   ],
+   "n_outlets": 3,
+   "jp_outlets": [
+    "NME Japan",
+    "amass",
+    "激ロック"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T08:30:03+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "コンヴァージ、2027年1月に来日公演が決定",
+     "link": "https://nme-jp.com/news/174656/",
+     "published": "2026-11-24T08:30:03+00:00",
+     "summary": "コンヴァージは2027年1月に来日公演を行うことが決定している。"
+    },
+    {
+     "outlet": "激ロック",
+     "title": "CONVERGE、ニュー・アルバム『Hum Of Hurt』引っ提げ日本襲来！来年1月東名阪でジャパン・ツアー開催決定！",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFeFdTZmlQNm10bnBjZmNweDdPQ1Z0UFF2OEdWUV85MVo5MjRKQmZTc2JkZXFjcEc2TzNoSWFxejJpYzJhS2RaNXFScXIwSWpXTTd3YW03Vk1ucXVvRF9NeGNFQVowVTk5a0ZSYm9PUQ?oc=5",
+     "published": "2026-11-24T08:20:00+00:00",
+     "summary": "CONVERGE、ニュー・アルバム『Hum Of Hurt』引っ提げ日本襲来！来年1月東名阪でジャパン・ツアー開催決定！ 激ロック"
+    },
+    {
+     "outlet": "amass",
+     "title": "コンヴァージの来日公演決定",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9Zd3hielIzSVdKNVlwSjBQY2pZOF9CNGZUYVZnX0JJUmlHakphc3lkYVZSd3J4T0RqUVVMWQ?oc=5",
+     "published": "2026-11-24T08:06:00+00:00",
+     "summary": "コンヴァージの来日公演決定 amass"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s10",
+   "label": "EVAN、初のファンライブツアー『EVERLASTING』開催決定、日本・世界14都市へ",
+   "artists": [
+    "EVAN"
+   ],
+   "genre": "POP",
+   "kind": "tour",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "Infoseek"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "Infoseek"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T12:00:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "EVAN、初のファンライブツアー【EVAN FAN LIVE 'EVERLASTING'】開催決定 来年1月の東京3公演を皮切りに世界14都市へ",
+     "link": "https://www.billboard-japan.com/d_news/detail/167690",
+     "published": "2026-11-24T12:00:00+09:00",
+     "summary": "ソロアーティスト・EVANが、自身初となるファンライブツアー【EVAN FAN LIVE 'EVERLASTING'…"
+    },
+    {
+     "outlet": "Infoseek",
+     "title": "EVAN、初のファンライブツアーが決定…日本・韓国を皮切りに北米まで",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vVGlvS1hjQk9wMFB0czNTbmlyakRjVy1QSk9nZHdDdEZXeEZTS2c0U0ZaSVUwT1A3X0ZsRVVBV2E1RG8yVFNYbXZKU3hDckZPY2xVcjJ0VnUtZnJWYUNJd2pn?oc=5",
+     "published": "2026-11-24T08:18:03+00:00",
+     "summary": "EVAN、初のファンライブツアーが決定…日本・韓国を皮切りに北米まで Infoseek"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s12",
+   "label": "Billie Eilish、ロンドンHyde Parkで公演決定",
+   "artists": [
+    "Billie Eilish"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "NME Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T11:30:57+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "ビリー・アイリッシュ、ロンドンのハイド・パークで公演を行うことが決定",
+     "link": "https://nme-jp.com/news/174651/",
+     "published": "2026-11-24T11:30:57+00:00",
+     "summary": "ビリー・アイリッシュはロンドンのハイド・パークで公演を行うことが決定している。"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s17",
+   "label": "Nina Kraviz、来日控える中Ibiza名門クラブ・クロージングセット公開",
+   "artists": [
+    "Nina Kraviz"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "EDM MAXX"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "EDM MAXX"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T10:41:27+00:00",
+   "articles": [
+    {
+     "outlet": "EDM MAXX",
+     "title": "来日控えるNina Kraviz、イビサ名門クラブ シーズンを締めくくるクロージングセット公開",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE52am1STk9yd2RxdTdZdUVHTG5Ea3ZqNGlmemNZTE1VWG1zQUJiZnBEbHFKNDA0cXdYaUFaVllBanhUTldy?oc=5",
+     "published": "2026-11-24T10:41:27+00:00",
+     "summary": "来日控えるNina Kraviz、イビサ名門クラブ シーズンを締めくくるクロージングセット公開 EDM MAXX"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s39",
+   "label": "wave to earth、『the pieces tour』日本公演記念GUESS JEANS限定POP-UP開催",
+   "artists": [
+    "wave to earth"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "千葉テレビ放送株式会社"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "千葉テレビ放送株式会社"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T08:48:25+00:00",
+   "articles": [
+    {
+     "outlet": "千葉テレビ放送株式会社",
+     "title": "GUESS JEANS、wave to earthの「the pieces tour」日本公演を記念した期間限定POP-UPを11月26日から開催",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaElEWTZsdUctMnJzLTcxanlsSGU3R0RtOWFEWm9rNjZjbEdxS3FFMHkyRml5S0ZxNkMwSWFjdXBVQ2dnLXBGMGZSRXdQMnJrVWQ0M0RBMmxNUGlBLVhTek9YTWU?oc=5",
+     "published": "2026-11-24T08:48:25+00:00",
+     "summary": "GUESS JEANS、wave to earthの「the pieces tour」日本公演を記念した期間限定POP-UPを11月26日から開催 千葉テレビ放送株式会社"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s29",
+   "label": "Tori Kelly、2027年6月来日公演決定",
+   "artists": [
+    "Tori Kelly"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LMusic-音楽ニュース-"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T04:58:56+00:00",
+   "articles": [
+    {
+     "outlet": "LMusic-音楽ニュース-",
+     "title": "Tori Kelly、2027年6月に来日公演が決定 - LMusic-音楽ニュース-",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pUFpIVzV0RkVsVGNHWlczRzVBTHljd1R0ZWg1TTlhN3dRR0wxMGw4S01QZTRrQko2TDJPNUIwZXFZbzZDRnRF?oc=5",
+     "published": "2026-11-24T04:58:56+00:00",
+     "summary": "Tori Kelly、2027年6月に来日公演が決定 LMusic-音楽ニュース-"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s30",
+   "label": "Lucy St. Louis、『ニューイヤー・ミュージカル・コンサート2027』初来日出演決定",
+   "artists": [
+    "Lucy St. Louis"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "www.tv-tokyo.co.jp"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "www.tv-tokyo.co.jp"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T04:09:31+00:00",
+   "articles": [
+    {
+     "outlet": "www.tv-tokyo.co.jp",
+     "title": "英国ミュージカル界屈指のソプラノ【ルーシー・セントルイス】初来日 『ニューイヤー・ミュージカル・コンサート 2027』全出演者決定！ - www.tv-tokyo.co.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pT1lOamdWZVh6T2Y2aXBHdUZJcVZiV0R0TDJWaXp1blkzYlNJU0UtWmRSdkpKaHpRMzFyd2dwWjJKMXltUjFjVFd5TG9FYVJkeXNWSjFlamJjTGF4VlRIRXc4VXNWUFl0SWd0b0p3?oc=5",
+     "published": "2026-11-24T04:09:31+00:00",
+     "summary": "英国ミュージカル界屈指のソプラノ【ルーシー・セントルイス】初来日 『ニューイヤー・ミュージカル・コンサート 2027』全出演者決定！ www.tv-tokyo.co.jp"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s47",
+   "label": "Queens of the Stone Age、来日公演グッズ販売情報",
+   "artists": [
+    "Queens of the Stone Age"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "クリエイティブマン"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "クリエイティブマン"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T02:46:03+00:00",
+   "articles": [
+    {
+     "outlet": "クリエイティブマン",
+     "title": "QUEENS OF THE STONE AGE グッズ販売のご案内",
+     "link": "https://www.creativeman.co.jp/2026/11/24/109600/",
+     "published": "2026-11-24T02:46:03+00:00",
+     "summary": "＜先行販売＞ 11/25(水) 東京 Zepp Haneda 16:00- 11/26(木) 愛知 Zepp Nagoya 16:00-17:45 11/28(土) 大阪 Zepp Namba 15:00-16:45 ※ […] The post QUEENS OF THE STONE AGE グッズ販売のご案内 first appeared on CREATIVEMAN PRODUCTIONS ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s92",
+   "label": "TOTO、結成50周年記念日本ツアー決定・約4年ぶり大阪・東京",
+   "artists": [
+    "TOTO"
+   ],
+   "genre": "Other",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "山陽新聞"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "山陽新聞"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T17:02:22+00:00",
+   "articles": [
+    {
+     "outlet": "山陽新聞",
+     "title": "TOTO、結成50周年を記念した日本ツアーが決定 約4年ぶり、大阪＆東 京 で開催",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lUDBHUmNzazBJTzE3UXpJdkxiYTBXZW9ScDBIZ3ZKZ0NmZ3JFUTVvR1Y1aHo1ZHFRbTdOcTVrZmRfQ0V3MkF1Rm5Eam44RTZ1aXlzUGdESTdDR0JuWHVSNTlHNA?oc=5",
+     "published": "2026-11-23T17:02:22+00:00",
+     "summary": "TOTO、結成50周年を記念した日本ツアーが決定 約4年ぶり、大阪＆東 京 で開催 山陽新聞"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s112",
+   "label": "5 Seconds of Summer、2026年来日公演 東京 Day1セットリスト",
+   "artists": [
+    "5 Seconds of Summer"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "djplumadventuretimes.com"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "djplumadventuretimes.com"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T12:16:42+00:00",
+   "articles": [
+    {
+     "outlet": "djplumadventuretimes.com",
+     "title": "5 Seconds of Summer、2026年来日公演 東京 Day1セットリスト",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55bzA5RldiczNMTWdJd3kwMm13bEdzaG83UzA4YUVkYjJWOWVpZGJYZkNCOHdoNkJOUmU1VkdiM25FQjRldklQNlZpNS1FRVJYVVI0ZlRnVzV3bjVKckl3eHVmYUcxQQ?oc=5",
+     "published": "2026-11-23T12:16:42+00:00",
+     "summary": "5 Seconds of Summer、2026年来日公演 東京 Day1セットリスト https://djplumadventuretimes.com/"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s113",
+   "label": "Li Yilei、London sound artist来日ツアー開催",
+   "artists": [
+    "Li Yilei"
+   ],
+   "genre": "Dance",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "LIVERARY"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "LIVERARY"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T10:15:45+00:00",
+   "articles": [
+    {
+     "outlet": "LIVERARY",
+     "title": "ロンドンを拠点に活動する、サウンドアーティスト・Li Yileiが、来日ツアーを開催。鈴鹿・HAPPY MOUTHにてausと、鶴舞・K.D JaponにてRego、CazU-23と共演。",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KRllfbU1OWFJTQ3BqUEVaUmNxM3dWV1ZFelcya1ZXZ0NhWWxtSnZRNzVFenhoakp2WjhkLXFuNnI1UHVUMG5MejJGOW0yNnp6Wk1jMQ?oc=5",
+     "published": "2026-11-23T10:15:45+00:00",
+     "summary": "ロンドンを拠点に活動する、サウンドアーティスト・Li Yileiが、来日ツアーを開催。鈴鹿・HAPPY MOUTHにてausと、鶴舞・K.D JaponにてRego、CazU-23と共演。 LIVERARY"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s114",
+   "label": "Ho Namjun、2027年1月24日東京アンコール公演決定",
+   "artists": [
+    "Ho Namjun"
+   ],
+   "genre": "POP",
+   "kind": "japan_tour",
+   "talk": 0,
+   "outlets": [
+    "Kstyle"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Kstyle"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": true,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T09:43:05+00:00",
+   "articles": [
+    {
+     "outlet": "Kstyle",
+     "title": "ホ・ナムジュン、日本ファンの声援に応えアンコール公演が決定！2027年1月24日に東京で開催",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YVG5lcGtabkhhZmI1azU3S1IyNDFZN1JhRWZLUzlfd2xlRjM3eWRXQWlJRVNsUklPVHJUcjJrZk1PWS1sQ0dYMmtzUEV3UlFmeXFSMnVHX2ZDTXU1?oc=5",
+     "published": "2026-11-23T09:43:05+00:00",
+     "summary": "ホ・ナムジュン、日本ファンの声援に応えアンコール公演が決定！2027年1月24日に東京で開催 Kstyle"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s19",
+   "label": "Nick Cave & The Bad Seeds、1986年Manchester公演未発表映像公開",
+   "artists": [
+    "Nick Cave & The Bad Seeds"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "NME"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-24T09:45:38+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Nick Cave & The Bad Seeds share previously unseen live footage from Manchester 1986 gig, as Cave works on lyrics for new album",
+     "link": "https://www.nme.com/news/music/nick-cave-bad-seeds-live-footage-manchester-1986-lyrics-for-new-album-3976823",
+     "published": "2026-11-24T09:45:38+00:00",
+     "summary": "The archival performances mark 40 years of ‘Your Funeral... My Trial’, with Cave now hinting at plans for The Bad Seeds in 2029 The post Nick Cave & The Bad Seeds share previously unseen live footage from Manchester 1986 gig, as Cave works "
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Nick Cave & The Bad Seeds Unearth Feral 1986 Live Footage for Your Funeral… My Trial’s 40th Anniversary: Stream",
+     "link": "https://consequence.net/2026/11/nick-cave-bad-seeds-1986-live-footage-your-funeral-my-trial/",
+     "published": "2026-11-23T22:38:37+00:00",
+     "summary": "The 10-song VHS set captures Cave and the Bad Seeds in a haze of leather, sweat, cigarette smoke, howls, and early-career chaos. Nick Cave & The Bad Seeds Unearth Feral 1986 Live Footage for Your Funeral… My Trial’s 40th Anniversary: Stream"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s109",
+   "label": "Midge Ure、Visageの『Fade to Grey』MV制作裏話",
+   "artists": [
+    "Midge Ure",
+    "Visage"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "The Guardian"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-23T15:08:47+00:00",
+   "articles": [
+    {
+     "outlet": "The Guardian",
+     "title": "‘Most of the video budget went on Steve Strange’s makeup’: Midge Ure on how Visage made Fade to Grey",
+     "link": "https://www.theguardian.com/culture/2026/nov/23/visage-fade-to-grey-midge-ure-steve-strange-millais-ophelia-pre-raphaelite",
+     "published": "2026-11-23T15:08:47+00:00",
+     "summary": "‘I was really into pre-Raphaelite paintings – Millais’ drowning Ophelia and the like – so I wrote a romantic study that eventually became this’ Visage were an amalgamation of three bands: Rich Kids, Magazine and Ultravox. Since all three we"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s106",
+   "label": "Pitchfork founder Ryan Schreiber、『Weird Era』で音楽メディア歴史語る",
+   "artists": [
+    "Pitchfork"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "AP通信"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [
+    "AP通信"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 2,
+   "latest": "2026-11-23T14:15:00+00:00",
+   "articles": [
+    {
+     "outlet": "AP通信",
+     "title": "Pitchfork transformed music media. Founder Ryan Schreiber tells the story in ‘Weird Era’",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFlQMGhFLTcxVkw2dE5zSWUzNy04bUNHRE9BUl90LV9HUHRxY0IycXo3VVJGeVhlZ0xtak5mNG5IaXRoSFVLZzBDeDdmU0lQRlRyRFZFU1BZQ2o3R2h2RkJKTjhxVTRPcEFva0tHa3FTbEhjVVQ3YmpNdjN5UUQ0aWszdTYtWkV6aGdpR1EyVDJSNEJ0SE9DT0RVUURfMVE1MTlmWkczeDBfVE5sU29zMA?oc=5",
+     "published": "2026-11-23T14:15:00+00:00",
+     "summary": "Pitchfork transformed music media. Founder Ryan Schreiber tells the story in ‘Weird Era’ AP News"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s28",
+   "label": "Queen「We Are the Champions」複数形の理由とフレディの思い",
+   "artists": [
+    "Queen"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "au Webポータル"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "au Webポータル"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T08:28:00+00:00",
+   "articles": [
+    {
+     "outlet": "au Webポータル",
+     "title": "クイーンの名曲「伝説のチャンピオン(We Are the Champions）」はなぜ複数形？ フレディ・マーキュリーが込めた思いと卒業式の逸話",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fZG42Rm93d3BYaF95blZrb0RMRFpoRlk0bW1uemxpYTU5TXFhR1haNm9RSHFKY1N6SGhHaHhtT254ajZ2MmtMT0E1TlhYV21VWklHX3RrQWN5clVQQmpTSDVXOTBsY2t2ZFVTdU13?oc=5",
+     "published": "2026-11-24T08:28:00+00:00",
+     "summary": "クイーンの名曲「伝説のチャンピオン(We Are the Champions）」はなぜ複数形？ フレディ・マーキュリーが込めた思いと卒業式の逸話 au Webポータル"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s46",
+   "label": "Queens of the Stone Age、『Villains World Tour』セットリスト",
+   "artists": [
+    "Queens of the Stone Age"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "もとりょこblog -"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "もとりょこblog -"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T05:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "もとりょこblog -",
+     "title": "Queens of the Stone Age Villains World Tour セットリストまとめ - もとりょこblog -",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpanpMcGRlTzVWamZUVXh5MlhiYUZxLVA3YUtWR1B1UVNIdmpleU53bkRrb1VxdDZzVTRoZGxpY09fZnFpSDVuTzJB?oc=5",
+     "published": "2026-11-24T05:00:00+00:00",
+     "summary": "Queens of the Stone Age Villains World Tour セットリストまとめ もとりょこblog -"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s31",
+   "label": "P-Funk壮大な歴史を徹底解説する名著『Pファンク関連図』復刊",
+   "artists": [
+    "Parliament-Funkadelic"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "AGARA 紀伊民報"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "AGARA 紀伊民報"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T04:05:00+00:00",
+   "articles": [
+    {
+     "outlet": "AGARA 紀伊民報",
+     "title": "Pファンクの壮大な歴史を徹底解説する名著が復刊 複雑なネットワークをひもとく「Pファンクの人脈大相関図」も",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MUm5uQU45YXJMYXRBckkwd05YY3BnX2tNRlNQRUpDenhvU3FKbXZwcnFNVGprbkFsSW5tWWZWTUpUSW5tN216ZVYwVmJyeWl4TGtTMy1sNzVaRnJDSlRRRGhnT1hmQQ?oc=5",
+     "published": "2026-11-24T04:05:00+00:00",
+     "summary": "Pファンクの壮大な歴史を徹底解説する名著が復刊 複雑なネットワークをひもとく「Pファンクの人脈大相関図」も AGARA 紀伊民報"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s117",
+   "label": "Queens of the Stone Age『Perfecth』ダイナミック演奏と朗々歌唱充実作",
+   "artists": [
+    "Queens of the Stone Age"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Mikiki by TOWER RECORDS"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "Mikiki by TOWER RECORDS"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T22:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "Mikiki by TOWER RECORDS",
+     "title": "クイーンズ・オブ・ザ・ストーン・エイジ（Queens Of The Stone Age）『Perfecth』ダイナミックな演奏を従えつつ歌そのものを朗々と聴かせる大充実作",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TRTZKekN6eHRyZlFpbG9hOUJ3d3lxM1Y1R21fVzAzR1haS2JxQWNyTUliTTBVRXU1eVhCM2FCYnlZOTNCYTVFbWljdUxmSWZJaFE?oc=5",
+     "published": "2026-11-23T22:30:00+00:00",
+     "summary": "クイーンズ・オブ・ザ・ストーン・エイジ（Queens Of The Stone Age）『Perfecth』ダイナミックな演奏を従えつつ歌そのものを朗々と聴かせる大充実作 Mikiki by TOWER RECORDS"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s89",
+   "label": "New Wave Music Documentary、Synthesizers・MTV・Androgyny探究",
+   "artists": [
+    "B-52s",
+    "Duran Duran",
+    "Tears for Fears",
+    "Billy Idol"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Variety"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T18:25:00+00:00",
+   "articles": [
+    {
+     "outlet": "Variety",
+     "title": "Why New Wave Music Won’t Go Away: New Documentary Explores How Synthesizers, MTV and Androgyny Built the Enduring Genre",
+     "link": "https://variety.com/2026/music/features/new-wave-music-wont-go-away-documentary-mgm-plus-1236954761/",
+     "published": "2026-11-23T18:25:00+00:00",
+     "summary": "From “Stranger Things” to virtually any Trader Joe’s, new wave music is inescapable. Not only are bands like B-52s, Duran Duran, Tears for Fears and Billy Idol still frequently touring, new generations are embracing the danceable sounds of "
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s85",
+   "label": "Led Zeppelin、1977 Madison Square Garden未発表Super 8映像浮上",
+   "artists": [
+    "Led Zeppelin"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 1,
+   "outlets": [
+    "Rolling Stone"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 1,
+   "latest": "2026-11-23T17:38:39+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Previously Unseen Footage of Led Zeppelin at Madison Square Garden Surfaces After 49 Years",
+     "link": "https://www.rollingstone.com/music/music-news/led-zeppelin-madison-square-garden-49-years-1235662709/",
+     "published": "2026-11-23T17:38:39+00:00",
+     "summary": "A 17-year-old fan sneaked a Super 8 camera into the New York arena in 1977 by stuffing it into his jacket, and Zeppelin fans worldwide owe him a debt of gratitude"
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s86",
+   "label": "Beach Boys『Good Vibrations』初全英No.1秘話・舞台裏",
+   "artists": [
+    "The Beach Boys"
+   ],
+   "genre": "POP",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "n_outlets": 1,
+   "jp_outlets": [
+    "uDiscoverMusic Japan"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-23T13:45:15+00:00",
+   "articles": [
+    {
+     "outlet": "uDiscoverMusic Japan",
+     "title": "ビーチ・ボーイズ初の全英No.1ヒット「Good Vibrations」の舞台裏",
+     "link": "https://www.udiscovermusic.jp/stories/beach-boys-good-vibrations-uk-no-1-song",
+     "published": "2026-11-23T13:45:15+00:00",
+     "summary": "ブライアン・ウィルソンの「Good Vibrations」は1966年11月17日、ビーチ・ボーイズに初の全英1位をもたらした。19回に及んだスタジオ・セッションと、全英チャートでの快進撃を振り返る。 The post ビーチ・ボーイズ初の全英No.1ヒット「Good Vibrations」の舞台裏 appeared first on uDiscoverMusic | 洋楽についての音楽サイト ."
+    }
+   ],
+   "shortlisted": true
+  },
+  {
+   "id": "s9",
+   "label": "Beatles、Savile Rowの建物でルーフトップ・コンサート禁止に",
+   "artists": [
+    "The Beatles"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 1,
+   "outlets": [
+    "NME Japan",
+    "The Guardian"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "NME Japan"
+   ],
+   "mainstream_outlets": [
+    "The Guardian"
+   ],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 1,
+   "score": 3,
+   "latest": "2026-11-24T12:00:35+00:00",
+   "articles": [
+    {
+     "outlet": "NME Japan",
+     "title": "ビートルズ、サヴィル・ロウの建物で今後はルーフトップ・コンサートが禁止されることに",
+     "link": "https://nme-jp.com/news/174648/",
+     "published": "2026-11-24T12:00:35+00:00",
+     "summary": "ザ・ビートルズが1969年にルーフトップ・コンサートを行った場所でのライヴが禁じられたことが明らかになっている。"
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Proposed Beatles attraction on Savile Row faces rooftop gigs ban",
+     "link": "https://www.theguardian.com/music/2026/nov/24/beatles-attraction-savile-row-live-music-ban-westminster-council",
+     "published": "2026-11-24T08:00:11+00:00",
+     "summary": "Westminster council to vote on restrictions at planned tourist venue and site of band’s final public concert The Beatles stunned onlookers when they pitched up on the rooftop of 3 Savile Row in London in 1969 for their final public performa"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s37",
+   "label": "Jodeci、K-Ci Hailey脱水症で Louisville公演キャンセル",
+   "artists": [
+    "Jodeci"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "health",
+   "talk": 0,
+   "outlets": [
+    "AllHipHop",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-24T02:43:42+00:00",
+   "articles": [
+    {
+     "outlet": "AllHipHop",
+     "title": "Jodeci Cancels Louisville Show After K-Ci Hailey Suffers Severe Dehydration",
+     "link": "https://allhiphop.com/ahhplus/jodeci-cancels-louisville-show-after-k-ci-hailey-suffers-severe-dehydration/",
+     "published": "2026-11-24T02:43:42+00:00",
+     "summary": "Jodeci canceled its Louisville concert after K-Ci Hailey suffered severe dehydration."
+    },
+    {
+     "outlet": "Complex",
+     "title": "Jodeci's K-Ci Breaks Silence on Medical Emergency That Led to Concert Cancellation: 'Truly Sorry'",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlFQel8weHJGWHVCcldrVjM0ZGdJMlI3NUg2Y2VXbXBwOU1jUGdsUzFJNW9nbnJCdVIyZzYyZEFyRm9IaktEQVNzMkhCOUhhakZXSnFaLVZqTmpCOFotNUdFdjMyY2pUQWx6bHJ1NWp6bUgyRW9iMmxkVk1iWDl0aXNGMmRLcVFucGVDQ2Y1Y0pWQQ?oc=5",
+     "published": "2026-11-23T22:25:17+00:00",
+     "summary": "Jodeci's K-Ci Breaks Silence on Medical Emergency That Led to Concert Cancellation: 'Truly Sorry' Complex"
+    },
+    {
+     "outlet": "Complex",
+     "title": "Jodeci Abruptly Cancels Show After K-Ci Suffers Medical Emergency",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNjN1N0JyWW96bWVobUtLMWpILTBJM21WRXJiY0N3dHhta2FnYUI1cF9BNGtOeXgxbUpNZkhyanVLY2Z3SVRRQnJOTVoxM0FhY0lIM054UnVDbnI5T2lpenNhal81eDQ4QlREUUR3ZHVKTDJqNkVCZDZzQU5zSEZHRWdJb1VBZ3RfX0ZfYnBVejc3blFzanFjdUQzQmtoeW1Md3htUTE1QTBtTndhWHFpSg?oc=5",
+     "published": "2026-11-23T19:36:34+00:00",
+     "summary": "Jodeci Abruptly Cancels Show After K-Ci Suffers Medical Emergency Complex"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s19",
+   "label": "Nick Cave & The Bad Seeds、1986年Manchester公演未発表映像公開",
+   "artists": [
+    "Nick Cave & The Bad Seeds"
+   ],
+   "genre": "Other",
+   "kind": "evergreen",
+   "talk": 0,
+   "outlets": [
+    "Consequence",
+    "NME"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-24T09:45:38+00:00",
+   "articles": [
+    {
+     "outlet": "NME",
+     "title": "Nick Cave & The Bad Seeds share previously unseen live footage from Manchester 1986 gig, as Cave works on lyrics for new album",
+     "link": "https://www.nme.com/news/music/nick-cave-bad-seeds-live-footage-manchester-1986-lyrics-for-new-album-3976823",
+     "published": "2026-11-24T09:45:38+00:00",
+     "summary": "The archival performances mark 40 years of ‘Your Funeral... My Trial’, with Cave now hinting at plans for The Bad Seeds in 2029 The post Nick Cave & The Bad Seeds share previously unseen live footage from Manchester 1986 gig, as Cave works "
+    },
+    {
+     "outlet": "Consequence",
+     "title": "Nick Cave & The Bad Seeds Unearth Feral 1986 Live Footage for Your Funeral… My Trial’s 40th Anniversary: Stream",
+     "link": "https://consequence.net/2026/11/nick-cave-bad-seeds-1986-live-footage-your-funeral-my-trial/",
+     "published": "2026-11-23T22:38:37+00:00",
+     "summary": "The 10-song VHS set captures Cave and the Bad Seeds in a haze of leather, sweat, cigarette smoke, howls, and early-career chaos. Nick Cave & The Bad Seeds Unearth Feral 1986 Live Footage for Your Funeral… My Trial’s 40th Anniversary: Stream"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s25",
+   "label": "Miley Cyrus、Maxx Morandoとの結婚式Billy Ray Cyrus写真投稿",
+   "artists": [
+    "Miley Cyrus",
+    "Maxx Morando",
+    "Billy Ray Cyrus"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-24T07:39:10+00:00",
+   "articles": [
+    {
+     "outlet": "Billboard",
+     "title": "Billy Ray Cyrus on Miley’s Wedding: ‘I’m the Proudest Dad Alive’",
+     "link": "https://www.billboard.com/music/pop/billy-ray-cyrus-miley-wedding-photos-proudest-dad-alive-1236388527/",
+     "published": "2026-11-24T07:39:10+00:00",
+     "summary": "The singer posted his own images from the Palm Springs ceremony, where his daughter married Maxx Morando on Saturday."
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Billy Ray Cyrus Shares Snapshots From Miley’s Wedding: ‘Beautiful’ to See Family ‘United by Love’",
+     "link": "https://www.rollingstone.com/music/music-news/miley-cyrus-wedding-father-billy-ray-cyrus-1235663323/",
+     "published": "2026-11-24T05:36:39+00:00",
+     "summary": "Miley Cyrus and Maxx Morando tied the knot over the weekend at a ceremony in Palm Springs"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s80",
+   "label": "KATSEYE、『K-Pop: The Debut』映画オフィシャルトレーラー登場",
+   "artists": [
+    "KATSEYE"
+   ],
+   "genre": "POP",
+   "kind": "other",
+   "talk": 0,
+   "outlets": [
+    "Billboard",
+    "Complex"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-24T00:25:01+00:00",
+   "articles": [
+    {
+     "outlet": "Complex",
+     "title": "'K-Pop: The Debut' official trailer features music by KATSEYE. In theatres on February 26, 2027.",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fZTJCbHM3aTk5QmlKNEhxNFpGMkVSM2NXcGdaMGVMX1NJcnhHQ19iSXRFNk9EdWNOWXozQnZWMzZ4QTQxbTNCT3hIYjJGZThGcWpDUXhhMVl1RXoyaFFkUkU1TTRDQzZqaVE?oc=5",
+     "published": "2026-11-24T00:25:01+00:00",
+     "summary": "'K-Pop: The Debut' official trailer features music by KATSEYE. In theatres on February 26, 2027. Complex"
+    },
+    {
+     "outlet": "Billboard",
+     "title": "‘Do You Have What It Takes?’: KATSEYE Appears in Trailer for K-Pop Film Inspired by Their Experience",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmpLR0dIeEVsZERVZlZuZFJna1dsSWZRVjA2NzdlWWF4U0xQQUxJUG1UeUNWNUQ0LVFxTjNtXzlKUzlwR1ZRanRWeDVGOTNGU0psNGFadTEtNldnUjdqb1VqRjdtVU5lQXFoUmRzb20tenpISnlPdl9LOTF5UXJubDFXQVlvbmJEV3dHNUtpeGRvZ2FOZ05sVEFldC03TXJ3OE11OUxtYmpiNjBXN3F4a1RB?oc=5",
+     "published": "2026-11-23T23:24:45+00:00",
+     "summary": "‘Do You Have What It Takes?’: KATSEYE Appears in Trailer for K-Pop Film Inspired by Their Experience Billboard"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s52",
+   "label": "Clairo、El Michels Affairと共にMF Doomカバー「Lavender Buds」",
+   "artists": [
+    "Clairo",
+    "El Michels Affair",
+    "MF DOOM"
+   ],
+   "genre": "Hip-Hop",
+   "kind": "collab",
+   "talk": 0,
+   "outlets": [
+    "Pitchfork",
+    "Rolling Stone"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-23T19:03:40+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Hear Clairo Cover MF Doom With El Michels Affair",
+     "link": "https://pitchfork.com/story/hear-clairo-cover-mf-doom-with-el-michels-affair/",
+     "published": "2026-11-23T19:03:40+00:00",
+     "summary": "Leon Michels & co. enlisted the singer-songwriter to recreate the hook on 2002’s “Lavender Buds”"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Clairo Covers Beloved MF Doom Song With El Michels Affair",
+     "link": "https://www.rollingstone.com/music/music-news/clairo-mf-doom-lavender-buds-cover-1235662772/",
+     "published": "2026-11-23T18:47:53+00:00",
+     "summary": "The singer-songwriter provided vocals to a rendition of Doom’s “Lavender Buds” which is available via 7-inch and Bandcamp"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s48",
+   "label": "Portishead、イスラエルのストリーミングサービスから音楽削除",
+   "artists": [
+    "Portishead"
+   ],
+   "genre": "Other",
+   "kind": "other",
+   "talk": 2,
+   "outlets": [
+    "Pitchfork",
+    "Resident Advisor"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [],
+   "mainstream_outlets": [],
+   "visit_source": false,
+   "is_tour": false,
+   "n_overseas": 2,
+   "score": 2,
+   "latest": "2026-11-23T16:00:53+00:00",
+   "articles": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Portishead Reportedly Pull Music From Israeli Streaming Services",
+     "link": "https://pitchfork.com/story/portishead-reportedly-pull-music-from-israeli-streaming-services/",
+     "published": "2026-11-23T16:00:53+00:00",
+     "summary": "The band, long aligned with the Palestinian cause, has not commented on the removal"
+    },
+    {
+     "outlet": "Resident Advisor",
+     "title": "Portishead remove music from streaming platforms in Israel · News ⟋ RA",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBOaTVOVGZVMk5Jby1xV1dFNVB1cUx3dWxReE8yUlpoX0VrWmZraUs5ZUNtRVRuRnFCaWZ3VA?oc=5",
+     "published": "2026-11-23T12:30:16+00:00",
+     "summary": "Portishead remove music from streaming platforms in Israel · News ⟋ RA Resident Advisor"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s8",
+   "label": "&TEAM、KR 2ndミニアルバム『Mark on Me』受注生産版発売",
+   "artists": [
+    "&TEAM"
+   ],
+   "genre": "POP",
+   "kind": "release",
+   "talk": 0,
+   "outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Billboard JAPAN",
+    "Yahoo!ニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T12:15:00+09:00",
+   "articles": [
+    {
+     "outlet": "Billboard JAPAN",
+     "title": "&TEAM、KR 2ndミニアルバム『Mark on Me』受注生産版「Trailer Photobook Edition」発売決定",
+     "link": "https://www.billboard-japan.com/d_news/detail/167694",
+     "published": "2026-11-24T12:15:00+09:00",
+     "summary": "&TEAMのKR 2ndミニアルバム『Mark on Me』より、未公開アザーカットを収めた「Trailer Pho…"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "TEAM、『Mark on Me』特別仕様版「Trailer Photobook Edition」発売決定（CDJournal）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hRDFQRGhGUVZzSDN1aE1tUkdVY1QyQVQtamd0TjFuSWlMd2ktZ2pzUEx5WVZBQW1ZUVhwcThRbTdtcXZ3b3dVYjNQNFZfYXNUWEhyUVlqXzlPc3NKb2FOeHY5eG5TRG0wbXJ4X1hYY0FBVFhXQ3FiekRvZUhRbnM?oc=5",
+     "published": "2026-11-24T04:45:53+00:00",
+     "summary": "TEAM、『Mark on Me』特別仕様版「Trailer Photobook Edition」発売決定（CDJournal） Yahoo!ニュース"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s27",
+   "label": "Chanpan、自由で踊れる音楽と政治的信念、アジア系アメリカ人としての誇りを語る",
+   "artists": [
+    "Chanpan"
+   ],
+   "genre": "Dance",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "Rolling Stone Japan(ローリングストーン ジャパン）",
+    "Yahoo!ニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Rolling Stone Japan(ローリングストーン ジャパン）",
+    "Yahoo!ニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T08:30:00+00:00",
+   "articles": [
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "King GnuやLiSAも熱視線 Chanpanが語る自由で踊れる音楽と政治的信念、アジア系アメリカ人としての誇り",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUlBfTnBTUzlmTTFSUG9MZ1VXRWI2V2drUTdJckgtRHZ5SGx6X1FuSU5NbzVpM2Z3U1dCWFR4V3dMN0h3ampaNVpGTU9lNzh6WDdGSURlU1Ytd2loZ2EwUEVIMTNINUx4YV9CeUJaelRHMEZQbHg4bklJM2dlWUgtT1lDRkxrNk9P?oc=5",
+     "published": "2026-11-24T08:30:00+00:00",
+     "summary": "King GnuやLiSAも熱視線 Chanpanが語る自由で踊れる音楽と政治的信念、アジア系アメリカ人としての誇り Yahoo!ニュース"
+    },
+    {
+     "outlet": "Rolling Stone Japan(ローリングストーン ジャパン）",
+     "title": "Chanpanが語る、自由で踊れる音楽と政治的信念──『ゼルダ』、NewJeans、アジア系アメリカ人としての誇り",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xWmU4R2xNMnFzd29qZDRKbXcxVHk3eFd0LXlvdGF1Q3VfMm9TM0x0a2NNUWktOGR4VTlFQXVjYXFVbHlHS0xJaUVZZjV6eHNGVnVoc2RXVGozTTJCQ0hxOQ?oc=5",
+     "published": "2026-11-24T08:30:00+00:00",
+     "summary": "Chanpanが語る、自由で踊れる音楽と政治的信念──『ゼルダ』、NewJeans、アジア系アメリカ人としての誇り Rolling Stone Japan(ローリングストーン ジャパン）"
+    }
+   ],
+   "shortlisted": false
+  },
+  {
+   "id": "s24",
+   "label": "Evanescence、エイミー・リーが『Sanctuary』と闘い続ける理由を語る",
+   "artists": [
+    "Evanescence"
+   ],
+   "genre": "Other",
+   "kind": "interview",
+   "talk": 2,
+   "outlets": [
+    "Rolling Stone Japan(ローリングストーン ジャパン）",
+    "Yahoo!ニュース"
+   ],
+   "n_outlets": 2,
+   "jp_outlets": [
+    "Rolling Stone Japan(ローリングストーン ジャパン）",
+    "Yahoo!ニュース"
+   ],
+   "mainstream_outlets": [],
+   "visit_source": true,
+   "is_tour": false,
+   "n_overseas": 0,
+   "score": 1,
+   "latest": "2026-11-24T08:00:00+00:00",
+   "articles": [
+    {
+     "outlet": "Rolling Stone Japan(ローリングストーン ジャパン）",
+     "title": "エヴァネッセンス、何度でも立ち上がる──エイミー・リーが語る『Sanctuary』と闘い続ける理由",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4bnlDWTZ1ZjVaUURoY1k3eWlsMlMxdzdNMFRlYmwyWTJMVlBmMExXZUdNX3BTZ2Ruamg2QUtOODJKZVpIdlJnSjdDUzVxZzk1Ry1tOHRuUEQ0bDNhTF85dA?oc=5",
+     "published": "2026-11-24T08:00:00+00:00",
+     "summary": "エヴァネッセンス、何度でも立ち上がる──エイミー・リーが語る『Sanctuary』と闘い続ける理由 Rolling Stone Japan(ローリングストーン ジャパン）"
+    },
+    {
+     "outlet": "Yahoo!ニュース",
+     "title": "エヴァネッセンス、何度でも立ち上がる──エイミー・リーが語る『Sanctuary』と闘い続ける理由（Rolling Stone Japan）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56MzVKcElFZ21xdUFUcXA3YmtXN25JVkR5Zk1ianlCUUE2NWhTOS1wb0xsT2xUZkc4bHJESW5JZncyczFLVlBUS1NXeUJBUlYxZnZLbFBxRzZpZUJKejI1Z0xHdGoyU2NRVzh0dE9Ed2RDYzNFNGpNYjJSY3I2MzQ?oc=5",
+     "published": "2026-11-24T08:00:00+00:00",
+     "summary": "エヴァネッセンス、何度でも立ち上がる──エイミー・リーが語る『Sanctuary』と闘い続ける理由（Rolling Stone Japan） Yahoo!ニュース"
+    }
+   ],
+   "shortlisted": false
+  }
+ ],
+ "health": [
+  {
+   "name": "Mixmag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://mixmag.net/rss.xml",
+   "fetched": 80,
+   "kept": 9
+  },
+  {
+   "name": "DJ Mag",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://djmag.com/rss.xml",
+   "fetched": 15,
+   "kept": 10
+  },
+  {
+   "name": "Resident Advisor",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ara.co%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 37
+  },
+  {
+   "name": "EDM.com",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://edm.com/.rss/full/",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "name": "Your EDM",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Ayouredm.com%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 5,
+   "kept": 5
+  },
+  {
+   "name": "Billboard Dance",
+   "genre": "Dance",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Abillboard.com%20dance%20OR%20electronic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 54,
+   "kept": 30
+  },
+  {
+   "name": "Billboard",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.billboard.com/feed/",
+   "fetched": 10,
+   "kept": 6
+  },
+  {
+   "name": "Rolling Stone",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Variety（Music）",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://variety.com/v/music/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.nme.com/news/music/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Pitchfork",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://pitchfork.com/feed/feed-news/rss",
+   "fetched": 29,
+   "kept": 8
+  },
+  {
+   "name": "Consequence",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://consequence.net/feed/",
+   "fetched": 15,
+   "kept": 15
+  },
+  {
+   "name": "The Fader",
+   "genre": "POP",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.thefader.com/feed/",
+   "fetched": 20,
+   "kept": 4
+  },
+  {
+   "name": "Complex",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acomplex.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 28
+  },
+  {
+   "name": "XXL",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.xxlmag.com/feed/",
+   "fetched": 35,
+   "kept": 8
+  },
+  {
+   "name": "HotNewHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.hotnewhiphop.com/feed",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Vibe",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.vibe.com/feed/",
+   "fetched": 10,
+   "kept": 5
+  },
+  {
+   "name": "AllHipHop",
+   "genre": "Hip-Hop",
+   "group": "海外音楽",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://allhiphop.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "NME Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://nme-jp.com/feed/",
+   "fetched": 10,
+   "kept": 10
+  },
+  {
+   "name": "Billboard JAPAN",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.billboard-japan.com/d_news/doc.xml",
+   "fetched": 30,
+   "kept": 29
+  },
+  {
+   "name": "uDiscoverMusic Japan",
+   "genre": "POP",
+   "group": "日本",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.udiscovermusic.jp/feed",
+   "fetched": 15,
+   "kept": 4
+  },
+  {
+   "name": "CNN",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Acnn.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 22,
+   "kept": 11
+  },
+  {
+   "name": "BBC",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+   "fetched": 26,
+   "kept": 3
+  },
+  {
+   "name": "The Guardian",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "設定のURL",
+   "url": "https://www.theguardian.com/music/rss",
+   "fetched": 26,
+   "kept": 3
+  },
+  {
+   "name": "AP通信",
+   "genre": "General",
+   "group": "一般",
+   "status": "ok",
+   "method": "Googleニュース経由",
+   "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%20music%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "keyword": false,
+   "fetched": 100,
+   "kept": 29
+  },
+  {
+   "name": "Live Nation H.I.P.（旧H.I.P.・Live Nation Japan）",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20OR%20%22Live%20Nation%22%20OR%20%22H.I.P.%22%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 1
+  },
+  {
+   "name": "クリエイティブマン",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "前回のURL",
+   "url": "https://www.creativeman.co.jp/feed/",
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "SMASH",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%20OR%20%22FUJI%20ROCK%22%20OR%20%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 9,
+   "kept": 4
+  },
+  {
+   "name": "ウドー音楽事務所",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%A6%E3%83%89%E3%83%BC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 18,
+   "kept": 2
+  },
+  {
+   "name": "キョードー東京",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%89%E3%83%BC%E6%9D%B1%E4%BA%AC%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 3,
+   "kept": 2
+  },
+  {
+   "name": "検索：来日公演",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20%E6%B1%BA%E5%AE%9A%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 42,
+   "kept": 18
+  },
+  {
+   "name": "検索：初来日",
+   "genre": "General",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E5%88%9D%E6%9D%A5%E6%97%A5%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 23,
+   "kept": 15
+  },
+  {
+   "name": "検索：DJの来日",
+   "genre": "Dance",
+   "group": "来日",
+   "status": "ok",
+   "method": "Googleニュース検索",
+   "url": "https://news.google.com/rss/search?q=%E6%9D%A5%E6%97%A5%20DJ%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja",
+   "keyword": true,
+   "fetched": 10,
+   "kept": 6
+  }
+ ],
+ "cost": {
+  "usd": 0.3995,
+  "jpy_per_usd": 150,
+  "detail": [
+   {
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 28412,
+    "output_tokens": 14117
+   },
+   {
+    "model": "claude-opus-5-5",
+    "input_tokens": 21521,
+    "output_tokens": 10719
+   }
+  ]
+ }
+}
