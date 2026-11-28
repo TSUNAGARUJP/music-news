@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-28",
+ "start": "2026-11-22",
+ "intro": "今週は公演中のトラブルや訃報が大きく報じられる一方、配信サービスのAI楽曲対策も業界で注目を集めました。",
+ "cost_usd": 0.1672,
+ "news": [
+  {
+   "ref": "11-24:s36",
+   "title_ja": "Don Toliverのマンチェスター公演で謎の物質、観客が避難",
+   "summary_ja": "Don ToliverのCo-op Live公演中に正体不明の物質がまかれ、観客が避難しました。約90人が症状を訴えたと報じられ、警察が調べています。ロンドンでの2公演は延期されました。",
+   "point_ja": "2日連続で毎日のまとめのトップに選ばれ、BBCやCNNなど最大8媒体が報じました。"
+  },
+  {
+   "ref": "11-26:s9",
+   "title_ja": "Duran DuranのAndy Taylorが死去、多くの音楽家が追悼",
+   "summary_ja": "Duran DuranのAndy Taylorが亡くなりました。Rod Stewart、Belinda Carlisle、UB40、Spandau Ballet、Nile Rodgersらが追悼の言葉を寄せています。",
+   "point_ja": "9媒体が報じてその日のトップになり、翌日もAP通信など4媒体が続けて報じました。"
+  },
+  {
+   "ref": "11-23:s5",
+   "title_ja": "Miley Cyrus、ドラマーのMaxx Morandoと結婚",
+   "summary_ja": "Miley Cyrusが現地時間11月21日、カリフォルニア州パームスプリングスでMaxx Morandoとプールサイドの挙式を行いました。交際4年、2025年に婚約していたと報じられています。",
+   "point_ja": "3日にわたって報じられ、AP通信やBBCなど最大6媒体が取り上げました。"
+  }
+ ],
+ "dj": [
+  {
+   "ref": "11-25:s14",
+   "title_ja": "Tidal、AIで作られた楽曲を12月9日から削除へ",
+   "summary_ja": "Tidalが、完全にAIで生成された楽曲を12月9日から削除し始めると発表しました。アーティスト名のなりすましが疑われたAI楽曲約6万6000曲もすでに削除したと報じられています。",
+   "dj_point_ja": "曲探しや自作曲の配信に使うサービスのルールが変わる動きで、DJ活動にも関わります。"
+  },
+  {
+   "ref": "11-26:s42",
+   "title_ja": "Armin van Buuren、新作『AWAKE』と10年ぶりの世界ツアー",
+   "summary_ja": "Armin van Buurenが36曲を収録したニューアルバム『AWAKE』を2月26日にリリースする予定です。あわせて、10年ぶりとなるArmin Onlyのワールドツアーも予告しました。",
+   "dj_point_ja": "36曲の新作は選曲の新しいネタ探しに役立ち、ツアーのセット構成も参考になりそうです。"
+  }
+ ]
+}
